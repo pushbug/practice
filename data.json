@@ -1,0 +1,5002 @@
+[
+   {
+      "Code": "S0001",
+      "English": "We sat down face to face.",
+      "Thai": "เรานั่งลงเผชิญหน้ากัน"
+    },
+    {
+      "Code": "S0002",
+      "English": "You can go to the station by bus.",
+      "Thai": "คุณสามารถไปที่สถานีโดยรถประจำทาง"
+    },
+    {
+      "Code": "S0003",
+      "English": "Winter in New York can be very cold.",
+      "Thai": "ฤดูหนาวในนิวยอร์กอาจมีอากาศหนาวจัด"
+    },
+    {
+      "Code": "S0004",
+      "English": "I nearly made a mistake.",
+      "Thai": "ฉันเกือบจะทำผิดพลาด"
+    },
+    {
+      "Code": "S0005",
+      "English": "We live near a big library.",
+      "Thai": "เราอยู่ใกล้ห้องสมุดใหญ่"
+    },
+    {
+      "Code": "S0006",
+      "English": "She hung the calendar on the wall.",
+      "Thai": "เธอแขวนปฏิทินไว้บนผนัง"
+    },
+    {
+      "Code": "S0007",
+      "English": "It took five minutes to get to the station.",
+      "Thai": "ใช้เวลาห้านาทีเพื่อไปยังสถานี"
+    },
+    {
+      "Code": "S0008",
+      "English": "Come again tomorrow.",
+      "Thai": "พรุ่งนี้ค่อยมาใหม่"
+    },
+    {
+      "Code": "S0009",
+      "English": "She plays the guitar.",
+      "Thai": "เธอเล่นกีตาร์"
+    },
+    {
+      "Code": "S0010",
+      "English": "He does not smoke.",
+      "Thai": "เขาไม่สูบบุหรี่"
+    },
+    {
+      "Code": "S0011",
+      "English": "The weather is usually hot in July.",
+      "Thai": "อากาศมักจะร้อนในเดือนกรกฎาคม"
+    },
+    {
+      "Code": "S0012",
+      "English": "I don't like this jacket.",
+      "Thai": "ฉันไม่ชอบแจ็คเก็ตนี้"
+    },
+    {
+      "Code": "S0013",
+      "English": "You look sick.",
+      "Thai": "คุณดูป่วย"
+    },
+    {
+      "Code": "S0014",
+      "English": "Shut your mouth.",
+      "Thai": "หุบปาก"
+    },
+    {
+      "Code": "S0015",
+      "English": "These aren't my books.",
+      "Thai": "นี่ไม่ใช่หนังสือของฉัน"
+    },
+    {
+      "Code": "S0016",
+      "English": "Have you finished reading the novel?",
+      "Thai": "คุณอ่านนิยายจบหรือยัง"
+    },
+    {
+      "Code": "S0017",
+      "English": "Who will look after your dog?",
+      "Thai": "ใครจะดูแลสุนัขของคุณ?"
+    },
+    {
+      "Code": "S0018",
+      "English": "He broke the world record.",
+      "Thai": "เขาทำลายสถิติโลก"
+    },
+    {
+      "Code": "S0019",
+      "English": "Aren't you thirsty?",
+      "Thai": "คุณไม่กระหายน้ำหรอ"
+    },
+    {
+      "Code": "S0020",
+      "English": "He wants to see us again.",
+      "Thai": "เขาต้องการพบเราอีกครั้ง"
+    },
+    {
+      "Code": "S0021",
+      "English": "Those books are theirs.",
+      "Thai": "หนังสือเหล่านั้นเป็นของพวกเขา"
+    },
+    {
+      "Code": "S0022",
+      "English": "Wash your face.",
+      "Thai": "ล้างหน้าของคุณ"
+    },
+    {
+      "Code": "S0023",
+      "English": "I wonder if she will marry him.",
+      "Thai": "ฉันสงสัยว่าเธอจะแต่งงานกับเขาไหม"
+    },
+    {
+      "Code": "S0024",
+      "English": "Ask him where he parked his car.",
+      "Thai": "ถามเขาว่าเขาจอดรถไว้ที่ไหน"
+    },
+    {
+      "Code": "S0025",
+      "English": "My father smokes.",
+      "Thai": "พ่อของฉันสูบบุหรี่"
+    },
+    {
+      "Code": "S0026",
+      "English": "I'm from Tokyo.",
+      "Thai": "ฉันมาจากโตเกียว"
+    },
+    {
+      "Code": "S0027",
+      "English": "He played tennis.",
+      "Thai": "เขาเล่นเทนนิส"
+    },
+    {
+      "Code": "S0028",
+      "English": "Can you do this problem?",
+      "Thai": "คุณสามารถทำปัญหานี้ได้หรือไม่?"
+    },
+    {
+      "Code": "S0029",
+      "English": "She runs faster than I do.",
+      "Thai": "เธอวิ่งเร็วกว่าฉัน"
+    },
+    {
+      "Code": "S0030",
+      "English": "I'm just beginning.",
+      "Thai": "ฉันเพิ่งเริ่มต้น"
+    },
+    {
+      "Code": "S0031",
+      "English": "Were you with anyone?",
+      "Thai": "คุณเคยอยู่กับใครไหม"
+    },
+    {
+      "Code": "S0032",
+      "English": "He cheated on the biology exam.",
+      "Thai": "เขาโกงข้อสอบวิชาชีววิทยา"
+    },
+    {
+      "Code": "S0033",
+      "English": "Were you busy yesterday?",
+      "Thai": "เมื่อวานคุณยุ่งไหม"
+    },
+    {
+      "Code": "S0034",
+      "English": "I wish I could.",
+      "Thai": "ผมอยากจะทำได้"
+    },
+    {
+      "Code": "S0035",
+      "English": "I have an earache.",
+      "Thai": "ฉันมีอาการเจ็บหู"
+    },
+    {
+      "Code": "S0036",
+      "English": "I go to my father's place twice a year.",
+      "Thai": "ฉันไปบ้านพ่อปีละสองครั้ง"
+    },
+    {
+      "Code": "S0037",
+      "English": "He promised to come, but he didn't come.",
+      "Thai": "เขาสัญญาว่าจะมาแต่เขาไม่มา"
+    },
+    {
+      "Code": "S0038",
+      "English": "This is a book.",
+      "Thai": "นี้เป็นหนังสือ"
+    },
+    {
+      "Code": "S0039",
+      "English": "They forgot to lock the door.",
+      "Thai": "พวกเขาลืมล็อคประตู"
+    },
+    {
+      "Code": "S0040",
+      "English": "Take care!",
+      "Thai": "ดูแล!"
+    },
+    {
+      "Code": "S0041",
+      "English": "He doesn't seem to be an American.",
+      "Thai": "ดูเหมือนเขาจะไม่ใช่คนอเมริกัน"
+    },
+    {
+      "Code": "S0042",
+      "English": "I would like you to come with me.",
+      "Thai": "ฉันอยากให้คุณมากับฉัน"
+    },
+    {
+      "Code": "S0043",
+      "English": "I will be back at half past six.",
+      "Thai": "ฉันจะกลับตอนหกโมงครึ่ง"
+    },
+    {
+      "Code": "S0044",
+      "English": "He didn't say a word.",
+      "Thai": "เขาไม่ได้พูดอะไรสักคำ"
+    },
+    {
+      "Code": "S0045",
+      "English": "I love this picture.",
+      "Thai": "ฉันรักภาพนี้"
+    },
+    {
+      "Code": "S0046",
+      "English": "I saw him just now.",
+      "Thai": "ฉันเห็นเขาเมื่อกี้"
+    },
+    {
+      "Code": "S0047",
+      "English": "The man robbed him of all his money.",
+      "Thai": "ชายคนนั้นขโมยเงินทั้งหมดของเขาไปจากเขา"
+    },
+    {
+      "Code": "S0048",
+      "English": "What are your strong points?",
+      "Thai": "จุดแข็งของคุณคืออะไร?"
+    },
+    {
+      "Code": "S0049",
+      "English": "There is a pair of scissors on the desk.",
+      "Thai": "มีกรรไกรคู่หนึ่งอยู่บนโต๊ะ"
+    },
+    {
+      "Code": "S0050",
+      "English": "Did you have a good time yesterday?",
+      "Thai": "เมื่อวานคุณสนุกไหม"
+    },
+    {
+      "Code": "S0051",
+      "English": "Somebody is playing the piano.",
+      "Thai": "มีคนกำลังเล่นเปียโน"
+    },
+    {
+      "Code": "S0052",
+      "English": "Who is that woman?",
+      "Thai": "ผู้หญิงคนนั้นเป็นใคร?"
+    },
+    {
+      "Code": "S0053",
+      "English": "I know none of them.",
+      "Thai": "ฉันไม่รู้จักพวกเขา"
+    },
+    {
+      "Code": "S0054",
+      "English": "You'd better not go.",
+      "Thai": "คุณอย่าไปดีกว่า"
+    },
+    {
+      "Code": "S0055",
+      "English": "May I borrow your dictionary?",
+      "Thai": "ฉันขอยืมพจนานุกรมของคุณได้ไหม"
+    },
+    {
+      "Code": "S0056",
+      "English": "She kicked the door.",
+      "Thai": "เธอเตะประตู"
+    },
+    {
+      "Code": "S0057",
+      "English": "My hobby is collecting coins.",
+      "Thai": "งานอดิเรกของฉันคือสะสมเหรียญ"
+    },
+    {
+      "Code": "S0058",
+      "English": "He was robbed of all his money.",
+      "Thai": "เขาถูกปล้นเงินทั้งหมดของเขา"
+    },
+    {
+      "Code": "S0059",
+      "English": "We usually have lunch at noon.",
+      "Thai": "เรามักจะทานอาหารกลางวันตอนเที่ยง"
+    },
+    {
+      "Code": "S0060",
+      "English": "Does someone here speak Japanese?",
+      "Thai": "มีใครที่นี่พูดภาษาญี่ปุ่นได้บ้าง"
+    },
+    {
+      "Code": "S0061",
+      "English": "This is my daughter.",
+      "Thai": "นี่คือลูกสาวของฉัน"
+    },
+    {
+      "Code": "S0062",
+      "English": "I got married 8 years ago.",
+      "Thai": "ฉันแต่งงานเมื่อ 8 ปีที่แล้ว"
+    },
+    {
+      "Code": "S0063",
+      "English": "I slept nine hours.",
+      "Thai": "ฉันนอนเก้าชั่วโมง"
+    },
+    {
+      "Code": "S0064",
+      "English": "Will you stay at home?",
+      "Thai": "คุณจะอยู่บ้านไหม"
+    },
+    {
+      "Code": "S0065",
+      "English": "It's a long way from here to school.",
+      "Thai": "จากที่นี่ไปโรงเรียนยังอีกยาวไกล"
+    },
+    {
+      "Code": "S0066",
+      "English": "Let's open the window.",
+      "Thai": "มาเปิดหน้าต่างกันเถอะ"
+    },
+    {
+      "Code": "S0067",
+      "English": "My sister takes piano lessons twice a week.",
+      "Thai": "พี่สาวของฉันเรียนเปียโนสองครั้งต่อสัปดาห์"
+    },
+    {
+      "Code": "S0068",
+      "English": "She doesn't understand me either.",
+      "Thai": "เธอไม่เข้าใจฉันเหมือนกัน"
+    },
+    {
+      "Code": "S0069",
+      "English": "Why don't you come to the movies with me?",
+      "Thai": "ทำไมคุณไม่มาดูหนังกับฉัน"
+    },
+    {
+      "Code": "S0070",
+      "English": "His answer is different from mine.",
+      "Thai": "คำตอบของเขาแตกต่างจากของฉัน"
+    },
+    {
+      "Code": "S0071",
+      "English": "I will come with you.",
+      "Thai": "ฉันจะมากับคุณ"
+    },
+    {
+      "Code": "S0072",
+      "English": "There is an orange on the table.",
+      "Thai": "มีส้มอยู่บนโต๊ะ"
+    },
+    {
+      "Code": "S0073",
+      "English": "I've got to go now.",
+      "Thai": "ฉันต้องไปแล้ว"
+    },
+    {
+      "Code": "S0074",
+      "English": "Where have you been this week?",
+      "Thai": "สัปดาห์นี้คุณไปไหนมาบ้าง?"
+    },
+    {
+      "Code": "S0075",
+      "English": "Take anything you want.",
+      "Thai": "เอาทุกอย่างที่คุณต้องการ"
+    },
+    {
+      "Code": "S0076",
+      "English": "Where is the entrance to the museum?",
+      "Thai": "ทางเข้าพิพิธภัณฑ์อยู่ที่ไหน"
+    },
+    {
+      "Code": "S0077",
+      "English": "That's what we want to know.",
+      "Thai": "นั่นคือสิ่งที่เราต้องการทราบ"
+    },
+    {
+      "Code": "S0078",
+      "English": "Whose shoes are these?",
+      "Thai": "นี่คือรองเท้าของใคร?"
+    },
+    {
+      "Code": "S0079",
+      "English": "He asked her if she knew him.",
+      "Thai": "เขาถามเธอว่าเธอรู้จักเขาไหม"
+    },
+    {
+      "Code": "S0080",
+      "English": "She likes oranges.",
+      "Thai": "เธอชอบส้ม"
+    },
+    {
+      "Code": "S0081",
+      "English": "Here's some water.",
+      "Thai": "นี่คือน้ำบางส่วน"
+    },
+    {
+      "Code": "S0082",
+      "English": "I'm from Singapore.",
+      "Thai": "ฉันมาจากสิงคโปร์"
+    },
+    {
+      "Code": "S0083",
+      "English": "He is eating.",
+      "Thai": "เขากำลังกิน"
+    },
+    {
+      "Code": "S0084",
+      "English": "How long is he going to stay in Japan?",
+      "Thai": "เขาจะอยู่ที่ญี่ปุ่นนานแค่ไหน?"
+    },
+    {
+      "Code": "S0085",
+      "English": "She left me a note.",
+      "Thai": "เธอทิ้งโน้ตไว้ให้ฉัน"
+    },
+    {
+      "Code": "S0086",
+      "English": "Who painted this picture?",
+      "Thai": "ใครเป็นคนวาดภาพนี้?"
+    },
+    {
+      "Code": "S0087",
+      "English": "I'm very busy.",
+      "Thai": "ฉันยุ่งมาก."
+    },
+    {
+      "Code": "S0088",
+      "English": "I lost my watch.",
+      "Thai": "ฉันทำนาฬิกาหาย"
+    },
+    {
+      "Code": "S0089",
+      "English": "The boy acknowledged having lied.",
+      "Thai": "เด็กชายยอมรับว่าโกหก"
+    },
+    {
+      "Code": "S0090",
+      "English": "This newspaper is free.",
+      "Thai": "หนังสือพิมพ์ฉบับนี้ฟรี"
+    },
+    {
+      "Code": "S0091",
+      "English": "I usually take a bath before going to bed.",
+      "Thai": "ฉันมักจะอาบน้ำก่อนนอน"
+    },
+    {
+      "Code": "S0092",
+      "English": "My brother sends you his regards.",
+      "Thai": "พี่ชายของฉันส่งความคิดถึงคุณ"
+    },
+    {
+      "Code": "S0093",
+      "English": "They were listening to the radio.",
+      "Thai": "พวกเขากำลังฟังวิทยุ"
+    },
+    {
+      "Code": "S0094",
+      "English": "I often see him.",
+      "Thai": "ฉันมักจะเห็นเขา"
+    },
+    {
+      "Code": "S0095",
+      "English": "He was just behind me.",
+      "Thai": "เขาอยู่ข้างหลังฉัน"
+    },
+    {
+      "Code": "S0096",
+      "English": "He is her friend.",
+      "Thai": "เขาคือเพื่อนของเธอ"
+    },
+    {
+      "Code": "S0097",
+      "English": "What happened?",
+      "Thai": "เกิดอะไรขึ้น"
+    },
+    {
+      "Code": "S0098",
+      "English": "I can peel an apple.",
+      "Thai": "ฉันสามารถปอกแอปเปิ้ล"
+    },
+    {
+      "Code": "S0099",
+      "English": "There are five pencils here.",
+      "Thai": "มีห้าดินสออยู่ที่นี่"
+    },
+    {
+      "Code": "S0100",
+      "English": "This is a little gift for you.",
+      "Thai": "นี่เป็นของขวัญเล็กน้อยสำหรับคุณ"
+    },
+    {
+      "Code": "S0101",
+      "English": "I went to Boston by train.",
+      "Thai": "ฉันไปบอสตันโดยรถไฟ"
+    },
+    {
+      "Code": "S0102",
+      "English": "I want to learn how to swim.",
+      "Thai": "ฉันต้องการเรียนว่ายน้ำ"
+    },
+    {
+      "Code": "S0103",
+      "English": "I can't do anything else.",
+      "Thai": "ฉันไม่สามารถทำอะไรได้อีก"
+    },
+    {
+      "Code": "S0104",
+      "English": "It almost never rains here.",
+      "Thai": "ที่นี่แทบไม่มีฝนตกเลย"
+    },
+    {
+      "Code": "S0105",
+      "English": "Do you know the reason?",
+      "Thai": "คุณรู้เหตุผลหรือไม่?"
+    },
+    {
+      "Code": "S0106",
+      "English": "I wish our classroom were air-conditioned.",
+      "Thai": "ฉันหวังว่าห้องเรียนของเรามีเครื่องปรับอากาศ"
+    },
+    {
+      "Code": "S0107",
+      "English": "Don't worry about that.",
+      "Thai": "ไม่ต้องกังวลเกี่ยวกับเรื่องนั้น"
+    },
+    {
+      "Code": "S0108",
+      "English": "We had a very hot summer this year.",
+      "Thai": "เรามีฤดูร้อนที่ร้อนมากในปีนี้"
+    },
+    {
+      "Code": "S0109",
+      "English": "My sister is having a baby in June.",
+      "Thai": "พี่สาวของฉันกำลังจะคลอดบุตรในเดือนมิถุนายน"
+    },
+    {
+      "Code": "S0110",
+      "English": "The car is very fast.",
+      "Thai": "รถเร็วมาก"
+    },
+    {
+      "Code": "S0111",
+      "English": "He got up earlier than usual.",
+      "Thai": "เขาตื่นเร็วกว่าปกติ"
+    },
+    {
+      "Code": "S0112",
+      "English": "The boy tried moving the heavy sofa.",
+      "Thai": "เด็กชายพยายามขยับโซฟาหนัก"
+    },
+    {
+      "Code": "S0113",
+      "English": "I want to eat something.",
+      "Thai": "ฉันอยากกินอะไรซักอย่าง"
+    },
+    {
+      "Code": "S0114",
+      "English": "He was very happy.",
+      "Thai": "เขามีความสุขมาก"
+    },
+    {
+      "Code": "S0115",
+      "English": "The girls began to laugh.",
+      "Thai": "สาวๆเริ่มหัวเราะ"
+    },
+    {
+      "Code": "S0116",
+      "English": "I'm sorry, I dropped my knife.",
+      "Thai": "ฉันขอโทษ ฉันทำมีดหล่น"
+    },
+    {
+      "Code": "S0117",
+      "English": "Please pass me the butter.",
+      "Thai": "กรุณาส่งเนยให้ฉัน"
+    },
+    {
+      "Code": "S0118",
+      "English": "We saw clouds above the mountain.",
+      "Thai": "เราเห็นเมฆเหนือภูเขา"
+    },
+    {
+      "Code": "S0119",
+      "English": "My telephone is out of order.",
+      "Thai": "โทรศัพท์ของฉันเสีย"
+    },
+    {
+      "Code": "S0120",
+      "English": "The fruit went bad.",
+      "Thai": "ผลไม้ก็แย่"
+    },
+    {
+      "Code": "S0121",
+      "English": "That boy is running.",
+      "Thai": "เด็กคนนั้นกำลังวิ่ง"
+    },
+    {
+      "Code": "S0122",
+      "English": "I'm waiting for the bus.",
+      "Thai": "ฉันกำลังรอรถบัส"
+    },
+    {
+      "Code": "S0123",
+      "English": "He was patient.",
+      "Thai": "เขาอดทน"
+    },
+    {
+      "Code": "S0124",
+      "English": "The boy ran away.",
+      "Thai": "เด็กชายวิ่งหนีไป"
+    },
+    {
+      "Code": "S0125",
+      "English": "Do you go to school by bus?",
+      "Thai": "คุณไปโรงเรียนโดยรถบัสหรือไม่"
+    },
+    {
+      "Code": "S0126",
+      "English": "He couldn't understand the sentence.",
+      "Thai": "เขาไม่เข้าใจประโยคนั้น"
+    },
+    {
+      "Code": "S0127",
+      "English": "Add a little sugar and cream.",
+      "Thai": "เพิ่มน้ำตาลและครีมเล็กน้อย"
+    },
+    {
+      "Code": "S0128",
+      "English": "I go home early every day.",
+      "Thai": "ฉันกลับบ้านเช้าทุกวัน"
+    },
+    {
+      "Code": "S0129",
+      "English": "I must return home within a week.",
+      "Thai": "ฉันต้องกลับบ้านภายในหนึ่งสัปดาห์"
+    },
+    {
+      "Code": "S0130",
+      "English": "How far is it from here?",
+      "Thai": "ห่างจากที่นี่เท่าไหร่?"
+    },
+    {
+      "Code": "S0131",
+      "English": "He is still young.",
+      "Thai": "เขายังเด็ก"
+    },
+    {
+      "Code": "S0132",
+      "English": "It's up to you to decide.",
+      "Thai": "มันขึ้นอยู่กับคุณที่จะตัดสินใจ"
+    },
+    {
+      "Code": "S0133",
+      "English": "Can I use this bike?",
+      "Thai": "ฉันสามารถใช้จักรยานคันนี้ได้หรือไม่?"
+    },
+    {
+      "Code": "S0134",
+      "English": "English is difficult to learn.",
+      "Thai": "ภาษาอังกฤษเป็นเรื่องยากที่จะเรียนรู้"
+    },
+    {
+      "Code": "S0135",
+      "English": "I went for a walk in the park.",
+      "Thai": "ฉันไปเดินเล่นในสวนสาธารณะ"
+    },
+    {
+      "Code": "S0136",
+      "English": "The door is open now.",
+      "Thai": "ประตูเปิดแล้ว"
+    },
+    {
+      "Code": "S0137",
+      "English": "For here, or to go?",
+      "Thai": "สำหรับที่นี่หรือไป?"
+    },
+    {
+      "Code": "S0138",
+      "English": "What are they made of?",
+      "Thai": "พวกเขาทำมาจากอะไร?"
+    },
+    {
+      "Code": "S0139",
+      "English": "Everybody likes him.",
+      "Thai": "ทุกคนชอบเขา"
+    },
+    {
+      "Code": "S0140",
+      "English": "Get me a chair, please.",
+      "Thai": "ขอเก้าอี้หน่อย"
+    },
+    {
+      "Code": "S0141",
+      "English": "I'm glad to see you.",
+      "Thai": "ฉันดีใจที่ได้พบคุณ"
+    },
+    {
+      "Code": "S0142",
+      "English": "I have an allergy to milk.",
+      "Thai": "ฉันมีอาการแพ้นม"
+    },
+    {
+      "Code": "S0143",
+      "English": "I'm so happy.",
+      "Thai": "ฉันมีความสุขมาก"
+    },
+    {
+      "Code": "S0144",
+      "English": "How long have you known her?",
+      "Thai": "คุณรู้จักเธอมานานแค่ไหนแล้ว?"
+    },
+    {
+      "Code": "S0145",
+      "English": "I must visit my friend in the hospital.",
+      "Thai": "ฉันต้องไปเยี่ยมเพื่อนที่โรงพยาบาล"
+    },
+    {
+      "Code": "S0146",
+      "English": "They made me go there.",
+      "Thai": "พวกเขาทำให้ฉันไปที่นั่น"
+    },
+    {
+      "Code": "S0147",
+      "English": "I know she is sleeping.",
+      "Thai": "ฉันรู้ว่าเธอกำลังหลับ"
+    },
+    {
+      "Code": "S0148",
+      "English": "Is there a curfew?",
+      "Thai": "มีเคอร์ฟิวหรือไม่?"
+    },
+    {
+      "Code": "S0149",
+      "English": "He is very depressed.",
+      "Thai": "เขามีความเศร้ามาก."
+    },
+    {
+      "Code": "S0150",
+      "English": "Not all children like apples.",
+      "Thai": "ไม่ใช่เด็กทุกคนที่ชอบแอปเปิ้ล"
+    },
+    {
+      "Code": "S0151",
+      "English": "This book isn't interesting at all.",
+      "Thai": "หนังสือเล่มนี้ไม่น่าสนใจเลย"
+    },
+    {
+      "Code": "S0152",
+      "English": "He is watching TV.",
+      "Thai": "เขากำลังดูโทรทัศน์."
+    },
+    {
+      "Code": "S0153",
+      "English": "Would you please stop talking?",
+      "Thai": "คุณช่วยหยุดพูดหน่อยได้ไหม"
+    },
+    {
+      "Code": "S0154",
+      "English": "Ask him when the next plane leaves.",
+      "Thai": "ถามเขาเมื่อเครื่องบินลำต่อไปออก"
+    },
+    {
+      "Code": "S0155",
+      "English": "I don't like cheese very much.",
+      "Thai": "ฉันไม่ชอบชีสมาก"
+    },
+    {
+      "Code": "S0156",
+      "English": "What did you talk about?",
+      "Thai": "คุณคุยเรื่องอะไร"
+    },
+    {
+      "Code": "S0157",
+      "English": "I hope today's ball game won't be canceled.",
+      "Thai": "ฉันหวังว่าเกมบอลวันนี้จะไม่ถูกยกเลิก"
+    },
+    {
+      "Code": "S0158",
+      "English": "Where can I rent a car?",
+      "Thai": "ฉันจะเช่ารถได้ที่ไหน"
+    },
+    {
+      "Code": "S0159",
+      "English": "The weather forecast is not necessarily reliable.",
+      "Thai": "การพยากรณ์อากาศไม่จำเป็นต้องเชื่อถือได้เสมอไป"
+    },
+    {
+      "Code": "S0160",
+      "English": "My joints ache.",
+      "Thai": "ข้อต่อของฉันปวด"
+    },
+    {
+      "Code": "S0161",
+      "English": "I wish I could fly like a bird.",
+      "Thai": "ฉันหวังว่าฉันจะบินได้เหมือนนก"
+    },
+    {
+      "Code": "S0162",
+      "English": "She is a wealthy woman.",
+      "Thai": "เธอเป็นผู้หญิงที่ร่ำรวย"
+    },
+    {
+      "Code": "S0163",
+      "English": "Will you please call me this evening?",
+      "Thai": "คืนนี้คุณโทรหาฉันได้ไหม"
+    },
+    {
+      "Code": "S0164",
+      "English": "My mother cut the cake.",
+      "Thai": "แม่ของฉันตัดเค้ก"
+    },
+    {
+      "Code": "S0165",
+      "English": "What time do we leave tomorrow?",
+      "Thai": "พรุ่งนี้เราจะออกกี่โมง"
+    },
+    {
+      "Code": "S0166",
+      "English": "My father died of lung cancer.",
+      "Thai": "พ่อของฉันเสียชีวิตด้วยโรคมะเร็งปอด"
+    },
+    {
+      "Code": "S0167",
+      "English": "What's your daughter's name?",
+      "Thai": "ลูกสาวของคุณชื่ออะไร"
+    },
+    {
+      "Code": "S0168",
+      "English": "You may give the book to whoever wants it.",
+      "Thai": "คุณสามารถมอบหนังสือให้ใครก็ตามที่ต้องการได้"
+    },
+    {
+      "Code": "S0169",
+      "English": "She lives quite close by.",
+      "Thai": "เธออาศัยอยู่ค่อนข้างใกล้"
+    },
+    {
+      "Code": "S0170",
+      "English": "Were you playing tennis yesterday morning?",
+      "Thai": "เมื่อวานคุณเล่นเทนนิสเมื่อเช้าใช่ไหม"
+    },
+    {
+      "Code": "S0171",
+      "English": "Is he your teacher?",
+      "Thai": "เขาเป็นครูของคุณหรือไม่"
+    },
+    {
+      "Code": "S0172",
+      "English": "I'm sorry to hear that.",
+      "Thai": "เสียใจด้วย."
+    },
+    {
+      "Code": "S0173",
+      "English": "We arrived at the office on time.",
+      "Thai": "เรามาถึงสำนักงานตรงเวลา"
+    },
+    {
+      "Code": "S0174",
+      "English": "He is afraid of becoming sick.",
+      "Thai": "เขากลัวที่จะป่วย"
+    },
+    {
+      "Code": "S0175",
+      "English": "I'd like to have a coffee.",
+      "Thai": "ฉันต้องการดื่มกาแฟ"
+    },
+    {
+      "Code": "S0176",
+      "English": "His hands were empty.",
+      "Thai": "มือของเขาว่างเปล่า"
+    },
+    {
+      "Code": "S0177",
+      "English": "You will never realize what I went through.",
+      "Thai": "คุณจะไม่มีวันรู้ว่าฉันผ่านอะไรมาบ้าง"
+    },
+    {
+      "Code": "S0178",
+      "English": "Is it still raining?",
+      "Thai": "ฝนยังตกอยู่ไหม"
+    },
+    {
+      "Code": "S0179",
+      "English": "He began running.",
+      "Thai": "เขาเริ่มวิ่ง"
+    },
+    {
+      "Code": "S0180",
+      "English": "Will you have another cup of milk?",
+      "Thai": "รับนมอีกสักแก้วมั้ยคะ?"
+    },
+    {
+      "Code": "S0181",
+      "English": "I have to comb my hair.",
+      "Thai": "ฉันต้องหวีผม"
+    },
+    {
+      "Code": "S0182",
+      "English": "I don't like this sweater.",
+      "Thai": "ฉันไม่ชอบเสื้อกันหนาวตัวนี้"
+    },
+    {
+      "Code": "S0183",
+      "English": "All of my friends like soccer.",
+      "Thai": "เพื่อนของฉันทุกคนชอบฟุตบอล"
+    },
+    {
+      "Code": "S0184",
+      "English": "My house is near the station.",
+      "Thai": "บ้านของฉันอยู่ใกล้สถานี"
+    },
+    {
+      "Code": "S0185",
+      "English": "Do it right now, before you forget.",
+      "Thai": "ทำทันทีก่อนที่จะลืม"
+    },
+    {
+      "Code": "S0186",
+      "English": "I will introduce her husband to you.",
+      "Thai": "ฉันจะแนะนำสามีของเธอให้คุณรู้จัก"
+    },
+    {
+      "Code": "S0187",
+      "English": "I'll be busy tomorrow.",
+      "Thai": "พรุ่งนี้ฉันจะยุ่ง"
+    },
+    {
+      "Code": "S0188",
+      "English": "This flower is beautiful, isn't it?",
+      "Thai": "ดอกไม้นี้สวยใช่ไหม"
+    },
+    {
+      "Code": "S0189",
+      "English": "Our refrigerator is out of order.",
+      "Thai": "ตู้เย็นของเราใช้งานไม่ได้"
+    },
+    {
+      "Code": "S0190",
+      "English": "He was married to her sister.",
+      "Thai": "เขาแต่งงานกับน้องสาวของเธอ"
+    },
+    {
+      "Code": "S0191",
+      "English": "He has no children.",
+      "Thai": "เขาไม่มีลูก"
+    },
+    {
+      "Code": "S0192",
+      "English": "Don't let me down.",
+      "Thai": "อย่าทำให้ฉันผิดหวัง"
+    },
+    {
+      "Code": "S0193",
+      "English": "I wonder if the plane will arrive on time.",
+      "Thai": "ฉันสงสัยว่าเครื่องบินจะมาถึงตรงเวลาหรือไม่"
+    },
+    {
+      "Code": "S0194",
+      "English": "She kept him waiting for a long time.",
+      "Thai": "เธอทำให้เขารอเป็นเวลานาน"
+    },
+    {
+      "Code": "S0195",
+      "English": "What did you eat for breakfast?",
+      "Thai": "คุณกินอะไรเป็นอาหารเช้า?"
+    },
+    {
+      "Code": "S0196",
+      "English": "My father insisted that we should go.",
+      "Thai": "พ่อของฉันยืนยันว่าเราควรไป"
+    },
+    {
+      "Code": "S0197",
+      "English": "By the way, are you free this afternoon?",
+      "Thai": "ยังไงก็ตาม บ่ายนี้คุณว่างไหม"
+    },
+    {
+      "Code": "S0198",
+      "English": "He often goes to Tokyo.",
+      "Thai": "เขามักจะไปโตเกียว"
+    },
+    {
+      "Code": "S0199",
+      "English": "Can you speak French?",
+      "Thai": "คุณพูดภาษาฝรั่งเศสได้ไหม"
+    },
+    {
+      "Code": "S0200",
+      "English": "She has flowers in her hand.",
+      "Thai": "เธอมีดอกไม้อยู่ในมือ"
+    },
+    {
+      "Code": "S0201",
+      "English": "My stomach is growling.",
+      "Thai": "ท้องของฉันร้อง"
+    },
+    {
+      "Code": "S0202",
+      "English": "This is a very old book.",
+      "Thai": "นี่เป็นหนังสือที่เก่ามาก"
+    },
+    {
+      "Code": "S0203",
+      "English": "Here is my bicycle.",
+      "Thai": "นี่คือจักรยานของฉัน"
+    },
+    {
+      "Code": "S0204",
+      "English": "I want someone to talk to.",
+      "Thai": "ฉันอยากมีใครสักคนคุยด้วย"
+    },
+    {
+      "Code": "S0205",
+      "English": "Some boys came into the classroom.",
+      "Thai": "เด็กบางคนเข้ามาในห้องเรียน"
+    },
+    {
+      "Code": "S0206",
+      "English": "He plays soccer.",
+      "Thai": "เขาเล่นฟุตบอล."
+    },
+    {
+      "Code": "S0207",
+      "English": "He rang the doorbell.",
+      "Thai": "เขากดกริ่งประตู"
+    },
+    {
+      "Code": "S0208",
+      "English": "I have been ill in bed since last Friday.",
+      "Thai": "ฉันป่วยอยู่บนเตียงตั้งแต่วันศุกร์ที่แล้ว"
+    },
+    {
+      "Code": "S0209",
+      "English": "My father was busy.",
+      "Thai": "พ่อของฉันไม่ว่าง"
+    },
+    {
+      "Code": "S0210",
+      "English": "I learned a lot from him.",
+      "Thai": "ฉันเรียนรู้มากมายจากเขา"
+    },
+    {
+      "Code": "S0211",
+      "English": "He got angry.",
+      "Thai": "เขาโกรธ"
+    },
+    {
+      "Code": "S0212",
+      "English": "She turned down my offer.",
+      "Thai": "เธอปฏิเสธข้อเสนอของฉัน"
+    },
+    {
+      "Code": "S0213",
+      "English": "Is this ball yours or hers?",
+      "Thai": "ลูกบอลนี้เป็นของคุณหรือของเธอ?"
+    },
+    {
+      "Code": "S0214",
+      "English": "Please take one.",
+      "Thai": "โปรดใช้อย่างใดอย่างหนึ่ง"
+    },
+    {
+      "Code": "S0215",
+      "English": "Put that in writing.",
+      "Thai": "เขียนว่า."
+    },
+    {
+      "Code": "S0216",
+      "English": "They have their own troubles.",
+      "Thai": "พวกเขามีปัญหาของตัวเอง"
+    },
+    {
+      "Code": "S0217",
+      "English": "The twins look exactly alike.",
+      "Thai": "ฝาแฝดมีลักษณะเหมือนกันทุกประการ"
+    },
+    {
+      "Code": "S0218",
+      "English": "He died recently.",
+      "Thai": "เขาเสียชีวิตเมื่อเร็ว ๆ นี้"
+    },
+    {
+      "Code": "S0219",
+      "English": "It smells delicious.",
+      "Thai": "มันมีกลิ่นหอม"
+    },
+    {
+      "Code": "S0220",
+      "English": "Beautiful day, isn't it?",
+      "Thai": "วันที่สวยงามใช่มั้ย?"
+    },
+    {
+      "Code": "S0221",
+      "English": "I'd like to see the doctor soon.",
+      "Thai": "ฉันอยากพบหมอเร็วๆ"
+    },
+    {
+      "Code": "S0222",
+      "English": "She can't swim.",
+      "Thai": "เธอว่ายน้ำไม่เป็น"
+    },
+    {
+      "Code": "S0223",
+      "English": "I'll give you a prescription.",
+      "Thai": "ฉันจะให้ใบสั่งยาแก่คุณ"
+    },
+    {
+      "Code": "S0224",
+      "English": "Tomorrow is Mother's Day.",
+      "Thai": "พรุ่งนี้วันแม่."
+    },
+    {
+      "Code": "S0225",
+      "English": "The girl resembles her mother.",
+      "Thai": "ผู้หญิงคนนั้นคล้ายกับแม่ของเธอ"
+    },
+    {
+      "Code": "S0226",
+      "English": "I can't do it.",
+      "Thai": "ฉันไม่สามารถทำมันได้"
+    },
+    {
+      "Code": "S0227",
+      "English": "We're going to have a test today.",
+      "Thai": "เราจะสอบวันนี้"
+    },
+    {
+      "Code": "S0228",
+      "English": "I've lost a little weight.",
+      "Thai": "ฉันลดน้ำหนักได้นิดหน่อย"
+    },
+    {
+      "Code": "S0229",
+      "English": "I'll come back.",
+      "Thai": "ฉันจะกลับมา."
+    },
+    {
+      "Code": "S0230",
+      "English": "There is no smoke without fire.",
+      "Thai": "ไม่มีควันที่ปราศจากไฟ"
+    },
+    {
+      "Code": "S0231",
+      "English": "She can play the piano very well.",
+      "Thai": "เธอเล่นเปียโนเก่งมาก"
+    },
+    {
+      "Code": "S0232",
+      "English": "Anybody can do that.",
+      "Thai": "ใครๆ ก็ทำได้"
+    },
+    {
+      "Code": "S0233",
+      "English": "Please pass me the sugar.",
+      "Thai": "กรุณาส่งน้ำตาลให้ฉันด้วย"
+    },
+    {
+      "Code": "S0234",
+      "English": "Do they sell notebooks at that store?",
+      "Thai": "พวกเขาขายโน๊ตบุ๊คที่ร้านนั้นหรือไม่?"
+    },
+    {
+      "Code": "S0235",
+      "English": "You will soon adapt yourself to this new life.",
+      "Thai": "ในไม่ช้าคุณจะปรับตัวเข้ากับชีวิตใหม่นี้"
+    },
+    {
+      "Code": "S0236",
+      "English": "May I help you?",
+      "Thai": "ฉันช่วยคุณได้ไหม"
+    },
+    {
+      "Code": "S0237",
+      "English": "I can't sleep.",
+      "Thai": "ฉันนอนไม่หลับ"
+    },
+    {
+      "Code": "S0238",
+      "English": "Paris is the capital of France.",
+      "Thai": "ปารีสเป็นเมืองหลวงของฝรั่งเศส"
+    },
+    {
+      "Code": "S0239",
+      "English": "He is very young.",
+      "Thai": "เขายังเด็กมาก"
+    },
+    {
+      "Code": "S0240",
+      "English": "Don't leave the window open.",
+      "Thai": "อย่าเปิดหน้าต่างทิ้งไว้"
+    },
+    {
+      "Code": "S0241",
+      "English": "Is the dog swimming?",
+      "Thai": "สุนัขกำลังว่ายน้ำหรือไม่?"
+    },
+    {
+      "Code": "S0242",
+      "English": "We would like to stay here tonight.",
+      "Thai": "เราอยากพักที่นี่คืนนี้"
+    },
+    {
+      "Code": "S0243",
+      "English": "Have you ever seen a panda?",
+      "Thai": "คุณเคยเห็นหมีแพนด้าไหม?"
+    },
+    {
+      "Code": "S0244",
+      "English": "Which company do you work for?",
+      "Thai": "คุณทำงานให้กับบริษัทใด"
+    },
+    {
+      "Code": "S0245",
+      "English": "He was at home.",
+      "Thai": "เขาอยู่ที่บ้าน"
+    },
+    {
+      "Code": "S0246",
+      "English": "You can do it, can't you?",
+      "Thai": "คุณทำได้ ใช่ไหม"
+    },
+    {
+      "Code": "S0247",
+      "English": "Why did you do that?",
+      "Thai": "ทำไมคุณทำอย่างนั้น?"
+    },
+    {
+      "Code": "S0248",
+      "English": "Please turn on the TV.",
+      "Thai": "กรุณาเปิดทีวี"
+    },
+    {
+      "Code": "S0249",
+      "English": "He is always with me.",
+      "Thai": "เขาอยู่กับฉันเสมอ"
+    },
+    {
+      "Code": "S0250",
+      "English": "I remember seeing her somewhere.",
+      "Thai": "ฉันจำได้ว่าเคยเห็นเธอที่ไหนสักแห่ง"
+    },
+    {
+      "Code": "S0251",
+      "English": "I waited for her for a long time.",
+      "Thai": "ฉันรอเธอมาแสนนาน"
+    },
+    {
+      "Code": "S0252",
+      "English": "This cake is sweet.",
+      "Thai": "เค้กนี้หวาน"
+    },
+    {
+      "Code": "S0253",
+      "English": "Have you eaten lunch yet?",
+      "Thai": "คุณกินข้าวเที่ยงหรือยัง"
+    },
+    {
+      "Code": "S0254",
+      "English": "Stay home so that you can answer the phone.",
+      "Thai": "อยู่บ้านก็รับสายได้"
+    },
+    {
+      "Code": "S0255",
+      "English": "Whose is this book?",
+      "Thai": "หนังสือเล่มนี้เป็นของใคร?"
+    },
+    {
+      "Code": "S0256",
+      "English": "He comes round once a week.",
+      "Thai": "เขามารอบสัปดาห์ละครั้ง"
+    },
+    {
+      "Code": "S0257",
+      "English": "I went there yesterday.",
+      "Thai": "ฉันไปที่นั่นเมื่อวานนี้"
+    },
+    {
+      "Code": "S0258",
+      "English": "My mother has four brothers.",
+      "Thai": "แม่ของฉันมีพี่น้องสี่คน"
+    },
+    {
+      "Code": "S0259",
+      "English": "Whose friend is he?",
+      "Thai": "เขาเป็นเพื่อนใคร"
+    },
+    {
+      "Code": "S0260",
+      "English": "Why is it so hot?",
+      "Thai": "ทำไมมันร้อนจัง"
+    },
+    {
+      "Code": "S0261",
+      "English": "She is a very good teacher.",
+      "Thai": "เธอเป็นครูที่ดีมาก"
+    },
+    {
+      "Code": "S0262",
+      "English": "Look at the map on page 62.",
+      "Thai": "ดูแผนที่ในหน้า 62"
+    },
+    {
+      "Code": "S0263",
+      "English": "Many people were deceived by the advertisement.",
+      "Thai": "หลายคนถูกหลอกโดยโฆษณา"
+    },
+    {
+      "Code": "S0264",
+      "English": "It was raining yesterday.",
+      "Thai": "เมื่อวานฝนตก"
+    },
+    {
+      "Code": "S0265",
+      "English": "They have English lessons three times a week.",
+      "Thai": "พวกเขามีบทเรียนภาษาอังกฤษสามครั้งต่อสัปดาห์"
+    },
+    {
+      "Code": "S0266",
+      "English": "No matter where you go, I'll follow you.",
+      "Thai": "ไม่ว่าคุณจะไปที่ไหน ฉันจะตามคุณไป"
+    },
+    {
+      "Code": "S0267",
+      "English": "I also like cake.",
+      "Thai": "ฉันยังชอบเค้ก"
+    },
+    {
+      "Code": "S0268",
+      "English": "It's on the eighth floor.",
+      "Thai": "มันอยู่บนชั้นแปด"
+    },
+    {
+      "Code": "S0269",
+      "English": "Do you like black cats?",
+      "Thai": "คุณชอบแมวดำหรือไม่?"
+    },
+    {
+      "Code": "S0270",
+      "English": "He became rich.",
+      "Thai": "เขารวยขึ้น"
+    },
+    {
+      "Code": "S0271",
+      "English": "We didn't know what to do.",
+      "Thai": "เราไม่รู้ว่าต้องทำอย่างไร"
+    },
+    {
+      "Code": "S0272",
+      "English": "Time is the most precious thing.",
+      "Thai": "เวลาคือสิ่งที่มีค่าที่สุด"
+    },
+    {
+      "Code": "S0273",
+      "English": "The pain is getting worse.",
+      "Thai": "ความเจ็บปวดเริ่มแย่ลง"
+    },
+    {
+      "Code": "S0274",
+      "English": "He walked home.",
+      "Thai": "เขาเดินกลับบ้าน"
+    },
+    {
+      "Code": "S0275",
+      "English": "I don't like it at all.",
+      "Thai": "ฉันไม่ชอบมันเลย"
+    },
+    {
+      "Code": "S0276",
+      "English": "He has a very expensive watch.",
+      "Thai": "เขามีนาฬิการาคาแพงมาก"
+    },
+    {
+      "Code": "S0277",
+      "English": "I forgot to lock the storeroom.",
+      "Thai": "ฉันลืมล็อคห้องเก็บของ"
+    },
+    {
+      "Code": "S0278",
+      "English": "I'm not busy.",
+      "Thai": "ฉันไม่ยุ่ง"
+    },
+    {
+      "Code": "S0279",
+      "English": "What time is it?",
+      "Thai": "กี่โมงแล้ว"
+    },
+    {
+      "Code": "S0280",
+      "English": "Do you mind if I open the window?",
+      "Thai": "จะรังเกียจไหมถ้าฉันเปิดหน้าต่าง"
+    },
+    {
+      "Code": "S0281",
+      "English": "I have an appointment with him at six.",
+      "Thai": "ฉันมีนัดกับเขาตอนหกโมง"
+    },
+    {
+      "Code": "S0282",
+      "English": "Don't make the same mistake again.",
+      "Thai": "อย่าทำผิดพลาดแบบเดิมอีก"
+    },
+    {
+      "Code": "S0283",
+      "English": "I put it in the drawer.",
+      "Thai": "ฉันใส่มันลงในลิ้นชัก"
+    },
+    {
+      "Code": "S0284",
+      "English": "The new museum is worth visiting.",
+      "Thai": "พิพิธภัณฑ์แห่งใหม่ควรค่าแก่การเยี่ยมชม"
+    },
+    {
+      "Code": "S0285",
+      "English": "I would like to go fishing, if possible.",
+      "Thai": "ฉันอยากไปตกปลาถ้าเป็นไปได้"
+    },
+    {
+      "Code": "S0286",
+      "English": "He made an apology.",
+      "Thai": "เขาขอโทษ"
+    },
+    {
+      "Code": "S0287",
+      "English": "I play video games.",
+      "Thai": "ฉันเล่นวิดีโอเกม."
+    },
+    {
+      "Code": "S0288",
+      "English": "I can't stand up.",
+      "Thai": "ฉันไม่สามารถยืนขึ้น"
+    },
+    {
+      "Code": "S0289",
+      "English": "I caught three fish yesterday.",
+      "Thai": "เมื่อวานจับปลาได้สามตัว"
+    },
+    {
+      "Code": "S0290",
+      "English": "I bought it.",
+      "Thai": "ฉันซื้อมัน"
+    },
+    {
+      "Code": "S0291",
+      "English": "Elephants live in Asia and Africa.",
+      "Thai": "ช้างอาศัยอยู่ในเอเชียและแอฟริกา"
+    },
+    {
+      "Code": "S0292",
+      "English": "I want a good dictionary.",
+      "Thai": "ฉันต้องการพจนานุกรมที่ดี"
+    },
+    {
+      "Code": "S0293",
+      "English": "Staying home isn't fun.",
+      "Thai": "อยู่บ้านไม่สนุก"
+    },
+    {
+      "Code": "S0294",
+      "English": "Could you drive more slowly?",
+      "Thai": "คุณช่วยขับให้ช้าลงได้ไหม"
+    },
+    {
+      "Code": "S0295",
+      "English": "Eat everything.",
+      "Thai": "กินทุกอย่าง."
+    },
+    {
+      "Code": "S0296",
+      "English": "Fruits have seeds in them.",
+      "Thai": "ผลไม้มีเมล็ดในตัว"
+    },
+    {
+      "Code": "S0297",
+      "English": "He took off his glasses.",
+      "Thai": "เขาถอดแว่นออก"
+    },
+    {
+      "Code": "S0298",
+      "English": "It's up to you.",
+      "Thai": "มันขึ้นอยู่กับคุณ."
+    },
+    {
+      "Code": "S0299",
+      "English": "I returned home by train.",
+      "Thai": "ฉันกลับบ้านโดยรถไฟ"
+    },
+    {
+      "Code": "S0300",
+      "English": "He is introverted.",
+      "Thai": "เขาเป็นคนเก็บตัว"
+    },
+    {
+      "Code": "S0301",
+      "English": "He feels very happy.",
+      "Thai": "เขารู้สึกมีความสุขมาก"
+    },
+    {
+      "Code": "S0302",
+      "English": "I'm easygoing.",
+      "Thai": "ฉันเป็นคนสบายๆ"
+    },
+    {
+      "Code": "S0303",
+      "English": "I am going to start.",
+      "Thai": "ฉันกำลังจะเริ่ม"
+    },
+    {
+      "Code": "S0304",
+      "English": "There are many words that I don't understand.",
+      "Thai": "มีหลายคำที่ฉันไม่เข้าใจ"
+    },
+    {
+      "Code": "S0305",
+      "English": "Where will you have lunch today?",
+      "Thai": "วันนี้ไปกินข้าวที่ไหน"
+    },
+    {
+      "Code": "S0306",
+      "English": "Physics is my favorite subject.",
+      "Thai": "ฟิสิกส์เป็นวิชาที่ฉันชอบ"
+    },
+    {
+      "Code": "S0307",
+      "English": "Our project failed.",
+      "Thai": "โครงการของเราล้มเหลว"
+    },
+    {
+      "Code": "S0308",
+      "English": "He is still here.",
+      "Thai": "เขายังคงอยู่ที่นี่"
+    },
+    {
+      "Code": "S0309",
+      "English": "My idea is quite different from yours.",
+      "Thai": "ความคิดของฉันค่อนข้างแตกต่างจากของคุณ"
+    },
+    {
+      "Code": "S0310",
+      "English": "Can I borrow your umbrella?",
+      "Thai": "ฉันขอยืมร่มของคุณได้ไหม"
+    },
+    {
+      "Code": "S0311",
+      "English": "There is no hope of success.",
+      "Thai": "ไม่มีความหวังในความสำเร็จ"
+    },
+    {
+      "Code": "S0312",
+      "English": "Thank you in advance.",
+      "Thai": "ขอบคุณล่วงหน้า."
+    },
+    {
+      "Code": "S0313",
+      "English": "My wife will be glad to see you, too.",
+      "Thai": "ภรรยาของฉันก็จะดีใจที่ได้พบคุณเช่นกัน"
+    },
+    {
+      "Code": "S0314",
+      "English": "Did you call your friend in Canada?",
+      "Thai": "คุณโทรหาเพื่อนที่แคนาดาหรือเปล่า"
+    },
+    {
+      "Code": "S0315",
+      "English": "Have you seen my glasses anywhere?",
+      "Thai": "คุณเคยเห็นแว่นตาของฉันที่ไหน"
+    },
+    {
+      "Code": "S0316",
+      "English": "Please do it quickly.",
+      "Thai": "ขอให้ทำเร็วๆ"
+    },
+    {
+      "Code": "S0317",
+      "English": "Don't be afraid to make mistakes when speaking English.",
+      "Thai": "อย่ากลัวที่จะทำผิดพลาดเมื่อพูดภาษาอังกฤษ"
+    },
+    {
+      "Code": "S0318",
+      "English": "Are you working?",
+      "Thai": "คุณทำงานหรือเปล่า"
+    },
+    {
+      "Code": "S0319",
+      "English": "This box is full of books.",
+      "Thai": "กล่องนี้เต็มไปด้วยหนังสือ"
+    },
+    {
+      "Code": "S0320",
+      "English": "We were in a hurry.",
+      "Thai": "พวกเรารีบร้อน"
+    },
+    {
+      "Code": "S0321",
+      "English": "They have lived in this town for ten years.",
+      "Thai": "พวกเขาอาศัยอยู่ในเมืองนี้เป็นเวลาสิบปี"
+    },
+    {
+      "Code": "S0322",
+      "English": "I will never tell!",
+      "Thai": "ฉันจะไม่บอก!"
+    },
+    {
+      "Code": "S0323",
+      "English": "He is the captain of the team.",
+      "Thai": "เขาเป็นกัปตันทีม"
+    },
+    {
+      "Code": "S0324",
+      "English": "I want to close my account.",
+      "Thai": "ฉันต้องการปิดบัญชีของฉัน"
+    },
+    {
+      "Code": "S0325",
+      "English": "Don't be taken in by his words.",
+      "Thai": "อย่ายึดติดกับคำพูดของเขา"
+    },
+    {
+      "Code": "S0326",
+      "English": "It's not so far.",
+      "Thai": "มันไม่ได้เพื่อให้ห่างไกล"
+    },
+    {
+      "Code": "S0327",
+      "English": "He married my sister.",
+      "Thai": "เขาแต่งงานกับพี่สาวของฉัน"
+    },
+    {
+      "Code": "S0328",
+      "English": "I will accompany you.",
+      "Thai": "ฉันจะไปกับคุณ"
+    },
+    {
+      "Code": "S0329",
+      "English": "What does she have?",
+      "Thai": "เธอมีอะไร?"
+    },
+    {
+      "Code": "S0330",
+      "English": "Make a copy of this report.",
+      "Thai": "ทำสำเนารายงานนี้"
+    },
+    {
+      "Code": "S0331",
+      "English": "Water freezes at 0 degrees Centigrade.",
+      "Thai": "น้ำจะแข็งตัวที่อุณหภูมิ 0 องศาเซลเซียส"
+    },
+    {
+      "Code": "S0332",
+      "English": "He returned from Holland in June.",
+      "Thai": "เขากลับมาจากฮอลแลนด์ในเดือนมิถุนายน"
+    },
+    {
+      "Code": "S0333",
+      "English": "Our teacher speaks French as well as English.",
+      "Thai": "ครูของเราพูดภาษาฝรั่งเศสและภาษาอังกฤษ"
+    },
+    {
+      "Code": "S0334",
+      "English": "This is too easy for him.",
+      "Thai": "มันง่ายเกินไปสำหรับเขา"
+    },
+    {
+      "Code": "S0335",
+      "English": "Can I help?",
+      "Thai": "ฉันสามารถช่วยได้ไหม"
+    },
+    {
+      "Code": "S0336",
+      "English": "My uncle has made me what I am today.",
+      "Thai": "ลุงทำให้ฉันมีวันนี้"
+    },
+    {
+      "Code": "S0337",
+      "English": "Your dreams have come true.",
+      "Thai": "ความฝันของคุณเป็นจริงแล้ว"
+    },
+    {
+      "Code": "S0338",
+      "English": "How long did they live in England?",
+      "Thai": "พวกเขาอาศัยอยู่ในอังกฤษนานแค่ไหน?"
+    },
+    {
+      "Code": "S0339",
+      "English": "My family goes to Italy every year.",
+      "Thai": "ครอบครัวของฉันไปอิตาลีทุกปี"
+    },
+    {
+      "Code": "S0340",
+      "English": "You really shouldn't use pirated software.",
+      "Thai": "คุณไม่ควรใช้ซอฟต์แวร์ละเมิดลิขสิทธิ์จริงๆ"
+    },
+    {
+      "Code": "S0341",
+      "English": "He is stronger than I am.",
+      "Thai": "เขาแข็งแกร่งกว่าฉัน"
+    },
+    {
+      "Code": "S0342",
+      "English": "what are you going to have?",
+      "Thai": "คุณจะมีอะไร"
+    },
+    {
+      "Code": "S0343",
+      "English": "I helped him yesterday.",
+      "Thai": "ฉันช่วยเขาเมื่อวานนี้"
+    },
+    {
+      "Code": "S0344",
+      "English": "What time did you arrive there?",
+      "Thai": "คุณไปถึงที่นั่นกี่โมง"
+    },
+    {
+      "Code": "S0345",
+      "English": "I bought a few eggs and a little milk.",
+      "Thai": "ฉันซื้อไข่สองสามฟองและนมเล็กน้อย"
+    },
+    {
+      "Code": "S0346",
+      "English": "I usually eat out.",
+      "Thai": "ฉันมักจะออกไปกินข้าวนอกบ้าน"
+    },
+    {
+      "Code": "S0347",
+      "English": "This is the book that I told you about.",
+      "Thai": "นี่คือหนังสือที่ฉันบอกคุณเกี่ยวกับ"
+    },
+    {
+      "Code": "S0348",
+      "English": "Don't tell lies.",
+      "Thai": "อย่าโกหก."
+    },
+    {
+      "Code": "S0349",
+      "English": "I'd prefer meat to fish.",
+      "Thai": "ฉันชอบเนื้อมากกว่าปลา"
+    },
+    {
+      "Code": "S0350",
+      "English": "May I go to the toilet?",
+      "Thai": "ฉันขอไปห้องน้ำได้ไหม"
+    },
+    {
+      "Code": "S0351",
+      "English": "What did he say?",
+      "Thai": "เขาพูดว่าอะไร?"
+    },
+    {
+      "Code": "S0352",
+      "English": "Could you bring me a pillow and blanket, please?",
+      "Thai": "คุณช่วยนำหมอนและผ้าห่มมาให้ฉันได้ไหม"
+    },
+    {
+      "Code": "S0353",
+      "English": "You're a genius.",
+      "Thai": "คุณเป็นอัจฉริยะ"
+    },
+    {
+      "Code": "S0354",
+      "English": "Tom likes swimming.",
+      "Thai": "ทอมชอบว่ายน้ำ"
+    },
+    {
+      "Code": "S0355",
+      "English": "I received your letter.",
+      "Thai": "ฉันได้รับจดหมายของคุณแล้ว"
+    },
+    {
+      "Code": "S0356",
+      "English": "He has his own car.",
+      "Thai": "เขามีรถเป็นของตัวเอง"
+    },
+    {
+      "Code": "S0357",
+      "English": "This book isn't worth reading.",
+      "Thai": "หนังสือเล่มนี้ไม่ควรค่าแก่การอ่าน"
+    },
+    {
+      "Code": "S0358",
+      "English": "Where did you see the woman?",
+      "Thai": "คุณเห็นผู้หญิงคนนั้นที่ไหน"
+    },
+    {
+      "Code": "S0359",
+      "English": "He's two years older than Mary is.",
+      "Thai": "เขาแก่กว่าแมรี่สองปี"
+    },
+    {
+      "Code": "S0360",
+      "English": "Tom is eager to buy a new car.",
+      "Thai": "ทอมกระตือรือร้นที่จะซื้อรถใหม่"
+    },
+    {
+      "Code": "S0361",
+      "English": "Would you lend me your pen?",
+      "Thai": "คุณจะให้ฉันยืมปากกาของคุณไหม"
+    },
+    {
+      "Code": "S0362",
+      "English": "I like to travel by myself.",
+      "Thai": "ฉันชอบเที่ยวคนเดียว"
+    },
+    {
+      "Code": "S0363",
+      "English": "I'll be with you in a second.",
+      "Thai": "ฉันจะอยู่กับคุณในอีกสักครู่"
+    },
+    {
+      "Code": "S0364",
+      "English": "This house needs painting.",
+      "Thai": "บ้านนี้ต้องทาสี"
+    },
+    {
+      "Code": "S0365",
+      "English": "Who broke the vase?",
+      "Thai": "ใครทำแจกันแตก?"
+    },
+    {
+      "Code": "S0366",
+      "English": "My father made me wash the car.",
+      "Thai": "พ่อของฉันให้ฉันล้างรถ"
+    },
+    {
+      "Code": "S0367",
+      "English": "Where will we eat?",
+      "Thai": "เราจะกินที่ไหน"
+    },
+    {
+      "Code": "S0368",
+      "English": "Did you hear someone ring the doorbell?",
+      "Thai": "คุณได้ยินเสียงใครกดกริ่งประตูหรือไม่?"
+    },
+    {
+      "Code": "S0369",
+      "English": "I turned the doorknob.",
+      "Thai": "ฉันหมุนลูกบิดประตู"
+    },
+    {
+      "Code": "S0370",
+      "English": "You look very tired.",
+      "Thai": "คุณดูเหนื่อยมาก"
+    },
+    {
+      "Code": "S0371",
+      "English": "A sponge absorbs water.",
+      "Thai": "ฟองน้ำดูดซับน้ำ"
+    },
+    {
+      "Code": "S0372",
+      "English": "Let me see it.",
+      "Thai": "ให้ฉันเห็นมัน"
+    },
+    {
+      "Code": "S0373",
+      "English": "I want to drive.",
+      "Thai": "ฉันต้องการขับรถ"
+    },
+    {
+      "Code": "S0374",
+      "English": "This book seemed interesting.",
+      "Thai": "หนังสือเล่มนี้ดูน่าสนใจ"
+    },
+    {
+      "Code": "S0375",
+      "English": "I want you to tell me the truth.",
+      "Thai": "ฉันอยากให้คุณบอกความจริงกับฉัน"
+    },
+    {
+      "Code": "S0376",
+      "English": "Did she come with him?",
+      "Thai": "เธอมากับเขาเหรอ?"
+    },
+    {
+      "Code": "S0377",
+      "English": "I left my dictionary downstairs.",
+      "Thai": "ฉันทิ้งพจนานุกรมไว้ชั้นล่าง"
+    },
+    {
+      "Code": "S0378",
+      "English": "It was so dark that they could hardly see.",
+      "Thai": "มืดจนแทบมองไม่เห็น"
+    },
+    {
+      "Code": "S0379",
+      "English": "The island is warm all year.",
+      "Thai": "เกาะมีอากาศอบอุ่นตลอดปี"
+    },
+    {
+      "Code": "S0380",
+      "English": "Count me in.",
+      "Thai": "รวมฉันด้วย."
+    },
+    {
+      "Code": "S0381",
+      "English": "If only I could speak English!",
+      "Thai": "ถ้าเพียงแต่ฉันสามารถพูดภาษาอังกฤษได้!"
+    },
+    {
+      "Code": "S0382",
+      "English": "We played soccer yesterday.",
+      "Thai": "เราเล่นฟุตบอลเมื่อวานนี้"
+    },
+    {
+      "Code": "S0383",
+      "English": "I play tennis.",
+      "Thai": "ฉันเล่นเทนนิส."
+    },
+    {
+      "Code": "S0384",
+      "English": "He came to see me.",
+      "Thai": "เขามาหาฉัน"
+    },
+    {
+      "Code": "S0385",
+      "English": "He is good at driving.",
+      "Thai": "เขาขับรถเก่ง"
+    },
+    {
+      "Code": "S0386",
+      "English": "Which is mine?",
+      "Thai": "อันไหนเป็นของฉัน"
+    },
+    {
+      "Code": "S0387",
+      "English": "What do you mean?",
+      "Thai": "คุณหมายถึงอะไร"
+    },
+    {
+      "Code": "S0388",
+      "English": "I need a new bicycle.",
+      "Thai": "ฉันต้องการจักรยานใหม่"
+    },
+    {
+      "Code": "S0389",
+      "English": "There's no evidence.",
+      "Thai": "ไม่มีหลักฐาน"
+    },
+    {
+      "Code": "S0390",
+      "English": "Talking in the library is not allowed.",
+      "Thai": "ไม่อนุญาตให้พูดคุยในห้องสมุด"
+    },
+    {
+      "Code": "S0391",
+      "English": "Does she speak French?",
+      "Thai": "เธอพูดภาษาฝรั่งเศสได้ไหม"
+    },
+    {
+      "Code": "S0392",
+      "English": "Do you know how to play chess?",
+      "Thai": "คุณรู้วิธีการเล่นหมากรุกหรือไม่?"
+    },
+    {
+      "Code": "S0393",
+      "English": "This room doesn't get a lot of suns.",
+      "Thai": "ห้องนี้ไม่ค่อยโดนแดด"
+    },
+    {
+      "Code": "S0394",
+      "English": "Is he a teacher?",
+      "Thai": "เขาเป็นครู?"
+    },
+    {
+      "Code": "S0395",
+      "English": "I'm very glad to see you.",
+      "Thai": "ฉันดีใจมากที่ได้พบคุณ"
+    },
+    {
+      "Code": "S0396",
+      "English": "You and I have something in common.",
+      "Thai": "คุณกับฉันมีอะไรที่เหมือนกัน"
+    },
+    {
+      "Code": "S0397",
+      "English": "He is a student at a high school.",
+      "Thai": "เขาเป็นนักเรียนที่โรงเรียนมัธยม"
+    },
+    {
+      "Code": "S0398",
+      "English": "By the way, where are you from?",
+      "Thai": "สรุปคุณมาจากไหน"
+    },
+    {
+      "Code": "S0399",
+      "English": "I am pretty sure.",
+      "Thai": "ฉันค่อนข้างแน่ใจ."
+    },
+    {
+      "Code": "S0400",
+      "English": "I saw him jump.",
+      "Thai": "ฉันเห็นเขากระโดด"
+    },
+    {
+      "Code": "S0401",
+      "English": "My brother was killed in a traffic accident.",
+      "Thai": "พี่ชายของฉันเสียชีวิตในอุบัติเหตุจราจร"
+    },
+    {
+      "Code": "S0402",
+      "English": "The supermarket opens at ten o'clock.",
+      "Thai": "ซุปเปอร์มาร์เก็ตเปิดตอนสิบโมงเช้า"
+    },
+    {
+      "Code": "S0403",
+      "English": "Take off your coat and make yourself at home.",
+      "Thai": "ถอดเสื้อคลุมและทำตัวเหมือนอยู่บ้าน"
+    },
+    {
+      "Code": "S0404",
+      "English": "I called for help.",
+      "Thai": "ฉันโทรไปขอความช่วยเหลือ"
+    },
+    {
+      "Code": "S0405",
+      "English": "He was sitting on a bench.",
+      "Thai": "เขากำลังนั่งอยู่บนม้านั่ง"
+    },
+    {
+      "Code": "S0406",
+      "English": "Be quiet, or the baby will wake up.",
+      "Thai": "เงียบซะ ไม่งั้นลูกจะตื่น"
+    },
+    {
+      "Code": "S0407",
+      "English": "The boy is kind.",
+      "Thai": "เด็กชายใจดี"
+    },
+    {
+      "Code": "S0408",
+      "English": "He is very a dangerous man.",
+      "Thai": "เขาเป็นคนที่อันตรายมาก"
+    },
+    {
+      "Code": "S0409",
+      "English": "He's always short of money.",
+      "Thai": "เขาขาดเงินอยู่เสมอ"
+    },
+    {
+      "Code": "S0410",
+      "English": "I'll tell you a secret.",
+      "Thai": "ฉันจะบอกความลับกับคุณ"
+    },
+    {
+      "Code": "S0411",
+      "English": "I don't know French.",
+      "Thai": "ฉันไม่รู้ภาษาฝรั่งเศส."
+    },
+    {
+      "Code": "S0412",
+      "English": "Whose room is this?",
+      "Thai": "นี่ห้องใคร?"
+    },
+    {
+      "Code": "S0413",
+      "English": "He can drive a car.",
+      "Thai": "เขาสามารถขับรถ"
+    },
+    {
+      "Code": "S0414",
+      "English": "He gave up smoking two years ago.",
+      "Thai": "เขาเลิกสูบบุหรี่เมื่อสองปีก่อน"
+    },
+    {
+      "Code": "S0415",
+      "English": "Don't stop here.",
+      "Thai": "อย่าหยุดที่นี่"
+    },
+    {
+      "Code": "S0416",
+      "English": "He seemed to have been very happy.",
+      "Thai": "ดูเหมือนเขาจะมีความสุขมาก"
+    },
+    {
+      "Code": "S0417",
+      "English": "Show me another camera.",
+      "Thai": "โชว์กล้องอีกตัวครับ"
+    },
+    {
+      "Code": "S0418",
+      "English": "He is a clever boy.",
+      "Thai": "เขาเป็นเด็กฉลาด"
+    },
+    {
+      "Code": "S0419",
+      "English": "Any day will do except Monday.",
+      "Thai": "จะทำวันไหนก็ได้ยกเว้นวันจันทร์"
+    },
+    {
+      "Code": "S0420",
+      "English": "I am terribly hungry.",
+      "Thai": "ฉันหิวมาก"
+    },
+    {
+      "Code": "S0421",
+      "English": "Never tell a lie!",
+      "Thai": "ไม่เคยโกหก!"
+    },
+    {
+      "Code": "S0422",
+      "English": "She refused his proposal.",
+      "Thai": "เธอปฏิเสธข้อเสนอของเขา"
+    },
+    {
+      "Code": "S0423",
+      "English": "It looks like snow.",
+      "Thai": "ดูเหมือนหิมะ"
+    },
+    {
+      "Code": "S0424",
+      "English": "His aunt looks young.",
+      "Thai": "ป้าของเขาดูเด็ก"
+    },
+    {
+      "Code": "S0425",
+      "English": "Take off your socks, please.",
+      "Thai": "กรุณาถอดถุงเท้าของคุณออก"
+    },
+    {
+      "Code": "S0426",
+      "English": "The printer needs paper.",
+      "Thai": "เครื่องพิมพ์ต้องการกระดาษ"
+    },
+    {
+      "Code": "S0427",
+      "English": "It's awfully hot today.",
+      "Thai": "วันนี้อากาศร้อนมาก"
+    },
+    {
+      "Code": "S0428",
+      "English": "Do you see him often?",
+      "Thai": "คุณเห็นเขาบ่อยไหม"
+    },
+    {
+      "Code": "S0429",
+      "English": "Give me a hand with this bag.",
+      "Thai": "ยื่นกระเป๋าใบนี้ให้ฉัน"
+    },
+    {
+      "Code": "S0430",
+      "English": "The girl resembles her mother.",
+      "Thai": "ผู้หญิงคนนั้นคล้ายกับแม่ของเธอ"
+    },
+    {
+      "Code": "S0431",
+      "English": "I think we had better wait another thirty minutes.",
+      "Thai": "ฉันคิดว่าเราควรรออีกสามสิบนาที"
+    },
+    {
+      "Code": "S0432",
+      "English": "Time flies like an arrow.",
+      "Thai": "เวลาผ่านไปไวเหมือนลูกศร"
+    },
+    {
+      "Code": "S0433",
+      "English": "I used to take a walk every morning.",
+      "Thai": "ฉันเคยไปเดินเล่นทุกเช้า"
+    },
+    {
+      "Code": "S0434",
+      "English": "I'm free now.",
+      "Thai": "ตอนนี้ฉันว่าง"
+    },
+    {
+      "Code": "S0435",
+      "English": "Take it easy!",
+      "Thai": "ใจเย็นๆ!"
+    },
+    {
+      "Code": "S0436",
+      "English": "What's your name?",
+      "Thai": "คุณชื่ออะไร?"
+    },
+    {
+      "Code": "S0437",
+      "English": "He has broken the record.",
+      "Thai": "เขาทำลายสถิติ"
+    },
+    {
+      "Code": "S0438",
+      "English": "Cheese is made from milk.",
+      "Thai": "ชีสทำจากนม"
+    },
+    {
+      "Code": "S0439",
+      "English": "The work is now in progress.",
+      "Thai": "ขณะนี้งานอยู่ระหว่างดำเนินการ"
+    },
+    {
+      "Code": "S0440",
+      "English": "Come to my house this afternoon.",
+      "Thai": "มาที่บ้านฉันตอนบ่ายนี้"
+    },
+    {
+      "Code": "S0441",
+      "English": "It rained hard all day.",
+      "Thai": "ฝนตกหนักทั้งวัน."
+    },
+    {
+      "Code": "S0442",
+      "English": "This house has two bathrooms.",
+      "Thai": "บ้านหลังนี้มีห้องน้ำสองห้อง"
+    },
+    {
+      "Code": "S0443",
+      "English": "Children should play outside.",
+      "Thai": "เด็กควรเล่นนอกบ้าน"
+    },
+    {
+      "Code": "S0444",
+      "English": "Do you want to sit down?",
+      "Thai": "คุณต้องการที่จะนั่งลง?"
+    },
+    {
+      "Code": "S0445",
+      "English": "He still writes to me from time to time.",
+      "Thai": "เขายังคงเขียนถึงฉันเป็นครั้งคราว"
+    },
+    {
+      "Code": "S0446",
+      "English": "I'll miss you.",
+      "Thai": "ฉันจะคิดถึงคุณ."
+    },
+    {
+      "Code": "S0447",
+      "English": "He knows a lot of people.",
+      "Thai": "เขารู้จักคนมากมาย"
+    },
+    {
+      "Code": "S0448",
+      "English": "Where should we go?",
+      "Thai": "เราควรไปไหนดี?"
+    },
+    {
+      "Code": "S0449",
+      "English": "You are absolutely right.",
+      "Thai": "คุณพูดถูก"
+    },
+    {
+      "Code": "S0450",
+      "English": "They are my classmates.",
+      "Thai": "พวกเขาเป็นเพื่อนร่วมชั้นของฉัน"
+    },
+    {
+      "Code": "S0451",
+      "English": "Read after me.",
+      "Thai": "ตามมาอ่านค่ะ"
+    },
+    {
+      "Code": "S0452",
+      "English": "What's in the box?",
+      "Thai": "อะไรอยู่ในกล่อง?"
+    },
+    {
+      "Code": "S0453",
+      "English": "I'm afraid it will rain.",
+      "Thai": "ฉันกลัวฝนจะตก"
+    },
+    {
+      "Code": "S0454",
+      "English": "I can't help it.",
+      "Thai": "ฉันไม่สามารถช่วยได้"
+    },
+    {
+      "Code": "S0455",
+      "English": "I am tired of reading.",
+      "Thai": "ฉันเบื่อที่จะอ่าน"
+    },
+    {
+      "Code": "S0456",
+      "English": "It's the third of October.",
+      "Thai": "เป็นวันที่สามของเดือนตุลาคม"
+    },
+    {
+      "Code": "S0457",
+      "English": "I had breakfast at 7:30.",
+      "Thai": "ฉันทานอาหารเช้าเวลา 7.30 น."
+    },
+    {
+      "Code": "S0458",
+      "English": "Every door in the house is locked.",
+      "Thai": "ประตูทุกบานในบ้านถูกล็อค"
+    },
+    {
+      "Code": "S0459",
+      "English": "Once more, please.",
+      "Thai": "ขออีกครั้ง."
+    },
+    {
+      "Code": "S0460",
+      "English": "Excuse me, but may I open the window?",
+      "Thai": "ขอโทษนะ แต่ฉันขอเปิดหน้าต่างได้ไหม"
+    },
+    {
+      "Code": "S0461",
+      "English": "I don't like to speak in public.",
+      "Thai": "ฉันไม่ชอบพูดในที่สาธารณะ"
+    },
+    {
+      "Code": "S0462",
+      "English": "What did the doctor say?",
+      "Thai": "หมอพูดว่าอะไร?"
+    },
+    {
+      "Code": "S0463",
+      "English": "I've caught a cold.",
+      "Thai": "ฉันเป็นหวัด"
+    },
+    {
+      "Code": "S0464",
+      "English": "Have you ever returned home before seven?",
+      "Thai": "คุณเคยกลับบ้านก่อนเจ็ดโมงหรือไม่?"
+    },
+    {
+      "Code": "S0465",
+      "English": "There is a page missing.",
+      "Thai": "มีหน้าขาด."
+    },
+    {
+      "Code": "S0466",
+      "English": "I had hoped to save more money.",
+      "Thai": "ฉันหวังว่าจะประหยัดเงินได้มากขึ้น"
+    },
+    {
+      "Code": "S0467",
+      "English": "The building was built in 1960.",
+      "Thai": "อาคารนี้สร้างขึ้นในปี 1960"
+    },
+    {
+      "Code": "S0468",
+      "English": "We reached London at midnight.",
+      "Thai": "เราไปถึงลอนดอนตอนเที่ยงคืน"
+    },
+    {
+      "Code": "S0469",
+      "English": "I'm coming.",
+      "Thai": "ฉันกำลังมา."
+    },
+    {
+      "Code": "S0470",
+      "English": "Who broke this window?",
+      "Thai": "ใครทำลายหน้าต่างนี้?"
+    },
+    {
+      "Code": "S0471",
+      "English": "She stayed at the hotel for several days.",
+      "Thai": "เธอพักที่โรงแรมเป็นเวลาหลายวัน"
+    },
+    {
+      "Code": "S0472",
+      "English": "I like skiing very much.",
+      "Thai": "ฉันชอบเล่นสกีมาก"
+    },
+    {
+      "Code": "S0473",
+      "English": "She has just turned twelve.",
+      "Thai": "เธอเพิ่งอายุสิบสอง"
+    },
+    {
+      "Code": "S0474",
+      "English": "It is difficult for me to answer the question.",
+      "Thai": "มันยากสำหรับฉันที่จะตอบคำถาม"
+    },
+    {
+      "Code": "S0475",
+      "English": "I got my right leg hurt in the accident.",
+      "Thai": "ฉันได้รับบาดเจ็บที่ขาขวาในอุบัติเหตุ"
+    },
+    {
+      "Code": "S0476",
+      "English": "It is likely to rain today.",
+      "Thai": "มีแนวโน้มว่าฝนจะตกในวันนี้"
+    },
+    {
+      "Code": "S0477",
+      "English": "What is she like?",
+      "Thai": "เธอชอบอะไร?"
+    },
+    {
+      "Code": "S0478",
+      "English": "His temperature is normal.",
+      "Thai": "อุณหภูมิของเขาเป็นปกติ"
+    },
+    {
+      "Code": "S0479",
+      "English": "You'll get well soon.",
+      "Thai": "คุณจะหายดีในไม่ช้า"
+    },
+    {
+      "Code": "S0480",
+      "English": "The Netherlands is a small country.",
+      "Thai": "เนเธอร์แลนด์เป็นประเทศเล็กๆ"
+    },
+    {
+      "Code": "S0481",
+      "English": "I met nobody on my way home.",
+      "Thai": "ฉันไม่พบใครระหว่างทางกลับบ้าน"
+    },
+    {
+      "Code": "S0482",
+      "English": "I don't know whether to turn left or right.",
+      "Thai": "ไม่รู้จะเลี้ยวซ้ายหรือขวาดี"
+    },
+    {
+      "Code": "S0483",
+      "English": "I hope my dream will come true.",
+      "Thai": "ฉันหวังว่าความฝันของฉันจะเป็นจริง"
+    },
+    {
+      "Code": "S0484",
+      "English": "My wife is preparing dinner right now.",
+      "Thai": "ตอนนี้ภรรยาของฉันกำลังเตรียมอาหารเย็น"
+    },
+    {
+      "Code": "S0485",
+      "English": "I arrived just in time for the plane.",
+      "Thai": "ฉันมาถึงทันเครื่องพอดี"
+    },
+    {
+      "Code": "S0486",
+      "English": "Would you please write your name here?",
+      "Thai": "กรุณาเขียนชื่อของคุณที่นี่?"
+    },
+    {
+      "Code": "S0487",
+      "English": "The chili burnt my tongue.",
+      "Thai": "พริกเผาลิ้นของฉัน"
+    },
+    {
+      "Code": "S0488",
+      "English": "We've already done our work.",
+      "Thai": "เราได้ทำงานของเราแล้ว"
+    },
+    {
+      "Code": "S0489",
+      "English": "This makes no sense.",
+      "Thai": "สิ่งนี้ไม่สมเหตุสมผล"
+    },
+    {
+      "Code": "S0490",
+      "English": "Why are you so angry with him?",
+      "Thai": "ทำไมคุณถึงโกรธเขาจัง"
+    },
+    {
+      "Code": "S0491",
+      "English": "Choose between these two.",
+      "Thai": "เลือกระหว่างสองสิ่งนี้"
+    },
+    {
+      "Code": "S0492",
+      "English": "Have you ever been to Canada?",
+      "Thai": "คุณเคยไปแคนาดาหรือไม่?"
+    },
+    {
+      "Code": "S0493",
+      "English": "They never tell a lie.",
+      "Thai": "พวกเขาไม่เคยโกหก"
+    },
+    {
+      "Code": "S0494",
+      "English": "You know quite a lot about Sumo.",
+      "Thai": "คุณรู้ค่อนข้างมากเกี่ยวกับซูโม่"
+    },
+    {
+      "Code": "S0495",
+      "English": "He accepted the job.",
+      "Thai": "เขารับงาน"
+    },
+    {
+      "Code": "S0496",
+      "English": "Are seats available?",
+      "Thai": "ที่นั่งว่างหรือไม่?"
+    },
+    {
+      "Code": "S0497",
+      "English": "Why are you so late?",
+      "Thai": "ทำไมคุณมาช้าจัง"
+    },
+    {
+      "Code": "S0498",
+      "English": "I heard someone calling my name.",
+      "Thai": "ฉันได้ยินคนเรียกชื่อฉัน"
+    },
+    {
+      "Code": "S0499",
+      "English": "Black cloth absorbs light.",
+      "Thai": "ผ้าสีดำดูดซับแสง"
+    },
+    {
+      "Code": "S0500",
+      "English": "I want to go to America someday.",
+      "Thai": "ฉันอยากไปอเมริกาสักวัน"
+    },
+    {
+      "Code": "S0501",
+      "English": "You can study here.",
+      "Thai": "คุณสามารถเรียนที่นี่"
+    },
+    {
+      "Code": "S0502",
+      "English": "What time will dinner be served?",
+      "Thai": "อาหารเย็นจะเสิร์ฟกี่โมง?"
+    },
+    {
+      "Code": "S0503",
+      "English": "We are the first to arrive.",
+      "Thai": "เราเป็นคนแรกที่มาถึง"
+    },
+    {
+      "Code": "S0504",
+      "English": "Leave me alone, please.",
+      "Thai": "ปล่อยฉันไว้คนเดียวเถอะนะ"
+    },
+    {
+      "Code": "S0505",
+      "English": "My mother is two years younger than my father.",
+      "Thai": "แม่ของฉันอายุน้อยกว่าพ่อสองปี"
+    },
+    {
+      "Code": "S0506",
+      "English": "It's unusual for him to get up early.",
+      "Thai": "เป็นเรื่องปกติที่เขาจะตื่นเช้า"
+    },
+    {
+      "Code": "S0507",
+      "English": "I have a dog.",
+      "Thai": "ฉันมีสุนัข."
+    },
+    {
+      "Code": "S0508",
+      "English": "Your dress is very nice.",
+      "Thai": "ชุดของคุณดีมาก"
+    },
+    {
+      "Code": "S0509",
+      "English": "This is my dog.",
+      "Thai": "นี่คือสุนัขของฉัน."
+    },
+    {
+      "Code": "S0510",
+      "English": "Now stop crying.",
+      "Thai": "ตอนนี้หยุดร้องไห้"
+    },
+    {
+      "Code": "S0511",
+      "English": "I have a suggestion.",
+      "Thai": "ฉันมีข้อเสนอแนะ"
+    },
+    {
+      "Code": "S0512",
+      "English": "My homework is nearly complete.",
+      "Thai": "การบ้านของฉันใกล้จะเสร็จแล้ว"
+    },
+    {
+      "Code": "S0513",
+      "English": "Good students study hard.",
+      "Thai": "นักเรียนที่ดีเรียนหนัก"
+    },
+    {
+      "Code": "S0514",
+      "English": "You made a wise choice.",
+      "Thai": "คุณทำการเลือกที่ชาญฉลาด"
+    },
+    {
+      "Code": "S0515",
+      "English": "Take good care of yourself.",
+      "Thai": "ดูแลตัวเองดีๆ นะ."
+    },
+    {
+      "Code": "S0516",
+      "English": "I'm not always at home on Sundays.",
+      "Thai": "ฉันไม่อยู่บ้านในวันอาทิตย์เสมอ"
+    },
+    {
+      "Code": "S0517",
+      "English": "The airplane soon went out of sight.",
+      "Thai": "ไม่นานเครื่องบินก็หายลับไป"
+    },
+    {
+      "Code": "S0518",
+      "English": "He is said to be a good doctor.",
+      "Thai": "เขาว่ากันว่าเป็นหมอที่ดี"
+    },
+    {
+      "Code": "S0519",
+      "English": "What is the difference between A and B?",
+      "Thai": "ความแตกต่างระหว่าง A และ B คืออะไร?"
+    },
+    {
+      "Code": "S0520",
+      "English": "English is easy to learn.",
+      "Thai": "ภาษาอังกฤษง่ายต่อการเรียนรู้"
+    },
+    {
+      "Code": "S0521",
+      "English": "I have been studying for two hours.",
+      "Thai": "ฉันเรียนมาสองชั่วโมงแล้ว"
+    },
+    {
+      "Code": "S0522",
+      "English": "I have to iron my shirt.",
+      "Thai": "ฉันต้องรีดเสื้อ"
+    },
+    {
+      "Code": "S0523",
+      "English": "Don't ask me for money.",
+      "Thai": "อย่าขอเงินฉัน"
+    },
+    {
+      "Code": "S0524",
+      "English": "He's always been kind to me.",
+      "Thai": "เขาใจดีกับฉันเสมอ"
+    },
+    {
+      "Code": "S0525",
+      "English": "A piano is expensive.",
+      "Thai": "เปียโนมีราคาแพง"
+    },
+    {
+      "Code": "S0526",
+      "English": "That kind of dress is now in fashion.",
+      "Thai": "ตอนนี้ชุดแบบนั้นกำลังเป็นที่นิยม"
+    },
+    {
+      "Code": "S0527",
+      "English": "Wash your hands well.",
+      "Thai": "ล้างมือให้สะอาด"
+    },
+    {
+      "Code": "S0528",
+      "English": "I ate a hamburger and ordered another.",
+      "Thai": "ฉันกินแฮมเบอร์เกอร์แล้วสั่งอย่างอื่น"
+    },
+    {
+      "Code": "S0529",
+      "English": "Your bike is better than mine.",
+      "Thai": "จักรยานของคุณดีกว่าของฉัน"
+    },
+    {
+      "Code": "S0530",
+      "English": "Please open the window.",
+      "Thai": "กรุณาเปิดหน้าต่าง"
+    },
+    {
+      "Code": "S0531",
+      "English": "I need to get some sleep.",
+      "Thai": "ฉันต้องนอนบ้างแล้ว"
+    },
+    {
+      "Code": "S0532",
+      "English": "It doesn't matter where he comes from.",
+      "Thai": "ไม่สำคัญว่าเขามาจากไหน"
+    },
+    {
+      "Code": "S0533",
+      "English": "Who is your teacher?",
+      "Thai": "ใครคือครูของคุณ?"
+    },
+    {
+      "Code": "S0534",
+      "English": "Obviously, he is wrong.",
+      "Thai": "เห็นได้ชัดว่าเขาคิดผิด"
+    },
+    {
+      "Code": "S0535",
+      "English": "Her face turned red.",
+      "Thai": "ใบหน้าของเธอเปลี่ยนเป็นสีแดง"
+    },
+    {
+      "Code": "S0536",
+      "English": "I object to her going there alone.",
+      "Thai": "ฉันคัดค้านที่เธอไปที่นั่นคนเดียว"
+    },
+    {
+      "Code": "S0537",
+      "English": "I am accustomed to cold weather.",
+      "Thai": "ฉันคุ้นเคยกับอากาศหนาว"
+    },
+    {
+      "Code": "S0538",
+      "English": "I have an idea.",
+      "Thai": "ฉันมีความคิด."
+    },
+    {
+      "Code": "S0539",
+      "English": "He loves her.",
+      "Thai": "เขารักหล่อน."
+    },
+    {
+      "Code": "S0540",
+      "English": "I'm too busy to help him.",
+      "Thai": "ฉันยุ่งเกินกว่าจะช่วยเขา"
+    },
+    {
+      "Code": "S0541",
+      "English": "Answer the phone.",
+      "Thai": "รับโทรศัพท์."
+    },
+    {
+      "Code": "S0542",
+      "English": "It's very hot here.",
+      "Thai": "ที่นี่ร้อนมาก"
+    },
+    {
+      "Code": "S0543",
+      "English": "I haven't finished my homework yet.",
+      "Thai": "ฉันยังทำการบ้านไม่เสร็จ"
+    },
+    {
+      "Code": "S0544",
+      "English": "I fell in love with her at first sight.",
+      "Thai": "ฉันตกหลุมรักเธอตั้งแต่แรกเห็น"
+    },
+    {
+      "Code": "S0545",
+      "English": "A strong wind was blowing.",
+      "Thai": "ลมแรงพัดมา"
+    },
+    {
+      "Code": "S0546",
+      "English": "What would happen?",
+      "Thai": "อะไรจะเกิดขึ้น?"
+    },
+    {
+      "Code": "S0547",
+      "English": "The meeting, in short, was a waste of time.",
+      "Thai": "พูดสั้นๆ ว่าการประชุมเป็นการเสียเวลา"
+    },
+    {
+      "Code": "S0548",
+      "English": "He writes books.",
+      "Thai": "เขาเขียนหนังสือ"
+    },
+    {
+      "Code": "S0549",
+      "English": "When did you see them first?",
+      "Thai": "คุณเห็นพวกเขาครั้งแรกเมื่อไหร่?"
+    },
+    {
+      "Code": "S0550",
+      "English": "She traveled all over the world.",
+      "Thai": "เธอเดินทางไปทั่วโลก"
+    },
+    {
+      "Code": "S0551",
+      "English": "He can swim well.",
+      "Thai": "เขาสามารถว่ายน้ำได้ดี"
+    },
+    {
+      "Code": "S0552",
+      "English": "My uncle gave me a camera.",
+      "Thai": "ลุงของฉันให้กล้องกับฉัน"
+    },
+    {
+      "Code": "S0553",
+      "English": "May I try it on?",
+      "Thai": "ฉันขอลองได้ไหม"
+    },
+    {
+      "Code": "S0554",
+      "English": "I hope that you will get well soon.",
+      "Thai": "ฉันหวังว่าคุณจะหายป่วยเร็ว ๆ นี้"
+    },
+    {
+      "Code": "S0555",
+      "English": "That's his specialty.",
+      "Thai": "นั่นคือความสามารถพิเศษของเขา"
+    },
+    {
+      "Code": "S0556",
+      "English": "How unlucky I am!",
+      "Thai": "ฉันโชคร้ายแค่ไหน!"
+    },
+    {
+      "Code": "S0557",
+      "English": "He wakes up early.",
+      "Thai": "เขาตื่นเช้า"
+    },
+    {
+      "Code": "S0558",
+      "English": "Did you telephone him?",
+      "Thai": "คุณโทรหาเขาไหม"
+    },
+    {
+      "Code": "S0559",
+      "English": "I felt like crying.",
+      "Thai": "ฉันรู้สึกอยากจะร้องไห้"
+    },
+    {
+      "Code": "S0560",
+      "English": "Does this bus go to the beach?",
+      "Thai": "รถบัสคันนี้ไปชายหาดหรือไม่?"
+    },
+    {
+      "Code": "S0561",
+      "English": "He decided to go abroad.",
+      "Thai": "เขาตัดสินใจไปต่างประเทศ"
+    },
+    {
+      "Code": "S0562",
+      "English": "I am counting on you.",
+      "Thai": "ฉันกำลังนับคุณ"
+    },
+    {
+      "Code": "S0563",
+      "English": "I'll wait for you.",
+      "Thai": "ฉันจะรอคุณ."
+    },
+    {
+      "Code": "S0564",
+      "English": "May I ask you something?",
+      "Thai": "ฉันขอถามอะไรคุณหน่อยได้ไหม"
+    },
+    {
+      "Code": "S0565",
+      "English": "Are you busy now?",
+      "Thai": "ตอนนี้คุณยุ่งอยู่หรือเปล่า"
+    },
+    {
+      "Code": "S0566",
+      "English": "The food is getting cold.",
+      "Thai": "อาหารเริ่มเย็นแล้ว"
+    },
+    {
+      "Code": "S0567",
+      "English": "I have many friends in foreign countries.",
+      "Thai": "ฉันมีเพื่อนมากมายในต่างประเทศ"
+    },
+    {
+      "Code": "S0568",
+      "English": "He has a passive character.",
+      "Thai": "เขามีบุคลิกแบบพาสซีฟ"
+    },
+    {
+      "Code": "S0569",
+      "English": "This hat is mine.",
+      "Thai": "หมวกใบนี้เป็นของฉัน"
+    },
+    {
+      "Code": "S0570",
+      "English": "My work is finished.",
+      "Thai": "งานของฉันเสร็จแล้ว"
+    },
+    {
+      "Code": "S0571",
+      "English": "Which do you prefer, apples or bananas?",
+      "Thai": "คุณชอบอะไร แอปเปิ้ลหรือกล้วย?"
+    },
+    {
+      "Code": "S0572",
+      "English": "I'll call you later today.",
+      "Thai": "ฉันจะโทรหาคุณภายหลังวันนี้"
+    },
+    {
+      "Code": "S0573",
+      "English": "I can't check my mail because the server is down.",
+      "Thai": "ฉันไม่สามารถตรวจสอบเมลของฉันได้ เนื่องจากเซิฟเวอร์ขัดข้อง"
+    },
+    {
+      "Code": "S0574",
+      "English": "I'm terribly sorry.",
+      "Thai": "ฉันขอโทษอย่างยิ่ง."
+    },
+    {
+      "Code": "S0575",
+      "English": "Don't forget to write to me.",
+      "Thai": "อย่าลืมเขียนถึงฉัน"
+    },
+    {
+      "Code": "S0576",
+      "English": "Tom wants to go to Japan.",
+      "Thai": "ทอมอยากไปญี่ปุ่น"
+    },
+    {
+      "Code": "S0577",
+      "English": "I can't go, nor do I want to.",
+      "Thai": "ฉันไปไม่ได้ ฉันก็ไม่อยากไป"
+    },
+    {
+      "Code": "S0578",
+      "English": "I need some paper.",
+      "Thai": "ฉันต้องการกระดาษ"
+    },
+    {
+      "Code": "S0579",
+      "English": "Please take care of yourself.",
+      "Thai": "โปรดดูแลตัวเอง"
+    },
+    {
+      "Code": "S0580",
+      "English": "He's very angry with you.",
+      "Thai": "เขาโกรธคุณมาก"
+    },
+    {
+      "Code": "S0581",
+      "English": "Tell me the story.",
+      "Thai": "เล่าเรื่อง."
+    },
+    {
+      "Code": "S0582",
+      "English": "I stayed up late last night.",
+      "Thai": "ฉันนอนดึกเมื่อคืนนี้"
+    },
+    {
+      "Code": "S0583",
+      "English": "I don't like this watch.",
+      "Thai": "ฉันไม่ชอบนาฬิกาเรือนนี้"
+    },
+    {
+      "Code": "S0584",
+      "English": "Is it hard to speak English?",
+      "Thai": "พูดภาษาอังกฤษยากไหม?"
+    },
+    {
+      "Code": "S0585",
+      "English": "You have made the very same mistake again.",
+      "Thai": "คุณทำผิดพลาดแบบเดิมอีกแล้ว"
+    },
+    {
+      "Code": "S0586",
+      "English": "These books are ours.",
+      "Thai": "หนังสือเหล่านี้เป็นของเรา"
+    },
+    {
+      "Code": "S0587",
+      "English": "Keep this money for me.",
+      "Thai": "เก็บเงินนี้ไว้ให้ฉัน"
+    },
+    {
+      "Code": "S0588",
+      "English": "Prices have jumped.",
+      "Thai": "ราคาได้เพิ่มขึ้น"
+    },
+    {
+      "Code": "S0589",
+      "English": "You look pale.",
+      "Thai": "คุณดูซีด."
+    },
+    {
+      "Code": "S0590",
+      "English": "We depend on you.",
+      "Thai": "เราขึ้นอยู่กับคุณ"
+    },
+    {
+      "Code": "S0591",
+      "English": "This book is yours.",
+      "Thai": "หนังสือเล่มนี้เป็นของคุณ"
+    },
+    {
+      "Code": "S0592",
+      "English": "It was a great shock to me.",
+      "Thai": "มันทำให้ฉันตกใจมาก"
+    },
+    {
+      "Code": "S0593",
+      "English": "Plant die without water.",
+      "Thai": "พืชตายโดยไม่มีน้ำ"
+    },
+    {
+      "Code": "S0594",
+      "English": "Were you at home last night?",
+      "Thai": "เมื่อคืนคุณอยู่บ้านไหม"
+    },
+    {
+      "Code": "S0595",
+      "English": "I can't help crying.",
+      "Thai": "ฉันอดไม่ได้ที่จะร้องไห้"
+    },
+    {
+      "Code": "S0596",
+      "English": "They have two daughters.",
+      "Thai": "พวกเขามีลูกสาวสองคน"
+    },
+    {
+      "Code": "S0597",
+      "English": "A driver was sleeping in the car.",
+      "Thai": "คนขับหลับอยู่ในรถ"
+    },
+    {
+      "Code": "S0598",
+      "English": "I shouldn't have gotten up so early.",
+      "Thai": "ฉันไม่ควรตื่นเช้าขนาดนี้"
+    },
+    {
+      "Code": "S0599",
+      "English": "Whose pencil is this?",
+      "Thai": "นี่คือดินสอของใคร?"
+    },
+    {
+      "Code": "S0600",
+      "English": "I like your car.",
+      "Thai": "ฉันชอบรถของคุณ"
+    },
+    {
+      "Code": "S0601",
+      "English": "I can't stand the noise.",
+      "Thai": "ฉันทนเสียงนั้นไม่ไหว"
+    },
+    {
+      "Code": "S0602",
+      "English": "I wanted red shoes.",
+      "Thai": "ฉันต้องการรองเท้าสีแดง"
+    },
+    {
+      "Code": "S0603",
+      "English": "They are not interested in saving money.",
+      "Thai": "พวกเขาไม่สนใจที่จะประหยัดเงิน"
+    },
+    {
+      "Code": "S0604",
+      "English": "This is their house.",
+      "Thai": "นี่คือบ้านของพวกเขา"
+    },
+    {
+      "Code": "S0605",
+      "English": "You were wrong after all.",
+      "Thai": "คุณคิดผิดแล้ว"
+    },
+    {
+      "Code": "S0606",
+      "English": "I think so.",
+      "Thai": "ฉันคิดอย่างนั้น."
+    },
+    {
+      "Code": "S0607",
+      "English": "This book is not for sale.",
+      "Thai": "หนังสือเล่มนี้ไม่ได้ขาย"
+    },
+    {
+      "Code": "S0608",
+      "English": "He knocked his knee against the chair.",
+      "Thai": "เขาคุกเข่าลงกับเก้าอี้"
+    },
+    {
+      "Code": "S0609",
+      "English": "Have you called her yet?",
+      "Thai": "คุณโทรหาเธอแล้วหรือยัง"
+    },
+    {
+      "Code": "S0610",
+      "English": "When I came home, John was studying.",
+      "Thai": "เมื่อฉันกลับถึงบ้าน จอห์นกำลังเรียนหนังสือ"
+    },
+    {
+      "Code": "S0611",
+      "English": "This shirt is too small for me to wear.",
+      "Thai": "เสื้อตัวนี้เล็กเกินกว่าฉันจะใส่"
+    },
+    {
+      "Code": "S0612",
+      "English": "It snowed in Osaka.",
+      "Thai": "หิมะตกที่โอซาก้า"
+    },
+    {
+      "Code": "S0613",
+      "English": "Have you ever been to Africa?",
+      "Thai": "คุณเคยไปแอฟริกาหรือไม่?"
+    },
+    {
+      "Code": "S0614",
+      "English": "How embarrassing!",
+      "Thai": "น่าอายแค่ไหน!"
+    },
+    {
+      "Code": "S0615",
+      "English": "What're you waiting for?",
+      "Thai": "รออะไรล่ะ"
+    },
+    {
+      "Code": "S0616",
+      "English": "I am tied up at the office.",
+      "Thai": "ฉันถูกมัดไว้ที่สำนักงาน"
+    },
+    {
+      "Code": "S0617",
+      "English": "You must pay attention to him.",
+      "Thai": "คุณต้องให้ความสนใจกับเขา"
+    },
+    {
+      "Code": "S0618",
+      "English": "Mary can dance well.",
+      "Thai": "แมรี่สามารถเต้นได้ดี"
+    },
+    {
+      "Code": "S0619",
+      "English": "How much is this tie?",
+      "Thai": "เนคไทนี้เท่าไหร่คะ?"
+    },
+    {
+      "Code": "S0620",
+      "English": "Let's split the bill.",
+      "Thai": "มาแบ่งบิลกัน"
+    },
+    {
+      "Code": "S0621",
+      "English": "We have few opportunities to speak German.",
+      "Thai": "เรามีโอกาสน้อยที่จะพูดภาษาเยอรมัน"
+    },
+    {
+      "Code": "S0622",
+      "English": "Tom likes to play baseball.",
+      "Thai": "ทอมชอบเล่นเบสบอล"
+    },
+    {
+      "Code": "S0623",
+      "English": "He is crazy about baseball.",
+      "Thai": "เขาคลั่งไคล้เบสบอล"
+    },
+    {
+      "Code": "S0624",
+      "English": "I am going to buy a new car.",
+      "Thai": "ฉันจะซื้อรถใหม่"
+    },
+    {
+      "Code": "S0625",
+      "English": "Can you pick me up at the station?",
+      "Thai": "คุณมารับฉันที่สถานีได้ไหม"
+    },
+    {
+      "Code": "S0626",
+      "English": "He ran out of money.",
+      "Thai": "เขาหมดเงิน"
+    },
+    {
+      "Code": "S0627",
+      "English": "It'll snow tomorrow",
+      "Thai": "พรุ่งนี้หิมะตก"
+    },
+    {
+      "Code": "S0628",
+      "English": "How's the weather in New York?",
+      "Thai": "อากาศที่นิวยอร์กเป็นอย่างไร"
+    },
+    {
+      "Code": "S0629",
+      "English": "What do you usually do on Sundays?",
+      "Thai": "คุณมักจะทำอะไรในวันอาทิตย์"
+    },
+    {
+      "Code": "S0630",
+      "English": "This problem is difficult to solve.",
+      "Thai": "ปัญหานี้แก้ไขได้ยาก"
+    },
+    {
+      "Code": "S0631",
+      "English": "The plane flew over the mountain.",
+      "Thai": "เครื่องบินบินข้ามภูเขา"
+    },
+    {
+      "Code": "S0632",
+      "English": "He came back from America.",
+      "Thai": "เขากลับมาจากอเมริกา"
+    },
+    {
+      "Code": "S0633",
+      "English": "He is taking a walk.",
+      "Thai": "เขากำลังเดินเล่น"
+    },
+    {
+      "Code": "S0634",
+      "English": "Please lend me your car.",
+      "Thai": "กรุณาให้ฉันยืมรถของคุณ"
+    },
+    {
+      "Code": "S0635",
+      "English": "When does it end?",
+      "Thai": "เมื่อไหร่จะสิ้นสุด?"
+    },
+    {
+      "Code": "S0636",
+      "English": "She went home.",
+      "Thai": "เธอกลับบ้าน"
+    },
+    {
+      "Code": "S0637",
+      "English": "How long will you stay here?",
+      "Thai": "คุณจะอยู่ที่นี่นานแค่ไหน?"
+    },
+    {
+      "Code": "S0638",
+      "English": "Who painted these pictures?",
+      "Thai": "ใครเป็นคนวาดภาพเหล่านี้?"
+    },
+    {
+      "Code": "S0639",
+      "English": "Do you have some time?",
+      "Thai": "คุณมีเวลาไหม"
+    },
+    {
+      "Code": "S0640",
+      "English": "Does this hurt?",
+      "Thai": "นี่เจ็บไหม?"
+    },
+    {
+      "Code": "S0641",
+      "English": "Have you ever seen a kangaroo?",
+      "Thai": "คุณเคยเห็นจิงโจ้ไหม?"
+    },
+    {
+      "Code": "S0642",
+      "English": "I hurt my elbow.",
+      "Thai": "ฉันเจ็บข้อศอก"
+    },
+    {
+      "Code": "S0643",
+      "English": "He has been studying for two hours.",
+      "Thai": "เขาเรียนมาสองชั่วโมงแล้ว"
+    },
+    {
+      "Code": "S0644",
+      "English": "Are you free this afternoon?",
+      "Thai": "บ่ายนี้คุณว่างไหม"
+    },
+    {
+      "Code": "S0645",
+      "English": "Our children like dogs, but I prefer cats.",
+      "Thai": "บ่ายนี้คุณว่างไหม"
+    },
+    {
+      "Code": "S0646",
+      "English": "The kid got hurt.",
+      "Thai": "เด็กได้รับบาดเจ็บ"
+    },
+    {
+      "Code": "S0647",
+      "English": "Tell me about it.",
+      "Thai": "บอกฉันเกี่ยวกับมัน"
+    },
+    {
+      "Code": "S0648",
+      "English": "We have made friends with Tom.",
+      "Thai": "เราได้เป็นเพื่อนกับทอม"
+    },
+    {
+      "Code": "S0649",
+      "English": "He usually gets up at six.",
+      "Thai": "เขามักจะตื่นนอนตอนหกโมง"
+    },
+    {
+      "Code": "S0650",
+      "English": "You'd better not go there.",
+      "Thai": "คุณไม่ควรไปที่นั่น"
+    },
+    {
+      "Code": "S0651",
+      "English": "Let me handle this.",
+      "Thai": "ให้ฉันจัดการเรื่องนี้"
+    },
+    {
+      "Code": "S0652",
+      "English": "It's not my fault.",
+      "Thai": "มันไม่ได้เป็นความผิดของฉัน."
+    },
+    {
+      "Code": "S0653",
+      "English": "Keep an eye on the bags.",
+      "Thai": "จับตาดูกระเป๋าให้ดี"
+    },
+    {
+      "Code": "S0654",
+      "English": "She looks very lovely.",
+      "Thai": "เธอดูน่ารักมาก"
+    },
+    {
+      "Code": "S0655",
+      "English": "There is no meat left in the fridge.",
+      "Thai": "ไม่มีเนื้อสัตว์เหลืออยู่ในตู้เย็น"
+    },
+    {
+      "Code": "S0656",
+      "English": "Put this sentence in to English.",
+      "Thai": "ใส่ประโยคนี้เป็นภาษาอังกฤษ"
+    },
+    {
+      "Code": "S0657",
+      "English": "Are you new here?",
+      "Thai": "คุณยังใหม่ที่นี่?"
+    },
+    {
+      "Code": "S0658",
+      "English": "Tomorrow is my day off.",
+      "Thai": "พรุ่งนี้วันหยุดของฉัน"
+    },
+    {
+      "Code": "S0659",
+      "English": "I can read Spanish easily.",
+      "Thai": "ฉันสามารถอ่านภาษาสเปนได้ง่าย"
+    },
+    {
+      "Code": "S0660",
+      "English": "My headache has gone.",
+      "Thai": "อาการปวดหัวของฉันหายไป"
+    },
+    {
+      "Code": "S0661",
+      "English": "We thought that you were married.",
+      "Thai": "เราคิดว่าคุณแต่งงานแล้ว"
+    },
+    {
+      "Code": "S0662",
+      "English": "He advised her to stop drinking.",
+      "Thai": "เขาแนะนำให้เธอหยุดดื่ม"
+    },
+    {
+      "Code": "S0663",
+      "English": "I'll call again later.",
+      "Thai": "ฉันจะโทรอีกครั้งในภายหลัง"
+    },
+    {
+      "Code": "S0664",
+      "English": "Do you smoke?",
+      "Thai": "คุณสูบบุหรี่หรือเปล่า?"
+    },
+    {
+      "Code": "S0665",
+      "English": "He entered my room without permission.",
+      "Thai": "เขาเข้ามาในห้องของฉันโดยไม่ได้รับอนุญาต"
+    },
+    {
+      "Code": "S0666",
+      "English": "The pain was terrible.",
+      "Thai": "ความเจ็บปวดนั้นแย่มาก"
+    },
+    {
+      "Code": "S0667",
+      "English": "I belong to the swimming club.",
+      "Thai": "ฉันอยู่ชมรมว่ายน้ำ"
+    },
+    {
+      "Code": "S0668",
+      "English": "This novel is difficult to understand.",
+      "Thai": "นิยายเรื่องนี้เข้าใจยาก"
+    },
+    {
+      "Code": "S0669",
+      "English": "I hope you're having fun.",
+      "Thai": "ฉันหวังว่าคุณจะสนุก"
+    },
+    {
+      "Code": "S0670",
+      "English": "She wears a lot of makeup.",
+      "Thai": "เธอแต่งหน้าเยอะมาก"
+    },
+    {
+      "Code": "S0671",
+      "English": "Please come to my house.",
+      "Thai": "กรุณามาที่บ้านของฉัน"
+    },
+    {
+      "Code": "S0672",
+      "English": "He carried a bag full of apples.",
+      "Thai": "เขาถือถุงแอปเปิ้ลเต็มถุง"
+    },
+    {
+      "Code": "S0673",
+      "English": "He knows nothing about the plan.",
+      "Thai": "เขาไม่รู้อะไรเกี่ยวกับแผน"
+    },
+    {
+      "Code": "S0674",
+      "English": "Are they Japanese?",
+      "Thai": "พวกเขาเป็นคนญี่ปุ่นเหรอ?"
+    },
+    {
+      "Code": "S0675",
+      "English": "I'm tired now.",
+      "Thai": "ตอนนี้ฉันเหนื่อย"
+    },
+    {
+      "Code": "S0676",
+      "English": "My car was stolen last night.",
+      "Thai": "รถของฉันถูกขโมยเมื่อคืนนี้"
+    },
+    {
+      "Code": "S0677",
+      "English": "I had all my clothes washed by my mother.",
+      "Thai": "ฉันซักผ้าทั้งหมดโดยแม่ของฉัน"
+    },
+    {
+      "Code": "S0678",
+      "English": "Where is the end of this line?",
+      "Thai": "จุดสิ้นสุดของบรรทัดนี้อยู่ที่ไหน?"
+    },
+    {
+      "Code": "S0679",
+      "English": "I want some water.",
+      "Thai": "ฉันต้องการน้ำ"
+    },
+    {
+      "Code": "S0680",
+      "English": "Tom finally gave up smoking.",
+      "Thai": "ในที่สุดทอมก็เลิกสูบบุหรี่"
+    },
+    {
+      "Code": "S0681",
+      "English": "I like neither of them.",
+      "Thai": "ฉันชอบทั้งคู่"
+    },
+    {
+      "Code": "S0682",
+      "English": "I'm proud of you.",
+      "Thai": "ฉันภูมิใจในตัวเธอ."
+    },
+    {
+      "Code": "S0683",
+      "English": "I looked for the key.",
+      "Thai": "ฉันมองหากุญแจ"
+    },
+    {
+      "Code": "S0684",
+      "English": "He ran as fast as he could.",
+      "Thai": "เขาวิ่งเร็วที่สุดเท่าที่จะทำได้"
+    },
+    {
+      "Code": "S0685",
+      "English": "He was busy yesterday afternoon.",
+      "Thai": "เขายุ่งมากเมื่อวานนี้ตอนบ่าย"
+    },
+    {
+      "Code": "S0686",
+      "English": "She is awkward.",
+      "Thai": "เธออึดอัด"
+    },
+    {
+      "Code": "S0687",
+      "English": "You will stay at home.",
+      "Thai": "คุณจะอยู่บ้าน"
+    },
+    {
+      "Code": "S0688",
+      "English": "I am sixteen years old.",
+      "Thai": "ผมอายุสิบหกปี."
+    },
+    {
+      "Code": "S0689",
+      "English": "I visited the village where he was born.",
+      "Thai": "ฉันไปเยี่ยมหมู่บ้านที่เขาเกิด"
+    },
+    {
+      "Code": "S0690",
+      "English": "Hey, where are you going?",
+      "Thai": "เฮียจะไปไหน"
+    },
+    {
+      "Code": "S0691",
+      "English": "You can go if you want to.",
+      "Thai": "คุณสามารถไปถ้าคุณต้องการ"
+    },
+    {
+      "Code": "S0692",
+      "English": "How did you make it?",
+      "Thai": "คุณทำมันได้อย่างไร?"
+    },
+    {
+      "Code": "S0693",
+      "English": "Due to bad weather, the plane was late.",
+      "Thai": "เนื่องจากสภาพอากาศเลวร้าย เครื่องบินจึงล่าช้า"
+    },
+    {
+      "Code": "S0694",
+      "English": "I will give it to you.",
+      "Thai": "ฉันจะให้มันกับคุณ."
+    },
+    {
+      "Code": "S0695",
+      "English": "I usually walk to school.",
+      "Thai": "ฉันมักจะเดินไปโรงเรียน"
+    },
+    {
+      "Code": "S0696",
+      "English": "Could you sign here?",
+      "Thai": "คุณช่วยลงชื่อที่นี่ได้ไหม"
+    },
+    {
+      "Code": "S0697",
+      "English": "Would you like another apple?",
+      "Thai": "คุณต้องการแอปเปิ้ลอีกไหม"
+    },
+    {
+      "Code": "S0698",
+      "English": "Prices continued to rise.",
+      "Thai": "ราคายังคงเพิ่มขึ้น"
+    },
+    {
+      "Code": "S0699",
+      "English": "Don't change your mind.",
+      "Thai": "อย่าเปลี่ยนใจ"
+    },
+    {
+      "Code": "S0700",
+      "English": "Close your eyes, please.",
+      "Thai": "กรุณาปิดตาของคุณ"
+    },
+    {
+      "Code": "S0701",
+      "English": "As a matter of fact, it is true.",
+      "Thai": "ตามความเป็นจริงมันเป็นเรื่องจริง"
+    },
+    {
+      "Code": "S0702",
+      "English": "I don't know if she will come.",
+      "Thai": "ฉันไม่รู้ว่าเธอจะมาหรือเปล่า"
+    },
+    {
+      "Code": "S0703",
+      "English": "Hey, what happened?",
+      "Thai": "เฮ้เกิดอะไรขึ้น?"
+    },
+    {
+      "Code": "S0704",
+      "English": "I want a tie to go with this suit.",
+      "Thai": "อยากได้เนคไทที่เข้ากับชุดนี้"
+    },
+    {
+      "Code": "S0705",
+      "English": "Are you coming with me?",
+      "Thai": "คุณจะมากับฉันไหม"
+    },
+    {
+      "Code": "S0706",
+      "English": "I was busy all day.",
+      "Thai": "ฉันยุ่งทั้งวัน"
+    },
+    {
+      "Code": "S0707",
+      "English": "He has got a good camera.",
+      "Thai": "เขามีกล้องดีๆ"
+    },
+    {
+      "Code": "S0708",
+      "English": "Visitors may not feed the animals.",
+      "Thai": "ผู้เข้าชมไม่สามารถให้อาหารสัตว์ได้"
+    },
+    {
+      "Code": "S0709",
+      "English": "I can do it in half the time.",
+      "Thai": "ฉันสามารถทำได้ในครึ่งเวลา"
+    },
+    {
+      "Code": "S0710",
+      "English": "They are all the same.",
+      "Thai": "พวกเขาทั้งหมดเหมือนกัน"
+    },
+    {
+      "Code": "S0711",
+      "English": "He owes his success to his parents.",
+      "Thai": "เขาเป็นหนี้ความสำเร็จของเขากับพ่อแม่ของเขา"
+    },
+    {
+      "Code": "S0712",
+      "English": "My sister is shorter than you.",
+      "Thai": "น้องสาวของฉันเตี้ยกว่าคุณ"
+    },
+    {
+      "Code": "S0713",
+      "English": "I envy him.",
+      "Thai": "ฉันอิจฉาเขา"
+    },
+    {
+      "Code": "S0714",
+      "English": "Is there a supermarket near here?",
+      "Thai": "มีซูเปอร์มาร์เก็ตอยู่ใกล้ที่นี่หรือไม่?"
+    },
+    {
+      "Code": "S0715",
+      "English": "I failed the tests.",
+      "Thai": "ฉันสอบตก"
+    },
+    {
+      "Code": "S0716",
+      "English": "I was not as strong as my father.",
+      "Thai": "ฉันไม่ได้เข้มแข็งเท่าพ่อ"
+    },
+    {
+      "Code": "S0717",
+      "English": "Will you help me with my homework?",
+      "Thai": "คุณจะช่วยฉันทำการบ้านไหม"
+    },
+    {
+      "Code": "S0718",
+      "English": "I persuaded him to take part in it.",
+      "Thai": "ฉันชักชวนให้เขามีส่วนร่วม"
+    },
+    {
+      "Code": "S0719",
+      "English": "He grows rice.",
+      "Thai": "เขาปลูกข้าว"
+    },
+    {
+      "Code": "S0720",
+      "English": "He painted the ceiling blue.",
+      "Thai": "เขาทาสีเพดานเป็นสีน้ำเงิน"
+    },
+    {
+      "Code": "S0721",
+      "English": "Let's take a break.",
+      "Thai": "มาพักกัน"
+    },
+    {
+      "Code": "S0722",
+      "English": "This is an automatic door.",
+      "Thai": "นี่คือประตูอัตโนมัติ"
+    },
+    {
+      "Code": "S0723",
+      "English": "This bus can hold fifty people.",
+      "Thai": "รถบัสคันนี้จุคนได้ห้าสิบคน"
+    },
+    {
+      "Code": "S0724",
+      "English": "I have to go now.",
+      "Thai": "ฉันต้องไปแล้ว."
+    },
+    {
+      "Code": "S0725",
+      "English": "The train was crowded.",
+      "Thai": "รถไฟแออัด"
+    },
+    {
+      "Code": "S0726",
+      "English": "Tom was sick in bed last Sunday.",
+      "Thai": "ทอมป่วยอยู่บนเตียงเมื่อวันอาทิตย์ที่แล้ว"
+    },
+    {
+      "Code": "S0727",
+      "English": "What a beautiful flower!",
+      "Thai": "ช่างเป็นดอกไม้ที่สวยงามอะไรเช่นนี้!"
+    },
+    {
+      "Code": "S0728",
+      "English": "I want to talk to you.",
+      "Thai": "ฉันอยากคุยกับคุณ."
+    },
+    {
+      "Code": "S0729",
+      "English": "Let me go alone.",
+      "Thai": "ให้ฉันไปคนเดียว"
+    },
+    {
+      "Code": "S0730",
+      "English": "Do you have one?",
+      "Thai": "คุณมีหนึ่ง?"
+    },
+    {
+      "Code": "S0731",
+      "English": "He stopped the car.",
+      "Thai": "เขาหยุดรถ"
+    },
+    {
+      "Code": "S0732",
+      "English": "I fell asleep before my father came home.",
+      "Thai": "ฉันผล็อยหลับก่อนที่พ่อจะกลับบ้าน"
+    },
+    {
+      "Code": "S0733",
+      "English": "I need first aid.",
+      "Thai": "ฉันต้องการการปฐมพยาบาล"
+    },
+    {
+      "Code": "S0734",
+      "English": "Hold on to the rope.",
+      "Thai": "จับเชือกไว้."
+    },
+    {
+      "Code": "S0735",
+      "English": "Where's the restroom?",
+      "Thai": "ห้องน้ำอยู่ไหน?"
+    },
+    {
+      "Code": "S0736",
+      "English": "Has the movie started yet?",
+      "Thai": "หนังเริ่มยัง?"
+    },
+    {
+      "Code": "S0737",
+      "English": "He uses honey instead of sugar.",
+      "Thai": "เขาใช้น้ำผึ้งแทนน้ำตาล"
+    },
+    {
+      "Code": "S0738",
+      "English": "The policeman was off duty.",
+      "Thai": "ตำรวจก็ว่างงาน"
+    },
+    {
+      "Code": "S0739",
+      "English": "She is good at speaking English.",
+      "Thai": "เธอเก่งภาษาอังกฤษ"
+    },
+    {
+      "Code": "S0740",
+      "English": "I can ride a horse.",
+      "Thai": "ฉันสามารถขี่ม้าได้"
+    },
+    {
+      "Code": "S0741",
+      "English": "He was standing.",
+      "Thai": "เขากำลังยืนอยู่"
+    },
+    {
+      "Code": "S0742",
+      "English": "It seems warm outside.",
+      "Thai": "ข้างนอกดูอบอุ่น"
+    },
+    {
+      "Code": "S0743",
+      "English": "Asia is much larger than Australia.",
+      "Thai": "เอเชียมีขนาดใหญ่กว่าออสเตรเลียมาก"
+    },
+    {
+      "Code": "S0744",
+      "English": "Follow his example.",
+      "Thai": "ทำตามตัวอย่างของเขา"
+    },
+    {
+      "Code": "S0745",
+      "English": "Please follow me.",
+      "Thai": "โปรดติดตามฉัน"
+    },
+    {
+      "Code": "S0746",
+      "English": "That shop has many customers.",
+      "Thai": "ร้านนั้นมีลูกค้าเยอะ"
+    },
+    {
+      "Code": "S0747",
+      "English": "I have a pretty dog.",
+      "Thai": "ฉันมีสุนัขที่น่ารัก"
+    },
+    {
+      "Code": "S0748",
+      "English": "I listen to the radio every night.",
+      "Thai": "ฉันฟังวิทยุทุกคืน"
+    },
+    {
+      "Code": "S0749",
+      "English": "All of us were silent.",
+      "Thai": "พวกเราทุกคนเงียบ"
+    },
+    {
+      "Code": "S0750",
+      "English": "She is about to leave.",
+      "Thai": "เธอกำลังจะจากไป"
+    },
+    {
+      "Code": "S0751",
+      "English": "The shop was closed when I went there.",
+      "Thai": "ร้านปิดเมื่อฉันไปที่นั่น"
+    },
+    {
+      "Code": "S0752",
+      "English": "Please answer the phone.",
+      "Thai": "กรุณารับโทรศัพท์"
+    },
+    {
+      "Code": "S0753",
+      "English": "She'll do it in 24 hours.",
+      "Thai": "เธอจะทำมันใน 24 ชั่วโมง"
+    },
+    {
+      "Code": "S0754",
+      "English": "I have a bad headache.",
+      "Thai": "ฉันปวดหัวไม่ดี"
+    },
+    {
+      "Code": "S0755",
+      "English": "You must keep your room clean.",
+      "Thai": "คุณต้องรักษาห้องของคุณให้สะอาด"
+    },
+    {
+      "Code": "S0756",
+      "English": "These grapes are ripe.",
+      "Thai": "องุ่นเหล่านี้สุกแล้ว"
+    },
+    {
+      "Code": "S0757",
+      "English": "I'm glad you enjoyed it.",
+      "Thai": "ฉันดีใจที่คุณสนุกกับมัน"
+    },
+    {
+      "Code": "S0758",
+      "English": "I am happy.",
+      "Thai": "ผมมีความสุข."
+    },
+    {
+      "Code": "S0759",
+      "English": "The sooner, the better.",
+      "Thai": "ยิ่งเร็วได้ยิ่งดี."
+    },
+    {
+      "Code": "S0760",
+      "English": "It's a pity that you can't come.",
+      "Thai": "น่าเสียดายที่คุณมาไม่ได้"
+    },
+    {
+      "Code": "S0761",
+      "English": "Is he right?",
+      "Thai": "เขาพูดถูกไหม?"
+    },
+    {
+      "Code": "S0762",
+      "English": "He is popular among us.",
+      "Thai": "เขาเป็นที่นิยมในหมู่พวกเรา"
+    },
+    {
+      "Code": "S0763",
+      "English": "I got acquainted with her in France.",
+      "Thai": "ฉันรู้จักกับเธอที่ฝรั่งเศส"
+    },
+    {
+      "Code": "S0764",
+      "English": "He is capable of teaching French.",
+      "Thai": "เขามีความสามารถในการสอนภาษาฝรั่งเศส"
+    },
+    {
+      "Code": "S0765",
+      "English": "Nobody can break his record.",
+      "Thai": "ไม่มีใครสามารถทำลายสถิติของเขาได้"
+    },
+    {
+      "Code": "S0766",
+      "English": "I went hiking.",
+      "Thai": "ฉันไปเดินป่า"
+    },
+    {
+      "Code": "S0767",
+      "English": "I'd like to see you again next week.",
+      "Thai": "ฉันอยากเจอคุณอีกครั้งในสัปดาห์หน้า"
+    },
+    {
+      "Code": "S0768",
+      "English": "He described the scene in detail.",
+      "Thai": "เขาอธิบายฉากอย่างละเอียด"
+    },
+    {
+      "Code": "S0769",
+      "English": "Come and see me.",
+      "Thai": "มาดูฉัน"
+    },
+    {
+      "Code": "S0770",
+      "English": "Excuse me, who are you?",
+      "Thai": "ขอโทษนะ คุณเป็นใคร?"
+    },
+    {
+      "Code": "S0771",
+      "English": "She reluctantly went by herself.",
+      "Thai": "เธอไปเองอย่างไม่เต็มใจ"
+    },
+    {
+      "Code": "S0772",
+      "English": "Wait for a moment outside the room.",
+      "Thai": "รอสักครู่นอกห้อง"
+    },
+    {
+      "Code": "S0773",
+      "English": "We had lunch at noon.",
+      "Thai": "เราทานอาหารกลางวันตอนเที่ยง"
+    },
+    {
+      "Code": "S0774",
+      "English": "It was a dark night.",
+      "Thai": "มันเป็นคืนที่มืดมิด"
+    },
+    {
+      "Code": "S0775",
+      "English": "I wish I earned more money.",
+      "Thai": "ฉันหวังว่าฉันจะได้เงินมากขึ้น"
+    },
+    {
+      "Code": "S0776",
+      "English": "I have no money to buy the dictionary.",
+      "Thai": "ฉันไม่มีเงินซื้อพจนานุกรม"
+    },
+    {
+      "Code": "S0777",
+      "English": "It may rain tomorrow.",
+      "Thai": "พรุ่งนี้ฝนอาจตก"
+    },
+    {
+      "Code": "S0778",
+      "English": "Have you ever seen Tokyo Tower?",
+      "Thai": "คุณเคยเห็นโตเกียวทาวเวอร์หรือไม่?"
+    },
+    {
+      "Code": "S0779",
+      "English": "Please close the door quietly.",
+      "Thai": "กรุณาปิดประตูอย่างเงียบ ๆ"
+    },
+    {
+      "Code": "S0780",
+      "English": "My brother works in a bank.",
+      "Thai": "พี่ชายของฉันทำงานในธนาคาร"
+    },
+    {
+      "Code": "S0781",
+      "English": "It's a secret.",
+      "Thai": "มันเป็นความลับ."
+    },
+    {
+      "Code": "S0782",
+      "English": "Can you help me?",
+      "Thai": "คุณสามารถช่วยฉันได้ไหม?"
+    },
+    {
+      "Code": "S0783",
+      "English": "She rejected my proposal.",
+      "Thai": "เธอปฏิเสธข้อเสนอของฉัน"
+    },
+    {
+      "Code": "S0784",
+      "English": "I will be here from Monday to Thursday.",
+      "Thai": "ฉันจะอยู่ที่นี่ตั้งแต่วันจันทร์ถึงวันพฤหัสบดี"
+    },
+    {
+      "Code": "S0785",
+      "English": "She went from London to Paris.",
+      "Thai": "เธอเดินทางจากลอนดอนไปปารีส"
+    },
+    {
+      "Code": "S0786",
+      "English": "A majority voted against the bill.",
+      "Thai": "เสียงข้างมากลงคะแนนไม่เห็นด้วยกับร่างกฎหมาย"
+    },
+    {
+      "Code": "S0787",
+      "English": "They visit us from time to time.",
+      "Thai": "พวกเขามาเยี่ยมเราเป็นครั้งคราว"
+    },
+    {
+      "Code": "S0788",
+      "English": "He often makes people angry.",
+      "Thai": "เขามักจะทำให้คนโกรธ"
+    },
+    {
+      "Code": "S0789",
+      "English": "I regret having said so.",
+      "Thai": "ฉันเสียใจที่ต้องพูดแบบนั้น"
+    },
+    {
+      "Code": "S0790",
+      "English": "Is this your first trip abroad?",
+      "Thai": "นี่เป็นการเดินทางไปต่างประเทศครั้งแรกของคุณหรือเปล่า"
+    },
+    {
+      "Code": "S0791",
+      "English": "They greeted me with a smile.",
+      "Thai": "พวกเขาทักทายฉันด้วยรอยยิ้ม"
+    },
+    {
+      "Code": "S0792",
+      "English": "I guess that she is 40.",
+      "Thai": "ฉันเดาว่าเธออายุ 40"
+    },
+    {
+      "Code": "S0793",
+      "English": "He stopped to talk to them.",
+      "Thai": "เขาหยุดคุยกับพวกเขา"
+    },
+    {
+      "Code": "S0794",
+      "English": "She spoke as though nothing had happened.",
+      "Thai": "เธอพูดเหมือนไม่มีอะไรเกิดขึ้น"
+    },
+    {
+      "Code": "S0795",
+      "English": "She is practicing the violin now.",
+      "Thai": "ตอนนี้เธอกำลังฝึกไวโอลินอยู่"
+    },
+    {
+      "Code": "S0796",
+      "English": "They are pretty.",
+      "Thai": "พวกเขาสวย"
+    },
+    {
+      "Code": "S0797",
+      "English": "You should follow your doctor's advice.",
+      "Thai": "คุณควรปฏิบัติตามคำแนะนำของแพทย์"
+    },
+    {
+      "Code": "S0798",
+      "English": "This song is very popular in Japan.",
+      "Thai": "เพลงนี้ดังมากในญี่ปุ่น"
+    },
+    {
+      "Code": "S0799",
+      "English": "It is very cold today, isn't it?",
+      "Thai": "วันนี้อากาศหนาวมากใช่มั้ย?"
+    },
+    {
+      "Code": "S0800",
+      "English": "She told me she knew my brother.",
+      "Thai": "เธอบอกฉันว่าเธอรู้จักพี่ชายของฉัน"
+    },
+    {
+      "Code": "S0801",
+      "English": "Those are their books.",
+      "Thai": "นั่นคือหนังสือของพวกเขา"
+    },
+    {
+      "Code": "S0802",
+      "English": "I don't know where my watch is.",
+      "Thai": "ฉันไม่รู้ว่านาฬิกาของฉันอยู่ที่ไหน"
+    },
+    {
+      "Code": "S0803",
+      "English": "No one could solve the problem.",
+      "Thai": "ไม่มีใครสามารถแก้ปัญหาได้"
+    },
+    {
+      "Code": "S0804",
+      "English": "Thank you for today.",
+      "Thai": "ขอบคุณสำหรับวันนี้."
+    },
+    {
+      "Code": "S0805",
+      "English": "Hi! How are you?",
+      "Thai": "สวัสดี! เป็นอย่างไรบ้าง?"
+    },
+    {
+      "Code": "S0806",
+      "English": "My dream is to be a firefighter.",
+      "Thai": "ความฝันของฉันคือการเป็นนักผจญเพลิง"
+    },
+    {
+      "Code": "S0807",
+      "English": "Were you out last night?",
+      "Thai": "เมื่อคืนคุณออกไปข้างนอกหรือเปล่า"
+    },
+    {
+      "Code": "S0808",
+      "English": "My father's hobby is fishing.",
+      "Thai": "งานอดิเรกของพ่อคือตกปลา"
+    },
+    {
+      "Code": "S0809",
+      "English": "I saw a cat running after the dog.",
+      "Thai": "ฉันเห็นแมววิ่งตามสุนัข"
+    },
+    {
+      "Code": "S0810",
+      "English": "See if the gas is turned off.",
+      "Thai": "ดูว่าแก๊สปิดอยู่หรือไม่"
+    },
+    {
+      "Code": "S0811",
+      "English": "This table is reserved.",
+      "Thai": "ตารางนี้ถูกสงวนไว้"
+    },
+    {
+      "Code": "S0812",
+      "English": "Nothing is missing.",
+      "Thai": "ไม่มีอะไรหายไป"
+    },
+    {
+      "Code": "S0813",
+      "English": "Everybody loves music.",
+      "Thai": "ทุกคนรักดนตรี"
+    },
+    {
+      "Code": "S0814",
+      "English": "It tasted sweet.",
+      "Thai": "มันมีรสหวาน"
+    },
+    {
+      "Code": "S0815",
+      "English": "I've met him on several occasions.",
+      "Thai": "ฉันเคยเจอเขาหลายครั้ง"
+    },
+    {
+      "Code": "S0816",
+      "English": "I can understand him perfectly.",
+      "Thai": "ฉันสามารถเข้าใจเขาอย่างสมบูรณ์"
+    },
+    {
+      "Code": "S0817",
+      "English": "This is Mary's dog.",
+      "Thai": "นี่คือสุนัขของแมรี่"
+    },
+    {
+      "Code": "S0818",
+      "English": "You may go there.",
+      "Thai": "คุณอาจจะไปที่นั่น"
+    },
+    {
+      "Code": "S0819",
+      "English": "Your dog always barks at me.",
+      "Thai": "สุนัขของคุณมักจะเห่าใส่ฉัน"
+    },
+    {
+      "Code": "S0820",
+      "English": "What do you do?",
+      "Thai": "คุณทำงานอะไร?"
+    },
+    {
+      "Code": "S0821",
+      "English": "You have a little fever today, don't you?",
+      "Thai": "วันนี้คุณมีไข้เล็กน้อยใช่ไหม"
+    },
+    {
+      "Code": "S0822",
+      "English": "I'd like to send this package to Japan.",
+      "Thai": "ฉันต้องการส่งพัสดุนี้ไปญี่ปุ่น"
+    },
+    {
+      "Code": "S0823",
+      "English": "He comes back from Sydney today.",
+      "Thai": "เขากลับมาจากซิดนีย์วันนี้"
+    },
+    {
+      "Code": "S0824",
+      "English": "Those books are mine.",
+      "Thai": "หนังสือเหล่านั้นเป็นของฉัน"
+    },
+    {
+      "Code": "S0825",
+      "English": "We will never agree.",
+      "Thai": "เราจะไม่มีวันตกลง"
+    },
+    {
+      "Code": "S0826",
+      "English": "The dog walked across the street.",
+      "Thai": "สุนัขเดินข้ามถนน"
+    },
+    {
+      "Code": "S0827",
+      "English": "When would it be convenient for you?",
+      "Thai": "เมื่อไหร่จะสะดวกสำหรับคุณ?"
+    },
+    {
+      "Code": "S0828",
+      "English": "Wouldn't you like another glass of beer?",
+      "Thai": "รับเบียร์อีกสักแก้วมั้ยคะ?"
+    },
+    {
+      "Code": "S0829",
+      "English": "The knife is not sharp.",
+      "Thai": "มีดไม่คม."
+    },
+    {
+      "Code": "S0830",
+      "English": "Don't make a mistake.",
+      "Thai": "อย่าทำผิดพลาด"
+    },
+    {
+      "Code": "S0831",
+      "English": "The dog was digging a hole.",
+      "Thai": "สุนัขกำลังขุดหลุม"
+    },
+    {
+      "Code": "S0832",
+      "English": "When was it built?",
+      "Thai": "มันถูกสร้างขึ้นเมื่อไหร่?"
+    },
+    {
+      "Code": "S0833",
+      "English": "He didn't answer my question.",
+      "Thai": "เขาไม่ตอบคำถามของฉัน"
+    },
+    {
+      "Code": "S0834",
+      "English": "Can you come for dinner tonight?",
+      "Thai": "คืนนี้คุณมาทานอาหารเย็นได้ไหม"
+    },
+    {
+      "Code": "S0835",
+      "English": "The cat is very cute.",
+      "Thai": "แมวน่ารักมาก"
+    },
+    {
+      "Code": "S0836",
+      "English": "Come and help us.",
+      "Thai": "มาช่วยพวกเราด้วย"
+    },
+    {
+      "Code": "S0837",
+      "English": "Do you know when she will come?",
+      "Thai": "คุณรู้ไหมว่าเธอจะมาเมื่อไหร่?"
+    },
+    {
+      "Code": "S0838",
+      "English": "What is your address?",
+      "Thai": "ที่อยู่ของคุณคืออะไร?"
+    },
+    {
+      "Code": "S0839",
+      "English": "Your bath is ready.",
+      "Thai": "การอาบน้ำของคุณพร้อมแล้ว"
+    },
+    {
+      "Code": "S0840",
+      "English": "Every student has access to the library.",
+      "Thai": "นักเรียนทุกคนสามารถเข้าใช้ห้องสมุดได้"
+    },
+    {
+      "Code": "S0841",
+      "English": "Don't spill the beans.",
+      "Thai": "อย่าทำถั่วหก"
+    },
+    {
+      "Code": "S0842",
+      "English": "He went to a fruit store first.",
+      "Thai": "เขาไปร้านขายผลไม้ก่อน"
+    },
+    {
+      "Code": "S0843",
+      "English": "He was right after all.",
+      "Thai": "เขาพูดถูก"
+    },
+    {
+      "Code": "S0844",
+      "English": "Have you ever been to Tokyo?",
+      "Thai": "คุณเคยไปโตเกียวหรือไม่?"
+    },
+    {
+      "Code": "S0845",
+      "English": "This beer is not cold enough.",
+      "Thai": "เบียร์นี้ไม่เย็นพอ"
+    },
+    {
+      "Code": "S0846",
+      "English": "Where do you want to go?",
+      "Thai": "คุณอยากไปที่ไหน?"
+    },
+    {
+      "Code": "S0847",
+      "English": "I'm gaining weight.",
+      "Thai": "ฉันกำลังมีน้ำหนักขึ้น"
+    },
+    {
+      "Code": "S0848",
+      "English": "Don't drop that cup.",
+      "Thai": "อย่าทำถ้วยนั้นหล่น"
+    },
+    {
+      "Code": "S0849",
+      "English": "I have a tourist visa.",
+      "Thai": "ฉันมีวีซ่าท่องเที่ยว"
+    },
+    {
+      "Code": "S0850",
+      "English": "She wants to be a designer.",
+      "Thai": "เธออยากเป็นนักออกแบบ"
+    },
+    {
+      "Code": "S0851",
+      "English": "Few students knew his name.",
+      "Thai": "มีนักเรียนไม่กี่คนที่รู้จักชื่อของเขา"
+    },
+    {
+      "Code": "S0852",
+      "English": "I hurried in order to catch the first train.",
+      "Thai": "ฉันรีบไปขึ้นรถไฟขบวนแรก"
+    },
+    {
+      "Code": "S0853",
+      "English": "When do you play tennis?",
+      "Thai": "คุณเล่นเทนนิสเมื่อไหร่"
+    },
+    {
+      "Code": "S0854",
+      "English": "I'm learning music.",
+      "Thai": "ฉันกำลังเรียนดนตรี"
+    },
+    {
+      "Code": "S0855",
+      "English": "I don't feel like eating out this evening.",
+      "Thai": "ฉันไม่อยากออกไปกินข้าวเย็นนี้"
+    },
+    {
+      "Code": "S0856",
+      "English": "I can swim well.",
+      "Thai": "ฉันสามารถว่ายน้ำได้ดี"
+    },
+    {
+      "Code": "S0857",
+      "English": "He speaks French.",
+      "Thai": "เขาพูดภาษาฝรั่งเศส"
+    },
+    {
+      "Code": "S0858",
+      "English": "That bridge is anything but safe.",
+      "Thai": "สะพานนั้นปลอดภัยกว่า"
+    },
+    {
+      "Code": "S0859",
+      "English": "I like that young man.",
+      "Thai": "ฉันชอบหนุ่มคนนั้น"
+    },
+    {
+      "Code": "S0860",
+      "English": "I didn't take part in the conversation.",
+      "Thai": "ฉันไม่ได้มีส่วนร่วมในการสนทนา"
+    },
+    {
+      "Code": "S0861",
+      "English": "Would you like me to help you?",
+      "Thai": "คุณต้องการให้ฉันช่วยคุณไหม"
+    },
+    {
+      "Code": "S0862",
+      "English": "One of these two answers is right.",
+      "Thai": "หนึ่งในสองคำตอบนี้ถูกต้อง"
+    },
+    {
+      "Code": "S0863",
+      "English": "He sent a card to Mary.",
+      "Thai": "เขาส่งการ์ดให้แมรี่"
+    },
+    {
+      "Code": "S0864",
+      "English": "I have many things to do.",
+      "Thai": "ฉันมีหลายสิ่งที่ต้องทำ"
+    },
+    {
+      "Code": "S0865",
+      "English": "I'd like to call my parents.",
+      "Thai": "ฉันอยากโทรหาพ่อแม่"
+    },
+    {
+      "Code": "S0866",
+      "English": "I'll be back in a wink.",
+      "Thai": "ฉันจะกลับมาในพริบตา"
+    },
+    {
+      "Code": "S0867",
+      "English": "He explained the matter to me.",
+      "Thai": "เขาอธิบายเรื่องนี้ให้ฉันฟัง"
+    },
+    {
+      "Code": "S0868",
+      "English": "I don't like coffee.",
+      "Thai": "ฉันไม่ชอบกาแฟ"
+    },
+    {
+      "Code": "S0869",
+      "English": "The school is two kilometers ahead.",
+      "Thai": "โรงเรียนอยู่ข้างหน้าสองกิโลเมตร"
+    },
+    {
+      "Code": "S0870",
+      "English": "Can you run fast?",
+      "Thai": "วิ่งเร็วได้ไหม"
+    },
+    {
+      "Code": "S0871",
+      "English": "He was sitting between Mary and Tom.",
+      "Thai": "เขานั่งอยู่ระหว่างแมรี่กับทอม"
+    },
+    {
+      "Code": "S0872",
+      "English": "It's your turn to sing.",
+      "Thai": "ถึงคราวของคุณที่จะร้องเพลง"
+    },
+    {
+      "Code": "S0873",
+      "English": "These products are selling like hot cakes.",
+      "Thai": "ผลิตภัณฑ์เหล่านี้ขายเหมือนเค้กร้อน"
+    },
+    {
+      "Code": "S0874",
+      "English": "I didn't go to school last month.",
+      "Thai": "ฉันไม่ได้ไปโรงเรียนเดือนที่แล้ว"
+    },
+    {
+      "Code": "S0875",
+      "English": "Let's have lunch.",
+      "Thai": "ทานอาหารกลางวันกันเถอะ"
+    },
+    {
+      "Code": "S0876",
+      "English": "I'm still busy.",
+      "Thai": "ฉันยังยุ่งอยู่"
+    },
+    {
+      "Code": "S0877",
+      "English": "Don't be so angry.",
+      "Thai": "อย่าโกรธเลย"
+    },
+    {
+      "Code": "S0878",
+      "English": "We found out where he lives.",
+      "Thai": "เราพบว่าเขาอาศัยอยู่ที่ไหน"
+    },
+    {
+      "Code": "S0879",
+      "English": "Bread is made from wheat.",
+      "Thai": "ขนมปังทำมาจากข้าวสาลี"
+    },
+    {
+      "Code": "S0880",
+      "English": "His aim is to become a doctor.",
+      "Thai": "เป้าหมายของเขาคือการเป็นหมอ"
+    },
+    {
+      "Code": "S0881",
+      "English": "May I go to the movies tonight?",
+      "Thai": "ฉันขอไปดูหนังคืนนี้ได้ไหม"
+    },
+    {
+      "Code": "S0882",
+      "English": "He is trusted by his parents.",
+      "Thai": "เขาได้รับความไว้วางใจจากพ่อแม่ของเขา"
+    },
+    {
+      "Code": "S0883",
+      "English": "I quit smoking two years ago.",
+      "Thai": "ฉันเลิกบุหรี่เมื่อสองปีที่แล้ว"
+    },
+    {
+      "Code": "S0884",
+      "English": "He was born in Africa.",
+      "Thai": "เขาเกิดในแอฟริกา"
+    },
+    {
+      "Code": "S0885",
+      "English": "This bridge was built two years ago.",
+      "Thai": "สะพานนี้สร้างเมื่อสองปีที่แล้ว"
+    },
+    {
+      "Code": "S0886",
+      "English": "I asked him to start at once.",
+      "Thai": "ฉันขอให้เขาเริ่มทันที"
+    },
+    {
+      "Code": "S0887",
+      "English": "We moved into a new house.",
+      "Thai": "เราย้ายเข้าบ้านใหม่"
+    },
+    {
+      "Code": "S0888",
+      "English": "Why were you absent yesterday?",
+      "Thai": "ทำไมเมื่อวานคุณไม่อยู่"
+    },
+    {
+      "Code": "S0889",
+      "English": "I wish I had a house of my own.",
+      "Thai": "ฉันอยากมีบ้านเป็นของตัวเอง"
+    },
+    {
+      "Code": "S0890",
+      "English": "I would like to eat sushi.",
+      "Thai": "ฉันอยากกินซูชิ"
+    },
+    {
+      "Code": "S0891",
+      "English": "This blouse is cotton.",
+      "Thai": "เสื้อตัวนี้เป็นผ้าฝ้าย"
+    },
+    {
+      "Code": "S0892",
+      "English": "Tell me what you want.",
+      "Thai": "บอกฉันว่าคุณต้องการอะไร"
+    },
+    {
+      "Code": "S0893",
+      "English": "I don't like her.",
+      "Thai": "ฉันไม่ชอบเธอ"
+    },
+    {
+      "Code": "S0894",
+      "English": "I will do it myself.",
+      "Thai": "ฉันจะทำมันเอง"
+    },
+    {
+      "Code": "S0895",
+      "English": "She has been absent from school for five days.",
+      "Thai": "เธอขาดเรียนเป็นเวลาห้าวัน"
+    },
+    {
+      "Code": "S0896",
+      "English": "I speak a little Japanese.",
+      "Thai": "ฉันพูดภาษาญี่ปุ่นได้นิดหน่อย"
+    },
+    {
+      "Code": "S0897",
+      "English": "This is the biggest cat that I've ever seen.",
+      "Thai": "นี่คือแมวที่ใหญ่ที่สุดที่ฉันเคยเห็น"
+    },
+    {
+      "Code": "S0898",
+      "English": "I'll do my best.",
+      "Thai": "ฉันจะทำให้ดีที่สุด."
+    },
+    {
+      "Code": "S0899",
+      "English": "Would you please turn down the TV?",
+      "Thai": "คุณช่วยกรุณาปิดทีวีหน่อยได้ไหม"
+    },
+    {
+      "Code": "S0900",
+      "English": "How old is your grandfather?",
+      "Thai": "คุณปู่ของคุณอายุเท่าไหร่"
+    },
+    {
+      "Code": "S0901",
+      "English": "A turkey is a little bigger than a chicken.",
+      "Thai": "ไก่งวงตัวใหญ่กว่าไก่เล็กน้อย"
+    },
+    {
+      "Code": "S0902",
+      "English": "Do as you like.",
+      "Thai": "ทำตามที่คุณต้องการ"
+    },
+    {
+      "Code": "S0903",
+      "English": "All our plans went wrong.",
+      "Thai": "แผนทั้งหมดของเราผิดพลาด"
+    },
+    {
+      "Code": "S0904",
+      "English": "How's business?",
+      "Thai": "ธุรกิจเป็นอย่างไร?"
+    },
+    {
+      "Code": "S0905",
+      "English": "What is the name of that river?",
+      "Thai": "แม่น้ำสายนั้นชื่ออะไร?"
+    },
+    {
+      "Code": "S0906",
+      "English": "She follows her brother wherever he goes.",
+      "Thai": "เธอติดตามพี่ชายของเธอทุกที่ที่เขาไป"
+    },
+    {
+      "Code": "S0907",
+      "English": "He ran into the room.",
+      "Thai": "เขาวิ่งเข้าไปในห้อง"
+    },
+    {
+      "Code": "S0908",
+      "English": "I had lost my pen.",
+      "Thai": "ฉันทำปากกาหาย"
+    },
+    {
+      "Code": "S0909",
+      "English": "The box is made of wood.",
+      "Thai": "ตัวกล่องทำจากไม้"
+    },
+    {
+      "Code": "S0910",
+      "English": "What is in this box?",
+      "Thai": "อะไรอยู่ในกล่องนี้?"
+    },
+    {
+      "Code": "S0911",
+      "English": "He knows a lot about animals.",
+      "Thai": "เขารู้เรื่องสัตว์มากมาย"
+    },
+    {
+      "Code": "S0912",
+      "English": "She adores cats.",
+      "Thai": "เธอรักแมว"
+    },
+    {
+      "Code": "S0913",
+      "English": "Whose bag is this?",
+      "Thai": "นี้คือกระเป๋าของใคร?"
+    },
+    {
+      "Code": "S0914",
+      "English": "What are you going to do?",
+      "Thai": "คุณกำลังจะทำอะไร?"
+    },
+    {
+      "Code": "S0915",
+      "English": "The milk tastes sour.",
+      "Thai": "นมมีรสเปรี้ยว"
+    },
+    {
+      "Code": "S0916",
+      "English": "It is going to rain this afternoon.",
+      "Thai": "บ่ายนี้ฝนจะตก"
+    },
+    {
+      "Code": "S0917",
+      "English": "My little brother can read English.",
+      "Thai": "น้องชายของฉันสามารถอ่านภาษาอังกฤษได้"
+    },
+    {
+      "Code": "S0918",
+      "English": "I can't lift my right arm.",
+      "Thai": "ยกแขนขวาไม่ได้"
+    },
+    {
+      "Code": "S0919",
+      "English": "Sugar dissolves in water.",
+      "Thai": "น้ำตาลละลายในน้ำ"
+    },
+    {
+      "Code": "S0920",
+      "English": "I felt hungry.",
+      "Thai": "ฉันรู้สึกหิว"
+    },
+    {
+      "Code": "S0921",
+      "English": "Tom goes to school on foot.",
+      "Thai": "ทอมไปโรงเรียนด้วยการเดินเท้า"
+    },
+    {
+      "Code": "S0922",
+      "English": "I told him to come.",
+      "Thai": "ฉันบอกให้เขามา"
+    },
+    {
+      "Code": "S0923",
+      "English": "We lost the game.",
+      "Thai": "เราแพ้เกม"
+    },
+    {
+      "Code": "S0924",
+      "English": "Don't turn off the light.",
+      "Thai": "อย่าปิดไฟ"
+    },
+    {
+      "Code": "S0925",
+      "English": "Let's finish it right away.",
+      "Thai": "มาทำให้เสร็จทันที"
+    },
+    {
+      "Code": "S0926",
+      "English": "You like English, don't you?",
+      "Thai": "คุณชอบภาษาอังกฤษใช่ไหม"
+    },
+    {
+      "Code": "S0927",
+      "English": "Will you show me your photo album?",
+      "Thai": "คุณจะแสดงอัลบั้มรูปของคุณให้ฉันดูไหม"
+    },
+    {
+      "Code": "S0928",
+      "English": "This is what I was waiting for.",
+      "Thai": "นี่คือสิ่งที่ผมรอคอย"
+    },
+    {
+      "Code": "S0929",
+      "English": "It is Monday today.",
+      "Thai": "วันนี้เป็นวันจันทร์"
+    },
+    {
+      "Code": "S0930",
+      "English": "Not all of us can speak English.",
+      "Thai": "เราทุกคนไม่สามารถพูดภาษาอังกฤษได้"
+    },
+    {
+      "Code": "S0931",
+      "English": "Something's wrong with my e-mail.",
+      "Thai": "มีบางอย่างผิดปกติกับอีเมลของฉัน"
+    },
+    {
+      "Code": "S0932",
+      "English": "You must study hard.",
+      "Thai": "คุณต้องเรียนหนัก"
+    },
+    {
+      "Code": "S0933",
+      "English": "I want to send this letter to Japan.",
+      "Thai": "ฉันต้องการส่งจดหมายฉบับนี้ไปยังประเทศญี่ปุ่น"
+    },
+    {
+      "Code": "S0934",
+      "English": "Many of us were tired.",
+      "Thai": "พวกเราหลายคนเหนื่อย"
+    },
+    {
+      "Code": "S0935",
+      "English": "I can't swim.",
+      "Thai": "ฉันว่ายน้ำไม่เป็น"
+    },
+    {
+      "Code": "S0936",
+      "English": "You are no younger than I am.",
+      "Thai": "คุณอายุน้อยกว่าฉัน"
+    },
+    {
+      "Code": "S0937",
+      "English": "Few people can speak a foreign language perfectly.",
+      "Thai": "ไม่กี่คนที่สามารถพูดภาษาต่างประเทศได้อย่างสมบูรณ์แบบ"
+    },
+    {
+      "Code": "S0938",
+      "English": "He overcame many difficulties.",
+      "Thai": "เขาเอาชนะความยากลำบากมากมาย"
+    },
+    {
+      "Code": "S0939",
+      "English": "I'm not a student.",
+      "Thai": "ฉันไม่ใช่นักเรียน"
+    },
+    {
+      "Code": "S0940",
+      "English": "Why do you say that?",
+      "Thai": "ทำไมคุณพูดแบบนั้น?"
+    },
+    {
+      "Code": "S0941",
+      "English": "You look pale today.",
+      "Thai": "วันนี้คุณดูซีด"
+    },
+    {
+      "Code": "S0942",
+      "English": "They went to the zoo by bus yesterday.",
+      "Thai": "พวกเขาไปสวนสัตว์โดยรถบัสเมื่อวานนี้"
+    },
+    {
+      "Code": "S0943",
+      "English": "The box is almost empty.",
+      "Thai": "กล่องเกือบจะว่างเปล่า"
+    },
+    {
+      "Code": "S0944",
+      "English": "How many books do you have?",
+      "Thai": "คุณมีหนังสืออยู่กี่เล่ม?"
+    },
+    {
+      "Code": "S0945",
+      "English": "She has a daughter who is a pianist.",
+      "Thai": "เธอมีลูกสาวที่เป็นนักเปียโน"
+    },
+    {
+      "Code": "S0946",
+      "English": "I helped her wash dishes.",
+      "Thai": "ฉันช่วยเธอล้างจาน"
+    },
+    {
+      "Code": "S0947",
+      "English": "Name and address, please.",
+      "Thai": "ขอชื่อและที่อยู่ครับ"
+    },
+    {
+      "Code": "S0948",
+      "English": "He is a good violinist.",
+      "Thai": "เขาเป็นนักไวโอลินที่ดี"
+    },
+    {
+      "Code": "S0949",
+      "English": "He plays golf on weekends.",
+      "Thai": "เขาเล่นกอล์ฟในวันหยุดสุดสัปดาห์"
+    },
+    {
+      "Code": "S0950",
+      "English": "Everybody wants to be happy.",
+      "Thai": "ทุกคนก็อยากมีความสุข"
+    },
+    {
+      "Code": "S0951",
+      "English": "I'm planning to study tonight.",
+      "Thai": "ฉันกำลังวางแผนจะไปเรียนคืนนี้"
+    },
+    {
+      "Code": "S0952",
+      "English": "What do you have?",
+      "Thai": "คุณมีอะไร?"
+    },
+    {
+      "Code": "S0953",
+      "English": "The brake didn't work.",
+      "Thai": "เบรกไม่ทำงาน"
+    },
+    {
+      "Code": "S0954",
+      "English": "The telephone rang several times.",
+      "Thai": "โทรศัพท์ดังขึ้นหลายครั้ง"
+    },
+    {
+      "Code": "S0955",
+      "English": "I am beginning to remember it.",
+      "Thai": "ฉันเริ่มจำมันได้แล้ว"
+    },
+    {
+      "Code": "S0956",
+      "English": "I felt very happy.",
+      "Thai": "ฉันรู้สึกมีความสุขมาก"
+    },
+    {
+      "Code": "S0957",
+      "English": "I raised my hand to ask a question.",
+      "Thai": "ฉันยกมือขึ้นเพื่อถามคำถาม"
+    },
+    {
+      "Code": "S0958",
+      "English": "What are you doing?",
+      "Thai": "คุณกำลังทำอะไรอยู่?"
+    },
+    {
+      "Code": "S0959",
+      "English": "I neither smoke nor drink.",
+      "Thai": "ฉันไม่สูบบุหรี่และไม่ดื่ม"
+    },
+    {
+      "Code": "S0960",
+      "English": "My house is big.",
+      "Thai": "บ้านของฉันมีขนาดใหญ่."
+    },
+    {
+      "Code": "S0961",
+      "English": "He does not know English, much less French.",
+      "Thai": "เขาไม่รู้ภาษาอังกฤษ ภาษาฝรั่งเศสน้อยกว่ามาก"
+    },
+    {
+      "Code": "S0962",
+      "English": "I belong to the baseball team.",
+      "Thai": "ฉันอยู่ในทีมเบสบอล"
+    },
+    {
+      "Code": "S0963",
+      "English": "I want to marry you.",
+      "Thai": "ฉันอยากแต่งงานกับคุณ."
+    },
+    {
+      "Code": "S0964",
+      "English": "We have had plenty of snow this year.",
+      "Thai": "ปีนี้หิมะตกหนักมาก"
+    },
+    {
+      "Code": "S0965",
+      "English": "Please make the bed.",
+      "Thai": "กรุณาจัดเตียงให้เรียบร้อย."
+    },
+    {
+      "Code": "S0966",
+      "English": "My room faces east.",
+      "Thai": "ห้องของฉันหันไปทางทิศตะวันออก"
+    },
+    {
+      "Code": "S0967",
+      "English": "I have a headache.",
+      "Thai": "ฉันปวดหัว."
+    },
+    {
+      "Code": "S0968",
+      "English": "The girl's eyes were filled with tears.",
+      "Thai": "ดวงตาของหญิงสาวเต็มไปด้วยน้ำตา"
+    },
+    {
+      "Code": "S0969",
+      "English": "My money was stolen.",
+      "Thai": "เงินของฉันถูกขโมย"
+    },
+    {
+      "Code": "S0970",
+      "English": "He seems honest.",
+      "Thai": "เขาดูเหมือนซื่อสัตย์"
+    },
+    {
+      "Code": "S0971",
+      "English": "How did you come to know each other?",
+      "Thai": "รู้จักกันได้ยังไง?"
+    },
+    {
+      "Code": "S0972",
+      "English": "Her books sell pretty well.",
+      "Thai": "หนังสือของเธอขายดีทีเดียว"
+    },
+    {
+      "Code": "S0973",
+      "English": "His English is quite good.",
+      "Thai": "ภาษาอังกฤษของเขาค่อนข้างดี"
+    },
+    {
+      "Code": "S0974",
+      "English": "There is a fork missing.",
+      "Thai": "มีส้อมหายไป"
+    },
+    {
+      "Code": "S0975",
+      "English": "He lives next to me.",
+      "Thai": "เขาอาศัยอยู่ถัดจากฉัน"
+    },
+    {
+      "Code": "S0976",
+      "English": "All the flowers in the garden are yellow.",
+      "Thai": "ดอกไม้ทั้งหมดในสวนมีสีเหลือง"
+    },
+    {
+      "Code": "S0977",
+      "English": "They live downstairs.",
+      "Thai": "พวกเขาอาศัยอยู่ชั้นล่าง"
+    },
+    {
+      "Code": "S0978",
+      "English": "I'd like to see your sister.",
+      "Thai": "ฉันอยากเห็นพี่สาวของคุณ"
+    },
+    {
+      "Code": "S0979",
+      "English": "Nothing remained in the refrigerator.",
+      "Thai": "ไม่มีอะไรเหลืออยู่ในตู้เย็น"
+    },
+    {
+      "Code": "S0980",
+      "English": "Keep your room clean.",
+      "Thai": "รักษาห้องของคุณให้สะอาด"
+    },
+    {
+      "Code": "S0981",
+      "English": "It seems to me that he is honest.",
+      "Thai": "สำหรับฉันดูเหมือนว่าเขาจะซื่อสัตย์"
+    },
+    {
+      "Code": "S0982",
+      "English": "She is carrying a backpack on her back.",
+      "Thai": "เธอแบกเป้สะพายหลัง"
+    },
+    {
+      "Code": "S0983",
+      "English": "I awoke from a dream.",
+      "Thai": "ฉันตื่นจากความฝัน"
+    },
+    {
+      "Code": "S0984",
+      "English": "A mosquito just bit me.",
+      "Thai": "ยุงแค่กัดฉัน"
+    },
+    {
+      "Code": "S0985",
+      "English": "He was elected president.",
+      "Thai": "เขาได้รับเลือกเป็นประธานาธิบดี"
+    },
+    {
+      "Code": "S0986",
+      "English": "No news is good news.",
+      "Thai": "ไม่มีข่าวเป็นข่าวดี"
+    },
+    {
+      "Code": "S0987",
+      "English": "A horse runs quickly.",
+      "Thai": "ม้าวิ่งอย่างรวดเร็ว"
+    },
+    {
+      "Code": "S0988",
+      "English": "Since I was thirsty, I drank water.",
+      "Thai": "เนื่องจากฉันกระหายน้ำ ฉันจึงดื่มน้ำ"
+    },
+    {
+      "Code": "S0989",
+      "English": "I'm not in favor of such a plan.",
+      "Thai": "ฉันไม่ชอบแผนดังกล่าว"
+    },
+    {
+      "Code": "S0990",
+      "English": "He laughed in spite of himself.",
+      "Thai": "เขาหัวเราะทั้งๆที่ตัวเอง"
+    },
+    {
+      "Code": "S0991",
+      "English": "We will keep it for you until you leave.",
+      "Thai": "เราจะเก็บไว้ให้คุณจนกว่าคุณจะจากไป"
+    },
+    {
+      "Code": "S0992",
+      "English": "I can't stop laughing.",
+      "Thai": "ฉันหยุดหัวเราะไม่ได้"
+    },
+    {
+      "Code": "S0993",
+      "English": "I have a black and white dog.",
+      "Thai": "ฉันมีสุนัขสีดำและสีขาว"
+    },
+    {
+      "Code": "S0994",
+      "English": "I mean no harm.",
+      "Thai": "ฉันหมายถึงไม่มีอันตราย"
+    },
+    {
+      "Code": "S0995",
+      "English": "She got up at seven in the morning.",
+      "Thai": "เธอตื่นนอนตอนเจ็ดโมงเช้า"
+    },
+    {
+      "Code": "S0996",
+      "English": "You left your lights on.",
+      "Thai": "คุณเปิดไฟทิ้งไว้"
+    },
+    {
+      "Code": "S0997",
+      "English": "He is a kind boy.",
+      "Thai": "เขาเป็นเด็กผู้ชายที่ใจดี"
+    },
+    {
+      "Code": "S0998",
+      "English": "I'll be absent tomorrow.",
+      "Thai": "พรุ่งนี้ฉันไม่อยู่"
+    },
+    {
+      "Code": "S0999",
+      "English": "She decided not to attend the meeting.",
+      "Thai": "เธอตัดสินใจไม่เข้าร่วมการประชุม"
+    },
+    {
+      "Code": "S1000",
+      "English": "What are you interested in?",
+      "Thai": "สิ่งที่คุณมีความสนใจมีอะไรบ้าง?"
+    }
+]
