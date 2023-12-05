@@ -1,102 +1,1002 @@
 [
-    {
-      "Id": 100001,
-      "English": "We sat down face to face.",
-      "Thai": "เรานั่งลงเผชิญหน้ากัน"
-    },
-    {
-      "Id": 100002,
-      "English": "You can go to the station by bus.",
-      "Thai": "คุณสามารถไปที่สถานีโดยรถประจำทาง"
-    },
-    {
-      "Id": 100003,
-      "English": "Winter in New York can be very cold.",
-      "Thai": "ฤดูหนาวในนิวยอร์กอาจมีอากาศหนาวจัด"
-    },
-    {
-      "Id": 100004,
-      "English": "I nearly made a mistake.",
-      "Thai": "ฉันเกือบจะทำผิดพลาด"
-    },
-    {
-      "Id": 100005,
-      "English": "We live near a big library.",
-      "Thai": "เราอยู่ใกล้ห้องสมุดใหญ่"
-    },
-    {
-      "Id": 100006,
-      "English": "She hung the calendar on the wall.",
-      "Thai": "เธอแขวนปฏิทินไว้บนผนัง"
-    },
-    {
-      "Id": 100007,
-      "English": "It took five minutes to get to the station.",
-      "Thai": "ใช้เวลาห้านาทีเพื่อไปยังสถานี"
-    },
-    {
-      "Id": 100008,
-      "English": "Come again tomorrow.",
-      "Thai": "พรุ่งนี้ค่อยมาใหม่"
-    },
-    {
-      "Id": 100009,
-      "English": "She plays the guitar.",
-      "Thai": "เธอเล่นกีตาร์"
-    },
-    {
-      "Id": 100010,
-      "English": "He does not smoke.",
-      "Thai": "เขาไม่สูบบุหรี่"
-    },
-    {
-      "Id": 100011,
-      "English": "The weather is usually hot in July.",
-      "Thai": "อากาศมักจะร้อนในเดือนกรกฎาคม"
-    },
-    {
-      "Id": 100012,
-      "English": "I don't like this jacket.",
-      "Thai": "ฉันไม่ชอบแจ็คเก็ตนี้"
-    },
-    {
-      "Id": 100013,
-      "English": "You look sick.",
-      "Thai": "คุณดูป่วย"
-    },
-    {
-      "Id": 100014,
-      "English": "Shut your mouth.",
-      "Thai": "หุบปาก"
-    },
-    {
-      "Id": 100015,
-      "English": "These aren't my books.",
-      "Thai": "นี่ไม่ใช่หนังสือของฉัน"
-    },
-    {
-      "Id": 100016,
-      "English": "Have you finished reading the novel?",
-      "Thai": "คุณอ่านนิยายจบหรือยัง"
-    },
-    {
-      "Id": 100017,
-      "English": "Who will look after your dog?",
-      "Thai": "ใครจะดูแลสุนัขของคุณ?"
-    },
-    {
-      "Id": 100018,
-      "English": "He broke the world record.",
-      "Thai": "เขาทำลายสถิติโลก"
-    },
-    {
-      "Id": 100019,
-      "English": "Aren't you thirsty?",
-      "Thai": "คุณไม่กระหายน้ำหรอ"
-    },
-    {
-      "Id": 100020,
-      "English": "He wants to see us again.",
-      "Thai": "เขาต้องการพบเราอีกครั้ง"
-    }
-  ]
+  {
+    "id": 1001,
+    "English": "The boy eats an apple",
+    "Thai": "เด็กชายกินแอปเปิ้ล"
+  },
+  {
+    "id": 1002,
+    "English": "The cat drinks milk",
+    "Thai": "แมวดื่มนม"
+  },
+  {
+    "id": 1003,
+    "English": "She writes a letter",
+    "Thai": "เธอเขียนจดหมาย"
+  },
+  {
+    "id": 1004,
+    "English": "He loves his family",
+    "Thai": "เขารักครอบครัวของเขา"
+  },
+  {
+    "id": 1005,
+    "English": "The children are playing",
+    "Thai": "เด็กๆกำลังเล่น"
+  },
+  {
+    "id": 1006,
+    "English": "She is a good writer",
+    "Thai": "เธอเป็นนักเขียนที่ดี"
+  },
+  {
+    "id": 1007,
+    "English": "The weather is cold in winter",
+    "Thai": "อากาศหนาวในฤดูหนาว"
+  },
+  {
+    "id": 1008,
+    "English": "The young girl reads a book",
+    "Thai": "เด็กสาวอ่านหนังสือ"
+  },
+  {
+    "id": 1009,
+    "English": "The baby sleeps in the morning",
+    "Thai": "ทารกนอนหลับในตอนเช้า"
+  },
+  {
+    "id": 1010,
+    "English": "We eat eggs for breakfast",
+    "Thai": "เรากินไข่เป็นอาหารเช้า"
+  },
+  {
+    "id": 1011,
+    "English": "My sister likes the color pink",
+    "Thai": "พี่สาวของฉันชอบสีชมพู"
+  },
+  {
+    "id": 1012,
+    "English": "The blue car goes fast",
+    "Thai": "รถสีน้ำเงินแล่นไปอย่างรวดเร็ว"
+  },
+  {
+    "id": 1013,
+    "English": "She waits for the bus",
+    "Thai": "เธอรอรถบัส"
+  },
+  {
+    "id": 1014,
+    "English": "The big dog runs after the cat",
+    "Thai": "หมาตัวใหญ่วิ่งตามแมว"
+  },
+  {
+    "id": 1015,
+    "English": "The baby drinks milk from his mother",
+    "Thai": "ทารกดื่มนมจากแม่ของเขา"
+  },
+  {
+    "id": 1016,
+    "English": "We eat rice for dinner",
+    "Thai": "เรากินข้าวเย็นกัน"
+  },
+  {
+    "id": 1017,
+    "English": "The red flowers are beautiful",
+    "Thai": "ดอกสีแดงก็สวยครับ"
+  },
+  {
+    "id": 1018,
+    "English": "She listens to music at night",
+    "Thai": "เธอฟังเพลงตอนกลางคืน"
+  },
+  {
+    "id": 1019,
+    "English": "He works hard every day",
+    "Thai": "เขาทำงานหนักทุกวัน"
+  },
+  {
+    "id": 1020,
+    "English": "The old woman walks slowly",
+    "Thai": "หญิงชราเดินช้าๆ"
+  },
+  {
+    "id": 1021,
+    "English": "They live in a small house",
+    "Thai": "พวกเขาอาศัยอยู่ในบ้านหลังเล็กๆ"
+  },
+  {
+    "id": 1022,
+    "English": "She gives food to the hungry man",
+    "Thai": "เธอให้อาหารแก่ชายผู้หิวโหย"
+  },
+  {
+    "id": 1023,
+    "English": "We feel happy on vacation",
+    "Thai": "เรารู้สึกมีความสุขในวันหยุด"
+  },
+  {
+    "id": 1024,
+    "English": "The green leaves fall in autumn",
+    "Thai": "ใบไม้สีเขียวร่วงหล่นในฤดูใบไม้ร่วง"
+  },
+  {
+    "id": 1025,
+    "English": "He waits for his friend at school",
+    "Thai": "เขารอเพื่อนที่โรงเรียน"
+  },
+  {
+    "id": 1026,
+    "English": "The children play games together",
+    "Thai": "เด็กๆเล่นเกมด้วยกัน"
+  },
+  {
+    "id": 1027,
+    "English": "She asks many questions in class",
+    "Thai": "เธอถามคำถามมากมายในชั้นเรียน"
+  },
+  {
+    "id": 1028,
+    "English": "We drink orange juice in the morning",
+    "Thai": "เราดื่มน้ำส้มในตอนเช้า"
+  },
+  {
+    "id": 1029,
+    "English": "He reads the newspaper every day",
+    "Thai": "เขาอ่านหนังสือพิมพ์ทุกวัน"
+  },
+  {
+    "id": 1030,
+    "English": "The baby turtle swims in the water",
+    "Thai": "ลูกเต่าว่ายอยู่ในน้ำ"
+  },
+  {
+    "id": 1031,
+    "English": "My father drives the blue car",
+    "Thai": "พ่อของฉันขับรถสีฟ้า"
+  },
+  {
+    "id": 1032,
+    "English": "She eats salad for lunch",
+    "Thai": "เธอกินสลัดเป็นอาหารกลางวัน"
+  },
+  {
+    "id": 1033,
+    "English": "The cat sleeps on the soft bed",
+    "Thai": "แมวนอนบนเตียงนุ่มๆ"
+  },
+  {
+    "id": 1034,
+    "English": "He writes letters to his family",
+    "Thai": "เขาเขียนจดหมายถึงครอบครัวของเขา"
+  },
+  {
+    "id": 1035,
+    "English": "We go to work on Monday morning",
+    "Thai": "เราไปทำงานเช้าวันจันทร์"
+  },
+  {
+    "id": 1036,
+    "English": "She makes breakfast for her son",
+    "Thai": "เธอทำอาหารเช้าให้ลูกชายของเธอ"
+  },
+  {
+    "id": 1037,
+    "English": "The boy kicks the soccer ball",
+    "Thai": "เด็กชายเตะลูกฟุตบอล"
+  },
+  {
+    "id": 1038,
+    "English": "My sister wears a red dress",
+    "Thai": "พี่สาวของฉันสวมชุดสีแดง"
+  },
+  {
+    "id": 1039,
+    "English": "He gives gifts on her birthday",
+    "Thai": "เขาให้ของขวัญในวันเกิดของเธอ"
+  },
+  {
+    "id": 1040,
+    "English": "The children eat apples at school",
+    "Thai": "เด็กๆ กินแอปเปิ้ลที่โรงเรียน"
+  },
+  {
+    "id": 1041,
+    "English": "She drinks hot tea in winter",
+    "Thai": "เธอดื่มชาร้อนในฤดูหนาว"
+  },
+  {
+    "id": 1042,
+    "English": "We watch birds flying south",
+    "Thai": "เราดูนกบินไปทางใต้"
+  },
+  {
+    "id": 1043,
+    "English": "He takes the dog for a walk",
+    "Thai": "เขาพาสุนัขไปเดินเล่น"
+  },
+  {
+    "id": 1044,
+    "English": "My brother reads comic books",
+    "Thai": "พี่ชายของฉันอ่านหนังสือการ์ตูน"
+  },
+  {
+    "id": 1045,
+    "English": "She orders spaghetti for dinner",
+    "Thai": "เธอสั่งสปาเก็ตตี้เป็นมื้อเย็น"
+  },
+  {
+    "id": 1046,
+    "English": "We see colorful leaves in fall",
+    "Thai": "เราเห็นใบไม้หลากสีสันในฤดูใบไม้ร่วง"
+  },
+  {
+    "id": 1047,
+    "English": "He listens to jazz music at night",
+    "Thai": "เขาฟังเพลงแจ๊สตอนกลางคืน"
+  },
+  {
+    "id": 1048,
+    "English": "The baby girl sleeps in her crib",
+    "Thai": "เด็กผู้หญิงนอนอยู่ในเปลของเธอ"
+  },
+  {
+    "id": 1049,
+    "English": "My mother cooks dinner for the family",
+    "Thai": "แม่ของฉันทำอาหารเย็นให้ครอบครัว"
+  },
+  {
+    "id": 1050,
+    "English": "The children play at the park after school",
+    "Thai": "เด็กๆ เล่นที่สวนสาธารณะหลังเลิกเรียน"
+  },
+  {
+    "id": 1051,
+    "English": "The girl writes a letter to her friend",
+    "Thai": "หญิงสาวเขียนจดหมายถึงเพื่อนของเธอ"
+  },
+  {
+    "id": 1052,
+    "English": "The dog drinks water from the bowl",
+    "Thai": "สุนัขดื่มน้ำจากชาม"
+  },
+  {
+    "id": 1053,
+    "English": "The father loves his little daughter",
+    "Thai": "พ่อรักลูกสาวตัวน้อยของเขา"
+  },
+  {
+    "id": 1054,
+    "English": "The baby is sleeping in the stroller",
+    "Thai": "ทารกกำลังนอนหลับอยู่ในรถเข็นเด็ก"
+  },
+  {
+    "id": 1055,
+    "English": "My brother reads an interesting book",
+    "Thai": "พี่ชายของฉันอ่านหนังสือที่น่าสนใจ"
+  },
+  {
+    "id": 1056,
+    "English": "The children are playing soccer outside",
+    "Thai": "เด็กๆ กำลังเล่นฟุตบอลอยู่ข้างนอก"
+  },
+  {
+    "id": 1057,
+    "English": "She eats an apple every morning",
+    "Thai": "เธอกินแอปเปิ้ลทุกเช้า"
+  },
+  {
+    "id": 1058,
+    "English": "The weather is very cold today",
+    "Thai": "วันนี้อากาศหนาวมาก"
+  },
+  {
+    "id": 1059,
+    "English": "The young boy kicks the ball fast",
+    "Thai": "เด็กหนุ่มเตะบอลอย่างรวดเร็ว"
+  },
+  {
+    "id": 1060,
+    "English": "We eat pancakes with maple syrup",
+    "Thai": "เรากินแพนเค้กกับน้ำเชื่อมเมเปิ้ล"
+  },
+  {
+    "id": 1061,
+    "English": "Her shoes are pink with white laces",
+    "Thai": "รองเท้าของเธอเป็นสีชมพูและมีเชือกผูกสีขาว"
+  },
+  {
+    "id": 1062,
+    "English": "The fast motorcycle is blue and black",
+    "Thai": "มอเตอร์ไซค์เร็วคือสีน้ำเงินและสีดำ"
+  },
+  {
+    "id": 1063,
+    "English": "He is waiting for the next bus home",
+    "Thai": "เขากำลังรอรถบัสคันต่อไปกลับบ้าน"
+  },
+  {
+    "id": 1064,
+    "English": "The cat runs away from the loud noise",
+    "Thai": "แมววิ่งหนีจากเสียงดัง"
+  },
+  {
+    "id": 1065,
+    "English": "The toddler hugs his grandmother",
+    "Thai": "เด็กวัยหัดเดินกอดยายของเขา"
+  },
+  {
+    "id": 1066,
+    "English": "They eat fried rice with vegetables",
+    "Thai": "พวกเขากินข้าวผัดกับผัก"
+  },
+  {
+    "id": 1067,
+    "English": "The yellow flowers smell very nice",
+    "Thai": "ดอกสีเหลืองมีกลิ่นหอมมาก"
+  },
+  {
+    "id": 1068,
+    "English": "I listen to soothing music before bed",
+    "Thai": "ฉันฟังเพลงผ่อนคลายก่อนนอน"
+  },
+  {
+    "id": 1069,
+    "English": "She works hard to support her family",
+    "Thai": "เธอทำงานอย่างหนักเพื่อเลี้ยงดูครอบครัวของเธอ"
+  },
+  {
+    "id": 1070,
+    "English": "The elderly lady walks using a cane",
+    "Thai": "หญิงชราเดินโดยใช้ไม้เท้า"
+  },
+  {
+    "id": 1071,
+    "English": "They live in a cozy little apartment",
+    "Thai": "พวกเขาอาศัยอยู่ในอพาร์ตเมนต์เล็กๆ ที่สะดวกสบาย"
+  },
+  {
+    "id": 1072,
+    "English": "I give my leftover food to the stray dog",
+    "Thai": "ฉันให้อาหารที่เหลือแก่สุนัขจรจัด"
+  },
+  {
+    "id": 1073,
+    "English": "He feels excited about the soccer game",
+    "Thai": "เขารู้สึกตื่นเต้นกับเกมฟุตบอล"
+  },
+  {
+    "id": 1074,
+    "English": "The orange leaves fall on the grass",
+    "Thai": "ใบไม้สีส้มร่วงหล่นบนพื้นหญ้า"
+  },
+  {
+    "id": 1075,
+    "English": "She waits for her daughter at the school gate",
+    "Thai": "เธอรอลูกสาวอยู่ที่ประตูโรงเรียน"
+  },
+  {
+    "id": 1076,
+    "English": "The boys play video games after dinner",
+    "Thai": "เด็กๆ เล่นวิดีโอเกมหลังอาหารเย็น"
+  },
+  {
+    "id": 1077,
+    "English": "He asks the teacher many hard questions",
+    "Thai": "เขาถามคำถามยาก ๆ มากมายกับครู"
+  },
+  {
+    "id": 1078,
+    "English": "I drink hot chocolate on winter mornings",
+    "Thai": "ฉันดื่มช็อคโกแลตร้อนในตอนเช้าของฤดูหนาว"
+  },
+  {
+    "id": 1079,
+    "English": "She reads fashion magazines for inspiration",
+    "Thai": "เธออ่านนิตยสารแฟชั่นเพื่อหาแรงบันดาลใจ"
+  },
+  {
+    "id": 1080,
+    "English": "The little bunny hops in the meadow",
+    "Thai": "กระต่ายน้อยกระโดดอยู่ในทุ่งหญ้า"
+  },
+  {
+    "id": 1081,
+    "English": "Her new car is a bright red",
+    "Thai": "รถใหม่ของเธอเป็นสีแดงสด"
+  },
+  {
+    "id": 1082,
+    "English": "He eats a big bowl of fruit for lunch",
+    "Thai": "เขากินผลไม้ชามใหญ่เป็นมื้อกลางวัน"
+  },
+  {
+    "id": 1083,
+    "English": "The lazy old cat naps in the sunshine",
+    "Thai": "แมวแก่ขี้เกียจงีบหลับกลางแสงแดด"
+  },
+  {
+    "id": 1084,
+    "English": "I write emails to my friend who lives abroad",
+    "Thai": "ฉันเขียนอีเมลถึงเพื่อนที่อาศัยอยู่ต่างประเทศ"
+  },
+  {
+    "id": 1085,
+    "English": "They go back to the office after the lunch break",
+    "Thai": "พวกเขากลับไปที่ออฟฟิศหลังพักกลางวัน"
+  },
+  {
+    "id": 1086,
+    "English": "The mother makes sandwiches for the picnic",
+    "Thai": "แม่ทำแซนด์วิชสำหรับปิกนิก"
+  },
+  {
+    "id": 1087,
+    "English": "The toddler kicks his ball very hard",
+    "Thai": "เด็กวัยหัดเดินเตะลูกบอลอย่างแรง"
+  },
+  {
+    "id": 1088,
+    "English": "Her elegant dress is green with lace",
+    "Thai": "ชุดที่หรูหราของเธอเป็นสีเขียวมีลูกไม้"
+  },
+  {
+    "id": 1089,
+    "English": "I give my parents gifts on their anniversary",
+    "Thai": "ฉันให้ของขวัญพ่อแม่ในวันครบรอบของพวกเขา"
+  },
+  {
+    "id": 1090,
+    "English": "The kindergarten kids eat snacks before nap time",
+    "Thai": "เด็กอนุบาลกินขนมก่อนงีบหลับ"
+  },
+  {
+    "id": 1091,
+    "English": "My grandmother drinks ginger tea when it's cold",
+    "Thai": "คุณยายของฉันดื่มชาขิงเมื่ออากาศเย็น"
+  },
+  {
+    "id": 1092,
+    "English": "He watches the birds flying over the lake",
+    "Thai": "เขาเฝ้าดูนกที่บินอยู่เหนือทะเลสาบ"
+  },
+  {
+    "id": 1093,
+    "English": "The man takes his dog hiking every weekend",
+    "Thai": "ชายคนนี้พาสุนัขของเขาไปเดินป่าทุกสุดสัปดาห์"
+  },
+  {
+    "id": 1094,
+    "English": "The little boy reads a fun picture book",
+    "Thai": "เด็กน้อยอ่านหนังสือภาพแสนสนุก"
+  },
+  {
+    "id": 1095,
+    "English": "I ordered chicken curry rice for my dinner",
+    "Thai": "ฉันสั่งข้าวแกงไก่เป็นมื้อเย็น"
+  },
+  {
+    "id": 1096,
+    "English": "We see the trees change color in autumn",
+    "Thai": "เราเห็นต้นไม้เปลี่ยนสีในฤดูใบไม้ร่วง"
+  },
+  {
+    "id": 1097,
+    "English": "She listens to upbeat pop songs while jogging",
+    "Thai": "เธอฟังเพลงป๊อปจังหวะสนุกสนานขณะวิ่งออกกำลังกาย"
+  },
+  {
+    "id": 1098,
+    "English": "The baby girl sleeps holding her stuffed toy",
+    "Thai": "เด็กผู้หญิงนอนหลับโดยถือของเล่นยัดไส้ของเธอ"
+  },
+  {
+    "id": 1099,
+    "English": "Her father cooks a delicious breakfast on Sundays",
+    "Thai": "พ่อของเธอทำอาหารเช้าแสนอร่อยในวันอาทิตย์"
+  },
+  {
+    "id": 1100,
+    "English": "The children play hide and seek at the party",
+    "Thai": "เด็กๆ เล่นซ่อนหาในงานปาร์ตี้"
+  },
+  {
+    "id": 1101,
+    "English": "What is the boy eating?",
+    "Thai": "เด็กชายกำลังกินอะไรอยู่?"
+  },
+  {
+    "id": 1102,
+    "English": "What does the cat drink every day?",
+    "Thai": "แมวดื่มอะไรทุกวัน?"
+  },
+  {
+    "id": 1103,
+    "English": "Who writes letters to her friends?",
+    "Thai": "ใครเขียนจดหมายถึงเพื่อนของเธอ?"
+  },
+  {
+    "id": 1104,
+    "English": "Who loves his family very much?",
+    "Thai": "ใครรักครอบครัวของเขามาก?"
+  },
+  {
+    "id": 1105,
+    "English": "What are the children doing?",
+    "Thai": "เด็กๆ ทำอะไรกันอยู่?"
+  },
+  {
+    "id": 1106,
+    "English": "Who is a great writer?",
+    "Thai": "ใครคือนักเขียนที่ยอดเยี่ยม?"
+  },
+  {
+    "id": 1107,
+    "English": "How cold is it in the winter?",
+    "Thai": "หนาวแค่ไหนในฤดูหนาว?"
+  },
+  {
+    "id": 1108,
+    "English": "Who reads books every night?",
+    "Thai": "ใครอ่านหนังสือทุกคืนบ้าง?"
+  },
+  {
+    "id": 1109,
+    "English": "When does the baby sleep?",
+    "Thai": "ทารกจะนอนเมื่อไหร่?"
+  },
+  {
+    "id": 1110,
+    "English": "What do we eat for breakfast?",
+    "Thai": "เรากินอะไรเป็นอาหารเช้า?"
+  },
+  {
+    "id": 1111,
+    "English": "Which color does the girl like?",
+    "Thai": "สาวๆชอบสีไหนกันบ้างคะ?"
+  },
+  {
+    "id": 1112,
+    "English": "How fast is the blue car running?",
+    "Thai": "รถสีน้ำเงินวิ่งเร็วแค่ไหน?"
+  },
+  {
+    "id": 1113,
+    "English": "What is she waiting for?",
+    "Thai": "เธอรออะไรอยู่?"
+  },
+  {
+    "id": 1114,
+    "English": "Which animal runs after the cat?",
+    "Thai": "สัตว์ชนิดใดวิ่งตามแมว?"
+  },
+  {
+    "id": 1115,
+    "English": "Who drinks milk from mom?",
+    "Thai": "ใครดื่มนมแม่บ้าง?"
+  },
+  {
+    "id": 1116,
+    "English": "What do they eat for dinner?",
+    "Thai": "พวกเขากินอะไรเป็นมื้อเย็น?"
+  },
+  {
+    "id": 1117,
+    "English": "Which flowers are beautiful?",
+    "Thai": "ดอกไหนสวยคะ?"
+  },
+  {
+    "id": 1118,
+    "English": "When does she listen to music?",
+    "Thai": "เมื่อไหร่เธอจะฟังเพลง?"
+  },
+  {
+    "id": 1119,
+    "English": "How hard does he work every day?",
+    "Thai": "เขาทำงานหนักแค่ไหนในแต่ละวัน?"
+  },
+  {
+    "id": 1120,
+    "English": "How slow does the old lady walk?",
+    "Thai": "หญิงชราเดินช้าแค่ไหน?"
+  },
+  {
+    "id": 1121,
+    "English": "Where do they live?",
+    "Thai": "พวกเขาอยู่ที่ไหน?"
+  },
+  {
+    "id": 1122,
+    "English": "Who gives food to hungry people?",
+    "Thai": "ใครให้อาหารแก่ผู้หิวโหย?"
+  },
+  {
+    "id": 1123,
+    "English": "When do we feel very happy?",
+    "Thai": "เมื่อไหร่ที่เรารู้สึกมีความสุขมาก?"
+  },
+  {
+    "id": 1124,
+    "English": "What color leaves fall in autumn?",
+    "Thai": "ใบไม้ร่วงมีสีอะไรในฤดูใบไม้ร่วง?"
+  },
+  {
+    "id": 1125,
+    "English": "Who waits at the school every day?",
+    "Thai": "ใครรออยู่ที่โรงเรียนทุกวัน?"
+  },
+  {
+    "id": 1126,
+    "English": "What do children play together?",
+    "Thai": "เด็กๆ เล่นอะไรด้วยกัน?"
+  },
+  {
+    "id": 1127,
+    "English": "How many questions does she ask?",
+    "Thai": "เธอถามคำถามกี่ข้อ?"
+  },
+  {
+    "id": 1128,
+    "English": "What juice do we drink in the morning?",
+    "Thai": "เราดื่มน้ำผลไม้อะไรในตอนเช้า?"
+  },
+  {
+    "id": 1129,
+    "English": "What does he read every day?",
+    "Thai": "เขาอ่านอะไรทุกวัน?"
+  },
+  {
+    "id": 1130,
+    "English": "Where does the baby turtle swim?",
+    "Thai": "ลูกเต่าว่ายน้ำที่ไหน?"
+  },
+  {
+    "id": 1131,
+    "English": "Whose car is blue?",
+    "Thai": "รถของใครเป็นสีฟ้า?"
+  },
+  {
+    "id": 1132,
+    "English": "What does she eat for lunch?",
+    "Thai": "เธอกินอะไรเป็นอาหารกลางวัน?"
+  },
+  {
+    "id": 1133,
+    "English": "Where does the cat sleep?",
+    "Thai": "แมวนอนที่ไหน?"
+  },
+  {
+    "id": 1134,
+    "English": "Who does he write letters to?",
+    "Thai": "เขาเขียนจดหมายถึงใคร?"
+  },
+  {
+    "id": 1135,
+    "English": "When do they go to work?",
+    "Thai": "พวกเขาไปทำงานเมื่อไหร่?"
+  },
+  {
+    "id": 1136,
+    "English": "What does mom make for her son?",
+    "Thai": "แม่ทำอะไรให้ลูกชายของเธอ?"
+  },
+  {
+    "id": 1137,
+    "English": "What does the boy kick?",
+    "Thai": "เด็กชายเตะอะไร?"
+  },
+  {
+    "id": 1138,
+    "English": "Which color dress does she wear?",
+    "Thai": "เธอสวมชุดสีอะไร?"
+  },
+  {
+    "id": 1139,
+    "English": "When does he give gifts?",
+    "Thai": "เขาให้ของขวัญเมื่อไหร่?"
+  },
+  {
+    "id": 1140,
+    "English": "What do kids eat at school?",
+    "Thai": "เด็ก ๆ กินอะไรที่โรงเรียน?"
+  },
+  {
+    "id": 1141,
+    "English": "What does she drink when it's cold?",
+    "Thai": "เธอดื่มอะไรเวลาอากาศหนาว?"
+  },
+  {
+    "id": 1142,
+    "English": "What do we watch flying south?",
+    "Thai": "เราดูอะไรบินไปทางใต้?"
+  },
+  {
+    "id": 1143,
+    "English": "Where does he take the dog?",
+    "Thai": "เขาพาสุนัขไปที่ไหน?"
+  },
+  {
+    "id": 1144,
+    "English": "What does my brother read?",
+    "Thai": "พี่ชายของฉันอ่านว่าอะไร?"
+  },
+  {
+    "id": 1145,
+    "English": "What food does she order for dinner?",
+    "Thai": "เธอสั่งอาหารอะไรเป็นมื้อเย็น?"
+  },
+  {
+    "id": 1146,
+    "English": "What leaves do we see in autumn?",
+    "Thai": "เราเห็นใบไม้อะไรในฤดูใบไม้ร่วง?"
+  },
+  {
+    "id": 1147,
+    "English": "When does she listen to pop songs?",
+    "Thai": "เธอจะฟังเพลงป๊อปเมื่อไหร่?"
+  },
+  {
+    "id": 1148,
+    "English": "Where does the baby girl sleep?",
+    "Thai": "ลูกสาวนอนที่ไหน?"
+  },
+  {
+    "id": 1149,
+    "English": "Who cooks dinner for the family?",
+    "Thai": "ใครทำอาหารเย็นให้ครอบครัว?"
+  },
+  {
+    "id": 1150,
+    "English": "Where do children play after school?",
+    "Thai": "เด็กๆ เล่นที่ไหนหลังเลิกเรียน?"
+  },
+  {
+    "id": 1151,
+    "English": "What book is the young girl reading?",
+    "Thai": "เด็กผู้หญิงกำลังอ่านหนังสือเล่มไหน?"
+  },
+  {
+    "id": 1152,
+    "English": "What does the dog like to play with?",
+    "Thai": "สุนัขชอบเล่นกับอะไร?"
+  },
+  {
+    "id": 1153,
+    "English": "Who loves taking care of the baby?",
+    "Thai": "ใครชอบดูแลลูกน้อยบ้าง?"
+  },
+  {
+    "id": 1154,
+    "English": "Where is the toddler sleeping?",
+    "Thai": "เด็กดื้อนอนอยู่ที่ไหน?"
+  },
+  {
+    "id": 1155,
+    "English": "Which movie does my brother recommend?",
+    "Thai": "พี่ผมแนะนำหนังเรื่องไหนครับ?"
+  },
+  {
+    "id": 1156,
+    "English": "What game are the children playing outside?",
+    "Thai": "เด็ก ๆ กำลังเล่นเกมอะไรอยู่ข้างนอก?"
+  },
+  {
+    "id": 1157,
+    "English": "What fruit does she eat in the morning?",
+    "Thai": "เธอกินผลไม้อะไรในตอนเช้า?"
+  },
+  {
+    "id": 1158,
+    "English": "How warm is the weather right now?",
+    "Thai": "อากาศตอนนี้ร้อนขนาดไหน?"
+  },
+  {
+    "id": 1159,
+    "English": "Who kicked the ball very fast?",
+    "Thai": "ใครเตะบอลเร็วมาก?"
+  },
+  {
+    "id": 1160,
+    "English": "What do they serve for breakfast?",
+    "Thai": "พวกเขาเสิร์ฟอะไรเป็นอาหารเช้า?"
+  },
+  {
+    "id": 1161,
+    "English": "Which accessories match her pink dress?",
+    "Thai": "เครื่องประดับใดที่เข้ากับชุดสีชมพูของเธอ?"
+  },
+  {
+    "id": 1162,
+    "English": "Whose new motorcycle is very fast?",
+    "Thai": "มอไซค์ใหม่ของใครเร็วมาก?"
+  },
+  {
+    "id": 1163,
+    "English": "Who is he waiting for?",
+    "Thai": "เขากำลังรอใครอยู่?"
+  },
+  {
+    "id": 1164,
+    "English": "What made the cat run away?",
+    "Thai": "อะไรทำให้แมววิ่งหนี?"
+  },
+  {
+    "id": 1165,
+    "English": "Who does the cute toddler love to hug?",
+    "Thai": "เด็กน้อยน่ารักชอบกอดใคร?"
+  },
+  {
+    "id": 1166,
+    "English": "What rice dish do they enjoy eating?",
+    "Thai": "พวกเขาชอบกินข้าวจานอะไร?"
+  },
+  {
+    "id": 1167,
+    "English": "Which flower has the nicest aroma?",
+    "Thai": "ดอกไม้ชนิดใดมีกลิ่นหอมที่สุด?"
+  },
+  {
+    "id": 1168,
+    "English": "What music helps me relax at night?",
+    "Thai": "เพลงอะไรช่วยให้ฉันผ่อนคลายในเวลากลางคืน?"
+  },
+  {
+    "id": 1169,
+    "English": "Why does she work extra hard?",
+    "Thai": "ทำไมเธอถึงทำงานหนักเป็นพิเศษ?"
+  },
+  {
+    "id": 1170,
+    "English": "What is helping the elderly lady walk?",
+    "Thai": "อะไรช่วยให้หญิงชราเดินได้?"
+  },
+  {
+    "id": 1171,
+    "English": "Where is their new apartment located?",
+    "Thai": "อพาร์ทเมนต์ใหม่ของพวกเขาอยู่ที่ไหน?"
+  },
+  {
+    "id": 1172,
+    "English": "Whose leftover food does she give away?",
+    "Thai": "เธอแจกอาหารที่เหลือให้ใคร?"
+  },
+  {
+    "id": 1173,
+    "English": "How excited is he feeling today?",
+    "Thai": "วันนี้เขารู้สึกตื่นเต้นแค่ไหน?"
+  },
+  {
+    "id": 1174,
+    "English": "What leaves change color in autumn?",
+    "Thai": "ใบไม้เปลี่ยนสีในฤดูใบไม้ร่วงคืออะไร?"
+  },
+  {
+    "id": 1175,
+    "English": "Who is the woman waiting for?",
+    "Thai": "ผู้หญิงคนนั้นกำลังรอใครอยู่?"
+  },
+  {
+    "id": 1176,
+    "English": "Where do the boys play games together?",
+    "Thai": "เด็กผู้ชายเล่นเกมด้วยกันที่ไหน?"
+  },
+  {
+    "id": 1177,
+    "English": "What questions does he ask the teacher?",
+    "Thai": "เขาถามคำถามอะไรกับครู?"
+  },
+  {
+    "id": 1178,
+    "English": "What warm drink do I enjoy in winter?",
+    "Thai": "ฉันชอบดื่มเครื่องดื่มอุ่นอะไรในฤดูหนาว?"
+  },
+  {
+    "id": 1179,
+    "English": "Which magazines does she like to read?",
+    "Thai": "เธอชอบอ่านนิตยสารเล่มไหน?"
+  },
+  {
+    "id": 1180,
+    "English": "Where does the cute bunny live?",
+    "Thai": "กระต่ายน่ารักอาศัยอยู่ที่ไหน?"
+  },
+  {
+    "id": 1181,
+    "English": "Whose car looks bright red?",
+    "Thai": "รถของใครดูแดงสด?"
+  },
+  {
+    "id": 1182,
+    "English": "What tasty fruit does he eat every day?",
+    "Thai": "เขากินผลไม้อะไรอร่อยทุกวัน?"
+  },
+  {
+    "id": 1183,
+    "English": "Where does the cat enjoy relaxing?",
+    "Thai": "แมวชอบพักผ่อนที่ไหน?"
+  },
+  {
+    "id": 1184,
+    "English": "Who do I email frequently?",
+    "Thai": "ฉันจะส่งอีเมลถึงใครบ่อยๆ?"
+  },
+  {
+    "id": 1185,
+    "English": "When is their next break from work?",
+    "Thai": "พวกเขาจะหยุดทำงานครั้งต่อไปเมื่อไหร่?"
+  },
+  {
+    "id": 1186,
+    "English": "What food is prepared for the picnic?",
+    "Thai": "อาหารอะไรที่เตรียมไว้สำหรับการปิกนิก?"
+  },
+  {
+    "id": 1187,
+    "English": "How hard can the toddler kick?",
+    "Thai": "เด็กวัยหัดเดินสามารถเตะได้แรงแค่ไหน?"
+  },
+  {
+    "id": 1188,
+    "English": "Which color is her elegant dress?",
+    "Thai": "ชุดที่หรูหราของเธอสีอะไร?"
+  },
+  {
+    "id": 1189,
+    "English": "What special occasion is it today?",
+    "Thai": "วันนี้เป็นโอกาสพิเศษอะไร?"
+  },
+  {
+    "id": 1190,
+    "English": "What snacks are provided before naptime?",
+    "Thai": "ก่อนงีบหลับมีของว่างอะไรบ้าง?"
+  },
+  {
+    "id": 1191,
+    "English": "What tea does Grandma drink when it’s cold?",
+    "Thai": "หนาวแล้วคุณยายดื่มชาอะไร?"
+  },
+  {
+    "id": 1192,
+    "English": "What does he enjoy watching?",
+    "Thai": "เขาสนุกกับการดูอะไร?"
+  },
+  {
+    "id": 1193,
+    "English": "Where does the man take his dog each weekend?",
+    "Thai": "ผู้ชายจะพาสุนัขของเขาไปที่ไหนในแต่ละสุดสัปดาห์?"
+  },
+  {
+    "id": 1194,
+    "English": "What genre of books does the boy like reading?",
+    "Thai": "เด็กชายชอบอ่านหนังสือประเภทใด?"
+  },
+  {
+    "id": 1195,
+    "English": "What dish did I order tonight?",
+    "Thai": "คืนนี้ฉันสั่งอาหารจานอะไร?"
+  },
+  {
+    "id": 1196,
+    "English": "What season do the falling leaves indicate?",
+    "Thai": "ใบไม้ร่วงบ่งบอกถึงฤดูกาลใด?"
+  },
+  {
+    "id": 1197,
+    "English": "What music does she listen to while jogging?",
+    "Thai": "เธอฟังเพลงอะไรขณะวิ่งออกกำลังกาย?"
+  },
+  {
+    "id": 1198,
+    "English": "What helps the baby girl sleep well?",
+    "Thai": "อะไรช่วยให้ลูกสาวนอนหลับสบาย?"
+  },
+  {
+    "id": 1199,
+    "English": "Who cooks a nice breakfast on Sundays?",
+    "Thai": "ใครทำอาหารเช้าดีๆ ในวันอาทิตย์?"
+  },
+  {
+    "id": 1200,
+    "English": "What fun activity are the kids playing at the party?",
+    "Thai": "เด็กๆ มีกิจกรรมสนุกๆ อะไรบ้างในงานปาร์ตี้?"
+  }
+]
