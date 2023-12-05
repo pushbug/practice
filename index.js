@@ -2,69 +2,96 @@ const input = document.getElementById("inputBox");
 let showTextEN;
 let showTextTH;
 let allSentence;
-let scoreTyping = 0;
-let checkSentence;
+let winScore = 0;
+let loseScore = 0;
 let dataArray;
+let enterPress = 0;
+
 
 fetch('data.json')
-  .then((response) => response.json())
-  .then((data) => {
+    .then((response) => response.json())
+    .then((data) => {
 
-    const jsonData = data; 
-    dataArray = Object.values(jsonData);
+        const jsonData = data; 
+        dataArray = Object.values(jsonData);
 
-    allSentence = dataArray.length;
+        allSentence = dataArray.length;
 
-    let num = randomSentence();
+        let num = randomSentence();
 
-    showTextEN = dataArray[num].English;
-    showTextTH = dataArray[num].Thai;
+        newSentence(num);
 
-    document.getElementById('showTextEN').innerHTML = showTextEN;
-    document.getElementById('showTextTH').innerHTML = showTextTH;
-    
-    input.addEventListener("keyup", (event) => {
-        if(input.value.includes(showTextEN) && input.value !== checkSentence){
+        input.addEventListener("keyup", function(event) {
+            if (event.key === "Enter") {
+                enterPress ++;
+                if(enterPress === 1){
+                    //alert("1 enter");
+                    var inputBox = document.getElementById("inputBox").value;
+        
+                    if(inputBox === showTextEN){  
+                        winScore ++;
+                        document.getElementById('winScore').innerHTML = winScore;
+                        document.getElementById('showTextEN').innerHTML = showTextEN;
+                        sentenceRight();
+                    }else {
+                        loseScore ++;
+                        document.getElementById('loseScore').innerHTML = loseScore;
+                        document.getElementById('showTextEN').innerHTML = showTextEN;
+                        sentenceWrong();
+                    }
 
-            input.classList.remove("empty");
-            input.classList.remove("not-match");
-            input.classList.add("match");
-
-            if(event.key === "Enter"){
-                checkSentence = showTextEN;            
-                scoreTyping ++;
-                document.getElementById('scoreTyping').innerHTML = scoreTyping;
-
-                num = randomSentence();
-
-                showTextEN = dataArray[num].English;
-                showTextTH = dataArray[num].Thai;
-            
-                document.getElementById('showTextEN').innerHTML = showTextEN;
-                document.getElementById('showTextTH').innerHTML = showTextTH;
-
-                input.value = "";
-                input.classList.remove("match");
-                input.classList.remove("not-match");
-                input.classList.add("empty");
+                }else if(enterPress === 2){
+                    //alert("2 ensters");
+                    num = randomSentence();
+                    newSentence(num);
+                    input.value = "";
+                    sentenceNormal();
+                    enterPress = 0;
+                }
             }
-    
-        } else if (input.value.trim() === ""){
-                input.classList.remove("match");
-                input.classList.remove("not-match");
-                input.classList.add("empty");
-        } else {
-                input.classList.remove("empty");
-                input.classList.remove("match");
-                input.classList.add("not-match");
-        }     
-
-    });
+        });
 
 });
 
+function newSentence(num){
+    showTextEN = dataArray[num].English;
+    showTextTH = dataArray[num].Thai;
+
+    document.getElementById('showTextTH').innerHTML = showTextTH;
+    document.getElementById('showTextEN').innerHTML = "-";
+
+    sentenceNormal();
+}
+
+
 function randomSentence(){
     const randomIndex = Math.floor(Math.random() * allSentence);
-    checkSentence = "";
     return randomIndex;
+}
+
+
+function sentenceNormal() {
+    var element = document.getElementById("showTextEN");
+    var inputAnswer = document.getElementById("inputBox");
+
+    element.classList.add("sentenceNormal");
+    element.classList.remove("sentenceRight");
+    inputAnswer.classList.remove("inputRight");
+    inputAnswer.classList.remove("inputWrong");
+}
+
+function sentenceRight() {
+    var element = document.getElementById("showTextEN");
+    var inputAnswer = document.getElementById("inputBox");
+
+    element.classList.add("sentenceRight");
+    inputAnswer.classList.add("inputRight");
+}
+
+function sentenceWrong() {
+    var element = document.getElementById("showTextEN");
+    var inputAnswer = document.getElementById("inputBox");
+
+    element.classList.add("sentenceRight");
+    inputAnswer.classList.add("inputWrong");
 }

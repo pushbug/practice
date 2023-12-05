@@ -1,65 +1,98 @@
-body{
-    text-align: center;
-    color: white;
-    justify-content: center;
-    height: 80vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: roboto;
-}
-.inputFrom{
-    position: fixed;
-    bottom: 100px;
-    left: 0;
-    padding: 10px;
-    width: 100%;
-}
-.input-box {
-    position: relative;
-    left: 0;
-    right: 0;
-    width: 50%;
-    font-size: 20px;
-    border-radius: 5px;
-    padding: 10px;
-    margin: 0 auto;
-    border: 5px solid gray;
-}
-.input-box:focus {
-    outline: none;
-}
-.stack{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.showTextEN{
-    font-size: 50px;
-    width: 100%;
-}
-.showTextTH{
-    font-size: 30px;
-    padding: 10px;
-    color: #888888;
-}
-.scoreTyping{
-    font-size: 40px;
-    font-weight: bold;
-    padding: 50px;
-    color: #f1f1f1;
-}
-
-.match{
-    border: 5px solid green;
-}
-.not-match{
-    border: 5px solid orange;
-}
-.empty{
-    border: 5px solid gray;
-}
 body {
-    background-color: black;
+    font-family: 'Roboto';
+    text-align: center;
+    margin: 0px;
+    color: #fff;
+    background: #27374D;
+   
+}
+
+.container {
+    max-width: 1200px; /* กำหนดความกว้างสูงสุดของ container */
+    margin: 0 auto; /* ทำให้ container อยู่ตรงกลาง */
+    padding: 20px; /* พื้นที่ว่างใน container */
+    text-align: center;
+    background: #27374D;
+}
+
+header {
+    display: flex;
+    justify-content: space-between; /* ทำให้สอง div แนวเดียวกัน */
+    color: #fff;
+    width: 100%;
+}
+
+.divScore {
+    text-align: center;
+    padding: 20px;
+    width: 50%;
+}
+
+.left {
+    background-color: #2eb82e;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.right {
+    background-color: #ff3333;
+    border-radius: 0px 20px 20px 0px;
+}
+
+main {
+    flex: 1; /* ทำให้ส่วนกลางยืดเต็มพื้นที่ที่เหลือ */
+    padding: 100px 20px 20px 20px;
+    width: 100%;
+}
+
+footer {
+    padding: 0px 20px 50px 20px;
+}
+
+@media (max-width: 768px) {
+    /* เปลี่ยนเลย์เอ้าต์เมื่อหน้าจอเล็กกว่าหรือเท่ากับ 768px */
+    body {
+        flex-direction: column;
+    }
+}
+
+/* Apply styles to the textarea */
+input {
+    width: 800px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    border: 2px solid #6b8ea9;
+    border-radius: 5px;
+    font-size: 20px;
+    outline: none; /* Remove default outline */
+    resize: none; /* Disable textarea resizing */
+    transition: border-color 0.3s ease-in-out;
+    background: #213443;
+    color: white;
+}
+
+input::placeholder {
+    color: #324757; /* Placeholder text color */
+}
+
+/* Change border color on focus */
+input:focus {
+    border: 2px solid #DDE6ED;
+}
+
+.sentenceNormal {
+    color: #27374D;
+}
+
+.sentenceRight {
+    color: #2eb82e;
+}
+
+.inputRight {
+    color: #22ff22;
+}
+
+.inputWrong {
+    color: #ff4e4e;
 }
