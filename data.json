@@ -226,13 +226,13 @@
   },
   {
     "id": 1046,
-    "English": "We see colorful leaves in fall",
+    "English": "We see colorful leaves in the fall",
     "Thai": "เราเห็นใบไม้หลากสีสันในฤดูใบไม้ร่วง"
   },
   {
     "id": 1047,
     "English": "He listens to jazz music at night",
-    "Thai": "เขาฟังเพลงแจ๊สตอนกลางคืน"
+    "Thai": "เขาฟังเพลงแจ๊สในเวลากลางคืน"
   },
   {
     "id": 1048,
@@ -312,7 +312,7 @@
   {
     "id": 1063,
     "English": "He is waiting for the next bus home",
-    "Thai": "เขากำลังรอรถบัสคันต่อไปกลับบ้าน"
+    "Thai": "เขากำลังรอรถบัสคันถัดไปกลับบ้าน"
   },
   {
     "id": 1064,
@@ -506,12 +506,12 @@
   },
   {
     "id": 1102,
-    "English": "What does the cat drink every day?",
+    "English": "What do cats drink every day?",
     "Thai": "แมวดื่มอะไรทุกวัน?"
   },
   {
     "id": 1103,
-    "English": "Who writes letters to her friends?",
+    "English": "Who wrote the letter to her friend?",
     "Thai": "ใครเขียนจดหมายถึงเพื่อนของเธอ?"
   },
   {
@@ -531,8 +531,8 @@
   },
   {
     "id": 1107,
-    "English": "How cold is it in the winter?",
-    "Thai": "หนาวแค่ไหนในฤดูหนาว?"
+    "English": "How cold is it in winter?",
+    "Thai": "ฤดูหนาวจะหนาวแค่ไหน?"
   },
   {
     "id": 1108,
@@ -541,8 +541,8 @@
   },
   {
     "id": 1109,
-    "English": "When does the baby sleep?",
-    "Thai": "ทารกจะนอนเมื่อไหร่?"
+    "English": "When will the baby sleep?",
+    "Thai": "เมื่อไหร่ลูกจะนอน?"
   },
   {
     "id": 1110,
@@ -551,27 +551,27 @@
   },
   {
     "id": 1111,
-    "English": "Which color does the girl like?",
-    "Thai": "สาวๆชอบสีไหนกันบ้างคะ?"
+    "English": "What colors do girls like?",
+    "Thai": "สาวๆชอบสีอะไรกันบ้างคะ?"
   },
   {
     "id": 1112,
-    "English": "How fast is the blue car running?",
+    "English": "How fast is the blue car?",
     "Thai": "รถสีน้ำเงินวิ่งเร็วแค่ไหน?"
   },
   {
     "id": 1113,
-    "English": "What is she waiting for?",
-    "Thai": "เธอรออะไรอยู่?"
+    "English": "What are you waiting for?",
+    "Thai": "คุณกำลังรออะไรอยู่?"
   },
   {
     "id": 1114,
-    "English": "Which animal runs after the cat?",
-    "Thai": "สัตว์ชนิดใดวิ่งตามแมว?"
+    "English": "What kind of animal follows a cat?",
+    "Thai": "สัตว์ชนิดใดติดตามแมว?"
   },
   {
     "id": 1115,
-    "English": "Who drinks milk from mom?",
+    "English": "Who drinks breast milk?",
     "Thai": "ใครดื่มนมแม่บ้าง?"
   },
   {
@@ -581,32 +581,32 @@
   },
   {
     "id": 1117,
-    "English": "Which flowers are beautiful?",
+    "English": "Which flower is beautiful?",
     "Thai": "ดอกไหนสวยคะ?"
   },
   {
     "id": 1118,
-    "English": "When does she listen to music?",
-    "Thai": "เมื่อไหร่เธอจะฟังเพลง?"
+    "English": "When will you listen to music?",
+    "Thai": "เมื่อไหร่คุณจะฟังเพลง?"
   },
   {
     "id": 1119,
-    "English": "How hard does he work every day?",
+    "English": "How hard does he work each day?",
     "Thai": "เขาทำงานหนักแค่ไหนในแต่ละวัน?"
   },
   {
     "id": 1120,
-    "English": "How slow does the old lady walk?",
+    "English": "How slowly does the old woman walk?",
     "Thai": "หญิงชราเดินช้าแค่ไหน?"
   },
   {
     "id": 1121,
-    "English": "Where do they live?",
+    "English": "Where are they?",
     "Thai": "พวกเขาอยู่ที่ไหน?"
   },
   {
     "id": 1122,
-    "English": "Who gives food to hungry people?",
+    "English": "Who gives food to the hungry?",
     "Thai": "ใครให้อาหารแก่ผู้หิวโหย?"
   },
   {
@@ -616,18 +616,18 @@
   },
   {
     "id": 1124,
-    "English": "What color leaves fall in autumn?",
-    "Thai": "ใบไม้ร่วงมีสีอะไรในฤดูใบไม้ร่วง?"
+    "English": "What color are fall leaves in autumn?",
+    "Thai": "ใบไม้ร่วงในฤดูใบไม้ร่วงมีสีอะไร?"
   },
   {
     "id": 1125,
-    "English": "Who waits at the school every day?",
-    "Thai": "ใครรออยู่ที่โรงเรียนทุกวัน?"
+    "English": "Who waits at school every day?",
+    "Thai": "ใครรอที่โรงเรียนทุกวันบ้าง?"
   },
   {
     "id": 1126,
-    "English": "What do children play together?",
-    "Thai": "เด็กๆ เล่นอะไรด้วยกัน?"
+    "English": "What do the children play together?",
+    "Thai": "เด็กๆ เล่นอะไรกัน?"
   },
   {
     "id": 1127,
@@ -646,7 +646,7 @@
   },
   {
     "id": 1130,
-    "English": "Where does the baby turtle swim?",
+    "English": "Where do baby turtles swim?",
     "Thai": "ลูกเต่าว่ายน้ำที่ไหน?"
   },
   {
@@ -656,17 +656,17 @@
   },
   {
     "id": 1132,
-    "English": "What does she eat for lunch?",
+    "English": "What did she eat for lunch?",
     "Thai": "เธอกินอะไรเป็นอาหารกลางวัน?"
   },
   {
     "id": 1133,
-    "English": "Where does the cat sleep?",
+    "English": "Where do cats sleep?",
     "Thai": "แมวนอนที่ไหน?"
   },
   {
     "id": 1134,
-    "English": "Who does he write letters to?",
+    "English": "Who did he write the letter to?",
     "Thai": "เขาเขียนจดหมายถึงใคร?"
   },
   {
@@ -676,18 +676,18 @@
   },
   {
     "id": 1136,
-    "English": "What does mom make for her son?",
-    "Thai": "แม่ทำอะไรให้ลูกชายของเธอ?"
+    "English": "What did the mother do for her son?",
+    "Thai": "แม่ทำอะไรให้ลูกบ้าง?"
   },
   {
     "id": 1137,
-    "English": "What does the boy kick?",
+    "English": "What did the boy kick?",
     "Thai": "เด็กชายเตะอะไร?"
   },
   {
     "id": 1138,
-    "English": "Which color dress does she wear?",
-    "Thai": "เธอสวมชุดสีอะไร?"
+    "English": "What color dress is she wearing?",
+    "Thai": "เธอใส่ชุดสีอะไร?"
   },
   {
     "id": 1139,
@@ -696,8 +696,8 @@
   },
   {
     "id": 1140,
-    "English": "What do kids eat at school?",
-    "Thai": "เด็ก ๆ กินอะไรที่โรงเรียน?"
+    "English": "What do children eat at school?",
+    "Thai": "เด็กๆ กินอะไรที่โรงเรียน?"
   },
   {
     "id": 1141,
@@ -711,18 +711,18 @@
   },
   {
     "id": 1143,
-    "English": "Where does he take the dog?",
-    "Thai": "เขาพาสุนัขไปที่ไหน?"
+    "English": "Where does he take his dog?",
+    "Thai": "เขาพาสุนัขของเขาไปที่ไหน?"
   },
   {
     "id": 1144,
-    "English": "What does my brother read?",
+    "English": "What did my brother read?",
     "Thai": "พี่ชายของฉันอ่านว่าอะไร?"
   },
   {
     "id": 1145,
-    "English": "What food does she order for dinner?",
-    "Thai": "เธอสั่งอาหารอะไรเป็นมื้อเย็น?"
+    "English": "What did she order for dinner?",
+    "Thai": "เธอสั่งอะไรเป็นมื้อเย็น?"
   },
   {
     "id": 1146,
@@ -731,13 +731,13 @@
   },
   {
     "id": 1147,
-    "English": "When does she listen to pop songs?",
-    "Thai": "เธอจะฟังเพลงป๊อปเมื่อไหร่?"
+    "English": "When do you listen to pop music?",
+    "Thai": "เมื่อไหร่ที่คุณฟังเพลงป๊อป?"
   },
   {
     "id": 1148,
-    "English": "Where does the baby girl sleep?",
-    "Thai": "ลูกสาวนอนที่ไหน?"
+    "English": "Where does your daughter sleep?",
+    "Thai": "ลูกสาวของคุณนอนที่ไหน?"
   },
   {
     "id": 1149,
@@ -751,33 +751,33 @@
   },
   {
     "id": 1151,
-    "English": "What book is the young girl reading?",
+    "English": "What book is the girl reading?",
     "Thai": "เด็กผู้หญิงกำลังอ่านหนังสือเล่มไหน?"
   },
   {
     "id": 1152,
-    "English": "What does the dog like to play with?",
+    "English": "What do dogs like to play with?",
     "Thai": "สุนัขชอบเล่นกับอะไร?"
   },
   {
     "id": 1153,
-    "English": "Who loves taking care of the baby?",
+    "English": "Who likes to take care of little ones?",
     "Thai": "ใครชอบดูแลลูกน้อยบ้าง?"
   },
   {
     "id": 1154,
-    "English": "Where is the toddler sleeping?",
-    "Thai": "เด็กดื้อนอนอยู่ที่ไหน?"
+    "English": "Where does the naughty child sleep?",
+    "Thai": "เด็กซนนอนที่ไหน?"
   },
   {
     "id": 1155,
-    "English": "Which movie does my brother recommend?",
-    "Thai": "พี่ผมแนะนำหนังเรื่องไหนครับ?"
+    "English": "Which movie do you recommend?",
+    "Thai": "มีหนังเรื่องไหนแนะนำบ้างคะ?"
   },
   {
     "id": 1156,
-    "English": "What game are the children playing outside?",
-    "Thai": "เด็ก ๆ กำลังเล่นเกมอะไรอยู่ข้างนอก?"
+    "English": "What games are the children playing outside?",
+    "Thai": "เด็กๆ เล่นเกมอะไรนอกบ้าน?"
   },
   {
     "id": 1157,
@@ -786,13 +786,13 @@
   },
   {
     "id": 1158,
-    "English": "How warm is the weather right now?",
+    "English": "How hot is the weather right now?",
     "Thai": "อากาศตอนนี้ร้อนขนาดไหน?"
   },
   {
     "id": 1159,
-    "English": "Who kicked the ball very fast?",
-    "Thai": "ใครเตะบอลเร็วมาก?"
+    "English": "Who kicked the ball so fast?",
+    "Thai": "ใครเตะบอลเร็วขนาดนั้น?"
   },
   {
     "id": 1160,
@@ -801,8 +801,8 @@
   },
   {
     "id": 1161,
-    "English": "Which accessories match her pink dress?",
-    "Thai": "เครื่องประดับใดที่เข้ากับชุดสีชมพูของเธอ?"
+    "English": "Which accessories go with her pink dress?",
+    "Thai": "เครื่องประดับอะไรที่เหมาะกับชุดสีชมพูของเธอ?"
   },
   {
     "id": 1162,
@@ -816,23 +816,23 @@
   },
   {
     "id": 1164,
-    "English": "What made the cat run away?",
+    "English": "What makes cats run away?",
     "Thai": "อะไรทำให้แมววิ่งหนี?"
   },
   {
     "id": 1165,
-    "English": "Who does the cute toddler love to hug?",
+    "English": "Who do cute little children like to hug?",
     "Thai": "เด็กน้อยน่ารักชอบกอดใคร?"
   },
   {
     "id": 1166,
-    "English": "What rice dish do they enjoy eating?",
-    "Thai": "พวกเขาชอบกินข้าวจานอะไร?"
+    "English": "What dishes do they like to eat?",
+    "Thai": "พวกเขาชอบทานอาหารจานไหน?"
   },
   {
     "id": 1167,
-    "English": "Which flower has the nicest aroma?",
-    "Thai": "ดอกไม้ชนิดใดมีกลิ่นหอมที่สุด?"
+    "English": "Which flower has the most fragrant smell?",
+    "Thai": "ดอกไม้ชนิดใดมีกลิ่นหอมมากที่สุด?"
   },
   {
     "id": 1168,
@@ -841,37 +841,37 @@
   },
   {
     "id": 1169,
-    "English": "Why does she work extra hard?",
-    "Thai": "ทำไมเธอถึงทำงานหนักเป็นพิเศษ?"
+    "English": "Why is she working so hard?",
+    "Thai": "ทำไมเธอทำงานหนักมาก?"
   },
   {
     "id": 1170,
-    "English": "What is helping the elderly lady walk?",
+    "English": "What helped the old woman walk?",
     "Thai": "อะไรช่วยให้หญิงชราเดินได้?"
   },
   {
     "id": 1171,
-    "English": "Where is their new apartment located?",
+    "English": "Where is their new apartment?",
     "Thai": "อพาร์ทเมนต์ใหม่ของพวกเขาอยู่ที่ไหน?"
   },
   {
     "id": 1172,
-    "English": "Whose leftover food does she give away?",
-    "Thai": "เธอแจกอาหารที่เหลือให้ใคร?"
+    "English": "Who does she give the leftover food to?",
+    "Thai": "เธอให้อาหารที่เหลือกับใคร?"
   },
   {
     "id": 1173,
-    "English": "How excited is he feeling today?",
-    "Thai": "วันนี้เขารู้สึกตื่นเต้นแค่ไหน?"
+    "English": "How excited is he today?",
+    "Thai": "วันนี้เขาตื่นเต้นแค่ไหน?"
   },
   {
     "id": 1174,
-    "English": "What leaves change color in autumn?",
-    "Thai": "ใบไม้เปลี่ยนสีในฤดูใบไม้ร่วงคืออะไร?"
+    "English": "What are the leaves changing colors in autumn?",
+    "Thai": "ใบไม้เปลี่ยนสีในฤดูใบไม้ร่วงมีอะไรบ้าง?"
   },
   {
     "id": 1175,
-    "English": "Who is the woman waiting for?",
+    "English": "Who is that woman waiting for?",
     "Thai": "ผู้หญิงคนนั้นกำลังรอใครอยู่?"
   },
   {
@@ -881,22 +881,22 @@
   },
   {
     "id": 1177,
-    "English": "What questions does he ask the teacher?",
+    "English": "What questions did he ask the teacher?",
     "Thai": "เขาถามคำถามอะไรกับครู?"
   },
   {
     "id": 1178,
-    "English": "What warm drink do I enjoy in winter?",
-    "Thai": "ฉันชอบดื่มเครื่องดื่มอุ่นอะไรในฤดูหนาว?"
+    "English": "What warm drinks do I like to drink in winter?",
+    "Thai": "ฉันชอบดื่มเครื่องดื่มอุ่น ๆ อะไรในฤดูหนาว?"
   },
   {
     "id": 1179,
-    "English": "Which magazines does she like to read?",
-    "Thai": "เธอชอบอ่านนิตยสารเล่มไหน?"
+    "English": "What magazines does she like to read?",
+    "Thai": "เธอชอบอ่านนิตยสารอะไร"
   },
   {
     "id": 1180,
-    "English": "Where does the cute bunny live?",
+    "English": "Where do cute rabbits live?",
     "Thai": "กระต่ายน่ารักอาศัยอยู่ที่ไหน?"
   },
   {
@@ -906,52 +906,52 @@
   },
   {
     "id": 1182,
-    "English": "What tasty fruit does he eat every day?",
-    "Thai": "เขากินผลไม้อะไรอร่อยทุกวัน?"
+    "English": "What delicious fruit does he eat every day?",
+    "Thai": "เขากินผลไม้อะไรอร่อยๆ ทุกวัน?"
   },
   {
     "id": 1183,
-    "English": "Where does the cat enjoy relaxing?",
+    "English": "Where do cats like to rest?",
     "Thai": "แมวชอบพักผ่อนที่ไหน?"
   },
   {
     "id": 1184,
-    "English": "Who do I email frequently?",
-    "Thai": "ฉันจะส่งอีเมลถึงใครบ่อยๆ?"
+    "English": "Who do I email often?",
+    "Thai": "ฉันส่งอีเมลถึงใครบ่อยๆ?"
   },
   {
     "id": 1185,
-    "English": "When is their next break from work?",
-    "Thai": "พวกเขาจะหยุดทำงานครั้งต่อไปเมื่อไหร่?"
+    "English": "When will they next stop working?",
+    "Thai": "เมื่อไหร่พวกเขาจะหยุดทำงานครั้งต่อไป?"
   },
   {
     "id": 1186,
-    "English": "What food is prepared for the picnic?",
+    "English": "What food is prepared for a picnic?",
     "Thai": "อาหารอะไรที่เตรียมไว้สำหรับการปิกนิก?"
   },
   {
     "id": 1187,
-    "English": "How hard can the toddler kick?",
+    "English": "How hard can a toddler kick?",
     "Thai": "เด็กวัยหัดเดินสามารถเตะได้แรงแค่ไหน?"
   },
   {
     "id": 1188,
-    "English": "Which color is her elegant dress?",
-    "Thai": "ชุดที่หรูหราของเธอสีอะไร?"
+    "English": "What color is her elegant dress?",
+    "Thai": "ชุดที่หรูหราของเธอมีสีอะไร?"
   },
   {
     "id": 1189,
-    "English": "What special occasion is it today?",
+    "English": "What special occasion is today?",
     "Thai": "วันนี้เป็นโอกาสพิเศษอะไร?"
   },
   {
     "id": 1190,
-    "English": "What snacks are provided before naptime?",
-    "Thai": "ก่อนงีบหลับมีของว่างอะไรบ้าง?"
+    "English": "What snacks do you have before napping?",
+    "Thai": "ก่อนงีบมีขนมอะไรบ้าง?"
   },
   {
     "id": 1191,
-    "English": "What tea does Grandma drink when it’s cold?",
+    "English": "It's cold, what tea does Grandma drink?",
     "Thai": "หนาวแล้วคุณยายดื่มชาอะไร?"
   },
   {
@@ -961,13 +961,13 @@
   },
   {
     "id": 1193,
-    "English": "Where does the man take his dog each weekend?",
+    "English": "Where does a man take his dog each weekend?",
     "Thai": "ผู้ชายจะพาสุนัขของเขาไปที่ไหนในแต่ละสุดสัปดาห์?"
   },
   {
     "id": 1194,
-    "English": "What genre of books does the boy like reading?",
-    "Thai": "เด็กชายชอบอ่านหนังสือประเภทใด?"
+    "English": "What kind of books does the boy like to read?",
+    "Thai": "เด็กชายชอบอ่านหนังสือประเภทไหน?"
   },
   {
     "id": 1195,
@@ -976,7 +976,7 @@
   },
   {
     "id": 1196,
-    "English": "What season do the falling leaves indicate?",
+    "English": "What season do autumn leaves indicate?",
     "Thai": "ใบไม้ร่วงบ่งบอกถึงฤดูกาลใด?"
   },
   {
@@ -986,17 +986,17 @@
   },
   {
     "id": 1198,
-    "English": "What helps the baby girl sleep well?",
-    "Thai": "อะไรช่วยให้ลูกสาวนอนหลับสบาย?"
+    "English": "What helps your daughter sleep well?",
+    "Thai": "อะไรช่วยให้ลูกสาวของคุณนอนหลับสบาย?"
   },
   {
     "id": 1199,
-    "English": "Who cooks a nice breakfast on Sundays?",
-    "Thai": "ใครทำอาหารเช้าดีๆ ในวันอาทิตย์?"
+    "English": "Who makes a good breakfast? On Sunday?",
+    "Thai": "ใครทำอาหารเช้าที่ดี? ในวันอาทิตย์?"
   },
   {
     "id": 1200,
-    "English": "What fun activity are the kids playing at the party?",
-    "Thai": "เด็กๆ มีกิจกรรมสนุกๆ อะไรบ้างในงานปาร์ตี้?"
+    "English": "Children have fun activities What's at the party?",
+    "Thai": "เด็กๆ มีกิจกรรมสนุกๆ ในงานมีอะไรบ้าง?"
   }
 ]
