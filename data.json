@@ -621,7 +621,7 @@
   },
   {
     "id": 1125,
-    "English": "You are as red as a tomato",
+    "English": "You ae as red as a tomato",
     "Thai": "คุณแดงเหมือนกับมะเขือเทศลูกหนึ่ง"
   },
   {
@@ -887,7 +887,7 @@
   {
     "id": 1178,
     "English": "My son drink anywhere",
-    "Thai": "ลูกชายของฉันดื่มที่ไหนก็ได้"
+    "Thai": "ลูกชายของฉันกินที่ไหนก็ได้"
   },
   {
     "id": 1179,
@@ -1013,5 +1013,345 @@
     "id": 1203,
     "English": "No, not her",
     "Thai": "ไม่ ไม่ใช่เธอ"
+  },
+  {
+    "id": 1204,
+    "English": "He never run",
+    "Thai": "เขาไม่เคยวิ่ง"
+  },
+  {
+    "id": 1205,
+    "English": "I also want it",
+    "Thai": "ฉันต้องการมันเหมือนกัน"
+  },
+  {
+    "id": 1206,
+    "English": "I always drink milk with sugar",
+    "Thai": "ฉันดื่มนมกับน้ำตาลอยู่เสมอ"
+  },
+  {
+    "id": 1207,
+    "English": "I run once a week",
+    "Thai": "ฉันวิ่งสัปดาห์ละครั้ง"
+  },
+  {
+    "id": 1208,
+    "English": "Then we run",
+    "Thai": "จากนั้นพวกเราวิ่ง"
+  },
+  {
+    "id": 1209,
+    "English": "We will be here tomorrow",
+    "Thai": "พวกเราจะอยู่ที่นี่พรุ่งนี้"
+  },
+  {
+    "id": 1210,
+    "English": "He will stay here",
+    "Thai": "เขาจะอยู่ที่นี่"
+  },
+  {
+    "id": 1211,
+    "English": "However, It is too expensive",
+    "Thai": "อย่างไรก็ตาม มันแพงเกินไป"
+  },
+  {
+    "id": 1212,
+    "English": "Only once a year?",
+    "Thai": "ปีละครั้งเท่านั้น?"
+  },
+  {
+    "id": 1213,
+    "English": "Are you still here?",
+    "Thai": "คุณยังอยู่ที่นี่ไหม?"
+  },
+  {
+    "id": 1214,
+    "English": "Please go away!",
+    "Thai": "กรุณาไปให้พ้น!"
+  },
+  {
+    "id": 1215,
+    "English": "I usually pay",
+    "Thai": "ปกติฉันจ่าย"
+  },
+  {
+    "id": 1216,
+    "English": "As soon as they write I write",
+    "Thai": "ทันทีที่พวกเขาเขียนฉันเขียน"
+  },
+  {
+    "id": 1217,
+    "English": "You write especially for us",
+    "Thai": "คุณเขียนให้พวกเราโดยเฉพาะ"
+  },
+  {
+    "id": 1218,
+    "English": "It is definitely not the same",
+    "Thai": "มันไม่เหมือนกันอย่างแน่นอน"
+  },
+  {
+    "id": 1219,
+    "English": "We will go there tonight",
+    "Thai": "พวกเราจะไปที่นั่นคืนนี้"
+  },
+  {
+    "id": 1220,
+    "English": "Nor me",
+    "Thai": "ฉันก็ไม่"
+  },
+  {
+    "id": 1221,
+    "English": "We currently do not have water",
+    "Thai": "ขณะนี้พวกเราไม่มีน้ำ"
+  },
+  {
+    "id": 1222,
+    "English": "She eats a chicken sandwich",
+    "Thai": "เธอกินแซนด์วิชไก่อันหนึ่ง"
+  },
+  {
+    "id": 1223,
+    "English": "I normally eat breakfast",
+    "Thai": "ปกติฉันกินอาหารเช้า"
+  },
+  {
+    "id": 1224,
+    "English": "We are the workers",
+    "Thai": "พวกเราเป็นคนงาน"
+  },
+  {
+    "id": 1225,
+    "English": "I will call the doctor",
+    "Thai": "ฉันจะโทรหาหมอคนนี้"
+  },
+  {
+    "id": 1226,
+    "English": "My uncle is the author of the book",
+    "Thai": "ลุงของฉันเป็นนักประพันธ์หนังสือเล่มนี้"
+  },
+  {
+    "id": 1227,
+    "English": "They are actors",
+    "Thai": "พวกเขาเป็นนักแสดงหลายคน"
+  },
+  {
+    "id": 1228,
+    "English": "I am a waiter",
+    "Thai": "ฉันคือเด็กเสิร์ฟคนหนึ่ง"
+  },
+  {
+    "id": 1229,
+    "English": "The man is a professional",
+    "Thai": "ผูู้ชายคนนี้เป็นมืออาชีพคนหนึ่ง"
+  },
+  {
+    "id": 1230,
+    "English": "I am a writer",
+    "Thai": "ฉันเป็นนักเขียนคนหนึ่ง"
+  },
+  {
+    "id": 1231,
+    "English": "Her father is the director",
+    "Thai": "พ่อของเธอเป็นผู้กำกับ"
+  },
+  {
+    "id": 1232,
+    "English": "Elon is our boss",
+    "Thai": "อีลอนเป็นหัวหน้าของพวกเรา"
+  },
+  {
+    "id": 1233,
+    "English": "I eat with my aunt",
+    "Thai": "ฉันกินกับป้าของฉัน"
+  },
+  {
+    "id": 1234,
+    "English": "I am a student from Italy",
+    "Thai": "ฉันเป็นนักเรียนจากประเทศอิตาลี"
+  },
+  {
+    "id": 1235,
+    "English": "The horse is clean",
+    "Thai": "ม้าตัวนี้สะอาด"
+  },
+  {
+    "id": 1236,
+    "English": "Your name is from Spain",
+    "Thai": "ชื่อของคุณมาจากสเปน"
+  },
+  {
+    "id": 1237,
+    "English": "You know my wife",
+    "Thai": "คุณรู้จักภรรยาของฉัน"
+  },
+  {
+    "id": 1238,
+    "English": "Come with me",
+    "Thai": "มากับฉัน"
+  },
+  {
+    "id": 1239,
+    "English": "I am not sad",
+    "Thai": "ฉันไม่เศร้า"
+  },
+  {
+    "id": 1240,
+    "English": "He will touch a dog",
+    "Thai": "เขาจะสัมผัสสุนัขตัวหนึ่ง"
+  },
+  {
+    "id": 1241,
+    "English": "I will give you an answer",
+    "Thai": "ฉันจะให้คำตอบกับคุณ"
+  },
+  {
+    "id": 1242,
+    "English": "A black horse is sleeping",
+    "Thai": "ม้าสีดำตัวหนึ่งกำลังนอน"
+  },
+  {
+    "id": 1243,
+    "English": "He will not see it",
+    "Thai": "เขาจะไม่เห็นมัน"
+  },
+  {
+    "id": 1244,
+    "English": "We are waiting for you",
+    "Thai": "พวกเรากำลังรอคุณ"
+  },
+  {
+    "id": 1245,
+    "English": "Will your mother cook tomorrow?",
+    "Thai": "พรุ่งนี้แม่ของคุณจะทำอาหารไหม?"
+  },
+  {
+    "id": 1246,
+    "English": "When will you write?",
+    "Thai": "คุณจะเขียนเมื่อไหร่?"
+  },
+  {
+    "id": 1247,
+    "English": "I am playing with the cat",
+    "Thai": "ฉันกำลังเล่นกับแมวตัวนี้"
+  },
+  {
+    "id": 1248,
+    "English": "You are asking his father",
+    "Thai": "คุณกำลังถามพ่อของเขา"
+  },
+  {
+    "id": 1249,
+    "English": "I will stay three night",
+    "Thai": "ฉันจะอยู่สามคืน"
+  },
+  {
+    "id": 1250,
+    "English": "Will he sell his spider?",
+    "Thai": "เขาจะขายแมงมุมของเขาไหม?"
+  },
+  {
+    "id": 1251,
+    "English": "Will you go with me?",
+    "Thai": "คุณจะไปกับฉันไหม?"
+  },
+  {
+    "id": 1252,
+    "English": "You will seem like him",
+    "Thai": "คุณจะดูเหมือนเขา"
+  },
+  {
+    "id": 1253,
+    "English": "I am walking with my cat",
+    "Thai": "ฉันกำลังเดินกับแมวของฉัน"
+  },
+  {
+    "id": 1254,
+    "English": "Her sister will help you",
+    "Thai": "พี่สาวของเธอจะช่วยคุณ"
+  },
+  {
+    "id": 1255,
+    "English": "We are thinking",
+    "Thai": "พวกเรากำลังคิด"
+  },
+  {
+    "id": 1256,
+    "English": "Father is reading a newspaper",
+    "Thai": "พ่อกำลังอ่านหนังสือพิมพ์ฉบับหนึ่ง"
+  },
+  {
+    "id": 1257,
+    "English": "They will use her hat",
+    "Thai": "พวกเขาจะใช้หมวกของเธอ"
+  },
+  {
+    "id": 1258,
+    "English": "I will go to sleep",
+    "Thai": "ฉันจะไปนอน"
+  },
+  {
+    "id": 1259,
+    "English": "The crab drinks water",
+    "Thai": "ปูตัวนี้ดื่มน้ำ"
+  },
+  {
+    "id": 1260,
+    "English": "The bear eats an apple",
+    "Thai": "หมีตัวนี้กินแอปเปิลลูกหนึ่ง"
+  },
+  {
+    "id": 1261,
+    "English": "The turtle is an animal",
+    "Thai": "เต่าตัวนี้เป็นสัตว์ชนิดหนึ่ง"
+  },
+  {
+    "id": 1262,
+    "English": "He sits on the chair and looks at me",
+    "Thai": "เขานั่งลงบนเก้าอี้และมองที่ฉัน"
+  },
+  {
+    "id": 1263,
+    "English": "Can I come in?",
+    "Thai": "ฉันเข้าไปได้ไหม?"
+  },
+  {
+    "id": 1264,
+    "English": "Can I help with anything?",
+    "Thai": "ฉันสามารถช่วยอะไรได้บ้าง?"
+  },
+  {
+    "id": 1265,
+    "English": "And can you be quiet?",
+    "Thai": "แล้วคุณเงียบได้ไหม?"
+  },
+  {
+    "id": 1266,
+    "English": "My art class starts in one minute",
+    "Thai": "ชั้นเรียนศิลปะของฉันเริ่มในอีกหนึ่งนาที"
+  },
+  {
+    "id": 1267,
+    "English": "It is possible that she will come",
+    "Thai": "มันเป็นไปได้ว่าเธอจะมา"
+  },
+  {
+    "id": 1268,
+    "English": "It is a normal day",
+    "Thai": "มันเป็นวันธรรมดาวันหนึ่ง"
+  },
+  {
+    "id": 1269,
+    "English": "She writes the opposite answer",
+    "Thai": "เธอเขียนคำตอบที่ตรงกันข้าม"
+  },
+  {
+    "id": 1270,
+    "English": "The shoe is red",
+    "Thai": "รองเท้าข้างนี้สีแดง"
+  },
+  {
+    "id": 1271,
+    "English": "The newspaper is colorful",
+    "Thai": "หนังสือพิมพ์ฉบับนี้มีสีสัน"
   }
 ]
