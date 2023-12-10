@@ -152,7 +152,7 @@
   {
     "id": 1031,
     "English": "Her question is hard",
-    "Thai": "คุำถามของเธอยาก"
+    "Thai": "คำถามของเธอยาก"
   },
   {
     "id": 1032,
@@ -296,7 +296,7 @@
   },
   {
     "id": 1060,
-    "English": "it is not enough",
+    "English": "It is not enough",
     "Thai": "มันไม่เพียงพอ"
   },
   {
@@ -326,7 +326,7 @@
   },
   {
     "id": 1066,
-    "English": "in January",
+    "English": "In January",
     "Thai": "ในเดือนมกราคม"
   },
   {
@@ -721,7 +721,7 @@
   },
   {
     "id": 1145,
-    "English": "We do not have food, but at least we have water",
+    "English": "We do not have food but at least we have water",
     "Thai": "พวกเราไม่มีอาหาร แต่อย่างน้อยพวกเรามีน้ำ"
   },
   {
@@ -857,7 +857,7 @@
   {
     "id": 1172,
     "English": "Cats sleep anywhere",
-    "Thai": "แมนนอนที่ไหนก็ได้"
+    "Thai": "แมวนอนที่ไหนก็ได้"
   },
   {
     "id": 1173,
@@ -957,7 +957,7 @@
   {
     "id": 1192,
     "English": "However, It is good",
-    "Thai": "อย่่างไรก็ตามมันดี"
+    "Thai": "อย่างไรก็ตามมันดี"
   },
   {
     "id": 1193,
@@ -967,7 +967,7 @@
   {
     "id": 1194,
     "English": "The duck eats the apple",
-    "Thai": "เป็นตัวนี้กินแอปเปิลลูกนี้"
+    "Thai": "เป็ดตัวนี้กินแอปเปิลลูกนี้"
   },
   {
     "id": 1195,
@@ -987,7 +987,7 @@
   {
     "id": 1198,
     "English": "He is already here",
-    "Thai": "เขาอยู่ที่นี่่แล้ว"
+    "Thai": "เขาอยู่ที่นี่แล้ว"
   },
   {
     "id": 1199,
@@ -1353,5 +1353,70 @@
     "id": 1271,
     "English": "The newspaper is colorful",
     "Thai": "หนังสือพิมพ์ฉบับนี้มีสีสัน"
+  },
+  {
+    "id": 1272,
+    "English": "My shirt has differnt colors",
+    "Thai": "เสื้อเชิ้ตของฉันมีสีแตกต่างกัน"
+  },
+  {
+    "id": 1273,
+    "English": "My brother is older than me",
+    "Thai": "พี่ชายของฉันอายุมากกว่าฉัน"
+  },
+  {
+    "id": 1274,
+    "English": "Large or small",
+    "Thai": "ใหญ่หรือเล็ก?"
+  },
+  {
+    "id": 1275,
+    "English": "Our beer is cold",
+    "Thai": "เบียร์ของพวกเราเย็น"
+  },
+  {
+    "id": 1276,
+    "English": "Are you strong?",
+    "Thai": "คุณแข็งแรงไหม"
+  },
+  {
+    "id": 1277,
+    "English": "Their shirt is dirty",
+    "Thai": "เสื้อเชิ้ตของพวกเขาสกปรก"
+  },
+  {
+    "id": 1278,
+    "English": "Water is cheaper than milk",
+    "Thai": "น้ำถูกกว่านม"
+  },
+  {
+    "id": 1279,
+    "English": "The meal is expensive",
+    "Thai": "อาหารมื้อนี้แพง"
+  },
+  {
+    "id": 1280,
+    "English": "The animal eats its food",
+    "Thai": "สัตว์ตัวนี้กินอาหารของมัน"
+  },
+  {
+    "id": 1281,
+    "English": "My cat eats your fish",
+    "Thai": "แมวของฉันกินปลาของคุณ"
+  },
+  {
+    "id": 1282,
+    "English": "Their dog eats",
+    "Thai": "สุนัขของพวกเขากิน"
+  },
+  {
+    "id": 1283,
+    "English": "The cat is not mine",
+    "Thai": "แมวตัวนี้ไม่ใช่ของฉัน"
+  },
+  {
+    "id": 1284,
+    "English": "Our cat eats fish",
+    "Thai": "แมวของพวกเรากินปลา"
   }
 ]
