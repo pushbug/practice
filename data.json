@@ -1,1422 +1,2542 @@
 [
   {
-    "id": 1001,
+    "id": "S00001",
     "English": "She only eats fruit",
     "Thai": "เธอกินผลไม้เท่านั้น"
   },
   {
-    "id": 1002,
+    "id": "S00002",
     "English": "My father usually wears a hat",
     "Thai": "ปกติพ่อของฉันใส่หมวกใบหนึ่ง"
   },
   {
-    "id": 1003,
+    "id": "S00003",
     "English": "It is there",
     "Thai": "มันอยู่ที่นั่น"
   },
   {
-    "id": 1004,
+    "id": "S00004",
     "English": "It is more expensive",
     "Thai": "มันแพงกว่า"
   },
   {
-    "id": 1005,
+    "id": "S00005",
     "English": "He is here again",
     "Thai": "เขาอยู่ที่นี่อีกครั้ง"
   },
   {
-    "id": 1006,
+    "id": "S00006",
     "English": "We normally eat together",
     "Thai": "ปกติพวกเรากินด้วยกัน"
   },
   {
-    "id": 1007,
+    "id": "S00007",
     "English": "You have approximately a month",
     "Thai": "คุณมีเวลาประมาณหนึ่งเดือน"
   },
   {
-    "id": 1008,
+    "id": "S00008",
     "English": "Finally tomorrow is Friday",
     "Thai": "ในที่สุดพรุ่งนี้เป็นวันศุกร์"
   },
   {
-    "id": 1009,
+    "id": "S00009",
     "English": "And when?",
     "Thai": "และเมื่อไร?"
   },
   {
-    "id": 1010,
+    "id": "S00010",
     "English": "Where am I?",
     "Thai": "ฉันอยู่ที่ไหน?"
   },
   {
-    "id": 1011,
+    "id": "S00011",
     "English": "What color is the dress?",
     "Thai": "ชุดกระโปรงชุดนี้สีอะไร?"
   },
   {
-    "id": 1012,
+    "id": "S00012",
     "English": "We do not have water",
     "Thai": "พวกเราไม่มีน้ำ"
   },
   {
-    "id": 1013,
+    "id": "S00013",
     "English": "Does he have a horse?",
     "Thai": "เขามีม้าหนึ่งตัวใช่ไหม?"
   },
   {
-    "id": 1014,
+    "id": "S00014",
     "English": "Which are your shoes?",
     "Thai": "รองเท้าคู่ไหนเป็นของคุณ?"
   },
   {
-    "id": 1015,
+    "id": "S00015",
     "English": "Whose is the dress?",
     "Thai": "ชุดกระโปรงชุุดนี้เป็นของใคร?"
   },
   {
-    "id": 1016,
+    "id": "S00016",
     "English": "Who has a question?",
     "Thai": "ใครมีคำถาม?"
   },
   {
-    "id": 1017,
+    "id": "S00017",
     "English": "Whose newpaper is it?",
     "Thai": "มันเป็นหนังสือพิมพ์ของใคร?"
   },
   {
-    "id": 1018,
+    "id": "S00018",
     "English": "Why and when?",
     "Thai": "ทำไมและเมื่อไร?"
   },
   {
-    "id": 1019,
+    "id": "S00019",
     "English": "What is his real name?",
     "Thai": "ชื่อจริงของเขาคืออะไร?"
   },
   {
-    "id": 1020,
+    "id": "S00020",
     "English": "I drink and I eat",
     "Thai": "ฉันดื่มและฉันกิน"
   },
   {
-    "id": 1021,
+    "id": "S00021",
     "English": "I am a boy",
     "Thai": "ฉันเป็นเด็กผู้ชายคนหนึ่ง"
   },
   {
-    "id": 1022,
+    "id": "S00022",
     "English": "The woman eats an apple",
     "Thai": "ผู้หญิงคนนี้กินแอปเปิลลูกหนึ่ง"
   },
   {
-    "id": 1023,
+    "id": "S00023",
     "English": "The boy eats bread",
     "Thai": "เด็กผู้ชายคนนี้กินขนมปัง"
   },
   {
-    "id": 1024,
+    "id": "S00024",
     "English": "She is a girl and I am a boy",
     "Thai": "เธอเป็นเด็กผู้หญิงคนหนึ่งและผมเป็นเด็กผู้ชายคนหนึ่ง"
   },
   {
-    "id": 1025,
+    "id": "S00025",
     "English": "The girl eats an apple",
     "Thai": "เด็กผูู้หญิงคนนี้กินแอปเปิลลูกหนึ่ง"
   },
   {
-    "id": 1026,
+    "id": "S00026",
     "English": "He eats bread",
     "Thai": "เขากินขนมปัง"
   },
   {
-    "id": 1027,
+    "id": "S00027",
     "English": "A man drinks water",
     "Thai": "ผูู้ชายคนหนึ่งดื่มน้ำ"
   },
   {
-    "id": 1028,
+    "id": "S00028",
     "English": "She drinks water",
     "Thai": "เธอดื่มน้ำ"
   },
   {
-    "id": 1029,
+    "id": "S00029",
     "English": "Yes, it is simple",
     "Thai": "ใช่ มันง่าย"
   },
   {
-    "id": 1030,
+    "id": "S00030",
     "English": "I feel special",
     "Thai": "ฉันรู้สึกพิเศษ"
   },
   {
-    "id": 1031,
+    "id": "S00031",
     "English": "Her question is hard",
     "Thai": "คำถามของเธอยาก"
   },
   {
-    "id": 1032,
+    "id": "S00032",
     "English": "Your father is a fair man",
     "Thai": "พ่อของคุณเป็นผู้ชายยุติธรรมคนหนึ่ง"
   },
   {
-    "id": 1033,
+    "id": "S00033",
     "English": "Your answer is not clear",
     "Thai": "คำตอบของคุณไม่ชัดเจน"
   },
   {
-    "id": 1034,
+    "id": "S00034",
     "English": "What is the real answer?",
     "Thai": "คำตอบที่จริงคืออะไร?"
   },
   {
-    "id": 1035,
+    "id": "S00035",
     "English": "It is possible for you",
     "Thai": "มันเป็นไปได้สำหรับคุณ"
   },
   {
-    "id": 1036,
+    "id": "S00036",
     "English": "Your white shirt is nice",
     "Thai": "เสื้อเชิ้ตสีขาวของคุณสวย"
   },
   {
-    "id": 1037,
+    "id": "S00037",
     "English": "He makes me tired",
     "Thai": "เขาทำให้ฉันเหนื่อย"
   },
   {
-    "id": 1038,
+    "id": "S00038",
     "English": "She is a positive worker",
     "Thai": "เธอเป็นคนงานที่คิดบวกคนหนึ่ง"
   },
   {
-    "id": 1039,
+    "id": "S00039",
     "English": "I am free",
     "Thai": "ฉันว่าง"
   },
   {
-    "id": 1040,
+    "id": "S00040",
     "English": "She also sleeps here",
     "Thai": "เธอนอนที่นี่เหมือนกัน"
   },
   {
-    "id": 1041,
+    "id": "S00041",
     "English": "Even you have the book",
     "Thai": "แม้แต่คุณก็มีหนังสือเล่มนี้"
   },
   {
-    "id": 1042,
+    "id": "S00042",
     "English": "What else is there?",
     "Thai": "มีอะไรอีกบ้าง"
   },
   {
-    "id": 1043,
+    "id": "S00043",
     "English": "My daughter reads anywhere",
     "Thai": "ลูกสาวของฉันอ่านที่ไหนก็ได้"
   },
   {
-    "id": 1044,
+    "id": "S00044",
     "English": "We eat twice",
     "Thai": "พวกเรากินสองครั้ง"
   },
   {
-    "id": 1045,
+    "id": "S00045",
     "English": "Twice is too much",
     "Thai": "สองครั้งมากเกินไป"
   },
   {
-    "id": 1046,
+    "id": "S00046",
     "English": "She speaks English well",
     "Thai": "เธอพูดภาษาอังกฤษได้ดี"
   },
   {
-    "id": 1047,
+    "id": "S00047",
     "English": "Too late",
     "Thai": "สายเกินไป"
   },
   {
-    "id": 1048,
+    "id": "S00048",
     "English": "He reads easily",
     "Thai": "เขาอ่านอย่างง่ายดาย"
   },
   {
-    "id": 1049,
+    "id": "S00049",
     "English": "It is possibly too much",
     "Thai": "มันอาจจะมากเกินไป"
   },
   {
-    "id": 1050,
+    "id": "S00050",
     "English": "Nor I",
     "Thai": "ฉันก็ไม่"
   },
   {
-    "id": 1051,
+    "id": "S00051",
     "English": "See you soon!",
     "Thai": "เจอกันเร็วๆนี้!"
   },
   {
-    "id": 1052,
+    "id": "S00052",
     "English": "The food is expensive as ever",
     "Thai": "อาหารแพงเช่นเคย"
   },
   {
-    "id": 1053,
+    "id": "S00053",
     "English": "The elephant is really large",
     "Thai": "ช้างตัวนี้ใหญ่จริงๆ"
   },
   {
-    "id": 1054,
+    "id": "S00054",
     "English": "He walks slowly",
     "Thai": "เขาเดินอย่างช้าๆ"
   },
   {
-    "id": 1055,
+    "id": "S00055",
     "English": "We need to talk",
     "Thai": "เราต้องคุยกัน"
   },
   {
-    "id": 1056,
+    "id": "S00056",
     "English": "I still love him",
     "Thai": "ฉันยังรักเขา"
   },
   {
-    "id": 1057,
+    "id": "S00057",
     "English": "We like fruit especially apples",
     "Thai": "พวกเราชอบผลไม้ โดยเฉพาะแอปเปิล"
   },
   {
-    "id": 1058,
+    "id": "S00058",
     "English": "She is just a child",
     "Thai": "เธอเป็นเด็กคนหนึ่ง"
   },
   {
-    "id": 1059,
+    "id": "S00059",
     "English": "Sometimes he plays with us",
     "Thai": "บางครั้งเขาเล่นกับพวกเรา"
   },
   {
-    "id": 1060,
+    "id": "S00060",
     "English": "It is not enough",
     "Thai": "มันไม่เพียงพอ"
   },
   {
-    "id": 1061,
+    "id": "S00061",
     "English": "Who is there?",
     "Thai": "ใครอยู่ที่นั่น?"
   },
   {
-    "id": 1062,
+    "id": "S00062",
     "English": "I love you more than you love me",
     "Thai": "ฉันรักคุณมากกว่าคุณรักฉัน"
   },
   {
-    "id": 1063,
+    "id": "S00063",
     "English": "Friday and Saturday nights",
     "Thai": "คืนวันศุกร์และวันเสาร์"
   },
   {
-    "id": 1064,
+    "id": "S00064",
     "English": "I need a bit of sugar",
     "Thai": "ฉันต้องการน้ำตาลนิดหน่อย"
   },
   {
-    "id": 1065,
+    "id": "S00065",
     "English": "In October, we drink beer",
     "Thai": "ในเดือนตุลาคม พวกเราดื่มเบียร์"
   },
   {
-    "id": 1066,
+    "id": "S00066",
     "English": "In January",
     "Thai": "ในเดือนมกราคม"
   },
   {
-    "id": 1067,
+    "id": "S00067",
     "English": "From Wednesday until Tuesday",
     "Thai": "ตั้งแต่วันพุธจนถึงวันอังคาร"
   },
   {
-    "id": 1068,
+    "id": "S00068",
     "English": "The hour",
     "Thai": "ชั่วโมงนี้"
   },
   {
-    "id": 1069,
+    "id": "S00069",
     "English": "Weeks and months",
     "Thai": "หลายสัปดาห์และหลายเดือน"
   },
   {
-    "id": 1070,
+    "id": "S00070",
     "English": "I run on Thursdays",
     "Thai": "ฉันวิ่งในทุกวันพฤหัสบดี"
   },
   {
-    "id": 1071,
+    "id": "S00071",
     "English": "We are on stage",
     "Thai": "เราอยู่บนเวที"
   },
   {
-    "id": 1072,
+    "id": "S00072",
     "English": "The summer",
     "Thai": "ฤดูร้อนนี้"
   },
   {
-    "id": 1073,
+    "id": "S00073",
     "English": "What will you use to cook?",
     "Thai": "คุณจะใช้อะไรทำอาหาร?"
   },
   {
-    "id": 1074,
+    "id": "S00074",
     "English": "My son will sell his hat",
     "Thai": "ลูกชายของฉันจะขายหมวกของเขา"
   },
   {
-    "id": 1075,
+    "id": "S00075",
     "English": "We will call tomorrow",
     "Thai": "พวกเราจะโทรหาพรุ่งนี้"
   },
   {
-    "id": 1076,
+    "id": "S00076",
     "English": "I will walk with you",
     "Thai": "ฉันจะเดินกับคุณ"
   },
   {
-    "id": 1077,
+    "id": "S00077",
     "English": "She will eat from my plate",
     "Thai": "เธอจะกินจากจานของฉัน"
   },
   {
-    "id": 1078,
+    "id": "S00078",
     "English": "I will learn with you",
     "Thai": "ฉันจะเรียนรู้กับคุณ"
   },
   {
-    "id": 1079,
+    "id": "S00079",
     "English": "They will pay for your lunch",
     "Thai": "พวกเขาจะจ่ายค่าอาหารกลางวันของคุณ"
   },
   {
-    "id": 1080,
+    "id": "S00080",
     "English": "My sister will run tonight",
     "Thai": "พี่สาวของฉันจะวิ่งคืนนี้"
   },
   {
-    "id": 1081,
+    "id": "S00081",
     "English": "She will be your wife",
     "Thai": "เธอจะเป็นภรรยาของคุณ"
   },
   {
-    "id": 1082,
+    "id": "S00082",
     "English": "I will look at the spider",
     "Thai": "ฉันจะมองที่แมงมุมตัวนี้"
   },
   {
-    "id": 1083,
+    "id": "S00083",
     "English": "The girl has a grandfather",
     "Thai": "เด็กผู้หญิงคนนี้มีตาคนหนึ่ง"
   },
   {
-    "id": 1084,
+    "id": "S00084",
     "English": "You are my uncle",
     "Thai": "คุณคือลุงของฉัน"
   },
   {
-    "id": 1085,
+    "id": "S00085",
     "English": "My grandmother",
     "Thai": "ยายของฉัน"
   },
   {
-    "id": 1086,
+    "id": "S00086",
     "English": "We write the women's names",
     "Thai": "พวกเราเขียนชื่อของผู้หญิงหลายคนนี้"
   },
   {
-    "id": 1087,
+    "id": "S00087",
     "English": "He walks with my sister",
     "Thai": "เขาเดินกับพี่สาวของฉัน"
   },
   {
-    "id": 1088,
+    "id": "S00088",
     "English": "I eat with my husband",
     "Thai": "ฉันกินกับสามีของฉัน"
   },
   {
-    "id": 1089,
+    "id": "S00089",
     "English": "I have sons and daughters",
     "Thai": "ฉันมีลูกชายหลายคนและลูกสาวหลายคน"
   },
   {
-    "id": 1090,
+    "id": "S00090",
     "English": "My marriage",
     "Thai": "การแต่งงานของฉัน"
   },
   {
-    "id": 1091,
+    "id": "S00091",
     "English": "He drinks milk with the brother",
     "Thai": "เขาดื่มนมกับพี่ชายคนนี้"
   },
   {
-    "id": 1092,
+    "id": "S00092",
     "English": "I love my wife",
     "Thai": "ฉันรักภรรยาของฉัน"
   },
   {
-    "id": 1093,
+    "id": "S00093",
     "English": "A woman talks to you in a store.",
     "Thai": "ผู้หญิงคนหนึ่งคุยกับคุณในร้านค้า"
   },
   {
-    "id": 1094,
+    "id": "S00094",
     "English": "Do you work here?",
     "Thai": "คุณทำงานที่นี่ใช่ไหม?"
   },
   {
-    "id": 1095,
+    "id": "S00095",
     "English": "I need help",
     "Thai": "ฉันต้องการความช่วยเหลือ"
   },
   {
-    "id": 1096,
+    "id": "S00096",
     "English": "I need a new coat",
     "Thai": "ฉันต้องการเสื้อโค้ทตัวใหม่"
   },
   {
-    "id": 1097,
+    "id": "S00097",
     "English": "Do you like the red coat?",
     "Thai": "คุณชอบเสื้อโค้ทสีแดงไหม"
   },
   {
-    "id": 1098,
+    "id": "S00098",
     "English": "The brown coat is nice and cheap",
     "Thai": "เสื้อโค้ทสีน้ำตาลสวยและถูก"
   },
   {
-    "id": 1099,
+    "id": "S00099",
     "English": "But the red coat is very beautiful",
     "Thai": "แต่เสื้อโค้ทสีแดงสวยมาก"
   },
   {
-    "id": 1100,
+    "id": "S00100",
     "English": "And it is warm",
     "Thai": "และมันอบอุ่น"
   },
   {
-    "id": 1101,
+    "id": "S00101",
     "English": "It is perfect for you!",
     "Thai": "มันดีเลิศสำหรับคุณ"
   },
   {
-    "id": 1102,
+    "id": "S00102",
     "English": "Thank you! You are good at your job",
     "Thai": "ขอบคุณ! คุณเก่งในงานของคุณ"
   },
   {
-    "id": 1103,
+    "id": "S00103",
     "English": "Where do I pay for the coat?",
     "Thai": "จ่ายค่าเสื้อได้ที่ไหน?"
   },
   {
-    "id": 1104,
+    "id": "S00104",
     "English": "Then and now",
     "Thai": "ตอนนั้นและตอนนี้"
   },
   {
-    "id": 1105,
+    "id": "S00105",
     "English": "Not necessarily",
     "Thai": "ไม่จำเป็น"
   },
   {
-    "id": 1106,
+    "id": "S00106",
     "English": "Once or twice a day?",
     "Thai": "วันละครั้งหรือสองครั้ง?"
   },
   {
-    "id": 1107,
+    "id": "S00107",
     "English": "Far from here",
     "Thai": "ไกลจากที่นี่"
   },
   {
-    "id": 1108,
+    "id": "S00108",
     "English": "Thanks very much doctor",
     "Thai": "ขอบใจมากๆ หมอ"
   },
   {
-    "id": 1109,
+    "id": "S00109",
     "English": "I will try again",
     "Thai": "ฉันจะลองอีกครั้ง"
   },
   {
-    "id": 1110,
+    "id": "S00110",
     "English": "The skirt is too short",
     "Thai": "กระโปรงตัวนี้สั้นเกินไป"
   },
   {
-    "id": 1111,
+    "id": "S00111",
     "English": "He is still young",
     "Thai": "เขายังอายุน้อย"
   },
   {
-    "id": 1112,
+    "id": "S00112",
     "English": "There is a boy",
     "Thai": "มีเด็กผู้ชายคนหนึ่ง"
   },
   {
-    "id": 1113,
+    "id": "S00113",
     "English": "Too expensive!",
     "Thai": "แพงเกินไป"
   },
   {
-    "id": 1114,
+    "id": "S00114",
     "English": "The food is pretty expensive",
     "Thai": "อาหารค่อนข้างแพง"
   },
   {
-    "id": 1115,
+    "id": "S00115",
     "English": "I hope so",
     "Thai": "ฉันหวังว่าอย่างนั้น"
   },
   {
-    "id": 1116,
+    "id": "S00116",
     "English": "Until now",
     "Thai": "จนถึงตอนนี้"
   },
   {
-    "id": 1117,
+    "id": "S00117",
     "English": "My English is not very good",
     "Thai": "ภาษาอังกฤษของฉันไม่ได้ดีมาก"
   },
   {
-    "id": 1118,
+    "id": "S00118",
     "English": "He is very tall",
     "Thai": "เขาสูงมาก"
   },
   {
-    "id": 1119,
+    "id": "S00119",
     "English": "My hat is there",
     "Thai": "หมวกของฉันอยู่ที่นั่น"
   },
   {
-    "id": 1120,
+    "id": "S00120",
     "English": "So, how are you?",
     "Thai": "แล้วคุณเป็นอย่างไรบ้าง?"
   },
   {
-    "id": 1121,
+    "id": "S00121",
     "English": "I am very happy",
     "Thai": "ฉันมีความสุขมาก"
   },
   {
-    "id": 1122,
+    "id": "S00122",
     "English": "My coat is too big for her",
     "Thai": "เสื้อโค้ทของฉันใหญ่เกินไปสำหรับเธอ"
   },
   {
-    "id": 1123,
+    "id": "S00123",
     "English": "I am running too",
     "Thai": "ฉันกำลังวิ่งด้วย"
   },
   {
-    "id": 1124,
+    "id": "S00124",
     "English": "I like wine more than I like beer",
     "Thai": "ฉันชอบไวน์มากกว่าฉันชอบเบียร์"
   },
   {
-    "id": 1125,
+    "id": "S00125",
     "English": "You ae as red as a tomato",
     "Thai": "คุณแดงเหมือนกับมะเขือเทศลูกหนึ่ง"
   },
   {
-    "id": 1126,
+    "id": "S00126",
     "English": "My mother swims more than my father",
     "Thai": "แม่ของฉันว่ายน้ำมากกว่าพ่อของฉัน"
   },
   {
-    "id": 1127,
+    "id": "S00127",
     "English": "We also drink wine",
     "Thai": "พวกเราดื่มไวน์เหมือนกัน"
   },
   {
-    "id": 1128,
+    "id": "S00128",
     "English": "I never eat meat",
     "Thai": "ฉันไม่เคยกินเนื้อสัตว์"
   },
   {
-    "id": 1129,
+    "id": "S00129",
     "English": "Your dog is here",
     "Thai": "สุนัขของคุณอยู่ที่นี่"
   },
   {
-    "id": 1130,
+    "id": "S00130",
     "English": "Her skirt is pretty dirty",
     "Thai": "กระโปรงของเธอค่อนข้างสกปรก"
   },
   {
-    "id": 1131,
+    "id": "S00131",
     "English": "He drinks milk once a day",
     "Thai": "เขาดื่มนมวันละครั้ง"
   },
   {
-    "id": 1132,
+    "id": "S00132",
     "English": "Then it is over",
     "Thai": "จากนั้นมันจบลง"
   },
   {
-    "id": 1133,
+    "id": "S00133",
     "English": "We never tell him that we love him",
     "Thai": "เราไม่เคยบอกเขาว่าเรารักเขา"
   },
   {
-    "id": 1134,
+    "id": "S00134",
     "English": "My mother will always be young",
     "Thai": "แม่ของฉันจะยังเด็กอยู่เสมอ"
   },
   {
-    "id": 1135,
+    "id": "S00135",
     "English": "I always walk",
     "Thai": "ฉันเดินอยู่เสมอ"
   },
   {
-    "id": 1136,
+    "id": "S00136",
     "English": "It is just a mouse",
     "Thai": "มันเป็นแค่หนูตัวหนึ่ง"
   },
   {
-    "id": 1137,
+    "id": "S00137",
     "English": "I still love you",
     "Thai": "ฉันยังรักคุณ"
   },
   {
-    "id": 1138,
+    "id": "S00138",
     "English": "My wife cooks well",
     "Thai": "ภรรยาของฉันทำอาหารได้ดี"
   },
   {
-    "id": 1139,
+    "id": "S00139",
     "English": "Red wine only",
     "Thai": "ไวน์แดงเท่านั้น"
   },
   {
-    "id": 1140,
+    "id": "S00140",
     "English": "I do not even have a brother",
     "Thai": "ฉันไม่มีแม้แต่พี่ชายคนหนึ่ง"
   },
   {
-    "id": 1141,
+    "id": "S00141",
     "English": "You work too much",
     "Thai": "คุณทำงานมากเกินไป"
   },
   {
-    "id": 1142,
+    "id": "S00142",
     "English": "He will only drink water",
     "Thai": "เขาจะดื่มแต่น้ำเท่านั้น"
   },
   {
-    "id": 1143,
+    "id": "S00143",
     "English": "The question, however, does not have an answer",
     "Thai": "อย่างไรก็ตามคำถามนี้ไม่มีคำตอบ"
   },
   {
-    "id": 1144,
+    "id": "S00144",
     "English": "It is just a bear",
     "Thai": "มันเป็นแค่หมีตัวหนึ่ง"
   },
   {
-    "id": 1145,
+    "id": "S00145",
     "English": "We do not have food but at least we have water",
     "Thai": "พวกเราไม่มีอาหาร แต่อย่างน้อยพวกเรามีน้ำ"
   },
   {
-    "id": 1146,
+    "id": "S00146",
     "English": "He is already there",
     "Thai": "เขาอยู่ที่นั่นแล้ว"
   },
   {
-    "id": 1147,
+    "id": "S00147",
     "English": "I have it already",
     "Thai": "ฉันมีมันแล้ว"
   },
   {
-    "id": 1148,
+    "id": "S00148",
     "English": "We talk for at least an hour",
     "Thai": "พวกเราคุยกันอย่างน้อยหนึ่งชั่วโมง"
   },
   {
-    "id": 1149,
+    "id": "S00149",
     "English": "I really like my job",
     "Thai": "ฉันชอบงานของฉันจริงๆ"
   },
   {
-    "id": 1150,
+    "id": "S00150",
     "English": "He is not there yet",
     "Thai": "เขายังไม่อยู่ที่นั่น"
   },
   {
-    "id": 1151,
+    "id": "S00151",
     "English": "Is he ever here with you?",
     "Thai": "เขาเคยอยู่ที่นี่กับคุณไหม?"
   },
   {
-    "id": 1152,
+    "id": "S00152",
     "English": "Have you read the book yet?",
     "Thai": "คุณอ่านหนังสือเล่มนี้หรือยัง?"
   },
   {
-    "id": 1153,
+    "id": "S00153",
     "English": "I am away",
     "Thai": "ฉันไม่อยู่"
   },
   {
-    "id": 1154,
+    "id": "S00154",
     "English": "I really like you",
     "Thai": "ฉันชอบคุณจริงๆ"
   },
   {
-    "id": 1155,
+    "id": "S00155",
     "English": "He takes me away from here",
     "Thai": "เขาพาฉันออกไปจากที่นี่"
   },
   {
-    "id": 1156,
+    "id": "S00156",
     "English": "We are still far from there",
     "Thai": "พวกเรายังไกลจากที่นั่น"
   },
   {
-    "id": 1157,
+    "id": "S00157",
     "English": "Enough or too much",
     "Thai": "เพียงพอหรือมากเกินไป"
   },
   {
-    "id": 1158,
+    "id": "S00158",
     "English": "See you later",
     "Thai": "แล้วพบกันใหม่"
   },
   {
-    "id": 1159,
+    "id": "S00159",
     "English": "I usually walk",
     "Thai": "ปกติฉันเดิน"
   },
   {
-    "id": 1160,
+    "id": "S00160",
     "English": "Is it far from here?",
     "Thai": "มันไกลจากที่นี่ไหม?"
   },
   {
-    "id": 1161,
+    "id": "S00161",
     "English": "My father usually wears a hat when he goes out",
     "Thai": "ปกติพ่อของฉันใส่หมวกใบหนึ่ง เมื่อเขาไปข้างนอก"
   },
   {
-    "id": 1162,
+    "id": "S00162",
     "English": "She is currently a secretary",
     "Thai": "ขณะนี้เธอเป็นเลขานุการคนหนึ่ง"
   },
   {
-    "id": 1163,
+    "id": "S00163",
     "English": "He is currently an actor",
     "Thai": "ขณะนี้เขาเป็นนักแสดงคนหนึ่ง"
   },
   {
-    "id": 1164,
+    "id": "S00164",
     "English": "I always work late",
     "Thai": "ฉันทำงานสายเสมอ"
   },
   {
-    "id": 1165,
+    "id": "S00165",
     "English": "It is almost enough",
     "Thai": "มันเกือบเพียงพอ"
   },
   {
-    "id": 1166,
+    "id": "S00166",
     "English": "She sleeps easily",
     "Thai": "เธอหลับอย่างง่ายดาย"
   },
   {
-    "id": 1167,
+    "id": "S00167",
     "English": "Why is he late?",
     "Thai": "ทำไมเขาสาย?"
   },
   {
-    "id": 1168,
+    "id": "S00168",
     "English": "She reads easily",
     "Thai": "เธออ่านอย่างง่ายดาย"
   },
   {
-    "id": 1169,
+    "id": "S00169",
     "English": "We generally eat fish on Friday",
     "Thai": "โดยทั่วไปเราจะกินปลาในวันศุกร์"
   },
   {
-    "id": 1170,
+    "id": "S00170",
     "English": "Sometimes she cooks with him",
     "Thai": "บางครั้งเธอทำอาหารกับเขา"
   },
   {
-    "id": 1171,
+    "id": "S00171",
     "English": "The apples is especially green",
     "Thai": "แอปเปิลลูกนี้สีเขียวโดยเฉพาะ"
   },
   {
-    "id": 1172,
+    "id": "S00172",
     "English": "Cats sleep anywhere",
     "Thai": "แมวนอนที่ไหนก็ได้"
   },
   {
-    "id": 1173,
+    "id": "S00173",
     "English": "Speak clearly",
     "Thai": "พูดอย่างชัดเจน"
   },
   {
-    "id": 1174,
+    "id": "S00174",
     "English": "My parents eat there twice a week",
     "Thai": "พ่อแม่ของฉันกินที่นั่นสัปดาห์ละสองครั้ง"
   },
   {
-    "id": 1175,
+    "id": "S00175",
     "English": "I am completely against it",
     "Thai": "ฉันต่อต้านมันโดยสิ้นเชิง"
   },
   {
-    "id": 1176,
+    "id": "S00176",
     "English": "It is completely green",
     "Thai": "มันสีเขียวโดยสิ้นเชิง"
   },
   {
-    "id": 1177,
+    "id": "S00177",
     "English": "He is clearly not a boy",
     "Thai": "เขาไม่ใช่เด็กผู้ชายอย่างชัดเจน"
   },
   {
-    "id": 1178,
+    "id": "S00178",
     "English": "My son drink anywhere",
     "Thai": "ลูกชายของฉันกินที่ไหนก็ได้"
   },
   {
-    "id": 1179,
+    "id": "S00179",
     "English": "Yes exactly",
     "Thai": "ใช่แน่นอน"
   },
   {
-    "id": 1180,
+    "id": "S00180",
     "English": "It is exactly there",
     "Thai": "มันอยูู่ที่นั่นอย่างแน่นอน"
   },
   {
-    "id": 1181,
+    "id": "S00181",
     "English": "They are approximately the same age",
     "Thai": "พวกเขาอายุใกล้เคียงกัน"
   },
   {
-    "id": 1182,
+    "id": "S00182",
     "English": "My grandmother speaks perfectly",
     "Thai": "ยายของฉันพูดได้อย่างสมบูรณ์แบบ"
   },
   {
-    "id": 1183,
+    "id": "S00183",
     "English": "He works slowly",
     "Thai": "เขาทำงานช้า"
   },
   {
-    "id": 1184,
+    "id": "S00184",
     "English": "I work neither Saturday nor Sunday",
     "Thai": "ฉันไม่ทำงานทั้งวันเสาร์และวันอาทิตย์"
   },
   {
-    "id": 1185,
+    "id": "S00185",
     "English": "He and I walk together",
     "Thai": "เขาและฉันเดินด้วยกัน"
   },
   {
-    "id": 1186,
+    "id": "S00186",
     "English": "It is definitely a bear",
     "Thai": "มันคือหมีตัวหนึ่งอย่างแน่นอน"
   },
   {
-    "id": 1187,
+    "id": "S00187",
     "English": "It is not necessarily more expensive",
     "Thai": "มันไม่จำเป็นต้องแพงกว่า"
   },
   {
-    "id": 1188,
+    "id": "S00188",
     "English": "My father is not very old",
     "Thai": "พ่อของฉันอายุไม่มาก"
   },
   {
-    "id": 1189,
+    "id": "S00189",
     "English": "What time is it now?",
     "Thai": "ตอนนี้กี่โมงแล้ว?"
   },
   {
-    "id": 1190,
+    "id": "S00190",
     "English": "I will never use you",
     "Thai": "ฉันจะไม่มีทางใช้คุณ"
   },
   {
-    "id": 1191,
+    "id": "S00191",
     "English": "We need more now",
     "Thai": "พวกเราต้องการมากกว่านี้ตอนนี้"
   },
   {
-    "id": 1192,
+    "id": "S00192",
     "English": "However, It is good",
     "Thai": "อย่างไรก็ตามมันดี"
   },
   {
-    "id": 1193,
+    "id": "S00193",
     "English": "Sometimes we eat fish for dinner",
     "Thai": "บางครั้งพวกเรากินปลาเป็นอาหารเย็น"
   },
   {
-    "id": 1194,
+    "id": "S00194",
     "English": "The duck eats the apple",
     "Thai": "เป็ดตัวนี้กินแอปเปิลลูกนี้"
   },
   {
-    "id": 1195,
+    "id": "S00195",
     "English": "We have a cat and a dog",
     "Thai": "พวกเรามีแมวตัวหนึ่งและสุนัขตัวหนึ่ง"
   },
   {
-    "id": 1196,
+    "id": "S00196",
     "English": "I eat more than you",
     "Thai": "ฉันกินมากกว่าคุณ"
   },
   {
-    "id": 1197,
+    "id": "S00197",
     "English": "It is white but it is not necessarily sugar",
     "Thai": "มันเป็นสีขาวแต่มันไม่จำเป็นต้องเป็นน้ำตาล"
   },
   {
-    "id": 1198,
+    "id": "S00198",
     "English": "He is already here",
     "Thai": "เขาอยู่ที่นี่แล้ว"
   },
   {
-    "id": 1199,
+    "id": "S00199",
     "English": "Me too",
     "Thai": "ฉันเช่นกัน"
   },
   {
-    "id": 1200,
+    "id": "S00200",
     "English": "Just in time!",
     "Thai": "ทันเวลาพอดี"
   },
   {
-    "id": 1201,
+    "id": "S00201",
     "English": "She reads you a menu",
     "Thai": "เธออ่านเมนูให้คุณฟัง"
   },
   {
-    "id": 1202,
+    "id": "S00202",
     "English": "She reads him a newspaper",
     "Thai": "เธออ่านหนังสือพิมพ์ให้เขา"
   },
   {
-    "id": 1203,
+    "id": "S00203",
     "English": "No, not her",
     "Thai": "ไม่ ไม่ใช่เธอ"
   },
   {
-    "id": 1204,
+    "id": "S00204",
     "English": "He never run",
     "Thai": "เขาไม่เคยวิ่ง"
   },
   {
-    "id": 1205,
+    "id": "S00205",
     "English": "I also want it",
     "Thai": "ฉันต้องการมันเหมือนกัน"
   },
   {
-    "id": 1206,
+    "id": "S00206",
     "English": "I always drink milk with sugar",
     "Thai": "ฉันดื่มนมกับน้ำตาลอยู่เสมอ"
   },
   {
-    "id": 1207,
+    "id": "S00207",
     "English": "I run once a week",
     "Thai": "ฉันวิ่งสัปดาห์ละครั้ง"
   },
   {
-    "id": 1208,
+    "id": "S00208",
     "English": "Then we run",
     "Thai": "จากนั้นพวกเราวิ่ง"
   },
   {
-    "id": 1209,
+    "id": "S00209",
     "English": "We will be here tomorrow",
     "Thai": "พวกเราจะอยู่ที่นี่พรุ่งนี้"
   },
   {
-    "id": 1210,
+    "id": "S00210",
     "English": "He will stay here",
     "Thai": "เขาจะอยู่ที่นี่"
   },
   {
-    "id": 1211,
+    "id": "S00211",
     "English": "However, It is too expensive",
     "Thai": "อย่างไรก็ตาม มันแพงเกินไป"
   },
   {
-    "id": 1212,
+    "id": "S00212",
     "English": "Only once a year?",
     "Thai": "ปีละครั้งเท่านั้น?"
   },
   {
-    "id": 1213,
+    "id": "S00213",
     "English": "Are you still here?",
     "Thai": "คุณยังอยู่ที่นี่ไหม?"
   },
   {
-    "id": 1214,
+    "id": "S00214",
     "English": "Please go away!",
     "Thai": "กรุณาไปให้พ้น!"
   },
   {
-    "id": 1215,
+    "id": "S00215",
     "English": "I usually pay",
     "Thai": "ปกติฉันจ่าย"
   },
   {
-    "id": 1216,
+    "id": "S00216",
     "English": "As soon as they write I write",
     "Thai": "ทันทีที่พวกเขาเขียนฉันเขียน"
   },
   {
-    "id": 1217,
+    "id": "S00217",
     "English": "You write especially for us",
     "Thai": "คุณเขียนให้พวกเราโดยเฉพาะ"
   },
   {
-    "id": 1218,
+    "id": "S00218",
     "English": "It is definitely not the same",
     "Thai": "มันไม่เหมือนกันอย่างแน่นอน"
   },
   {
-    "id": 1219,
+    "id": "S00219",
     "English": "We will go there tonight",
     "Thai": "พวกเราจะไปที่นั่นคืนนี้"
   },
   {
-    "id": 1220,
+    "id": "S00220",
     "English": "Nor me",
     "Thai": "ฉันก็ไม่"
   },
   {
-    "id": 1221,
+    "id": "S00221",
     "English": "We currently do not have water",
     "Thai": "ขณะนี้พวกเราไม่มีน้ำ"
   },
   {
-    "id": 1222,
+    "id": "S00222",
     "English": "She eats a chicken sandwich",
     "Thai": "เธอกินแซนด์วิชไก่อันหนึ่ง"
   },
   {
-    "id": 1223,
+    "id": "S00223",
     "English": "I normally eat breakfast",
     "Thai": "ปกติฉันกินอาหารเช้า"
   },
   {
-    "id": 1224,
+    "id": "S00224",
     "English": "We are the workers",
     "Thai": "พวกเราเป็นคนงาน"
   },
   {
-    "id": 1225,
+    "id": "S00225",
     "English": "I will call the doctor",
     "Thai": "ฉันจะโทรหาหมอคนนี้"
   },
   {
-    "id": 1226,
+    "id": "S00226",
     "English": "My uncle is the author of the book",
     "Thai": "ลุงของฉันเป็นนักประพันธ์หนังสือเล่มนี้"
   },
   {
-    "id": 1227,
+    "id": "S00227",
     "English": "They are actors",
     "Thai": "พวกเขาเป็นนักแสดงหลายคน"
   },
   {
-    "id": 1228,
+    "id": "S00228",
     "English": "I am a waiter",
     "Thai": "ฉันคือเด็กเสิร์ฟคนหนึ่ง"
   },
   {
-    "id": 1229,
+    "id": "S00229",
     "English": "The man is a professional",
     "Thai": "ผูู้ชายคนนี้เป็นมืออาชีพคนหนึ่ง"
   },
   {
-    "id": 1230,
+    "id": "S00230",
     "English": "I am a writer",
     "Thai": "ฉันเป็นนักเขียนคนหนึ่ง"
   },
   {
-    "id": 1231,
+    "id": "S00231",
     "English": "Her father is the director",
     "Thai": "พ่อของเธอเป็นผู้กำกับ"
   },
   {
-    "id": 1232,
+    "id": "S00232",
     "English": "Elon is our boss",
     "Thai": "อีลอนเป็นหัวหน้าของพวกเรา"
   },
   {
-    "id": 1233,
+    "id": "S00233",
     "English": "I eat with my aunt",
     "Thai": "ฉันกินกับป้าของฉัน"
   },
   {
-    "id": 1234,
+    "id": "S00234",
     "English": "I am a student from Italy",
     "Thai": "ฉันเป็นนักเรียนจากประเทศอิตาลี"
   },
   {
-    "id": 1235,
+    "id": "S00235",
     "English": "The horse is clean",
     "Thai": "ม้าตัวนี้สะอาด"
   },
   {
-    "id": 1236,
+    "id": "S00236",
     "English": "Your name is from Spain",
     "Thai": "ชื่อของคุณมาจากสเปน"
   },
   {
-    "id": 1237,
+    "id": "S00237",
     "English": "You know my wife",
     "Thai": "คุณรู้จักภรรยาของฉัน"
   },
   {
-    "id": 1238,
+    "id": "S00238",
     "English": "Come with me",
     "Thai": "มากับฉัน"
   },
   {
-    "id": 1239,
+    "id": "S00239",
     "English": "I am not sad",
     "Thai": "ฉันไม่เศร้า"
   },
   {
-    "id": 1240,
+    "id": "S00240",
     "English": "He will touch a dog",
     "Thai": "เขาจะสัมผัสสุนัขตัวหนึ่ง"
   },
   {
-    "id": 1241,
+    "id": "S00241",
     "English": "I will give you an answer",
     "Thai": "ฉันจะให้คำตอบกับคุณ"
   },
   {
-    "id": 1242,
+    "id": "S00242",
     "English": "A black horse is sleeping",
     "Thai": "ม้าสีดำตัวหนึ่งกำลังนอน"
   },
   {
-    "id": 1243,
+    "id": "S00243",
     "English": "He will not see it",
     "Thai": "เขาจะไม่เห็นมัน"
   },
   {
-    "id": 1244,
+    "id": "S00244",
     "English": "We are waiting for you",
     "Thai": "พวกเรากำลังรอคุณ"
   },
   {
-    "id": 1245,
+    "id": "S00245",
     "English": "Will your mother cook tomorrow?",
     "Thai": "พรุ่งนี้แม่ของคุณจะทำอาหารไหม?"
   },
   {
-    "id": 1246,
+    "id": "S00246",
     "English": "When will you write?",
     "Thai": "คุณจะเขียนเมื่อไหร่?"
   },
   {
-    "id": 1247,
+    "id": "S00247",
     "English": "I am playing with the cat",
     "Thai": "ฉันกำลังเล่นกับแมวตัวนี้"
   },
   {
-    "id": 1248,
+    "id": "S00248",
     "English": "You are asking his father",
     "Thai": "คุณกำลังถามพ่อของเขา"
   },
   {
-    "id": 1249,
+    "id": "S00249",
     "English": "I will stay three night",
     "Thai": "ฉันจะอยู่สามคืน"
   },
   {
-    "id": 1250,
+    "id": "S00250",
     "English": "Will he sell his spider?",
     "Thai": "เขาจะขายแมงมุมของเขาไหม?"
   },
   {
-    "id": 1251,
+    "id": "S00251",
     "English": "Will you go with me?",
     "Thai": "คุณจะไปกับฉันไหม?"
   },
   {
-    "id": 1252,
+    "id": "S00252",
     "English": "You will seem like him",
     "Thai": "คุณจะดูเหมือนเขา"
   },
   {
-    "id": 1253,
+    "id": "S00253",
     "English": "I am walking with my cat",
     "Thai": "ฉันกำลังเดินกับแมวของฉัน"
   },
   {
-    "id": 1254,
+    "id": "S00254",
     "English": "Her sister will help you",
     "Thai": "พี่สาวของเธอจะช่วยคุณ"
   },
   {
-    "id": 1255,
+    "id": "S00255",
     "English": "We are thinking",
     "Thai": "พวกเรากำลังคิด"
   },
   {
-    "id": 1256,
+    "id": "S00256",
     "English": "Father is reading a newspaper",
     "Thai": "พ่อกำลังอ่านหนังสือพิมพ์ฉบับหนึ่ง"
   },
   {
-    "id": 1257,
+    "id": "S00257",
     "English": "They will use her hat",
     "Thai": "พวกเขาจะใช้หมวกของเธอ"
   },
   {
-    "id": 1258,
+    "id": "S00258",
     "English": "I will go to sleep",
     "Thai": "ฉันจะไปนอน"
   },
   {
-    "id": 1259,
+    "id": "S00259",
     "English": "The crab drinks water",
     "Thai": "ปูตัวนี้ดื่มน้ำ"
   },
   {
-    "id": 1260,
+    "id": "S00260",
     "English": "The bear eats an apple",
     "Thai": "หมีตัวนี้กินแอปเปิลลูกหนึ่ง"
   },
   {
-    "id": 1261,
+    "id": "S00261",
     "English": "The turtle is an animal",
     "Thai": "เต่าตัวนี้เป็นสัตว์ชนิดหนึ่ง"
   },
   {
-    "id": 1262,
+    "id": "S00262",
     "English": "He sits on the chair and looks at me",
     "Thai": "เขานั่งลงบนเก้าอี้และมองที่ฉัน"
   },
   {
-    "id": 1263,
+    "id": "S00263",
     "English": "Can I come in?",
     "Thai": "ฉันเข้าไปได้ไหม?"
   },
   {
-    "id": 1264,
+    "id": "S00264",
     "English": "Can I help with anything?",
     "Thai": "ฉันสามารถช่วยอะไรได้บ้าง?"
   },
   {
-    "id": 1265,
+    "id": "S00265",
     "English": "And can you be quiet?",
     "Thai": "แล้วคุณเงียบได้ไหม?"
   },
   {
-    "id": 1266,
+    "id": "S00266",
     "English": "My art class starts in one minute",
     "Thai": "ชั้นเรียนศิลปะของฉันเริ่มในอีกหนึ่งนาที"
   },
   {
-    "id": 1267,
+    "id": "S00267",
     "English": "It is possible that she will come",
     "Thai": "มันเป็นไปได้ว่าเธอจะมา"
   },
   {
-    "id": 1268,
+    "id": "S00268",
     "English": "It is a normal day",
     "Thai": "มันเป็นวันธรรมดาวันหนึ่ง"
   },
   {
-    "id": 1269,
+    "id": "S00269",
     "English": "She writes the opposite answer",
     "Thai": "เธอเขียนคำตอบที่ตรงกันข้าม"
   },
   {
-    "id": 1270,
+    "id": "S00270",
     "English": "The shoe is red",
     "Thai": "รองเท้าข้างนี้สีแดง"
   },
   {
-    "id": 1271,
+    "id": "S00271",
     "English": "The newspaper is colorful",
     "Thai": "หนังสือพิมพ์ฉบับนี้มีสีสัน"
   },
   {
-    "id": 1272,
+    "id": "S00272",
     "English": "My shirt has differnt colors",
     "Thai": "เสื้อเชิ้ตของฉันมีสีแตกต่างกัน"
   },
   {
-    "id": 1273,
+    "id": "S00273",
     "English": "My brother is older than me",
     "Thai": "พี่ชายของฉันอายุมากกว่าฉัน"
   },
   {
-    "id": 1274,
+    "id": "S00274",
     "English": "Large or small",
     "Thai": "ใหญ่หรือเล็ก?"
   },
   {
-    "id": 1275,
+    "id": "S00275",
     "English": "Our beer is cold",
     "Thai": "เบียร์ของพวกเราเย็น"
   },
   {
-    "id": 1276,
+    "id": "S00276",
     "English": "Are you strong?",
     "Thai": "คุณแข็งแรงไหม"
   },
   {
-    "id": 1277,
+    "id": "S00277",
     "English": "Their shirt is dirty",
     "Thai": "เสื้อเชิ้ตของพวกเขาสกปรก"
   },
   {
-    "id": 1278,
+    "id": "S00278",
     "English": "Water is cheaper than milk",
     "Thai": "น้ำถูกกว่านม"
   },
   {
-    "id": 1279,
+    "id": "S00279",
     "English": "The meal is expensive",
     "Thai": "อาหารมื้อนี้แพง"
   },
   {
-    "id": 1280,
+    "id": "S00280",
     "English": "The animal eats its food",
     "Thai": "สัตว์ตัวนี้กินอาหารของมัน"
   },
   {
-    "id": 1281,
+    "id": "S00281",
     "English": "My cat eats your fish",
     "Thai": "แมวของฉันกินปลาของคุณ"
   },
   {
-    "id": 1282,
+    "id": "S00282",
     "English": "Their dog eats",
     "Thai": "สุนัขของพวกเขากิน"
   },
   {
-    "id": 1283,
+    "id": "S00283",
     "English": "The cat is not mine",
     "Thai": "แมวตัวนี้ไม่ใช่ของฉัน"
   },
   {
-    "id": 1284,
+    "id": "S00284",
     "English": "Our cat eats fish",
     "Thai": "แมวของพวกเรากินปลา"
+  },
+  {
+    "id": "S00285",
+    "English": "Where are my keys?",
+    "Thai": "กุญแจของฉันอยู่ที่ไหน?"
+  },
+  {
+    "id": "S00286",
+    "English": "I need to go work",
+    "Thai": "ฉันต้องไปทำงาน"
+  },
+  {
+    "id": "S00287",
+    "English": "I need the keys to my car",
+    "Thai": "ฉันต้องการกุญแจรถของฉัน"
+  },
+  {
+    "id": "S00288",
+    "English": "Your keys are here on the table",
+    "Thai": "กุญแจของคุณอยู่ที่นี่บนโต๊ะ"
+  },
+  {
+    "id": "S00289",
+    "English": "I am tired I work a lot",
+    "Thai": "ฉันเหนื่อยทำงานมาก"
+  },
+  {
+    "id": "S00290",
+    "English": "Do you want some coffee?",
+    "Thai": "คุณต้องการกาแฟไหม?"
+  },
+  {
+    "id": "S00291",
+    "English": "Where is the sugar?",
+    "Thai": "น้ำตาลอยู่ไหน?"
+  },
+  {
+    "id": "S00292",
+    "English": "I need a new cup of coffee",
+    "Thai": "ฉันต้องการกาแฟแก้วใหม่"
+  },
+  {
+    "id": "S00293",
+    "English": "What do you want to eat?",
+    "Thai": "คุณต้องการกินอะไร?"
+  },
+  {
+    "id": "S00294",
+    "English": "I play soccer too",
+    "Thai": "ฉันเล่นฟุตบอลด้วย"
+  },
+  {
+    "id": "S00295",
+    "English": "Do you have pets?",
+    "Thai": "คุณมีสัตว์เลี้ยงไหม?"
+  },
+  {
+    "id": "S00296",
+    "English": "I have two cats and a dog",
+    "Thai": "ฉันมีแมวสองตัวและสุนัขหนึ่งตัว"
+  },
+  {
+    "id": "S00297",
+    "English": "I need bread for my sandwich",
+    "Thai": "ฉันต้องการขนมปังสำหรับแซนวิชของฉัน"
+  },
+  {
+    "id": "S00298",
+    "English": "Do you need to go to the supermarket?",
+    "Thai": "คุณจำเป็นต้องไปซุปเปอร์มาร์เก็ตหรือไม่?"
+  },
+  {
+    "id": "S00299",
+    "English": "I want one thing from the supermarket?",
+    "Thai": "ฉันต้องการสิ่งหนึ่งจากซุปเปอร์มาร์เก็ต?"
+  },
+  {
+    "id": "S00300",
+    "English": "What do you need?",
+    "Thai": "อะไรที่คุณต้องการ?"
+  },
+  {
+    "id": "S00301",
+    "English": "One tomato, please.",
+    "Thai": "ขอมะเขือเทศหนึ่งลูก"
+  },
+  {
+    "id": "S00302",
+    "English": "For my salad",
+    "Thai": "สำหรับสลัดของฉัน"
+  },
+  {
+    "id": "S00303",
+    "English": "Here is some money",
+    "Thai": "นี่คือเงินจำนวนหนึ่ง"
+  },
+  {
+    "id": "S00304",
+    "English": "We go to church on Sunday",
+    "Thai": "เราไปที่โบสถ์ในวันอาทิตย์"
+  },
+  {
+    "id": "S00305",
+    "English": "You are in the castle",
+    "Thai": "คุณอยู่ในปราสาทหลังนี้"
+  },
+  {
+    "id": "S00306",
+    "English": "The city",
+    "Thai": "เมืองนี้"
+  },
+  {
+    "id": "S00307",
+    "English": "The place",
+    "Thai": "สถานที่แห่งนี้"
+  },
+  {
+    "id": "S00308",
+    "English": "I know a place that she likes",
+    "Thai": "ฉันรู้จักสถานที่แห่งหนึ่งที่เธอชอบ"
+  },
+  {
+    "id": "S00309",
+    "English": "I love my country",
+    "Thai": "ฉันรักประเทศของฉัน"
+  },
+  {
+    "id": "S00310",
+    "English": "Where is the airport?",
+    "Thai": "สนามบินแห่งนี้อยู่ที่ไหน"
+  },
+  {
+    "id": "S00311",
+    "English": "Now I am at the airport",
+    "Thai": "ตอนนี้ฉันอยู่ที่สนามบิน"
+  },
+  {
+    "id": "S00312",
+    "English": "They run on the street",
+    "Thai": "ฉันวิ่งบนถนนสายนี้"
+  },
+  {
+    "id": "S00313",
+    "English": "The street is long",
+    "Thai": "ถนนสายนี้ยาว"
+  },
+  {
+    "id": "S00314",
+    "English": "The area of the house",
+    "Thai": "พื้นที่บ้านหลังนี้"
+  },
+  {
+    "id": "S00315",
+    "English": "The site",
+    "Thai": "สถานที่แห่งนี้"
+  },
+  {
+    "id": "S00316",
+    "English": "The site is beautiful",
+    "Thai": "สถานที่แห่งนี้สวย"
+  },
+  {
+    "id": "S00317",
+    "English": "Where is the city center?",
+    "Thai": "ศูนย์กลางเมืองนี้อยู่ไหน?"
+  },
+  {
+    "id": "S00318",
+    "English": "I am at home",
+    "Thai": "ฉันอยู่ที่บ้าน"
+  },
+  {
+    "id": "S00319",
+    "English": "I walk into the house",
+    "Thai": "ฉันเดินเข้าไปในบ้านหลังนี้"
+  },
+  {
+    "id": "S00320",
+    "English": "My mother goes into her house",
+    "Thai": "แม่ของฉันเข้าไปในบ้านของเธอ"
+  },
+  {
+    "id": "S00321",
+    "English": "We walk along the water",
+    "Thai": "เราเดินริมน้ำ"
+  },
+  {
+    "id": "S00322",
+    "English": "We live along the water",
+    "Thai": "เราอาศัยอยู่ริมน้ำ"
+  },
+  {
+    "id": "S00323",
+    "English": "Where is your room?",
+    "Thai": "ห้องของคุณอยู่ที่ไหน"
+  },
+  {
+    "id": "S00324",
+    "English": "Write your address here",
+    "Thai": "เขียนที่อยู่ของคุณที่นี่"
+  },
+  {
+    "id": "S00325",
+    "English": "He works in the shoe department",
+    "Thai": "เขาทำงานในแผนกร้องเท้านี้"
+  },
+  {
+    "id": "S00326",
+    "English": "What properties does it have?",
+    "Thai": "มันมีคุณสมบัติอะไร"
+  },
+  {
+    "id": "S00327",
+    "English": "He is the boss of the department",
+    "Thai": "เขาเป็นหัวหน้าของแผนกนี้"
+  },
+  {
+    "id": "S00328",
+    "English": "The island",
+    "Thai": "เกาะนี้"
+  },
+  {
+    "id": "S00329",
+    "English": "English is an island",
+    "Thai": "ประเทศอังกฤษเป็นเกาะ"
+  },
+  {
+    "id": "S00330",
+    "English": "The region",
+    "Thai": "ภูมิภาคนี้"
+  },
+  {
+    "id": "S00331",
+    "English": "The artist is in the district",
+    "Thai": "ศิลปินคนนี้อยู่ในเขตนี้"
+  },
+  {
+    "id": "S00332",
+    "English": "It is your district",
+    "Thai": "มันคือเขตของคุณ"
+  },
+  {
+    "id": "S00333",
+    "English": "The garden is at the front of the house",
+    "Thai": "สวนนี้อยู่ที่ข้างหน้าบ้านหลังนี้"
+  },
+  {
+    "id": "S00334",
+    "English": "The zone",
+    "Thai": "บริเวณนี้"
+  },
+  {
+    "id": "S00335",
+    "English": "My brothers live in the same time zone",
+    "Thai": "พี่ชายหลายคนของฉันอาศัยอยู่ในเขตเวลาเดียวกัน"
+  },
+  {
+    "id": "S00336",
+    "English": "The coast",
+    "Thai": "ชายฝั่งนี้"
+  },
+  {
+    "id": "S00337",
+    "English": "The inside",
+    "Thai": "ข้างในนี้"
+  },
+  {
+    "id": "S00338",
+    "English": "The boy eats on the ground",
+    "Thai": "เด็กผู้ชายคนนี้กินอยู่บนพื้นดินนี้"
+  },
+  {
+    "id": "S00339",
+    "English": "The valley",
+    "Thai": "หุบเขานี้"
+  },
+  {
+    "id": "S00340",
+    "English": "We live in the valley",
+    "Thai": "พวกเราอาศัยอยู่ในหุบเขานี้"
+  },
+  {
+    "id": "S00341",
+    "English": "His house is in the valley",
+    "Thai": "บ้านของเขาอยู่ในหุบเขานี้"
+  },
+  {
+    "id": "S00342",
+    "English": "The corner",
+    "Thai": "มุมนี้"
+  },
+  {
+    "id": "S00343",
+    "English": "I see the tower from my place",
+    "Thai": "ฉันเห็นตึกสูงนี้จากที่พักของฉัน"
+  },
+  {
+    "id": "S00344",
+    "English": "The route",
+    "Thai": "เส้นทางสายนี้"
+  },
+  {
+    "id": "S00345",
+    "English": "The avenue",
+    "Thai": "ถนนใหญ่สายนี้"
+  },
+  {
+    "id": "S00346",
+    "English": "They live on the same avenue",
+    "Thai": "พวกเขาอาศัยอยู่บนถนนใหญ่สายเดียวกัน"
+  },
+  {
+    "id": "S00347",
+    "English": "The neighborhood",
+    "Thai": "ละแวกบ้านนี้"
+  },
+  {
+    "id": "S00348",
+    "English": "We live on the same avenue",
+    "Thai": "พวกเราอาศัยอยู่บนถนนใหญ่สายเดียวกัน"
+  },
+  {
+    "id": "S00349",
+    "English": "The town",
+    "Thai": "เมืองนี้"
+  },
+  {
+    "id": "S00350",
+    "English": "The port",
+    "Thai": "ท่าเรือนี้"
+  },
+  {
+    "id": "S00351",
+    "English": "The palace",
+    "Thai": "พระราชวังนี้"
+  },
+  {
+    "id": "S00352",
+    "English": "The port is little",
+    "Thai": "ท่าเรือนี้เล็ก"
+  },
+  {
+    "id": "S00353",
+    "English": "The prison",
+    "Thai": "คุกแห่งนี้"
+  },
+  {
+    "id": "S00354",
+    "English": "The community",
+    "Thai": "ชุมชนนี้"
+  },
+  {
+    "id": "S00355",
+    "English": "You have rights",
+    "Thai": "คุณมีสิทธิ"
+  },
+  {
+    "id": "S00356",
+    "English": "We know about our rights",
+    "Thai": "พวกเรารู้เกี่ยวกับสิทธิของพวกเรา"
+  },
+  {
+    "id": "S00357",
+    "English": "It is the capital city",
+    "Thai": "มันคือเมืองหลวง"
+  },
+  {
+    "id": "S00358",
+    "English": "The castle is in the capital of Spain",
+    "Thai": "ปราสาทแห่งนี้อยู่ในเมืองหลวงของสเปน"
+  },
+  {
+    "id": "S00359",
+    "English": "It is the capital of our country",
+    "Thai": "มันคือมือหลวงของพวกเรา"
+  },
+  {
+    "id": "S00360",
+    "English": "Follow the street to the west",
+    "Thai": "ตามถนนสายนี้ไปทางทิศตะวันตก"
+  },
+  {
+    "id": "S00361",
+    "English": "The square",
+    "Thai": "ลานกว้างนี้"
+  },
+  {
+    "id": "S00362",
+    "English": "We live by the square",
+    "Thai": "พวกเราอาศัยอยู่ข้างลานกว้างนี้"
+  },
+  {
+    "id": "S00363",
+    "English": "The book is on top",
+    "Thai": "หนังสือเล่มนี้อยู่ข้างบน"
+  },
+  {
+    "id": "S00364",
+    "English": "I will go to the top on my own",
+    "Thai": "ฉันจะไปข้างบนด้วยตัวเอง"
+  },
+  {
+    "id": "S00365",
+    "English": "My cat sleeps on top of my shirt",
+    "Thai": "แมวของฉันนอนบนเสื้อเชิ้ตของฉัน"
+  },
+  {
+    "id": "S00366",
+    "English": "Next Sunday I go to the zoo",
+    "Thai": "วันอาทิตย์หน้าฉันไปที่สวนสัตว์นี้"
+  },
+  {
+    "id": "S00367",
+    "English": "England is in the North",
+    "Thai": "ประเทศอังกฤษอยู่ในทิศเหนือ"
+  },
+  {
+    "id": "S00368",
+    "English": "My house is near the church",
+    "Thai": "บ้านของฉันอยู่ใกล้โบสถ์หลังนี้"
+  },
+  {
+    "id": "S00369",
+    "English": "We work in the same department",
+    "Thai": "เราทำงานในแผนกเดียวกัน"
+  },
+  {
+    "id": "S00370",
+    "English": "There is a church on the corner",
+    "Thai": "มีโบสถ์หลังหนึ่งที่หัวมุมนี้"
+  },
+  {
+    "id": "S00371",
+    "English": "The town has an airport",
+    "Thai": "เมืองนี้มีสนามบินแห่งหนึ่ง"
+  },
+  {
+    "id": "S00372",
+    "English": "My sister works at the museum",
+    "Thai": "พี่สาวของฉันทำงานที่พิพิธภัณฑ์นี้"
+  },
+  {
+    "id": "S00373",
+    "English": "We go to the city center",
+    "Thai": "เราไปที่ศูนย์กลางเมืองนี้"
+  },
+  {
+    "id": "S00374",
+    "English": "We are drinking coffee at a restaurant",
+    "Thai": "เรากำลังดื่มกาแฟที่ร้านอาหาร"
+  },
+  {
+    "id": "S00375",
+    "English": "The restaurant is on top of the hotel",
+    "Thai": "ร้านอาหารอยู่ข้างบนโรงแรมแห่งนี้"
+  },
+  {
+    "id": "S00376",
+    "English": "It is their zone",
+    "Thai": "มันของบริเวณของพวกเขา"
+  },
+  {
+    "id": "S00377",
+    "English": "It is the worst building",
+    "Thai": "มันคือตึกที่แย่ที่สุด"
+  },
+  {
+    "id": "S00378",
+    "English": "The inside of the house is gray",
+    "Thai": "ข้างในบ้านหลังนี้สีเทา"
+  },
+  {
+    "id": "S00379",
+    "English": "We go to the market together",
+    "Thai": "เราไปที่ตลาดแห่งนี้ด้วยกัน"
+  },
+  {
+    "id": "S00380",
+    "English": "She is poor but happy",
+    "Thai": "เธอจนแต่มีความสุข"
+  },
+  {
+    "id": "S00381",
+    "English": "I like to drink hot milk",
+    "Thai": "ฉันชอบดื่มนมร้อน"
+  },
+  {
+    "id": "S00382",
+    "English": "She is the worst student",
+    "Thai": "เธอเป็นนักเรียนที่แย่ที่สุด"
+  },
+  {
+    "id": "S00383",
+    "English": "Are they rich?",
+    "Thai": "พวกเขารวยไหม?"
+  },
+  {
+    "id": "S00384",
+    "English": "The cat sleeps among the dogs",
+    "Thai": "แมวตัวนี้นอนท่ามกลางสุนัขหลายตัวนี้"
+  },
+  {
+    "id": "S00385",
+    "English": "I walk towards her",
+    "Thai": "ฉันเดินไปทางเธอ"
+  },
+  {
+    "id": "S00386",
+    "English": "What do you have under the shirt?",
+    "Thai": "คุณมีอะไรใต้เสื้อเชิ๊ตตัวนี้"
+  },
+  {
+    "id": "S00387",
+    "English": "He is between you and me",
+    "Thai": "เขาอยู่ระหว่างคุณกับฉัน"
+  },
+  {
+    "id": "S00388",
+    "English": "You read as I wirte",
+    "Thai": "คุณอ่านในระหว่างที่ฉันเขียน"
+  },
+  {
+    "id": "S00389",
+    "English": "I read but not during dinner",
+    "Thai": "ฉันอ่านแต่ไม่ใช่ระหว่างอาหารเย็น"
+  },
+  {
+    "id": "S00390",
+    "English": "What is the date on Monday",
+    "Thai": "วันจันทร์คือวันที่เท่าไหร่?"
+  },
+  {
+    "id": "S00391",
+    "English": "A period of time",
+    "Thai": "ช่วงเวลาหนึ่ง"
+  },
+  {
+    "id": "S00392",
+    "English": "He is reading a menu in a nice restaurant",
+    "Thai": "เขากำลังอ่านเมนูในร้านอาหารดีๆแห่งหนึ่ง"
+  },
+  {
+    "id": "S00393",
+    "English": "I have a question about the menu",
+    "Thai": "ฉันมีคำถามเกี่ยวกับเมนู"
+  },
+  {
+    "id": "S00394",
+    "English": "I am a vegetarian",
+    "Thai": "ฉันเป็นมังสวิรัติ"
+  },
+  {
+    "id": "S00395",
+    "English": "Is there vegetarian food?",
+    "Thai": "มีอาหารมังสวิรัติไหม?"
+  },
+  {
+    "id": "S00396",
+    "English": "We have very good steaks",
+    "Thai": "เรามีสเต็กที่ดีมาก"
+  },
+  {
+    "id": "S00397",
+    "English": "Steaks are meat. I do not eat meat",
+    "Thai": "สเต็กเป็นเนื้อสัตว์ ฉันไม่กินเนื้อสัตว์"
+  },
+  {
+    "id": "S00398",
+    "English": "The chicken is delicious",
+    "Thai": "ไก่มีรสชาติอร่อย"
+  },
+  {
+    "id": "S00399",
+    "English": "I do not want meat",
+    "Thai": "ฉันไม่ต้องการเนื้อสัตว์"
+  },
+  {
+    "id": "S00400",
+    "English": "The bathroom is in the restaurant",
+    "Thai": "ห้องน้ำห้องนี้อยู่ในร้านอาหารร้านนี้"
+  },
+  {
+    "id": "S00401",
+    "English": "It is the worst hotel",
+    "Thai": "มันเป็นโรงแรมที่แย่ที่สุด"
+  },
+  {
+    "id": "S00402",
+    "English": "Are you at the restaurant?",
+    "Thai": "คุณอยู่ที่ร้านอาหารร้านนี้ใช่ไหม?"
+  },
+  {
+    "id": "S00403",
+    "English": "She plays with you at the beach",
+    "Thai": "เธอเล่นกับคุณที่ชายหาดแห่งนี้"
+  },
+  {
+    "id": "S00404",
+    "English": "Where is the bathroom?",
+    "Thai": "ห้องน้ำอยู่ที่ไหน"
+  },
+  {
+    "id": "S00405",
+    "English": "The bird is in the yard",
+    "Thai": "นกตัวนี้อยู่ในสนามแห่งนี้"
+  },
+  {
+    "id": "S00406",
+    "English": "I run towards the street",
+    "Thai": "ฉันวิ่งไปทางถนนสายนี้"
+  },
+  {
+    "id": "S00407",
+    "English": "He comes from the castle",
+    "Thai": "เขามาจากปราสาทแห่งนี้"
+  },
+  {
+    "id": "S00408",
+    "English": "Which is my room?",
+    "Thai": "ห้องของฉันคือห้องไหน?"
+  },
+  {
+    "id": "S00409",
+    "English": "Does the room have a bathroom?",
+    "Thai": "ห้องนี้มีห้องน้ำไหม?"
+  },
+  {
+    "id": "S00410",
+    "English": "They have lunch at the park",
+    "Thai": "พวกเขากินอาหารกลางวันที่สวนสาธารณะนี้"
+  },
+  {
+    "id": "S00411",
+    "English": "What propeties does it have?",
+    "Thai": "มันมีคุณสมบัติอะไร?"
+  },
+  {
+    "id": "S00412",
+    "English": "I know his address`",
+    "Thai": "ฉันรู้ที่อยู่เขา"
+  },
+  {
+    "id": "S00413",
+    "English": "The atist is in the district",
+    "Thai": "ศิลปินคนนี้อยู่ในเขตนี้"
+  },
+  {
+    "id": "S00414",
+    "English": "My father is in the garden",
+    "Thai": "พ่อของฉันอยู่ในสวน"
+  },
+  {
+    "id": "S00415",
+    "English": "My parents have a house on the coast",
+    "Thai": "พ่อแม่ของฉันมีบ้านอยู่บนชายฝั่ง"
+  },
+  {
+    "id": "S00416",
+    "English": "His house in in the valley",
+    "Thai": "บ้านของเขาอยู่ในหุบเขานี้"
+  },
+  {
+    "id": "S00417",
+    "English": "We live in different time zones",
+    "Thai": "พวกเราอาศัยอยู่เขตเวลาที่ต่างกัน"
+  },
+  {
+    "id": "S00418",
+    "English": "The route is beautiful",
+    "Thai": "เส้นทางสายนนี้สวย"
+  },
+  {
+    "id": "S00419",
+    "English": "My mother takes me to the cinema",
+    "Thai": "แม่ของฉันพาฉันไปโรงภาพยนตร์แห่งนี้"
+  },
+  {
+    "id": "S00420",
+    "English": "France has a border with Italy",
+    "Thai": "ฝรั่งเศสมีชายแดนติดกับอิตาลี"
+  },
+  {
+    "id": "S00421",
+    "English": "The bank on the corner is ours",
+    "Thai": "ธนาคารที่หัวมุมนี้เป็นของพวกเรา"
+  },
+  {
+    "id": "S00422",
+    "English": "The route to the museum",
+    "Thai": "เส้นทางสายนี้ไปพิพิธภัณฑ์นี้"
+  },
+  {
+    "id": "S00423",
+    "English": "We live in the same neighborhood",
+    "Thai": "พวกเราอาศัยอยู่ในละแวกบ้านเดียวกัน"
+  },
+  {
+    "id": "S00424",
+    "English": "His sister is in prison",
+    "Thai": "พี่สาวของเขาติดคุก"
+  },
+  {
+    "id": "S00425",
+    "English": "The man is to the right",
+    "Thai": "ผู้ชายคนนี้อยู่ทางขวา"
+  },
+  {
+    "id": "S00426",
+    "English": "My mother works in the same town",
+    "Thai": "แม่ของฉันทำงานในเมืองเดียวกันนี้"
+  },
+  {
+    "id": "S00427",
+    "English": "The shirt is to the right",
+    "Thai": "เสื้อเชิ๊ตตัวนี้อยู่ทางขวา"
+  },
+  {
+    "id": "S00428",
+    "English": "Why will you help me?",
+    "Thai": "คุณจะช่วยฉันทำไม?"
+  },
+  {
+    "id": "S00429",
+    "English": "What will you drink?",
+    "Thai": "คุณจะดื่มอะไร?"
+  },
+  {
+    "id": "S00430",
+    "English": "We like the fall",
+    "Thai": "พวกเราชอบฤดูใบไม้ร่วงนี้"
+  },
+  {
+    "id": "S00431",
+    "English": "We read for hours",
+    "Thai": "พวกเราอ่านเป็นเวลาหลายชั่วโมง"
+  },
+  {
+    "id": "S00432",
+    "English": "Winter is a season",
+    "Thai": "ฤดูหนาวคือฤดูกาลหนึ่ง"
+  },
+  {
+    "id": "S00433",
+    "English": "On Wednesday afternoons we drink tea",
+    "Thai": "ในทุกตอนบ่ายวันพุธพวกเราดื่มชา"
+  },
+  {
+    "id": "S00434",
+    "English": "Where is he tonight?",
+    "Thai": "คืนนี้เขาอยู่ที่ไหน?"
+  },
+  {
+    "id": "S00435",
+    "English": "I am sure that he eats pork",
+    "Thai": "ฉันมั่นใจว่าเขากินเนื้อหมู"
+  },
+  {
+    "id": "S00436",
+    "English": "I have a spoon",
+    "Thai": "ฉันมีช้อนคันหนึ่ง"
+  },
+  {
+    "id": "S00437",
+    "English": "The fruit is in the bowl",
+    "Thai": "ผลไม้นี้อยู่ในชามใบนี้"
+  },
+  {
+    "id": "S00438",
+    "English": "I need magazines in English",
+    "Thai": "ฉันต้องการนิตยสารภาษาอังกฤษ"
+  },
+  {
+    "id": "S00439",
+    "English": "She listens to the radio on Sundays",
+    "Thai": "เธอฟังวิทยุในทุกวันอาทิตย์"
+  },
+  {
+    "id": "S00440",
+    "English": "We do not even have a radio",
+    "Thai": "พวกเราไม่มีแม้แต่วิทยุเครื่องหนึ่ง"
+  },
+  {
+    "id": "S00441",
+    "English": "I have your television",
+    "Thai": "ฉันมีโทรทัศน์ของคุณ"
+  },
+  {
+    "id": "S00442",
+    "English": "Do you have a television?",
+    "Thai": "คุณมีโทรทัศน์เครื่องหนึ่งไหม?"
+  },
+  {
+    "id": "S00443",
+    "English": "We have a red mirror",
+    "Thai": "เรามีกระจกสีแดงบานหนึ่ง"
+  },
+  {
+    "id": "S00444",
+    "English": "The fruit is in the basket",
+    "Thai": "ผลไม้นี้อยู่ในตะกร้าใบนี้"
+  },
+  {
+    "id": "S00445",
+    "English": "Where is my watch?",
+    "Thai": "นาฬิกาข้อมูลของฉันอยู่ที่ไหน"
+  },
+  {
+    "id": "S00446",
+    "English": "I read at the desk",
+    "Thai": "ฉันอ่านที่โต๊ะทำงานตัวนี้"
+  },
+  {
+    "id": "S00447",
+    "English": "I open the door",
+    "Thai": "ฉันเปิดประตูบานนี้"
+  },
+  {
+    "id": "S00448",
+    "English": "My TV is too small",
+    "Thai": "ทีวีของฉันเล็กเกินไป"
+  },
+  {
+    "id": "S00449",
+    "English": "He has my wallet",
+    "Thai": "เขามีกระเป๋าสตางค์ของฉัน"
+  },
+  {
+    "id": "S00450",
+    "English": "Do we have white bedsheets?",
+    "Thai": "พวกเรามีผ้าปูที่นอนสีขาวไหม"
+  },
+  {
+    "id": "S00451",
+    "English": "I need a razor",
+    "Thai": "ฉันต้องการมีดโกนเล่นหนึ่ง"
+  },
+  {
+    "id": "S00452",
+    "English": "The floor is dirty",
+    "Thai": "พื้นนี้สกปรก"
+  },
+  {
+    "id": "S00453",
+    "English": "He has a red telephone",
+    "Thai": "เขามีโทรศัพท์สีแดงเครื่องหนึ่ง"
+  },
+  {
+    "id": "S00454",
+    "English": "I need a wheel",
+    "Thai": "ฉันต้องการล้อวงหนึ่ง"
+  },
+  {
+    "id": "S00455",
+    "English": "I need a toothpaste",
+    "Thai": "ฉันต้องการยาสีฟันหลอดหนึ่ง"
+  },
+  {
+    "id": "S00456",
+    "English": "The key is with me",
+    "Thai": "กุญแจดอกนี้อยู่กับฉัน"
+  },
+  {
+    "id": "S00457",
+    "English": "Do you have a sponge?",
+    "Thai": "คุณมีฟองน้ำอันหนึ่งไหม?"
+  },
+  {
+    "id": "S00458",
+    "English": "You ask the same thing",
+    "Thai": "คุณถามสิ่งเดียวกัน"
+  },
+  {
+    "id": "S00459",
+    "English": "The cabinet is red",
+    "Thai": "ตู้นี้สีแดง"
+  },
+  {
+    "id": "S00460",
+    "English": "Where are the scissors?",
+    "Thai": "กรรไกรนี้อยู่ที่ไหน?"
+  },
+  {
+    "id": "S00461",
+    "English": "The scissors are on the table",
+    "Thai": "กรรไกรนี้อยู่บนโต๊ะตัวนี้"
+  },
+  {
+    "id": "S00462",
+    "English": "We have a white cup",
+    "Thai": "พวกเรามีถ้วยสีขาวใบหนึ่ง"
+  },
+  {
+    "id": "S00463",
+    "English": "My engine is not perfect",
+    "Thai": "เครื่องยนต์ของฉันไม่สมบูรณ์แบบ"
+  },
+  {
+    "id": "S00464",
+    "English": "The string is red and blue",
+    "Thai": "เชื้อกนี้สีแดงและสีน้ำเงิน"
+  },
+  {
+    "id": "S00465",
+    "English": "My husband is like a machine",
+    "Thai": "สามีของฉันเป็นเหมือนเครื่องจักเครื่องหนึ่ง"
+  },
+  {
+    "id": "S00466",
+    "English": "I use my brother's machine",
+    "Thai": "ฉันใช้เครื่องจักรของพี่ชายของฉัน"
+  },
+  {
+    "id": "S00467",
+    "English": "A sheet of paper",
+    "Thai": "แผ่นกระดาษแผ่นหนึ่ง"
+  },
+  {
+    "id": "S00468",
+    "English": "Your bed sheet is blue",
+    "Thai": "ผ้าปูที่นอนของคุณเป็นสีฟ้า"
+  },
+  {
+    "id": "S00469",
+    "English": "It is a chain for my daughter",
+    "Thai": "มันคือโซ่สำหรับลูกสาวของฉัน"
+  },
+  {
+    "id": "S00470",
+    "English": "We have a pink powder",
+    "Thai": "พวกเรามีแป้งสีชมพู"
+  },
+  {
+    "id": "S00471",
+    "English": "I look through the window",
+    "Thai": "ฉันมองผ่านหน้าต่างบานนี้"
+  },
+  {
+    "id": "S00472",
+    "English": "I see you through the window",
+    "Thai": "ฉันเห็นคุณผ่านหน้าต่างบานนี้"
+  },
+  {
+    "id": "S00473",
+    "English": "The roots need water",
+    "Thai": "รากต้องการน้ำ"
+  },
+  {
+    "id": "S00474",
+    "English": "We use the knife",
+    "Thai": "พวกเราใช้มีดเล่มนี้"
+  },
+  {
+    "id": "S00475",
+    "English": "Do you have toothbroushes?",
+    "Thai": "คุณมีแปรงสีฟันไหม?"
+  },
+  {
+    "id": "S00476",
+    "English": "Toothbrush and toothpaste",
+    "Thai": "แปรงสีฟันและยาสีฟัน"
+  },
+  {
+    "id": "S00477",
+    "English": "My cat sleeps under the sofa",
+    "Thai": "แมวของฉันนอนใต้โซฟาตัวนี้"
+  },
+  {
+    "id": "S00478",
+    "English": "There is a wallet",
+    "Thai": "มีกระเป๋าสตางค์ใบหนึ่ง"
+  },
+  {
+    "id": "S00479",
+    "English": "She does not have a sofa",
+    "Thai": "เธอไม่มีโซฟา"
+  },
+  {
+    "id": "S00480",
+    "English": "There is bread on the table",
+    "Thai": "มีขนมปังบนโต๊ะตัวนี้"
+  },
+  {
+    "id": "S00481",
+    "English": "I think the novel is wrong",
+    "Thai": "ฉันคิดว่านิยายเรื่องนี้ผิด"
+  },
+  {
+    "id": "S00482",
+    "English": "A sponge is on the table",
+    "Thai": "ฟองน้ำอันหนึ่งอยู่บนโต๊ะตัวนี้"
+  },
+  {
+    "id": "S00483",
+    "English": "Where is the toothpaste?",
+    "Thai": "ยาสีฟันหลอดนี้อยู่ที่ไหน?"
+  },
+  {
+    "id": "S00484",
+    "English": "Do you have a pan?",
+    "Thai": "คุณมีกระทะใบหนึ่งไหม?"
+  },
+  {
+    "id": "S00485",
+    "English": "We eat on the floor",
+    "Thai": "พวกเรากินบนพื้นนี้"
+  },
+  {
+    "id": "S00486",
+    "English": "My scissors will be on my desk",
+    "Thai": "กรรไกรของฉันจะอยู่บนโต๊ะของฉัน"
+  },
+  {
+    "id": "S00487",
+    "English": "I am on the phone",
+    "Thai": "ฉันคุยโทรศัพท์อยู่"
+  },
+  {
+    "id": "S00488",
+    "English": "She is almost as tall as you",
+    "Thai": "เธอสูงเกือบเท่ากับคุณ"
+  },
+  {
+    "id": "S00489",
+    "English": "You and I are sitting together on the school bus",
+    "Thai": "คุณและฉันกำลังนั่งด้วยกันบนรถโรงเรียน"
+  },
+  {
+    "id": "S00490",
+    "English": "There is a new student in our class",
+    "Thai": "มีนักเรียนใหม่ในชั้นเรียนของเรา"
+  },
+  {
+    "id": "S00491",
+    "English": "Very interesting",
+    "Thai": "น่าสนใจมาก"
+  },
+  {
+    "id": "S00492",
+    "English": "He speaks three languages",
+    "Thai": "เขาพูดได้สามภาษา"
+  },
+  {
+    "id": "S00493",
+    "English": "He is intelligent",
+    "Thai": "เขาเป็นคนฉลาด"
+  },
+  {
+    "id": "S00494",
+    "English": "She is sitting behind you",
+    "Thai": "เธอนั่งอยู่ข้างหลังคุณ"
+  },
+  {
+    "id": "S00495",
+    "English": "Wednesday please not Tuesday",
+    "Thai": "วันพุธได้โปรดไม่ใช่วันอังคาร"
+  },
+  {
+    "id": "S00496",
+    "English": "I work from May to October",
+    "Thai": "ฉันทำงานตั้งแต่เดือนพฤษภาคมถึงตุลาคม"
+  },
+  {
+    "id": "S00497",
+    "English": "We have a party tomorrow evening",
+    "Thai": "พรุ่งนี้เรามีปาร์ตี้เย็น"
+  },
+  {
+    "id": "S00498",
+    "English": "You have a second",
+    "Thai": "คุณมีวินาที"
+  },
+  {
+    "id": "S00499",
+    "English": "We drink his beer in September",
+    "Thai": "เราดื่มเบียร์ของเขาในเดือนกันยายน"
+  },
+  {
+    "id": "S00500",
+    "English": "They are not my bosses",
+    "Thai": "พวกเขาไม่ได้เป็นหัวหน้าฉัน"
+  },
+  {
+    "id": "S00501",
+    "English": "The officer wears a black coat",
+    "Thai": "เจ้าหน้าที่คนนี้ใส่เสื้อโค้ทสีดำตัวหนึ่ง"
+  },
+  {
+    "id": "S00502",
+    "English": "He is the captain",
+    "Thai": "เขาคือกัปตันคนนี้"
+  },
+  {
+    "id": "S00503",
+    "English": "The soldier does not have a family",
+    "Thai": "ทหารคนนี้ไม่มีครอบครัว"
+  },
+  {
+    "id": "S00504",
+    "English": "The guard drinks coffee",
+    "Thai": "ยามคนนี้ดื่มกาแฟ"
+  },
+  {
+    "id": "S00505",
+    "English": "The architect is my uncle",
+    "Thai": "สถาปนิกคนนี้เป็นลุงของฉัน"
+  },
+  {
+    "id": "S00506",
+    "English": "They are models",
+    "Thai": "พวกเขาเป็นนางแบบ"
+  },
+  {
+    "id": "S00507",
+    "English": "She is not your mother",
+    "Thai": "เธอไม่ใช่แม่ของคุณ"
+  },
+  {
+    "id": "S00508",
+    "English": "We are siblings",
+    "Thai": "พวกเราคือพี่น้อง"
   }
 ]
