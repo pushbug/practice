@@ -72,7 +72,7 @@
   {
     "id": "S00015",
     "English": "Whose is the dress?",
-    "Thai": "ชุดกระโปรงชุุดนี้เป็นของใคร?"
+    "Thai": "ชุดกระโปรงชุดนี้เป็นของใคร?"
   },
   {
     "id": "S00016",
@@ -81,7 +81,7 @@
   },
   {
     "id": "S00017",
-    "English": "Whose newpaper is it?",
+    "English": "Whose newspaper is it?",
     "Thai": "มันเป็นหนังสือพิมพ์ของใคร?"
   },
   {
@@ -2538,5 +2538,280 @@
     "id": "S00508",
     "English": "We are siblings",
     "Thai": "พวกเราคือพี่น้อง"
+  },
+  {
+    "id": "S00509",
+    "English": "Do you like it?",
+    "Thai": "คุณชอบมันไหม?"
+  },
+  {
+    "id": "S00510",
+    "English": "Why is my hair blue in the painting?",
+    "Thai": "ทำไมผมของฉันถึงเป็นสีฟ้าในภาพวาด?"
+  },
+  {
+    "id": "S00511",
+    "English": "I do have a nice nose",
+    "Thai": "ฉันมีจมูกที่สวย"
+  },
+  {
+    "id": "S00512",
+    "English": "Do you want the painting or not?",
+    "Thai": "คุณต้องการภาพวาดหรือไม่?"
+  },
+  {
+    "id": "S00513",
+    "English": "Can I buy it for one hundred dollars?",
+    "Thai": "ฉันสามารถซื้อมันในราคาหนึ่งร้อยเหรียญได้หรือไม่?"
+  },
+  {
+    "id": "S00514",
+    "English": "You drink as you walk",
+    "Thai": "คุณดื่มในขณะที่คุณเดิน"
+  },
+  {
+    "id": "S00515",
+    "English": "Thank you for the meal",
+    "Thai": "ขอบคุณสำหรับมื้ออาหาร"
+  },
+  {
+    "id": "S00516",
+    "English": "Take your hat off",
+    "Thai": "ถอดหมวกของคุณออก"
+  },
+  {
+    "id": "S00517",
+    "English": "The book is by the newspaper",
+    "Thai": "หนังสือเล่มนี้อยู่ข้างหนังสือพิมพ์ฉบับนี้"
+  },
+  {
+    "id": "S00518",
+    "English": "She is at a train station",
+    "Thai": "เธออยู่ที่สถานีรถไฟ"
+  },
+  {
+    "id": "S00519",
+    "English": "She sees her friend John",
+    "Thai": "เธอเห็นจอห์นเพื่อนของเธอ"
+  },
+  {
+    "id": "S00520",
+    "English": "He is with a woman",
+    "Thai": "เขาอยู่กับผู้หญิงคนหนึ่ง"
+  },
+  {
+    "id": "S00521",
+    "English": "I need to buy our train tickets",
+    "Thai": "ฉันต้องซื้อตั๋วรถไฟของเรา"
+  },
+  {
+    "id": "S00522",
+    "English": "My train is here now",
+    "Thai": "รถไฟของฉันอยู่ที่นี่แล้ว"
+  },
+  {
+    "id": "S00523",
+    "English": "The room is your",
+    "Thai": "ห้องนี้เป็นของคุณ"
+  },
+  {
+    "id": "S00524",
+    "English": "Where is my place?",
+    "Thai": "ที่พักของฉันอยู่ไหน"
+  },
+  {
+    "id": "S00525",
+    "English": "The inside of the house is red",
+    "Thai": "ภายในบ้านเป็นสีแดง"
+  },
+  {
+    "id": "S00526",
+    "English": "Where is the border?",
+    "Thai": "ชายแดนอยู่ที่ไหน?"
+  },
+  {
+    "id": "S00527",
+    "English": "He is at work at the moment",
+    "Thai": "เขาอยู่ที่ทำงานในขณะนี้"
+  },
+  {
+    "id": "S00528",
+    "English": "The police want a name",
+    "Thai": "ตำรวจอยากได้ชื่อ"
+  },
+  {
+    "id": "S00529",
+    "English": "We are ready",
+    "Thai": "พวกเราพร้อม"
+  },
+  {
+    "id": "S00530",
+    "English": "You work hard",
+    "Thai": "คุณทำงานหนัก"
+  },
+  {
+    "id": "S00531",
+    "English": "Is breakfast ready?",
+    "Thai": "อาหารเช้าพร้อมหรือยัง"
+  },
+  {
+    "id": "S00532",
+    "English": "He makes lunch",
+    "Thai": "เขาทำอาหารกลางวัน"
+  },
+  {
+    "id": "S00533",
+    "English": "You trust him",
+    "Thai": "คุณเชื่อใจเขา"
+  },
+  {
+    "id": "S00534",
+    "English": "It is open between May and October",
+    "Thai": "มันเปิดระหว่างพฤษภาคมกับตุลาคม"
+  },
+  {
+    "id": "S00535",
+    "English": "Today is a normal day",
+    "Thai": "วันนี้เป็นวันปกติ"
+  },
+  {
+    "id": "S00536",
+    "English": "She walks from here",
+    "Thai": "เธอเดินจากที่นี่"
+  },
+  {
+    "id": "S00537",
+    "English": "They have a bowl",
+    "Thai": "พวกเขามีชามใบหนึ่ง"
+  },
+  {
+    "id": "S00538",
+    "English": "They will sleep in the same bed",
+    "Thai": "พวกเขาจะนอนในเตียงเดียวกัน"
+  },
+  {
+    "id": "S00539",
+    "English": "They are sleeping on a big bed",
+    "Thai": "พวกเขากำลังนอนบนเตียงขนาดใหญ่"
+  },
+  {
+    "id": "S00540",
+    "English": "She listens to the radio in the morning",
+    "Thai": "เธอฟังวิทยุในตอนเช้า"
+  },
+  {
+    "id": "S00541",
+    "English": "He also has a mirror",
+    "Thai": "เขามีกระจกบานหนึ่งเหมือนกัน"
+  },
+  {
+    "id": "S00542",
+    "English": "There is a cat under the desk",
+    "Thai": "มีแมวตัวหนึ่งใต้โต๊ะทำงานตัวนี้"
+  },
+  {
+    "id": "S00543",
+    "English": "The cabinet is next to the table",
+    "Thai": "ตู้นี้อยู่ถัดจากโต๊ะตัวนี้"
+  },
+  {
+    "id": "S00544",
+    "English": "We are on the roof",
+    "Thai": "พวกเราอยู่บนหลังคานี้"
+  },
+  {
+    "id": "S00545",
+    "English": "They write a letter",
+    "Thai": "พวกเราเขียนจดหมายฉบับหนึ่ง"
+  },
+  {
+    "id": "S00546",
+    "English": "I have milk in the glass",
+    "Thai": "ฉันมีนมในแก้วใบนี้"
+  },
+  {
+    "id": "S00547",
+    "English": "Your phone is on your chair",
+    "Thai": "โทรศัพท์ของคุณอยู่บนเก้าอี้ของคุณ"
+  },
+  {
+    "id": "S00548",
+    "English": "There is a string in my pasta",
+    "Thai": "มีเชือกเส้นหนึ่งในพาสต้าของฉัน"
+  },
+  {
+    "id": "S00549",
+    "English": "The milk powder",
+    "Thai": "นมผงนี้"
+  },
+  {
+    "id": "S00550",
+    "English": "I have a red comb but not a green one",
+    "Thai": "ฉันมีหวีสีแดงแต่ไม่มีหวีสีเขียว"
+  },
+  {
+    "id": "S00551",
+    "English": "I like his novel",
+    "Thai": "ฉันชอบนิยายของเขา"
+  },
+  {
+    "id": "S00552",
+    "English": "The black bag is mine",
+    "Thai": "กระเป๋าสีดำใบนี้เป็นของฉัน"
+  },
+  {
+    "id": "S00553",
+    "English": "The magazine is about the wine",
+    "Thai": "นิตยสารฉบับนี้เกี่ยวกับไวน์"
+  },
+  {
+    "id": "S00554",
+    "English": "He sees her in the magazine",
+    "Thai": "เขาเห็นเธอในนิตยสารฉบับนี้"
+  },
+  {
+    "id": "S00555",
+    "English": "He reads her a magazine",
+    "Thai": "เขาอ่านนิตยสารฉบับหนึ่งให้เธอฟัง"
+  },
+  {
+    "id": "S00556",
+    "English": "The child plays with a blue object",
+    "Thai": "เด็กคนนี้เล่นกับวัตถุสีน้ำเงินอันหนึ่ง"
+  },
+  {
+    "id": "S00557",
+    "English": "Open the box",
+    "Thai": "เปิดกล่องใบนี้"
+  },
+  {
+    "id": "S00558",
+    "English": "The boy wears glasses",
+    "Thai": "เด็กผู้ชายคนนี้ใส่แว่นตา"
+  },
+  {
+    "id": "S00559",
+    "English": "I write on white paper",
+    "Thai": "ฉันเขียนบนกระดาษสีขาว"
+  },
+  {
+    "id": "S00560",
+    "English": "I think the book is wrong",
+    "Thai": "ฉันคิดว่าหนังสือเล่มนี้ผิด"
+  },
+  {
+    "id": "S00561",
+    "English": "Who is alone?",
+    "Thai": "ใครอยู่คนเดียว"
+  },
+  {
+    "id": "S00562",
+    "English": "I need new clothes for my vacation",
+    "Thai": "ฉันต้องการเสื้อผ้าใหม่สำหรับวันหยุดของฉัน"
+  },
+  {
+    "id": "S00563",
+    "English": "You must consider carefully",
+    "Thai": "คุณต้องพิจารณาให้รอบคอบ"
   }
 ]
