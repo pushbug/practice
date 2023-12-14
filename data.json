@@ -122,7 +122,7 @@
   {
     "id": "S00025",
     "English": "The girl eats an apple",
-    "Thai": "เด็กผูู้หญิงคนนี้กินแอปเปิลลูกหนึ่ง"
+    "Thai": "เด็กผู้หญิงคนนี้กินแอปเปิลลูกหนึ่ง"
   },
   {
     "id": "S00026",
@@ -1622,7 +1622,7 @@
   {
     "id": "S00325",
     "English": "He works in the shoe department",
-    "Thai": "เขาทำงานในแผนกร้องเท้านี้"
+    "Thai": "เขาทำงานในแผนกรองเท้านี้"
   },
   {
     "id": "S00326",
@@ -1792,7 +1792,7 @@
   {
     "id": "S00359",
     "English": "It is the capital of our country",
-    "Thai": "มันคือมือหลวงของพวกเรา"
+    "Thai": "มันเป็นเมืองหลวงของประเทศของเรา"
   },
   {
     "id": "S00360",
@@ -1877,7 +1877,7 @@
   {
     "id": "S00376",
     "English": "It is their zone",
-    "Thai": "มันของบริเวณของพวกเขา"
+    "Thai": "มันเป็นบริเวณของพวกเขา"
   },
   {
     "id": "S00377",
@@ -1936,7 +1936,7 @@
   },
   {
     "id": "S00388",
-    "English": "You read as I wirte",
+    "English": "You read as I write",
     "Thai": "คุณอ่านในระหว่างที่ฉันเขียน"
   },
   {
@@ -2056,7 +2056,7 @@
   },
   {
     "id": "S00412",
-    "English": "I know his address`",
+    "English": "I know his address",
     "Thai": "ฉันรู้ที่อยู่เขา"
   },
   {
@@ -2222,7 +2222,7 @@
   {
     "id": "S00445",
     "English": "Where is my watch?",
-    "Thai": "นาฬิกาข้อมูลของฉันอยู่ที่ไหน"
+    "Thai": "นาฬิกาข้อมือของฉันอยู่ที่ไหน"
   },
   {
     "id": "S00446",
@@ -2813,5 +2813,395 @@
     "id": "S00563",
     "English": "You must consider carefully",
     "Thai": "คุณต้องพิจารณาให้รอบคอบ"
+  },
+  {
+    "id": "S00564",
+    "English": "I have a bottle of water",
+    "Thai": "ฉันมีขวดน้ำ"
+  },
+  {
+    "id": "S00565",
+    "English": "The plate is on the table",
+    "Thai": "จานอยู่บนโต๊ะ"
+  },
+  {
+    "id": "S00566",
+    "English": "I make a basket for my mother",
+    "Thai": "ฉันทำตะกร้าให้แม่"
+  },
+  {
+    "id": "S00567",
+    "English": "What is in the box?",
+    "Thai": "อะไรอยู่ในกล่อง?"
+  },
+  {
+    "id": "S00568",
+    "English": "What color are your bedsheets?",
+    "Thai": "ผ้าปูที่นอนของคุณสีอะไร?"
+  },
+  {
+    "id": "S00569",
+    "English": "Which bag is your?",
+    "Thai": "กระเป๋าใบไหนเป็นของคุณ?"
+  },
+  {
+    "id": "S00570",
+    "English": "Sometimes I sleep on the floor",
+    "Thai": "บางครั้งฉันนอนบนพื้นนี้"
+  },
+  {
+    "id": "S00571",
+    "English": "The pan is your",
+    "Thai": "กระทะใบนี้เป็นของคุณ"
+  },
+  {
+    "id": "S00572",
+    "English": "I will write your name on the paper",
+    "Thai": "ฉันจะเขียนชื่อของคุณบนกระดาษแผ่นนี้"
+  },
+  {
+    "id": "S00573",
+    "English": "I have a comb for the girls",
+    "Thai": "ฉันมีหวีเล่มหนึ่งสำหรับพวกเด็กผู้หญิง"
+  },
+  {
+    "id": "S00574",
+    "English": "What is the novel about?",
+    "Thai": "นิยายเรื่องนี้เกี่ยวกับอะไร?"
+  },
+  {
+    "id": "S00575",
+    "English": "I read the newspaper on my cellphone",
+    "Thai": "ฉันอ่านหนังสือพิมพ์ฉบับนี้บนมือถือของฉัน"
+  },
+  {
+    "id": "S00576",
+    "English": "He see her in the magazine",
+    "Thai": "เขาเห็นเธอในนิตยสารฉบับนี้"
+  },
+  {
+    "id": "S00577",
+    "English": "My house is especially large",
+    "Thai": "บ้านของฉันใหญ่เป็นพิเศษ"
+  },
+  {
+    "id": "S00578",
+    "English": "We swim to the island",
+    "Thai": "เราว่ายน้ำไปที่เกาะนี้"
+  },
+  {
+    "id": "S00579",
+    "English": "From our yard",
+    "Thai": "จากสนามของเรา"
+  },
+  {
+    "id": "S00580",
+    "English": "I have a friend in England",
+    "Thai": "ฉันมีเพื่อนคนหนึ่งในประเทศอังกฤษ"
+  },
+  {
+    "id": "S00581",
+    "English": "The public bathrooms are here",
+    "Thai": "ห้องน้ำสาธารณะอยู่ที่นี่"
+  },
+  {
+    "id": "S00582",
+    "English": "I am a person",
+    "Thai": "ฉันเป็นคนคนหนึ่ง"
+  },
+  {
+    "id": "S00583",
+    "English": "I have a girlfriend",
+    "Thai": "ฉันมีแฟนสาวคนหนึ่ง"
+  },
+  {
+    "id": "S00584",
+    "English": "I love my girlfriend",
+    "Thai": "ฉันรักแฟนสาวของฉัน"
+  },
+  {
+    "id": "S00585",
+    "English": "Do you have a grilfriend?",
+    "Thai": "คุณมีแฟนไหม?"
+  },
+  {
+    "id": "S00586",
+    "English": "She does not have enemies",
+    "Thai": "เธอไม่มีศัตรู"
+  },
+  {
+    "id": "S00587",
+    "English": "I have an enemy",
+    "Thai": "ฉันมีศัตรูคนหนึ่ง"
+  },
+  {
+    "id": "S00588",
+    "English": "You are my enemy",
+    "Thai": "คุณคือศัตรูของฉัน"
+  },
+  {
+    "id": "S00589",
+    "English": "The youth",
+    "Thai": "เยาวชนพวกนี้"
+  },
+  {
+    "id": "S00590",
+    "English": "The youth eat in the garden",
+    "Thai": "เยาชนพวกนี้กินในสวนนี้"
+  },
+  {
+    "id": "S00591",
+    "English": "The culture",
+    "Thai": "วัฒนธรรมนี้"
+  },
+  {
+    "id": "S00592",
+    "English": "It is my culture",
+    "Thai": "มันคือวัฒนธรรมของฉัน"
+  },
+  {
+    "id": "S00593",
+    "English": "The committee",
+    "Thai": "คณะกรรมการคณะนี้"
+  },
+  {
+    "id": "S00594",
+    "English": "I am a human",
+    "Thai": "ฉันคือมนุษย์คนหนึ่ง"
+  },
+  {
+    "id": "S00595",
+    "English": "The population",
+    "Thai": "ประชากรกลุ่มนี้"
+  },
+  {
+    "id": "S00596",
+    "English": "The foundation",
+    "Thai": "มูลนิธินี้"
+  },
+  {
+    "id": "S00597",
+    "English": "We are not a foundation",
+    "Thai": "พวกเราไม่ใช่มูลนิธิ"
+  },
+  {
+    "id": "S00598",
+    "English": "She is at a conference",
+    "Thai": "เธออยู่ที่งานสัมนาแห่งหนี่ง"
+  },
+  {
+    "id": "S00599",
+    "English": "We are at a conference in Thailand",
+    "Thai": "พวกเราอยู่ที่งานสัมนาแห่งหนึ่งในไทย"
+  },
+  {
+    "id": "S00600",
+    "English": "My friends come from different cultures",
+    "Thai": "เพื่อของฉันมาจากวัฒนธรรมที่แตกต่างกัน"
+  },
+  {
+    "id": "S00601",
+    "English": "She works for a foundation",
+    "Thai": "เธอทำงานให้มูลนิธิ"
+  },
+  {
+    "id": "S00602",
+    "English": "I like people",
+    "Thai": "ฉันชอบผู้คน"
+  },
+  {
+    "id": "S00603",
+    "English": "The village",
+    "Thai": "หมู่บ้านนี้"
+  },
+  {
+    "id": "S00604",
+    "English": "The citizen",
+    "Thai": "พลเมืองคนนี้"
+  },
+  {
+    "id": "S00605",
+    "English": "I am a man and a citizen",
+    "Thai": "ฉันเป็นผู้ชายคนหนึ่งและพลเมืองคนหนึ่ง"
+  },
+  {
+    "id": "S00606",
+    "English": "The individual",
+    "Thai": "บุคคลคนนี้"
+  },
+  {
+    "id": "S00607",
+    "English": "I see a couple",
+    "Thai": "ฉันเห็นคู่รักคู่หนึ่ง"
+  },
+  {
+    "id": "S00608",
+    "English": "The couple has a son",
+    "Thai": "คู่รักคู่นี้มีลูกชายคนหนึ่ง"
+  },
+  {
+    "id": "S00609",
+    "English": "The relationship",
+    "Thai": "ความสัมพันธ์นี้"
+  },
+  {
+    "id": "S00610",
+    "English": "The relationship is bad",
+    "Thai": "ความสัมพันธ์นี้แย่"
+  },
+  {
+    "id": "S00611",
+    "English": "We are also victims",
+    "Thai": "พวกเราเป็นเหยื่อเหมือนกัน"
+  },
+  {
+    "id": "S00612",
+    "English": "Two ladies eat apples",
+    "Thai": "สุภาพสตรีสองคนกินแอปเปิล"
+  },
+  {
+    "id": "S00613",
+    "English": "The youth look for answers",
+    "Thai": "เยาวชนพวกนี้ค้นหาคำตอบ"
+  },
+  {
+    "id": "S00614",
+    "English": "They are a couple",
+    "Thai": "พวกเขาคือคู่รักคู่หนึ่ง"
+  },
+  {
+    "id": "S00615",
+    "English": "We are at a conference in Bangkok",
+    "Thai": "พวกเราอยู่ที่งานสัมมนาแห่งหนึ่งในกรุงเทพ"
+  },
+  {
+    "id": "S00616",
+    "English": "The lady wears a red dress",
+    "Thai": "สุภาพสตรีคนนี้สวมชุดกระโปรงสีแดงชุดหนึ่ง"
+  },
+  {
+    "id": "S00617",
+    "English": "Are you a human?",
+    "Thai": "คุณคือมนุษย์คนหนึ่งใช่ไหม?"
+  },
+  {
+    "id": "S00618",
+    "English": "Dog is man's best friend",
+    "Thai": "สุขัขคือเพื่อนดีที่สุดของมนุษย์"
+  },
+  {
+    "id": "S00619",
+    "English": "It is about the people",
+    "Thai": "มันเกี่ยวกับผู้คนพวกนี้"
+  },
+  {
+    "id": "S00620",
+    "English": "My girlfriend will also be at your house",
+    "Thai": "แฟนของฉันจะอยู่ที่บ้านของคุณด้วย"
+  },
+  {
+    "id": "S00621",
+    "English": "We go to the village",
+    "Thai": "พวกเราไปที่หมู่บ้านแห่งนี้"
+  },
+  {
+    "id": "S00622",
+    "English": "The public likes women",
+    "Thai": "มหาชนชอบผู้หญิง"
+  },
+  {
+    "id": "S00623",
+    "English": "We go to the conference together",
+    "Thai": "พวกเราไปที่งานสัมนาแห่งนี้ด้วยกัน"
+  },
+  {
+    "id": "S00624",
+    "English": "On Tuesdays I eat cheese",
+    "Thai": "ในทุกวันอังคารฉันกินเนยแข็ง"
+  },
+  {
+    "id": "S00625",
+    "English": "The girl is on stage",
+    "Thai": "หญิงสาวอยู่บนเวที"
+  },
+  {
+    "id": "S00626",
+    "English": "He sleeps for a second",
+    "Thai": "เขาหลับไปสักครู่หนึ่ง"
+  },
+  {
+    "id": "S00627",
+    "English": "at his age",
+    "Thai": "ในวัยของเขา"
+  },
+  {
+    "id": "S00628",
+    "English": "The moment",
+    "Thai": "ขณะนี้"
+  },
+  {
+    "id": "S00629",
+    "English": "Black is my favorite color",
+    "Thai": "สีดำเป็นสีที่ฉันชอบ"
+  },
+  {
+    "id": "S00630",
+    "English": "You have a lot of black clothes",
+    "Thai": "คุณมีเสื้อผ้าสีดำเยอะมาก"
+  },
+  {
+    "id": "S00631",
+    "English": "Do you need five black shirts?",
+    "Thai": "คุณต้องการเสื้อเชิ้ตสีดำห้าตัวหรือไม่?"
+  },
+  {
+    "id": "S00632",
+    "English": "They match my black jackets",
+    "Thai": "มันเข้ากับแจ็กเก็ตสีดำของฉัน"
+  },
+  {
+    "id": "S00633",
+    "English": "And four black hats?",
+    "Thai": "และหมวกสีดำสี่ใบล่ะ?"
+  },
+  {
+    "id": "S00634",
+    "English": "I need my hats. I do not like the sun",
+    "Thai": "ฉันต้องการหมวกของฉัน ฉันไม่ชอบแสงแดด"
+  },
+  {
+    "id": "S00635",
+    "English": "I have something for you",
+    "Thai": "ฉันมีบางอย่างสำหรับคุณ"
+  },
+  {
+    "id": "S00636",
+    "English": "She gives her big red sunglasses",
+    "Thai": "เธอให้แว่นกันแดดสีแดงอันใหญ่ของเธอ"
+  },
+  {
+    "id": "S00637",
+    "English": "They are from a new store in the city",
+    "Thai": "พวกเขามาจากร้านใหม่ในเมือง"
+  },
+  {
+    "id": "S00638",
+    "English": "The color red is perfect for you",
+    "Thai": "สีแดงเหมาะสำหรับคุณ"
+  },
+  {
+    "id": "S00639",
+    "English": "Does the store have black sunglasses?",
+    "Thai": "ทางร้านมีแว่นกันแดดสีดำมั้ยคะ?"
+  },
+  {
+    "id": "S00640",
+    "English": "You are not a victim",
+    "Thai": "คุณไม่ใช่เหยื่อคนหนึ่ง"
+  },
+  {
+    "id": "S00641",
+    "English": "The population is important",
+    "Thai": "ประชากรกลุ่มนี้สำคัญ"
   }
 ]
