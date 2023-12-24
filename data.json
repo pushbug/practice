@@ -3368,5 +3368,775 @@
     "id": "S00674",
     "English": "I like making you happy",
     "Thai": "ฉันชอบทำให้คุณมีความสุข"
+  },
+  {
+    "id": "S00675",
+    "English": "Do you have some milk?",
+    "Thai": "คุณมีนมบ้างไหม?"
+  },
+  {
+    "id": "S00676",
+    "English": "Some book",
+    "Thai": "หนังสือบ้าง"
+  },
+  {
+    "id": "S00677",
+    "English": "She has many hats",
+    "Thai": "เธอมีหมวกหลายใบ"
+  },
+  {
+    "id": "S00678",
+    "English": "You have many books",
+    "Thai": "คุณมีหนังสือมากมาย"
+  },
+  {
+    "id": "S00679",
+    "English": "She needs more water",
+    "Thai": "เธอต้องการน้ำเพิ่ม"
+  },
+  {
+    "id": "S00680",
+    "English": "The two boys have six plates",
+    "Thai": "เด็กชายสองคนมีจานหกใบ"
+  },
+  {
+    "id": "S00681",
+    "English": "We have less than six minutes",
+    "Thai": "เรามีเวลาไม่ถึงหกนาที"
+  },
+  {
+    "id": "S00682",
+    "English": "Last year",
+    "Thai": "ปีที่แล้ว"
+  },
+  {
+    "id": "S00683",
+    "English": "Last week",
+    "Thai": "อาทิตย์ที่แล้ว"
+  },
+  {
+    "id": "S00684",
+    "English": "April is the fourth month of the year",
+    "Thai": "เมษายนเป็นเดือนที่สี่ของปี"
+  },
+  {
+    "id": "S00685",
+    "English": "Her first child is a boy",
+    "Thai": "ลูกคนแรกของเธอเป็นเด็กผู้ชาย"
+  },
+  {
+    "id": "S00686",
+    "English": "I want less soup",
+    "Thai": "ฉันต้องการซุปน้อยลง"
+  },
+  {
+    "id": "S00687",
+    "English": "You eat less bread",
+    "Thai": "คุณกินขนมปังน้อยลง"
+  },
+  {
+    "id": "S00688",
+    "English": "Today is the third day",
+    "Thai": "วันนี้เป็นวันที่สาม"
+  },
+  {
+    "id": "S00689",
+    "English": "How much time do they have?",
+    "Thai": "พวกเขามีเวลาเท่าไหร่?"
+  },
+  {
+    "id": "S00690",
+    "English": "I will not watch too much television",
+    "Thai": "ฉันจะไม่ดูโทรทัศน์มากเกินไป"
+  },
+  {
+    "id": "S00691",
+    "English": "The amount of food is enough",
+    "Thai": "ปริมาณอาหารก็เพียงพอแล้ว"
+  },
+  {
+    "id": "S00692",
+    "English": "There are sixty seconds in one minute",
+    "Thai": "มีหกสิบวินาทีในหนึ่งนาที"
+  },
+  {
+    "id": "S00693",
+    "English": "The sum of two and four is six",
+    "Thai": "ผลรวมของสองและสี่คือหก"
+  },
+  {
+    "id": "S00694",
+    "English": "Thousands of years",
+    "Thai": "หลายพันปี"
+  },
+  {
+    "id": "S00695",
+    "English": "We have enough time",
+    "Thai": "เรามีเวลาเพียงพอ"
+  },
+  {
+    "id": "S00696",
+    "English": "We easily have enough time",
+    "Thai": "เราก็มีเวลาเพียงพอ"
+  },
+  {
+    "id": "S00697",
+    "English": "We have thousands of offices",
+    "Thai": "เรามีสำนักงานหลายพันแห่ง"
+  },
+  {
+    "id": "S00698",
+    "English": "My grandfather is eighty",
+    "Thai": "ปู่ของฉันอายุแปดสิบ"
+  },
+  {
+    "id": "S00699",
+    "English": "Per meal",
+    "Thai": "ต่อมื้อ"
+  },
+  {
+    "id": "S00700",
+    "English": "I have a pair of red shoes",
+    "Thai": "ฉันมีรองเท้าสีแดงคู่หนึ่ง"
+  },
+  {
+    "id": "S00701",
+    "English": "He reads on average three books a week",
+    "Thai": "เขาอ่านหนังสือโดยเฉลี่ยสามเล่มต่อสัปดาห์"
+  },
+  {
+    "id": "S00702",
+    "English": "We are majority",
+    "Thai": "เราเป็นคนส่วนใหญ่"
+  },
+  {
+    "id": "S00703",
+    "English": "We are eight in total",
+    "Thai": "เรามีทั้งหมดแปดคน"
+  },
+  {
+    "id": "S00704",
+    "English": "What is the total number of students?",
+    "Thai": "มีนักเรียนทั้งหมดกี่คน?"
+  },
+  {
+    "id": "S00705",
+    "English": "There are five cats in total",
+    "Thai": "มีแมวทั้งหมดห้าตัว"
+  },
+  {
+    "id": "S00706",
+    "English": "We run for fifteen minutes",
+    "Thai": "เราวิ่งสิบห้านาที"
+  },
+  {
+    "id": "S00707",
+    "English": "I write approximately one book per year",
+    "Thai": "ฉันเขียนหนังสือประมาณหนึ่งเล่มต่อปี"
+  },
+  {
+    "id": "S00708",
+    "English": "One half is enough for me",
+    "Thai": "ครึ่งหนึ่งก็เพียงพอสำหรับฉัน"
+  },
+  {
+    "id": "S00709",
+    "English": "She is seventeen",
+    "Thai": "เธออายุสิบเจ็ด"
+  },
+  {
+    "id": "S00710",
+    "English": "There are twelve months in a year",
+    "Thai": "ในหนึ่งปีมีสิบสองเดือน"
+  },
+  {
+    "id": "S00711",
+    "English": "My son is only eighteen",
+    "Thai": "ลูกชายของฉันอายุเพียงสิบแปดเท่านั้น"
+  },
+  {
+    "id": "S00712",
+    "English": "I consider it an animal",
+    "Thai": "ฉันถือว่ามันเป็นสัตว์"
+  },
+  {
+    "id": "S00713",
+    "English": "March ends today",
+    "Thai": "มีนาคมสิ้นสุดวันนี้"
+  },
+  {
+    "id": "S00714",
+    "English": "We present our family",
+    "Thai": "เรานำเสนอครอบครัวของเรา"
+  },
+  {
+    "id": "S00715",
+    "English": "I think he will stay",
+    "Thai": "ฉันคิดว่าเขาจะอยู่"
+  },
+  {
+    "id": "S00716",
+    "English": "I wish for a daughter",
+    "Thai": "ฉันอยากมีลูกสาว"
+  },
+  {
+    "id": "S00717",
+    "English": "Open the books",
+    "Thai": "เปิดหนังสือ"
+  },
+  {
+    "id": "S00718",
+    "English": "They include my sister and me",
+    "Thai": "พวกเขารวมถึงน้องสาวของฉันและฉัน"
+  },
+  {
+    "id": "S00719",
+    "English": "He searches for food",
+    "Thai": "เขาค้นหาอาหาร"
+  },
+  {
+    "id": "S00720",
+    "English": "She needs him",
+    "Thai": "เธอต้องการเขา"
+  },
+  {
+    "id": "S00721",
+    "English": "I return from work",
+    "Thai": "ฉันกลับจากทำงาน"
+  },
+  {
+    "id": "S00722",
+    "English": "The month ends on Monday",
+    "Thai": "เดือนจะสิ้นสุดในวันจันทร์"
+  },
+  {
+    "id": "S00723",
+    "English": "May starts tomorrow",
+    "Thai": "พฤษภาคมเริ่มพรุ่งนี้"
+  },
+  {
+    "id": "S00724",
+    "English": "Dogs are not easy",
+    "Thai": "สุนัขไม่ใช่เรื่องง่าย"
+  },
+  {
+    "id": "S00725",
+    "English": "Dogs need to walk every day",
+    "Thai": "สุนัขต้องเดินทุกวัน"
+  },
+  {
+    "id": "S00726",
+    "English": "And food for a dog is expensive",
+    "Thai": "และอาหารสำหรับสุนัขมีราคาแพง"
+  },
+  {
+    "id": "S00727",
+    "English": "The dog can eat my food",
+    "Thai": "สุนัขสามารถกินอาหารของฉันได้"
+  },
+  {
+    "id": "S00728",
+    "English": "He sees a dog under the table",
+    "Thai": "เขาเห็นสุนัขอยู่ใต้โต๊ะ"
+  },
+  {
+    "id": "S00729",
+    "English": "Why is a dog under the table",
+    "Thai": "ทำไมสุนัขถึงอยู่ใต้โต๊ะ?"
+  },
+  {
+    "id": "S00730",
+    "English": "Is he eating your burger and fries?",
+    "Thai": "เขากินเบอร์เกอร์และมันฝรั่งทอดของคุณหรือเปล่า?"
+  },
+  {
+    "id": "S00731",
+    "English": "Can you help me write a report for school?",
+    "Thai": "คุณช่วยฉันเขียนรายงานสำหรับโรงเรียนได้ไหม?"
+  },
+  {
+    "id": "S00732",
+    "English": "I am a great writer",
+    "Thai": "ฉันเป็นนักเขียนที่ยอดเยี่ยม"
+  },
+  {
+    "id": "S00733",
+    "English": "I have a very popular blog",
+    "Thai": "ฉันมีบล็อกที่ได้รับความนิยมมาก"
+  },
+  {
+    "id": "S00734",
+    "English": "Do you read my blog?",
+    "Thai": "คุณอ่านบล็อกของฉันไหม"
+  },
+  {
+    "id": "S00735",
+    "English": "I have a lot of books",
+    "Thai": "ฉันมีหนังสือมากมาย"
+  },
+  {
+    "id": "S00736",
+    "English": "Do you need my books for research?",
+    "Thai": "คุณต้องการหนังสือของฉันเพื่อการวิจัยหรือไม่?"
+  },
+  {
+    "id": "S00737",
+    "English": "What is your report about?",
+    "Thai": "รายงานของคุณเกี่ยวกับอะไร?"
+  },
+  {
+    "id": "S00738",
+    "English": "Why do you want to talk to me?",
+    "Thai": "ทำไมคุณถึงอยากคุยกับฉัน"
+  },
+  {
+    "id": "S00739",
+    "English": "Because you are very old",
+    "Thai": "เพราะคุณอายุมากแล้ว"
+  },
+  {
+    "id": "S00740",
+    "English": "You know a lot of dinosaurs, right?",
+    "Thai": "คุณรู้จักไดโนเสาร์เยอะมากใช่ไหม?"
+  },
+  {
+    "id": "S00741",
+    "English": "She opens her apartment door",
+    "Thai": "เธอเปิดประตูอพาร์ตเมนต์ของเธอ"
+  },
+  {
+    "id": "S00742",
+    "English": "How many does are in the house?",
+    "Thai": "ในบ้านมีกี่ตัว?"
+  },
+  {
+    "id": "S00743",
+    "English": "He has two more sons",
+    "Thai": "เขามีลูกชายอีกสองคน"
+  },
+  {
+    "id": "S00744",
+    "English": "What is your last name?",
+    "Thai": "คุณนามสกุลอะไร?"
+  },
+  {
+    "id": "S00745",
+    "English": "What is the name of your fourth child?",
+    "Thai": "ลูกคนที่สี่ของคุณชื่ออะไร?"
+  },
+  {
+    "id": "S00746",
+    "English": "Today I will eat with less sugar",
+    "Thai": "วันนี้จะกินน้ำตาลให้น้อยลง"
+  },
+  {
+    "id": "S00747",
+    "English": "He never runs",
+    "Thai": "เขาไม่เคยวิ่ง"
+  },
+  {
+    "id": "S00748",
+    "English": "Have you read the book yer?",
+    "Thai": "คุณอ่านหนังสือแล้วหรือยัง?"
+  },
+  {
+    "id": "S00749",
+    "English": "Me neither",
+    "Thai": "ฉันก็ไม่เหมือนกัน"
+  },
+  {
+    "id": "S00750",
+    "English": "He and she are siblings",
+    "Thai": "เขาและเธอเป็นพี่น้องกัน"
+  },
+  {
+    "id": "S00751",
+    "English": "I have enough clothes",
+    "Thai": "ฉันมีเสื้อผ้าเพียงพอ"
+  },
+  {
+    "id": "S00752",
+    "English": "The walk with their parents",
+    "Thai": "ที่ได้เดินเล่นกับพ่อแม่"
+  },
+  {
+    "id": "S00753",
+    "English": "Tell him your name",
+    "Thai": "บอกชื่อของคุณให้เขาทราบ"
+  },
+  {
+    "id": "S00754",
+    "English": "I listen because he speaks",
+    "Thai": "ฉันฟังเพราะเขาพูด"
+  },
+  {
+    "id": "S00755",
+    "English": "She drinks juice or milk",
+    "Thai": "เธอดื่มน้ำผลไม้หรือนม"
+  },
+  {
+    "id": "S00756",
+    "English": "I take it",
+    "Thai": "ฉันรับมัน"
+  },
+  {
+    "id": "S00757",
+    "English": "The children say good night",
+    "Thai": "เด็กๆ พูดราตรีสวัสดิ์"
+  },
+  {
+    "id": "S00758",
+    "English": "He runs one meter for second",
+    "Thai": "เขาวิ่งหนึ่งเมตรต่อวินาที"
+  },
+  {
+    "id": "S00759",
+    "English": "Almost a half",
+    "Thai": "เกือบครึ่ง"
+  },
+  {
+    "id": "S00760",
+    "English": "The half of six is three",
+    "Thai": "ครึ่งหนึ่งของหกคือสาม"
+  },
+  {
+    "id": "S00761",
+    "English": "I eat one egg per day",
+    "Thai": "ฉันกินไข่หนึ่งฟองต่อวัน"
+  },
+  {
+    "id": "S00762",
+    "English": "It is already eleven",
+    "Thai": "นี่มันสิบเอ็ดโมงแล้ว"
+  },
+  {
+    "id": "S00763",
+    "English": "Eat less bread",
+    "Thai": "กินขนมปังให้น้อยลง"
+  },
+  {
+    "id": "S00764",
+    "English": "It is the same",
+    "Thai": "มันเหมือนกัน"
+  },
+  {
+    "id": "S00765",
+    "English": "One is less than two",
+    "Thai": "หนึ่งน้อยกว่าสอง"
+  },
+  {
+    "id": "S00766",
+    "English": "Many artists will be on stage",
+    "Thai": "ศิลปินมากมายจะขึ้นเวที"
+  },
+  {
+    "id": "S00767",
+    "English": "How many books does he have?",
+    "Thai": "เขามีหนังสือกี่เล่ม?"
+  },
+  {
+    "id": "S00768",
+    "English": "My aunt writes one letter per year",
+    "Thai": "ป้าของฉันเขียนจดหมายปีละหนึ่งฉบับ"
+  },
+  {
+    "id": "S00769",
+    "English": "The live in a house",
+    "Thai": "อาศัยในบ้าน"
+  },
+  {
+    "id": "S00770",
+    "English": "Saturday we find a restaurant in the square",
+    "Thai": "วันเสาร์เราจะพบร้านอาหารในจัตุรัส"
+  },
+  {
+    "id": "S00771",
+    "English": "I go by bus",
+    "Thai": "ฉันไปโดยรถประจำทาง"
+  },
+  {
+    "id": "S00772",
+    "English": "Where is the suitcase?",
+    "Thai": "กระเป๋าเดินทางอยู่ที่ไหน?"
+  },
+  {
+    "id": "S00773",
+    "English": "Who travels with the mother?",
+    "Thai": "ใครไปเที่ยวกับแม่บ้าง?"
+  },
+  {
+    "id": "S00774",
+    "English": "Three bicycles and two cars",
+    "Thai": "จักรยานสามคันและรถยนต์สองคัน"
+  },
+  {
+    "id": "S00775",
+    "English": "My sister travels during the summer",
+    "Thai": "น้องสาวของฉันเดินทางในช่วงฤดูร้อน"
+  },
+  {
+    "id": "S00776",
+    "English": "A but is not a car",
+    "Thai": "กแต่ไม่ใช่รถยนต์"
+  },
+  {
+    "id": "S00777",
+    "English": "What color is your backpack?",
+    "Thai": "กระเป๋าเป้สะพายหลังของคุณสีอะไร?"
+  },
+  {
+    "id": "S00778",
+    "English": "Thank you for your visit",
+    "Thai": "ขอบคุณสำหรับการเยี่ยมชมของคุณ"
+  },
+  {
+    "id": "S00779",
+    "English": "I drive the car",
+    "Thai": "ฉันขับรถ"
+  },
+  {
+    "id": "S00780",
+    "English": "He is my guide",
+    "Thai": "เขาเป็นไกด์ของฉัน"
+  },
+  {
+    "id": "S00781",
+    "English": "The guide is for you",
+    "Thai": "คู่มือนี้เหมาะสำหรับคุณ"
+  },
+  {
+    "id": "S00782",
+    "English": "The ship is old",
+    "Thai": "เรือเก่าแล้ว"
+  },
+  {
+    "id": "S00783",
+    "English": "A bicycle is a vehicle",
+    "Thai": "จักรยานก็คือพาหนะ"
+  },
+  {
+    "id": "S00784",
+    "English": "Her friend is from Thailand",
+    "Thai": "เพื่อนของเธอมาจากประเทศไทย"
+  },
+  {
+    "id": "S00785",
+    "English": "We need at least an hour",
+    "Thai": "เราต้องการอย่างน้อยหนึ่งชั่วโมง"
+  },
+  {
+    "id": "S00786",
+    "English": "She is on the plane",
+    "Thai": "เธออยู่บนเครื่องบิน"
+  },
+  {
+    "id": "S00787",
+    "English": "An Adventure in Italy",
+    "Thai": "การผจญภัยในอิตาลี"
+  },
+  {
+    "id": "S00788",
+    "English": "Do you have a TV?",
+    "Thai": "คุณมีทีวีไหม?"
+  },
+  {
+    "id": "S00789",
+    "English": "My city has a subway",
+    "Thai": "เมืองของฉันมีรถไฟใต้ดิน"
+  },
+  {
+    "id": "S00790",
+    "English": "They are sad about the man's departure",
+    "Thai": "พวกเขาเสียใจกับการจากไปของชายคนนั้น"
+  },
+  {
+    "id": "S00791",
+    "English": "Are you a tourist?",
+    "Thai": "คุณเป็นนักท่องเที่ยวหรือเปล่า?"
+  },
+  {
+    "id": "S00792",
+    "English": "I travel to Thailand once a month",
+    "Thai": "ฉันไปเที่ยวเมืองไทยเดือนละครั้ง"
+  },
+  {
+    "id": "S00793",
+    "English": "The Gernams like the month of September",
+    "Thai": "Gernams ชอบเดือนกันยายน"
+  },
+  {
+    "id": "S00794",
+    "English": "My house is in Germany",
+    "Thai": "บ้านของฉันอยู่ที่เยอรมัน"
+  },
+  {
+    "id": "S00795",
+    "English": "He is abroad",
+    "Thai": "เขาอยู่ต่างประเทศ"
+  },
+  {
+    "id": "S00796",
+    "English": "He will learn French",
+    "Thai": "เขาจะเรียนภาษาฝรั่งเศส"
+  },
+  {
+    "id": "S00797",
+    "English": "Thailand is his second home",
+    "Thai": "ประเทศไทยเป็นบ้านหลังที่สองของเขา"
+  },
+  {
+    "id": "S00798",
+    "English": "Germany is a country in Europe",
+    "Thai": "เยอรมนีเป็นประเทศในยุโรป"
+  },
+  {
+    "id": "S00799",
+    "English": "Turn left",
+    "Thai": "เลี้ยวซ้าย"
+  },
+  {
+    "id": "S00800",
+    "English": "You take a right turn here",
+    "Thai": "คุณเลี้ยวขวาที่นี่"
+  },
+  {
+    "id": "S00801",
+    "English": "He turns to me",
+    "Thai": "เขาหันมาหาฉัน"
+  },
+  {
+    "id": "S00802",
+    "English": "The wheel turns",
+    "Thai": "ล้อหมุน"
+  },
+  {
+    "id": "S00803",
+    "English": "I have around ten friends",
+    "Thai": "ฉันมีเพื่อนประมาณสิบคน"
+  },
+  {
+    "id": "S00804",
+    "English": "We live in an international community",
+    "Thai": "เราอาศัยอยู่ในชุมชนระหว่างประเทศ"
+  },
+  {
+    "id": "S00805",
+    "English": "She works for an international foundation",
+    "Thai": "เธอทำงานให้กับมูลนิธิระดับนานาชาติ"
+  },
+  {
+    "id": "S00806",
+    "English": "There is an international food fair",
+    "Thai": "มีงานมหกรรมอาหารนานาชาติ"
+  },
+  {
+    "id": "S00807",
+    "English": "Your journey starts here",
+    "Thai": "การเดินทางของคุณเริ่มต้นที่นี่"
+  },
+  {
+    "id": "S00808",
+    "English": "Drive slowly",
+    "Thai": "ขับช้าๆ"
+  },
+  {
+    "id": "S00809",
+    "English": "He comes by bus",
+    "Thai": "เขามาโดยรถบัส"
+  },
+  {
+    "id": "S00810",
+    "English": "I see a red airplane",
+    "Thai": "ฉันเห็นเครื่องบินสีแดง"
+  },
+  {
+    "id": "S00811",
+    "English": "I wish for a son",
+    "Thai": "ฉันขอมีลูกชาย"
+  },
+  {
+    "id": "S00812",
+    "English": "They give us the book",
+    "Thai": "พวกเขาให้หนังสือกับเรา"
+  },
+  {
+    "id": "S00813",
+    "English": "I mark my shirt",
+    "Thai": "ฉันทำเครื่องหมายเสื้อของฉัน"
+  },
+  {
+    "id": "S00814",
+    "English": "Do you want to exercise, Junior?",
+    "Thai": "มาออกกำลังกายกันมั้ยจูเนียร์?"
+  },
+  {
+    "id": "S00815",
+    "English": "No. I want to play video games",
+    "Thai": "ไม่ ฉันต้องการเล่นวิดีโอเกม"
+  },
+  {
+    "id": "S00816",
+    "English": "Eddy thinks for a minute",
+    "Thai": "เอ็ดดี้คิดอยู่ครู่หนึ่ง"
+  },
+  {
+    "id": "S00817",
+    "English": "Do you want to go to the video game store?",
+    "Thai": "คุณต้องการไปที่ร้านวิดีโอเกมหรือไม่?"
+  },
+  {
+    "id": "S00818",
+    "English": "Can you get my money from the bedroom?",
+    "Thai": "คุณสามารถรับเงินของฉันจากห้องนอนได้ไหม?"
+  },
+  {
+    "id": "S00819",
+    "English": "Junior runs and gets the money",
+    "Thai": "จูเนียร์วิ่งไปรับเงิน"
+  },
+  {
+    "id": "S00820",
+    "English": "And can you get my keys from the kitchen?",
+    "Thai": "แล้วคุณช่วยเอากุญแจของฉันมาจากห้องครัวได้ไหม?"
+  },
+  {
+    "id": "S00821",
+    "English": "Junior runs and gets the keys",
+    "Thai": "จูเนียร์วิ่งไปหยิบกุญแจ"
+  },
+  {
+    "id": "S00822",
+    "English": "Can we go now?",
+    "Thai": "พวกเราไปได้หรือยัง?"
+  },
+  {
+    "id": "S00823",
+    "English": "I need my jacket",
+    "Thai": "ฉันต้องการแจ็คเก็ตของฉัน"
+  },
+  {
+    "id": "S00824",
+    "English": "It's in his apartment",
+    "Thai": "มันอยู่ในอพาร์ตเมนต์ของเขา"
+  },
+  {
+    "id": "S00825",
+    "English": "But he lives on the fourth floor",
+    "Thai": "แต่เขาอาศัยอยู่บนชั้นสี่"
+  },
+  {
+    "id": "S00826",
+    "English": "You can do it",
+    "Thai": "คุณสามารถทำมันได้"
+  },
+  {
+    "id": "S00827",
+    "English": "He comes back with his father's jacket",
+    "Thai": "เขากลับมาพร้อมกับเสื้อแจ็กเก็ตของพ่อ"
+  },
+  {
+    "id": "S00828",
+    "English": "Great now we can go",
+    "Thai": "เยี่ยมมากตอนนี้เราไปได้แล้ว"
   }
 ]
