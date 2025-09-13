@@ -1,5 +1,12 @@
+// helper.js
 export const rand = (n) => Math.floor(Math.random() * n);
-export const normalize = (s) => (s || '').trim().toLowerCase();
+export const normalize = (s) => {
+    // เพิ่มการตรวจสอบประเภทของ s
+    if (typeof s !== 'string') {
+        return '';
+    }
+    return s.trim().toLowerCase();
+};
 
 export const getRandomItem = (arr, exclude = []) => {
     const availableIndices = arr.map((_, i) => i).filter(i => !exclude.includes(i));

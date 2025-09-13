@@ -1,3 +1,4 @@
+// app.js
 import vocabFillMode from './modes/vocab_fill.js';
 import vocabTranslateMode from './modes/vocab_translate.js';
 import sentE2TMode from './modes/sent_e2t.js';
@@ -194,12 +195,14 @@ function checkAnswer(forcedAnswer = null) {
     if (isGameEnded) return;
     if (!current) { return; }
     
-    const answer = forcedAnswer !== null ? forcedAnswer :
-        (activeMode.id === 'sent_scramble') 
-        ? Array.from(displayEl.querySelectorAll('.card')).map(card => card.textContent).join(' ') 
-        : (activeMode.id === 'vocab_pair' && forcedAnswer === null)
-        ? '' // This case is handled by forcedAnswer
-        : inputEl.value.trim();
+    let answer;
+    if (forcedAnswer !== null) {
+        answer = forcedAnswer;
+    } else if (activeMode.id === 'sent_scramble') {
+        answer = Array.from(displayEl.querySelectorAll('.card')).map(card => card.textContent).join(' ');
+    } else {
+        answer = inputEl.value.trim();
+    }
 
     if (activeMode.id !== 'sent_scramble' && activeMode.id !== 'vocab_pair' && answer === '') {
         messageEl.textContent = 'Type an answer, or "." to skip.';

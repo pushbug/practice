@@ -1,3 +1,4 @@
+// vocab_translate.js
 export default {
     id: 'vocab_translate',
     rule: 'Rule: Type the English translation of the Thai word shown.',

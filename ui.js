@@ -1,3 +1,5 @@
+// ui.js
+
 export const displayEl = document.getElementById('display');
 export const inputEl = document.getElementById('answerInput');
 export const soundToggleBtn = document.getElementById('soundToggleBtn');
@@ -150,7 +152,7 @@ export function showResetButton(onReset) {
 }
 
 export function showSummary(score, total) {
-    displayEl.innerHTML = `<h2>Quiz Complete! Your Score: ${score} / ${total}</้>`;
+    displayEl.innerHTML = `<h2>Quiz Complete! Your Score: ${score} / ${total}</h2>`;
     const percentage = (score / total) * 100;
     const message = `You scored ${score}/${total}.`;
 

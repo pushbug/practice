@@ -1,3 +1,4 @@
+// vocab_fill.js
 export default {
     id: 'vocab_fill',
     rule: 'Rule: Fill in the missing letters to complete the English word.',

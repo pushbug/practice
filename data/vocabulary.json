@@ -1,51 +1,8190 @@
 [
   {
-    "english": "charge",
-    "thai": ["ชาร์จ", "เรียกเก็บเงิน", "ข้อกล่าวหา", "หน้าที่"]
+    "english": "abandon",
+    "thai": ["ละทิ้ง"]
   },
   {
-    "english": "run",
-    "thai": ["วิ่ง", "เดินเครื่อง", "จัดการ", "ไหล"]
+    "english": "ability",
+    "thai": ["ความสามารถ"]
   },
   {
-    "english": "study",
-    "thai": ["ศึกษา", "เรียน"]
+    "english": "able",
+    "thai": ["สามารถ"]
   },
   {
-    "english": "improve",
-    "thai": ["ปรับปรุง", "พัฒนา"]
+    "english": "about",
+    "thai": ["เกี่ยวกับ"]
   },
   {
-    "english": "create",
-    "thai": ["สร้าง", "ประดิษฐ์", "ก่อตั้ง"]
+    "english": "above",
+    "thai": ["ข้างต้น"]
   },
   {
-    "english": "receive",
-    "thai": ["ได้รับ", "รับ"]
+    "english": "absent",
+    "thai": ["ขาด"]
   },
   {
-    "english": "understand",
-    "thai": ["เข้าใจ"]
+    "english": "absorb",
+    "thai": ["ดูดซับ"]
+  },
+  {
+    "english": "abstract",
+    "thai": ["นามธรรม"]
+  },
+  {
+    "english": "absurd",
+    "thai": ["ไร้สาระ"]
+  },
+  {
+    "english": "abuse",
+    "thai": ["การละเมิด"]
+  },
+  {
+    "english": "access",
+    "thai": ["การเข้าถึง"]
+  },
+  {
+    "english": "accident",
+    "thai": ["อุบัติเหตุ"]
+  },
+  {
+    "english": "account",
+    "thai": ["บัญชี"]
+  },
+  {
+    "english": "accuse",
+    "thai": ["กล่าวโทษ"]
+  },
+  {
+    "english": "achieve",
+    "thai": ["บรรลุ"]
+  },
+  {
+    "english": "acid",
+    "thai": ["กรด"]
+  },
+  {
+    "english": "acoustic",
+    "thai": ["อะคูสติก"]
+  },
+  {
+    "english": "acquire",
+    "thai": ["ได้รับ"]
+  },
+  {
+    "english": "across",
+    "thai": ["ข้าม"]
+  },
+  {
+    "english": "act",
+    "thai": ["การกระทำ"]
+  },
+  {
+    "english": "action",
+    "thai": ["การกระทำ"]
+  },
+  {
+    "english": "actor",
+    "thai": ["นักแสดง"]
+  },
+  {
+    "english": "actress",
+    "thai": ["นักแสดงหญิง"]
+  },
+  {
+    "english": "actual",
+    "thai": ["จริง"]
+  },
+  {
+    "english": "adapt",
+    "thai": ["ปรับตัว"]
+  },
+  {
+    "english": "add",
+    "thai": ["เพิ่ม"]
+  },
+  {
+    "english": "addict",
+    "thai": ["ผู้ติดยา"]
+  },
+  {
+    "english": "address",
+    "thai": ["ที่อยู่"]
+  },
+  {
+    "english": "adjust",
+    "thai": ["ปรับ"]
+  },
+  {
+    "english": "admit",
+    "thai": ["ยอมรับ"]
+  },
+  {
+    "english": "adult",
+    "thai": ["ผู้ใหญ่"]
+  },
+  {
+    "english": "advance",
+    "thai": ["ล่วงหน้า"]
+  },
+  {
+    "english": "advice",
+    "thai": ["คำแนะนำ"]
+  },
+  {
+    "english": "aerobic",
+    "thai": ["แอโรบิก"]
+  },
+  {
+    "english": "affair",
+    "thai": ["ความสัมพันธ์"]
+  },
+  {
+    "english": "afford",
+    "thai": ["จ่าย"]
+  },
+  {
+    "english": "afraid",
+    "thai": ["กลัว"]
+  },
+  {
+    "english": "again",
+    "thai": ["อีกครั้ง"]
+  },
+  {
+    "english": "age",
+    "thai": ["อายุ"]
+  },
+  {
+    "english": "agent",
+    "thai": ["ตัวแทน"]
+  },
+  {
+    "english": "agree",
+    "thai": ["ตกลง"]
+  },
+  {
+    "english": "ahead",
+    "thai": ["ข้างหน้า"]
+  },
+  {
+    "english": "aim",
+    "thai": ["จุดมุ่งหมาย"]
+  },
+  {
+    "english": "air",
+    "thai": ["ทางอากาศ"]
+  },
+  {
+    "english": "airport",
+    "thai": ["สนามบิน"]
+  },
+  {
+    "english": "aisle",
+    "thai": ["ทางเดิน"]
+  },
+  {
+    "english": "alarm",
+    "thai": ["สัญญาณเตือน"]
+  },
+  {
+    "english": "album",
+    "thai": ["อัลบั้ม"]
+  },
+  {
+    "english": "alcohol",
+    "thai": ["แอลกอฮอล์"]
+  },
+  {
+    "english": "alert",
+    "thai": ["การแจ้งเตือน"]
+  },
+  {
+    "english": "alien",
+    "thai": ["มนุษย์ต่างดาว"]
+  },
+  {
+    "english": "all",
+    "thai": ["ทั้งหมด"]
+  },
+  {
+    "english": "alley",
+    "thai": ["ซอย"]
+  },
+  {
+    "english": "allow",
+    "thai": ["อนุญาต"]
+  },
+  {
+    "english": "almost",
+    "thai": ["เกือบ"]
+  },
+  {
+    "english": "alone",
+    "thai": ["อยู่คนเดียว"]
+  },
+  {
+    "english": "alpha",
+    "thai": ["อัลฟ่า"]
+  },
+  {
+    "english": "already",
+    "thai": ["แล้ว"]
+  },
+  {
+    "english": "also",
+    "thai": ["ยัง"]
+  },
+  {
+    "english": "alter",
+    "thai": ["เปลี่ยนแปลง"]
+  },
+  {
+    "english": "always",
+    "thai": ["เสมอ"]
+  },
+  {
+    "english": "amateur",
+    "thai": ["มือสมัครเล่น"]
+  },
+  {
+    "english": "amazing",
+    "thai": ["น่าทึ่ง"]
+  },
+  {
+    "english": "among",
+    "thai": ["ท่ามกลาง"]
+  },
+  {
+    "english": "amount",
+    "thai": ["จำนวน"]
+  },
+  {
+    "english": "amused",
+    "thai": ["ขบขัน"]
+  },
+  {
+    "english": "analyst",
+    "thai": ["นักวิเคราะห์"]
+  },
+  {
+    "english": "anchor",
+    "thai": ["ผู้ประกาศข่าว"]
+  },
+  {
+    "english": "ancient",
+    "thai": ["โบราณ"]
+  },
+  {
+    "english": "anger",
+    "thai": ["ความโกรธ"]
+  },
+  {
+    "english": "angle",
+    "thai": ["มุม"]
+  },
+  {
+    "english": "angry",
+    "thai": ["โกรธ"]
+  },
+  {
+    "english": "animal",
+    "thai": ["สัตว์"]
+  },
+  {
+    "english": "ankle",
+    "thai": ["ข้อเท้า"]
+  },
+  {
+    "english": "announce",
+    "thai": ["ประกาศ"]
+  },
+  {
+    "english": "annual",
+    "thai": ["ประจำปี"]
+  },
+  {
+    "english": "another",
+    "thai": ["อื่น"]
+  },
+  {
+    "english": "answer",
+    "thai": ["คำตอบ"]
+  },
+  {
+    "english": "antenna",
+    "thai": ["เสาอากาศ"]
+  },
+  {
+    "english": "antique",
+    "thai": ["โบราณ"]
+  },
+  {
+    "english": "anxiety",
+    "thai": ["ความวิตกกังวล"]
+  },
+  {
+    "english": "any",
+    "thai": ["ใด ๆ"]
+  },
+  {
+    "english": "apart",
+    "thai": ["แยกกัน"]
+  },
+  {
+    "english": "apology",
+    "thai": ["คำขอโทษ"]
+  },
+  {
+    "english": "appear",
+    "thai": ["ปรากฏ"]
+  },
+  {
+    "english": "apple",
+    "thai": ["แอปเปิ้ล"]
+  },
+  {
+    "english": "approve",
+    "thai": ["อนุมัติ"]
+  },
+  {
+    "english": "april",
+    "thai": ["เมษายน"]
+  },
+  {
+    "english": "arch",
+    "thai": ["ซุ้มประตู"]
+  },
+  {
+    "english": "arctic",
+    "thai": ["อาร์กติก"]
+  },
+  {
+    "english": "area",
+    "thai": ["พื้นที่"]
+  },
+  {
+    "english": "arena",
+    "thai": ["เวที"]
+  },
+  {
+    "english": "argue",
+    "thai": ["โต้เถียง"]
+  },
+  {
+    "english": "arm",
+    "thai": ["อาวุธ"]
+  },
+  {
+    "english": "armed",
+    "thai": ["ติดอาวุธ"]
+  },
+  {
+    "english": "armor",
+    "thai": ["เกราะ"]
+  },
+  {
+    "english": "army",
+    "thai": ["กองทัพ"]
+  },
+  {
+    "english": "around",
+    "thai": ["รอบๆ"]
+  },
+  {
+    "english": "arrange",
+    "thai": ["จัดการ"]
+  },
+  {
+    "english": "arrest",
+    "thai": ["จับกุม"]
+  },
+  {
+    "english": "arrive",
+    "thai": ["มาถึง"]
+  },
+  {
+    "english": "arrow",
+    "thai": ["ลูกศร"]
+  },
+  {
+    "english": "art",
+    "thai": ["ศิลปะ"]
+  },
+  {
+    "english": "artefact",
+    "thai": ["สิ่งประดิษฐ์"]
+  },
+  {
+    "english": "artist",
+    "thai": ["ศิลปิน"]
+  },
+  {
+    "english": "artwork",
+    "thai": ["งานศิลปะ"]
+  },
+  {
+    "english": "ask",
+    "thai": ["ถาม"]
+  },
+  {
+    "english": "aspect",
+    "thai": ["มุมมอง"]
+  },
+  {
+    "english": "assault",
+    "thai": ["การทำร้ายร่างกาย"]
+  },
+  {
+    "english": "asset",
+    "thai": ["ทรัพย์สิน"]
+  },
+  {
+    "english": "assist",
+    "thai": ["ช่วยเหลือ"]
+  },
+  {
+    "english": "assume",
+    "thai": ["สันนิษฐาน"]
+  },
+  {
+    "english": "asthma",
+    "thai": ["โรคหอบหืด"]
+  },
+  {
+    "english": "athlete",
+    "thai": ["นักกีฬา"]
+  },
+  {
+    "english": "atom",
+    "thai": ["อะตอม"]
+  },
+  {
+    "english": "attack",
+    "thai": ["การโจมตี"]
+  },
+  {
+    "english": "attend",
+    "thai": ["เข้าร่วม"]
+  },
+  {
+    "english": "attitude",
+    "thai": ["ทัศนคติ"]
+  },
+  {
+    "english": "attract",
+    "thai": ["ดึงดูด"]
+  },
+  {
+    "english": "auction",
+    "thai": ["การประมูล"]
+  },
+  {
+    "english": "audit",
+    "thai": ["การตรวจสอบบัญชี"]
+  },
+  {
+    "english": "august",
+    "thai": ["สิงหาคม"]
+  },
+  {
+    "english": "aunt",
+    "thai": ["ป้า"]
+  },
+  {
+    "english": "author",
+    "thai": ["ผู้เขียน"]
+  },
+  {
+    "english": "auto",
+    "thai": ["รถยนต์"]
+  },
+  {
+    "english": "autumn",
+    "thai": ["ฤดูใบไม้ร่วง"]
+  },
+  {
+    "english": "average",
+    "thai": ["เฉลี่ย"]
+  },
+  {
+    "english": "avocado",
+    "thai": ["อะโวคาโด"]
+  },
+  {
+    "english": "avoid",
+    "thai": ["หลีกเลี่ยง"]
+  },
+  {
+    "english": "awake",
+    "thai": ["ตื่นตัว"]
+  },
+  {
+    "english": "aware",
+    "thai": ["ตระหนักรู้"]
+  },
+  {
+    "english": "away",
+    "thai": ["ออกไป"]
+  },
+  {
+    "english": "awesome",
+    "thai": ["ยอดเยี่ยม"]
+  },
+  {
+    "english": "awful",
+    "thai": ["แย่มาก"]
+  },
+  {
+    "english": "awkward",
+    "thai": ["น่าอึดอัดใจ"]
+  },
+  {
+    "english": "axis",
+    "thai": ["แกน"]
+  },
+  {
+    "english": "baby",
+    "thai": ["ทารก"]
+  },
+  {
+    "english": "bachelor",
+    "thai": ["โสด"]
+  },
+  {
+    "english": "bacon",
+    "thai": ["เบคอน"]
+  },
+  {
+    "english": "badge",
+    "thai": ["ตราสัญลักษณ์"]
+  },
+  {
+    "english": "bag",
+    "thai": ["กระเป๋า"]
+  },
+  {
+    "english": "balance",
+    "thai": ["สมดุล"]
+  },
+  {
+    "english": "balcony",
+    "thai": ["ระเบียง"]
+  },
+  {
+    "english": "ball",
+    "thai": ["ลูกบอล"]
+  },
+  {
+    "english": "bamboo",
+    "thai": ["ไม้ไผ่"]
+  },
+  {
+    "english": "banana",
+    "thai": ["กล้วย"]
+  },
+  {
+    "english": "banner",
+    "thai": ["แบนเนอร์"]
+  },
+  {
+    "english": "bar",
+    "thai": ["บาร์"]
+  },
+  {
+    "english": "barely",
+    "thai": ["แทบจะไม่"]
+  },
+  {
+    "english": "bargain",
+    "thai": ["ราคาถูก"]
+  },
+  {
+    "english": "barrel",
+    "thai": ["บาร์เรล"]
+  },
+  {
+    "english": "base",
+    "thai": ["ฐาน"]
+  },
+  {
+    "english": "basic",
+    "thai": ["พื้นฐาน"]
+  },
+  {
+    "english": "basket",
+    "thai": ["ตะกร้า"]
+  },
+  {
+    "english": "battle",
+    "thai": ["การต่อสู้"]
+  },
+  {
+    "english": "beach",
+    "thai": ["ชายหาด"]
+  },
+  {
+    "english": "bean",
+    "thai": ["ถั่ว"]
+  },
+  {
+    "english": "beauty",
+    "thai": ["ความงาม"]
+  },
+  {
+    "english": "because",
+    "thai": ["เพราะ"]
+  },
+  {
+    "english": "become",
+    "thai": ["กลายเป็น"]
+  },
+  {
+    "english": "beef",
+    "thai": ["เนื้อ"]
+  },
+  {
+    "english": "before",
+    "thai": ["ก่อน"]
+  },
+  {
+    "english": "begin",
+    "thai": ["เริ่มต้น"]
+  },
+  {
+    "english": "behave",
+    "thai": ["ประพฤติตน"]
+  },
+  {
+    "english": "behind",
+    "thai": ["เบื้องหลัง"]
   },
   {
     "english": "believe",
-    "thai": ["เชื่อ", "เชื่อถือ"]
+    "thai": ["เชื่อ"]
+  },
+  {
+    "english": "below",
+    "thai": ["ด้านล่าง"]
+  },
+  {
+    "english": "belt",
+    "thai": ["เข็มขัด"]
+  },
+  {
+    "english": "bench",
+    "thai": ["ม้านั่ง"]
+  },
+  {
+    "english": "benefit",
+    "thai": ["ผลประโยชน์"]
+  },
+  {
+    "english": "best",
+    "thai": ["ดีที่สุด"]
+  },
+  {
+    "english": "betray",
+    "thai": ["ทรยศ"]
+  },
+  {
+    "english": "better",
+    "thai": ["ดีกว่า"]
+  },
+  {
+    "english": "between",
+    "thai": ["ระหว่าง"]
+  },
+  {
+    "english": "beyond",
+    "thai": ["เกินกว่า"]
+  },
+  {
+    "english": "bicycle",
+    "thai": ["จักรยาน"]
+  },
+  {
+    "english": "bid",
+    "thai": ["ประมูล"]
+  },
+  {
+    "english": "bike",
+    "thai": ["จักรยาน"]
+  },
+  {
+    "english": "bind",
+    "thai": ["ผูกมัด"]
+  },
+  {
+    "english": "biology",
+    "thai": ["ชีววิทยา"]
+  },
+  {
+    "english": "bird",
+    "thai": ["นก"]
+  },
+  {
+    "english": "birth",
+    "thai": ["กำเนิด"]
+  },
+  {
+    "english": "bitter",
+    "thai": ["ขมขื่น"]
+  },
+  {
+    "english": "black",
+    "thai": ["สีดำ"]
+  },
+  {
+    "english": "blade",
+    "thai": ["ใบมีด"]
+  },
+  {
+    "english": "blame",
+    "thai": ["ตำหนิ"]
+  },
+  {
+    "english": "blanket",
+    "thai": ["ผ้าห่ม"]
+  },
+  {
+    "english": "blast",
+    "thai": ["ระเบิด"]
+  },
+  {
+    "english": "bleak",
+    "thai": ["เยือกเย็น"]
+  },
+  {
+    "english": "bless",
+    "thai": ["อวยพร"]
+  },
+  {
+    "english": "blind",
+    "thai": ["ตาบอด"]
+  },
+  {
+    "english": "blood",
+    "thai": ["เลือด"]
+  },
+  {
+    "english": "blossom",
+    "thai": ["เบ่งบาน"]
+  },
+  {
+    "english": "blouse",
+    "thai": ["เสื้อ"]
+  },
+  {
+    "english": "blue",
+    "thai": ["สีน้ำเงิน"]
+  },
+  {
+    "english": "blur",
+    "thai": ["เบลอ"]
+  },
+  {
+    "english": "blush",
+    "thai": ["บลัชออน"]
+  },
+  {
+    "english": "board",
+    "thai": ["กระดาน"]
+  },
+  {
+    "english": "boat",
+    "thai": ["เรือ"]
+  },
+  {
+    "english": "body",
+    "thai": ["ร่างกาย"]
+  },
+  {
+    "english": "boil",
+    "thai": ["ต้ม"]
+  },
+  {
+    "english": "bomb",
+    "thai": ["ระเบิด"]
+  },
+  {
+    "english": "bone",
+    "thai": ["กระดูก"]
+  },
+  {
+    "english": "bonus",
+    "thai": ["โบนัส"]
+  },
+  {
+    "english": "book",
+    "thai": ["หนังสือ"]
+  },
+  {
+    "english": "boost",
+    "thai": ["บูสต์"]
+  },
+  {
+    "english": "border",
+    "thai": ["ขอบ"]
+  },
+  {
+    "english": "boring",
+    "thai": ["น่าเบื่อ"]
+  },
+  {
+    "english": "borrow",
+    "thai": ["ยืม"]
+  },
+  {
+    "english": "boss",
+    "thai": ["เจ้านาย"]
+  },
+  {
+    "english": "bottom",
+    "thai": ["ด้านล่าง"]
+  },
+  {
+    "english": "bounce",
+    "thai": ["เด้งกลับ"]
+  },
+  {
+    "english": "box",
+    "thai": ["กล่อง"]
+  },
+  {
+    "english": "boy",
+    "thai": ["เด็กชาย"]
+  },
+  {
+    "english": "bracket",
+    "thai": ["วงเล็บ"]
+  },
+  {
+    "english": "brain",
+    "thai": ["สมอง"]
+  },
+  {
+    "english": "brand",
+    "thai": ["แบรนด์"]
+  },
+  {
+    "english": "brass",
+    "thai": ["ทองเหลือง"]
+  },
+  {
+    "english": "brave",
+    "thai": ["กล้าหาญ"]
+  },
+  {
+    "english": "bread",
+    "thai": ["ขนมปัง"]
+  },
+  {
+    "english": "breeze",
+    "thai": ["สายลม"]
+  },
+  {
+    "english": "brick",
+    "thai": ["อิฐ"]
+  },
+  {
+    "english": "bridge",
+    "thai": ["สะพาน"]
+  },
+  {
+    "english": "brief",
+    "thai": ["สั้นๆ"]
+  },
+  {
+    "english": "bright",
+    "thai": ["สว่าง"]
+  },
+  {
+    "english": "bring",
+    "thai": ["นำมา"]
+  },
+  {
+    "english": "brisk",
+    "thai": ["กระฉับกระเฉง"]
+  },
+  {
+    "english": "broccoli",
+    "thai": ["บรอกโคลี"]
+  },
+  {
+    "english": "broken",
+    "thai": ["หัก"]
+  },
+  {
+    "english": "bronze",
+    "thai": ["บรอนซ์"]
+  },
+  {
+    "english": "broom",
+    "thai": ["ไม้กวาด"]
+  },
+  {
+    "english": "brother",
+    "thai": ["พี่ชาย"]
+  },
+  {
+    "english": "brown",
+    "thai": ["สีน้ำตาล"]
+  },
+  {
+    "english": "brush",
+    "thai": ["แปรง"]
+  },
+  {
+    "english": "bubble",
+    "thai": ["ฟองสบู่"]
+  },
+  {
+    "english": "buddy",
+    "thai": ["เพื่อน"]
+  },
+  {
+    "english": "budget",
+    "thai": ["งบประมาณ"]
+  },
+  {
+    "english": "buffalo",
+    "thai": ["ควาย"]
+  },
+  {
+    "english": "build",
+    "thai": ["สร้าง"]
+  },
+  {
+    "english": "bulb",
+    "thai": ["หลอดไฟ"]
+  },
+  {
+    "english": "bulk",
+    "thai": ["จำนวนมาก"]
+  },
+  {
+    "english": "bullet",
+    "thai": ["กระสุน"]
+  },
+  {
+    "english": "bundle",
+    "thai": ["มัด"]
+  },
+  {
+    "english": "bunker",
+    "thai": ["บังเกอร์"]
+  },
+  {
+    "english": "burden",
+    "thai": ["ภาระ"]
+  },
+  {
+    "english": "burger",
+    "thai": ["เบอร์เกอร์"]
+  },
+  {
+    "english": "burst",
+    "thai": ["ระเบิด"]
+  },
+  {
+    "english": "bus",
+    "thai": ["รถบัส"]
+  },
+  {
+    "english": "business",
+    "thai": ["ธุรกิจ"]
+  },
+  {
+    "english": "busy",
+    "thai": ["ยุ่ง"]
+  },
+  {
+    "english": "butter",
+    "thai": ["เนย"]
+  },
+  {
+    "english": "buyer",
+    "thai": ["ผู้ซื้อ"]
+  },
+  {
+    "english": "buzz",
+    "thai": ["เสียงฮือฮา"]
+  },
+  {
+    "english": "cabbage",
+    "thai": ["กะหล่ำปลี"]
+  },
+  {
+    "english": "cabin",
+    "thai": ["กระท่อม"]
+  },
+  {
+    "english": "cable",
+    "thai": ["สายเคเบิล"]
+  },
+  {
+    "english": "cactus",
+    "thai": ["กระบองเพชร"]
+  },
+  {
+    "english": "cage",
+    "thai": ["กรง"]
+  },
+  {
+    "english": "cake",
+    "thai": ["เค้ก"]
+  },
+  {
+    "english": "call",
+    "thai": ["โทร"]
+  },
+  {
+    "english": "calm",
+    "thai": ["สงบ"]
+  },
+  {
+    "english": "camera",
+    "thai": ["กล้อง"]
+  },
+  {
+    "english": "camp",
+    "thai": ["แคมป์"]
+  },
+  {
+    "english": "can",
+    "thai": ["สามารถ"]
+  },
+  {
+    "english": "canal",
+    "thai": ["คลอง"]
+  },
+  {
+    "english": "cancel",
+    "thai": ["ยกเลิก"]
+  },
+  {
+    "english": "candy",
+    "thai": ["ลูกอม"]
+  },
+  {
+    "english": "cannon",
+    "thai": ["ปืนใหญ่"]
+  },
+  {
+    "english": "canoe",
+    "thai": ["เรือแคนู"]
+  },
+  {
+    "english": "canvas",
+    "thai": ["ผ้าใบ"]
+  },
+  {
+    "english": "canyon",
+    "thai": ["หุบเขา"]
+  },
+  {
+    "english": "capable",
+    "thai": ["สามารถ"]
+  },
+  {
+    "english": "capital",
+    "thai": ["เมืองหลวง"]
+  },
+  {
+    "english": "captain",
+    "thai": ["กัปตัน"]
+  },
+  {
+    "english": "car",
+    "thai": ["รถยนต์"]
+  },
+  {
+    "english": "carbon",
+    "thai": ["คาร์บอน"]
+  },
+  {
+    "english": "card",
+    "thai": ["บัตร"]
+  },
+  {
+    "english": "cargo",
+    "thai": ["สินค้า"]
+  },
+  {
+    "english": "carpet",
+    "thai": ["พรม"]
+  },
+  {
+    "english": "carry",
+    "thai": ["พกพา"]
+  },
+  {
+    "english": "cart",
+    "thai": ["รถเข็น"]
+  },
+  {
+    "english": "case",
+    "thai": ["กล่อง"]
+  },
+  {
+    "english": "cash",
+    "thai": ["เงินสด"]
+  },
+  {
+    "english": "casino",
+    "thai": ["คาสิโน"]
+  },
+  {
+    "english": "castle",
+    "thai": ["ปราสาท"]
+  },
+  {
+    "english": "casual",
+    "thai": ["สบายๆ"]
+  },
+  {
+    "english": "cat",
+    "thai": ["แมว"]
+  },
+  {
+    "english": "catalog",
+    "thai": ["แคตตาล็อก"]
+  },
+  {
+    "english": "catch",
+    "thai": ["จับ"]
+  },
+  {
+    "english": "category",
+    "thai": ["หมวดหมู่"]
+  },
+  {
+    "english": "cattle",
+    "thai": ["วัว"]
+  },
+  {
+    "english": "caught",
+    "thai": ["จับได้"]
+  },
+  {
+    "english": "cause",
+    "thai": ["สาเหตุ"]
+  },
+  {
+    "english": "caution",
+    "thai": ["ข้อควรระวัง"]
+  },
+  {
+    "english": "cave",
+    "thai": ["ถ้ำ"]
+  },
+  {
+    "english": "ceiling",
+    "thai": ["เพดาน"]
+  },
+  {
+    "english": "celery",
+    "thai": ["ขึ้นฉ่าย"]
+  },
+  {
+    "english": "cement",
+    "thai": ["ซีเมนต์"]
+  },
+  {
+    "english": "census",
+    "thai": ["สำมะโนประชากร"]
+  },
+  {
+    "english": "century",
+    "thai": ["ศตวรรษ"]
+  },
+  {
+    "english": "cereal",
+    "thai": ["ซีเรียล"]
+  },
+  {
+    "english": "certain",
+    "thai": ["บางอย่าง"]
+  },
+  {
+    "english": "chair",
+    "thai": ["เก้าอี้"]
+  },
+  {
+    "english": "chalk",
+    "thai": ["ชอล์ก"]
+  },
+  {
+    "english": "champion",
+    "thai": ["แชมเปี้ยน"]
+  },
+  {
+    "english": "change",
+    "thai": ["การเปลี่ยนแปลง"]
+  },
+  {
+    "english": "chaos",
+    "thai": ["ความโกลาหล"]
+  },
+  {
+    "english": "chapter",
+    "thai": ["บท"]
+  },
+  {
+    "english": "charge",
+    "thai": ["การชาร์จ"]
+  },
+  {
+    "english": "chase",
+    "thai": ["การไล่ล่า"]
+  },
+  {
+    "english": "chat",
+    "thai": ["การแชท"]
+  },
+  {
+    "english": "cheap",
+    "thai": ["ราคาถูก"]
+  },
+  {
+    "english": "check",
+    "thai": ["การตรวจสอบ"]
+  },
+  {
+    "english": "cheese",
+    "thai": ["ชีส"]
+  },
+  {
+    "english": "chef",
+    "thai": ["เชฟ"]
+  },
+  {
+    "english": "cherry",
+    "thai": ["เชอร์รี่"]
+  },
+  {
+    "english": "chest",
+    "thai": ["หน้าอก"]
+  },
+  {
+    "english": "chicken",
+    "thai": ["ไก่"]
+  },
+  {
+    "english": "chief",
+    "thai": ["หัวหน้า"]
+  },
+  {
+    "english": "child",
+    "thai": ["เด็ก"]
+  },
+  {
+    "english": "chimney",
+    "thai": ["ปล่องไฟ"]
+  },
+  {
+    "english": "choice",
+    "thai": ["ตัวเลือก"]
+  },
+  {
+    "english": "choose",
+    "thai": ["เลือก"]
+  },
+  {
+    "english": "chronic",
+    "thai": ["เรื้อรัง"]
+  },
+  {
+    "english": "chuckle",
+    "thai": ["หัวเราะคิกคัก"]
+  },
+  {
+    "english": "chunk",
+    "thai": ["ชิ้น"]
+  },
+  {
+    "english": "churn",
+    "thai": ["ปั่น"]
+  },
+  {
+    "english": "cigar",
+    "thai": ["ซิการ์"]
+  },
+  {
+    "english": "cinnamon",
+    "thai": ["อบเชย"]
+  },
+  {
+    "english": "circle",
+    "thai": ["วงกลม"]
+  },
+  {
+    "english": "citizen",
+    "thai": ["พลเมือง"]
+  },
+  {
+    "english": "city",
+    "thai": ["เมือง"]
+  },
+  {
+    "english": "civil",
+    "thai": ["แพ่ง"]
+  },
+  {
+    "english": "claim",
+    "thai": ["การเรียกร้อง"]
+  },
+  {
+    "english": "clap",
+    "thai": ["ปรบมือ"]
+  },
+  {
+    "english": "clarify",
+    "thai": ["ชี้แจง"]
+  },
+  {
+    "english": "claw",
+    "thai": ["กรงเล็บ"]
+  },
+  {
+    "english": "clay",
+    "thai": ["ดินเหนียว"]
+  },
+  {
+    "english": "clean",
+    "thai": ["ทำความสะอาด"]
+  },
+  {
+    "english": "clerk",
+    "thai": ["พนักงาน"]
+  },
+  {
+    "english": "clever",
+    "thai": ["ฉลาด"]
+  },
+  {
+    "english": "click",
+    "thai": ["คลิก"]
+  },
+  {
+    "english": "client",
+    "thai": ["ลูกค้า"]
+  },
+  {
+    "english": "cliff",
+    "thai": ["หน้าผา"]
+  },
+  {
+    "english": "climb",
+    "thai": ["ปีน"]
+  },
+  {
+    "english": "clinic",
+    "thai": ["คลินิก"]
+  },
+  {
+    "english": "clip",
+    "thai": ["คลิป"]
+  },
+  {
+    "english": "clock",
+    "thai": ["นาฬิกา"]
+  },
+  {
+    "english": "clog",
+    "thai": ["อุดตัน"]
+  },
+  {
+    "english": "close",
+    "thai": ["ปิด"]
+  },
+  {
+    "english": "cloth",
+    "thai": ["ผ้า"]
+  },
+  {
+    "english": "cloud",
+    "thai": ["เมฆ"]
+  },
+  {
+    "english": "clown",
+    "thai": ["ตัวตลก"]
+  },
+  {
+    "english": "club",
+    "thai": ["คลับ"]
+  },
+  {
+    "english": "clump",
+    "thai": ["กอ"]
+  },
+  {
+    "english": "cluster",
+    "thai": ["คลัสเตอร์"]
+  },
+  {
+    "english": "clutch",
+    "thai": ["คลัตช์"]
+  },
+  {
+    "english": "coach",
+    "thai": ["โค้ช"]
+  },
+  {
+    "english": "coast",
+    "thai": ["ชายฝั่ง"]
+  },
+  {
+    "english": "coconut",
+    "thai": ["มะพร้าว"]
+  },
+  {
+    "english": "code",
+    "thai": ["รหัส"]
+  },
+  {
+    "english": "coffee",
+    "thai": ["กาแฟ"]
+  },
+  {
+    "english": "coil",
+    "thai": ["คอยล์"]
+  },
+  {
+    "english": "coin",
+    "thai": ["เหรียญ"]
+  },
+  {
+    "english": "collect",
+    "thai": ["สะสม"]
+  },
+  {
+    "english": "color",
+    "thai": ["สี"]
+  },
+  {
+    "english": "column",
+    "thai": ["คอลัมน์"]
+  },
+  {
+    "english": "combine",
+    "thai": ["รวม"]
+  },
+  {
+    "english": "come",
+    "thai": ["มา"]
+  },
+  {
+    "english": "comfort",
+    "thai": ["ความสะดวกสบาย"]
+  },
+  {
+    "english": "comic",
+    "thai": ["การ์ตูน"]
+  },
+  {
+    "english": "common",
+    "thai": ["สามัญ"]
+  },
+  {
+    "english": "company",
+    "thai": ["บริษัท"]
+  },
+  {
+    "english": "concert",
+    "thai": ["คอนเสิร์ต"]
+  },
+  {
+    "english": "conduct",
+    "thai": ["การดำเนินการ"]
+  },
+  {
+    "english": "confirm",
+    "thai": ["ยืนยัน"]
+  },
+  {
+    "english": "congress",
+    "thai": ["การประชุม"]
+  },
+  {
+    "english": "connect",
+    "thai": ["เชื่อมต่อ"]
+  },
+  {
+    "english": "consider",
+    "thai": ["พิจารณา"]
+  },
+  {
+    "english": "control",
+    "thai": ["ควบคุม"]
+  },
+  {
+    "english": "convince",
+    "thai": ["โน้มน้าวใจ"]
+  },
+  {
+    "english": "cook",
+    "thai": ["ปรุงอาหาร"]
+  },
+  {
+    "english": "cool",
+    "thai": ["เจ๋ง"]
+  },
+  {
+    "english": "copper",
+    "thai": ["ทองแดง"]
+  },
+  {
+    "english": "copy",
+    "thai": ["คัดลอก"]
+  },
+  {
+    "english": "coral",
+    "thai": ["ปะการัง"]
+  },
+  {
+    "english": "core",
+    "thai": ["แกน"]
+  },
+  {
+    "english": "corn",
+    "thai": ["ข้าวโพด"]
+  },
+  {
+    "english": "correct",
+    "thai": ["ถูกต้อง"]
+  },
+  {
+    "english": "cost",
+    "thai": ["ต้นทุน"]
+  },
+  {
+    "english": "cotton",
+    "thai": ["ฝ้าย"]
+  },
+  {
+    "english": "couch",
+    "thai": ["โซฟา"]
+  },
+  {
+    "english": "country",
+    "thai": ["ประเทศ"]
+  },
+  {
+    "english": "couple",
+    "thai": ["คู่รัก"]
+  },
+  {
+    "english": "course",
+    "thai": ["หลักสูตร"]
+  },
+  {
+    "english": "cousin",
+    "thai": ["ลูกพี่ลูกน้อง"]
+  },
+  {
+    "english": "cover",
+    "thai": ["ปก"]
+  },
+  {
+    "english": "coyote",
+    "thai": ["โคโยตี้"]
+  },
+  {
+    "english": "crack",
+    "thai": ["ร้าว"]
+  },
+  {
+    "english": "cradle",
+    "thai": ["เปล"]
+  },
+  {
+    "english": "craft",
+    "thai": ["งานฝีมือ"]
+  },
+  {
+    "english": "cram",
+    "thai": ["อัดแน่น"]
+  },
+  {
+    "english": "crane",
+    "thai": ["เครน"]
+  },
+  {
+    "english": "crash",
+    "thai": ["ชน"]
+  },
+  {
+    "english": "crater",
+    "thai": ["หลุมอุกกาบาต"]
+  },
+  {
+    "english": "crawl",
+    "thai": ["คลาน"]
+  },
+  {
+    "english": "crazy",
+    "thai": ["บ้า"]
+  },
+  {
+    "english": "cream",
+    "thai": ["ครีม"]
+  },
+  {
+    "english": "credit",
+    "thai": ["เครดิต"]
+  },
+  {
+    "english": "creek",
+    "thai": ["ครีก"]
+  },
+  {
+    "english": "crew",
+    "thai": ["ลูกเรือ"]
+  },
+  {
+    "english": "cricket",
+    "thai": ["คริกเก็ต"]
+  },
+  {
+    "english": "crime",
+    "thai": ["อาชญากรรม"]
+  },
+  {
+    "english": "crisp",
+    "thai": ["กรอบกรุบ"]
+  },
+  {
+    "english": "critic",
+    "thai": ["นักวิจารณ์"]
+  },
+  {
+    "english": "crop",
+    "thai": ["พืชผล"]
+  },
+  {
+    "english": "cross",
+    "thai": ["ครอส"]
+  },
+  {
+    "english": "crouch",
+    "thai": ["หมอบคลาน"]
+  },
+  {
+    "english": "crowd",
+    "thai": ["ฝูงชน"]
+  },
+  {
+    "english": "crucial",
+    "thai": ["สำคัญ"]
+  },
+  {
+    "english": "cruel",
+    "thai": ["โหดร้าย"]
+  },
+  {
+    "english": "cruise",
+    "thai": ["ล่องเรือ"]
+  },
+  {
+    "english": "crumble",
+    "thai": ["ครัมเบิล"]
+  },
+  {
+    "english": "crunch",
+    "thai": ["ครันช์"]
+  },
+  {
+    "english": "crush",
+    "thai": ["บดขยี้"]
+  },
+  {
+    "english": "cry",
+    "thai": ["ร้องไห้"]
+  },
+  {
+    "english": "crystal",
+    "thai": ["คริสตัล"]
+  },
+  {
+    "english": "cube",
+    "thai": ["ลูกบาศก์"]
+  },
+  {
+    "english": "culture",
+    "thai": ["วัฒนธรรม"]
+  },
+  {
+    "english": "cup",
+    "thai": ["ถ้วย"]
+  },
+  {
+    "english": "cupboard",
+    "thai": ["ตู้"]
+  },
+  {
+    "english": "curious",
+    "thai": ["อยากรู้อยากเห็น"]
+  },
+  {
+    "english": "current",
+    "thai": ["ปัจจุบัน"]
+  },
+  {
+    "english": "curtain",
+    "thai": ["ม่าน"]
+  },
+  {
+    "english": "curve",
+    "thai": ["เส้นโค้ง"]
+  },
+  {
+    "english": "cushion",
+    "thai": ["เบาะรองนั่ง"]
+  },
+  {
+    "english": "custom",
+    "thai": ["กำหนดเอง"]
+  },
+  {
+    "english": "cute",
+    "thai": ["น่ารัก"]
+  },
+  {
+    "english": "cycle",
+    "thai": ["วงจร"]
+  },
+  {
+    "english": "dad",
+    "thai": ["พ่อ"]
+  },
+  {
+    "english": "damage",
+    "thai": ["ความเสียหาย"]
+  },
+  {
+    "english": "damp",
+    "thai": ["ชื้น"]
+  },
+  {
+    "english": "dance",
+    "thai": ["เต้นรำ"]
+  },
+  {
+    "english": "danger",
+    "thai": ["อันตราย"]
+  },
+  {
+    "english": "daring",
+    "thai": ["กล้าหาญ"]
+  },
+  {
+    "english": "dash",
+    "thai": ["แดช"]
+  },
+  {
+    "english": "daughter",
+    "thai": ["ลูกสาว"]
+  },
+  {
+    "english": "dawn",
+    "thai": ["รุ่งอรุณ"]
+  },
+  {
+    "english": "day",
+    "thai": ["วัน"]
+  },
+  {
+    "english": "deal",
+    "thai": ["ข้อตกลง"]
+  },
+  {
+    "english": "debate",
+    "thai": ["การถกเถียง"]
+  },
+  {
+    "english": "debris",
+    "thai": ["เศษซาก"]
+  },
+  {
+    "english": "decade",
+    "thai": ["ทศวรรษ"]
+  },
+  {
+    "english": "december",
+    "thai": ["ธันวาคม"]
   },
   {
     "english": "decide",
     "thai": ["ตัดสินใจ"]
   },
   {
-    "english": "explain",
-    "thai": ["อธิบาย", "ชี้แจง"]
+    "english": "decline",
+    "thai": ["ปฏิเสธ"]
   },
   {
-    "english": "imagine",
-    "thai": ["จินตนาการ", "นึกคิด"]
+    "english": "decorate",
+    "thai": ["ตกแต่ง"]
+  },
+  {
+    "english": "decrease",
+    "thai": ["ลดลง"]
+  },
+  {
+    "english": "deer",
+    "thai": ["กวาง"]
+  },
+  {
+    "english": "defense",
+    "thai": ["การป้องกัน"]
+  },
+  {
+    "english": "define",
+    "thai": ["นิยาม"]
+  },
+  {
+    "english": "defy",
+    "thai": ["ท้าทาย"]
+  },
+  {
+    "english": "degree",
+    "thai": ["ระดับ"]
+  },
+  {
+    "english": "delay",
+    "thai": ["ความล่าช้า"]
+  },
+  {
+    "english": "deliver",
+    "thai": ["ส่งมอบ"]
+  },
+  {
+    "english": "demand",
+    "thai": ["ความต้องการ"]
+  },
+  {
+    "english": "demise",
+    "thai": ["การตาย"]
+  },
+  {
+    "english": "denial",
+    "thai": ["การปฏิเสธ"]
+  },
+  {
+    "english": "dentist",
+    "thai": ["ทันตแพทย์"]
+  },
+  {
+    "english": "deny",
+    "thai": ["ปฏิเสธ"]
+  },
+  {
+    "english": "depart",
+    "thai": ["จากไป"]
+  },
+  {
+    "english": "depend",
+    "thai": ["ขึ้นอยู่กับ"]
+  },
+  {
+    "english": "deposit",
+    "thai": ["การฝาก"]
+  },
+  {
+    "english": "depth",
+    "thai": ["ความลึก"]
+  },
+  {
+    "english": "deputy",
+    "thai": ["รอง"]
+  },
+  {
+    "english": "derive",
+    "thai": ["ได้รับ"]
+  },
+  {
+    "english": "describe",
+    "thai": ["อธิบาย"]
+  },
+  {
+    "english": "desert",
+    "thai": ["ทะเลทราย"]
+  },
+  {
+    "english": "design",
+    "thai": ["การออกแบบ"]
+  },
+  {
+    "english": "desk",
+    "thai": ["โต๊ะทำงาน"]
+  },
+  {
+    "english": "despair",
+    "thai": ["ความสิ้นหวัง"]
+  },
+  {
+    "english": "destroy",
+    "thai": ["ทำลาย"]
+  },
+  {
+    "english": "detail",
+    "thai": ["รายละเอียด"]
+  },
+  {
+    "english": "detect",
+    "thai": ["ตรวจจับ"]
+  },
+  {
+    "english": "develop",
+    "thai": ["พัฒนา"]
+  },
+  {
+    "english": "device",
+    "thai": ["อุปกรณ์"]
+  },
+  {
+    "english": "devote",
+    "thai": ["อุทิศ"]
+  },
+  {
+    "english": "diagram",
+    "thai": ["แผนภาพ"]
+  },
+  {
+    "english": "dial",
+    "thai": ["หน้าปัด"]
+  },
+  {
+    "english": "diamond",
+    "thai": ["เพชร"]
+  },
+  {
+    "english": "diary",
+    "thai": ["ไดอารี่"]
+  },
+  {
+    "english": "dice",
+    "thai": ["ลูกเต๋า"]
+  },
+  {
+    "english": "diesel",
+    "thai": ["ดีเซล"]
+  },
+  {
+    "english": "diet",
+    "thai": ["อาหาร"]
+  },
+  {
+    "english": "differ",
+    "thai": ["แตกต่าง"]
+  },
+  {
+    "english": "digital",
+    "thai": ["ดิจิทัล"]
+  },
+  {
+    "english": "dignity",
+    "thai": ["ศักดิ์ศรี"]
+  },
+  {
+    "english": "dilemma",
+    "thai": ["ภาวะกลืนไม่เข้าคายไม่ออก"]
+  },
+  {
+    "english": "dinner",
+    "thai": ["อาหารเย็น"]
+  },
+  {
+    "english": "dinosaur",
+    "thai": ["ไดโนเสาร์"]
+  },
+  {
+    "english": "direct",
+    "thai": ["โดยตรง"]
+  },
+  {
+    "english": "dirt",
+    "thai": ["สิ่งสกปรก"]
+  },
+  {
+    "english": "disagree",
+    "thai": ["ไม่เห็นด้วย"]
+  },
+  {
+    "english": "discover",
+    "thai": ["ค้นพบ"]
+  },
+  {
+    "english": "disease",
+    "thai": ["โรค"]
+  },
+  {
+    "english": "dish",
+    "thai": ["จาน"]
+  },
+  {
+    "english": "dismiss",
+    "thai": ["ยกเลิก"]
+  },
+  {
+    "english": "disorder",
+    "thai": ["ความผิดปกติ"]
+  },
+  {
+    "english": "display",
+    "thai": ["แสดง"]
+  },
+  {
+    "english": "distance",
+    "thai": ["ระยะทาง"]
+  },
+  {
+    "english": "divert",
+    "thai": ["เปลี่ยนเส้นทาง"]
+  },
+  {
+    "english": "divide",
+    "thai": ["แบ่งแยก"]
+  },
+  {
+    "english": "divorce",
+    "thai": ["หย่าร้าง"]
+  },
+  {
+    "english": "dizzy",
+    "thai": ["เวียนหัว"]
+  },
+  {
+    "english": "doctor",
+    "thai": ["หมอ"]
+  },
+  {
+    "english": "document",
+    "thai": ["เอกสาร"]
+  },
+  {
+    "english": "dog",
+    "thai": ["สุนัข"]
+  },
+  {
+    "english": "doll",
+    "thai": ["ตุ๊กตา"]
+  },
+  {
+    "english": "dolphin",
+    "thai": ["โลมา"]
+  },
+  {
+    "english": "domain",
+    "thai": ["โดเมน"]
+  },
+  {
+    "english": "donate",
+    "thai": ["บริจาค"]
+  },
+  {
+    "english": "donkey",
+    "thai": ["ลา"]
+  },
+  {
+    "english": "donor",
+    "thai": ["ผู้บริจาค"]
+  },
+  {
+    "english": "door",
+    "thai": ["ประตู"]
+  },
+  {
+    "english": "dose",
+    "thai": ["ปริมาณยา"]
+  },
+  {
+    "english": "double",
+    "thai": ["สองเท่า"]
+  },
+  {
+    "english": "dove",
+    "thai": ["นกพิราบ"]
+  },
+  {
+    "english": "draft",
+    "thai": ["ร่าง"]
+  },
+  {
+    "english": "dragon",
+    "thai": ["มังกร"]
+  },
+  {
+    "english": "drama",
+    "thai": ["ละคร"]
+  },
+  {
+    "english": "drastic",
+    "thai": ["รุนแรง"]
+  },
+  {
+    "english": "draw",
+    "thai": ["วาด"]
+  },
+  {
+    "english": "dream",
+    "thai": ["ความฝัน"]
+  },
+  {
+    "english": "dress",
+    "thai": ["ชุด"]
+  },
+  {
+    "english": "drift",
+    "thai": ["ล่องลอย"]
+  },
+  {
+    "english": "drill",
+    "thai": ["สว่าน"]
+  },
+  {
+    "english": "drink",
+    "thai": ["เครื่องดื่ม"]
+  },
+  {
+    "english": "drip",
+    "thai": ["หยด"]
+  },
+  {
+    "english": "drive",
+    "thai": ["ขับรถ"]
+  },
+  {
+    "english": "drop",
+    "thai": ["หยด"]
+  },
+  {
+    "english": "drum",
+    "thai": ["กลอง"]
+  },
+  {
+    "english": "dry",
+    "thai": ["แห้ง"]
+  },
+  {
+    "english": "duck",
+    "thai": ["เป็ด"]
+  },
+  {
+    "english": "dumb",
+    "thai": ["ใบ้"]
+  },
+  {
+    "english": "dune",
+    "thai": ["เนินทราย"]
+  },
+  {
+    "english": "during",
+    "thai": ["ระหว่าง"]
+  },
+  {
+    "english": "dust",
+    "thai": ["ฝุ่น"]
+  },
+  {
+    "english": "dutch",
+    "thai": ["ดัตช์"]
+  },
+  {
+    "english": "duty",
+    "thai": ["หน้าที่"]
+  },
+  {
+    "english": "dwarf",
+    "thai": ["คนแคระ"]
+  },
+  {
+    "english": "dynamic",
+    "thai": ["ไดนามิก"]
+  },
+  {
+    "english": "eager",
+    "thai": ["กระตือรือร้น"]
+  },
+  {
+    "english": "eagle",
+    "thai": ["อินทรี"]
+  },
+  {
+    "english": "early",
+    "thai": ["เร็ว"]
+  },
+  {
+    "english": "earn",
+    "thai": ["หารายได้"]
+  },
+  {
+    "english": "earth",
+    "thai": ["โลก"]
+  },
+  {
+    "english": "easily",
+    "thai": ["ง่าย"]
+  },
+  {
+    "english": "east",
+    "thai": ["ตะวันออก"]
+  },
+  {
+    "english": "easy",
+    "thai": ["ง่าย"]
+  },
+  {
+    "english": "echo",
+    "thai": ["เสียงสะท้อน"]
+  },
+  {
+    "english": "ecology",
+    "thai": ["นิเวศวิทยา"]
+  },
+  {
+    "english": "economy",
+    "thai": ["เศรษฐกิจ"]
+  },
+  {
+    "english": "edge",
+    "thai": ["ขอบ"]
+  },
+  {
+    "english": "edit",
+    "thai": ["แก้ไข"]
+  },
+  {
+    "english": "educate",
+    "thai": ["ให้ความรู้"]
+  },
+  {
+    "english": "effort",
+    "thai": ["ความพยายาม"]
+  },
+  {
+    "english": "egg",
+    "thai": ["ไข่"]
+  },
+  {
+    "english": "eight",
+    "thai": ["แปด"]
+  },
+  {
+    "english": "either",
+    "thai": ["อย่างใดอย่างหนึ่ง"]
+  },
+  {
+    "english": "elbow",
+    "thai": ["ข้อศอก"]
+  },
+  {
+    "english": "elder",
+    "thai": ["ผู้เฒ่า"]
+  },
+  {
+    "english": "electric",
+    "thai": ["ไฟฟ้า"]
+  },
+  {
+    "english": "elegant",
+    "thai": ["สง่างาม"]
+  },
+  {
+    "english": "element",
+    "thai": ["ธาตุ"]
+  },
+  {
+    "english": "elephant",
+    "thai": ["ช้าง"]
+  },
+  {
+    "english": "elevator",
+    "thai": ["ลิฟต์"]
+  },
+  {
+    "english": "elite",
+    "thai": ["ชนชั้นสูง"]
+  },
+  {
+    "english": "else",
+    "thai": ["อื่น ๆ"]
+  },
+  {
+    "english": "embark",
+    "thai": ["ลงมือปฏิบัติ"]
+  },
+  {
+    "english": "embody",
+    "thai": ["รวบรวม"]
+  },
+  {
+    "english": "embrace",
+    "thai": ["โอบกอด"]
+  },
+  {
+    "english": "emerge",
+    "thai": ["เกิดขึ้น"]
+  },
+  {
+    "english": "emotion",
+    "thai": ["อารมณ์"]
+  },
+  {
+    "english": "employ",
+    "thai": ["จ้างงาน"]
+  },
+  {
+    "english": "empower",
+    "thai": ["ให้อำนาจ"]
+  },
+  {
+    "english": "empty",
+    "thai": ["ว่างเปล่า"]
+  },
+  {
+    "english": "enable",
+    "thai": ["เปิดใช้งาน"]
+  },
+  {
+    "english": "enact",
+    "thai": ["บัญญัติ"]
+  },
+  {
+    "english": "end",
+    "thai": ["สิ้นสุด"]
+  },
+  {
+    "english": "endless",
+    "thai": ["ไม่มีที่สิ้นสุด"]
+  },
+  {
+    "english": "endorse",
+    "thai": ["รับรอง"]
+  },
+  {
+    "english": "enemy",
+    "thai": ["ศัตรู"]
+  },
+  {
+    "english": "energy",
+    "thai": ["พลังงาน"]
+  },
+  {
+    "english": "enforce",
+    "thai": ["บังคับใช้"]
+  },
+  {
+    "english": "engage",
+    "thai": ["มีส่วนร่วม"]
+  },
+  {
+    "english": "engine",
+    "thai": ["เครื่องยนต์"]
+  },
+  {
+    "english": "enhance",
+    "thai": ["เพิ่มพูน"]
+  },
+  {
+    "english": "enjoy",
+    "thai": ["เพลิดเพลิน"]
+  },
+  {
+    "english": "enlist",
+    "thai": ["เกณฑ์"]
+  },
+  {
+    "english": "enough",
+    "thai": ["เพียงพอ"]
+  },
+  {
+    "english": "enrich",
+    "thai": ["เสริมสร้าง"]
+  },
+  {
+    "english": "enroll",
+    "thai": ["ลงทะเบียน"]
+  },
+  {
+    "english": "ensure",
+    "thai": ["รับรอง"]
+  },
+  {
+    "english": "enter",
+    "thai": ["เข้า"]
+  },
+  {
+    "english": "entire",
+    "thai": ["ทั้งหมด"]
+  },
+  {
+    "english": "entry",
+    "thai": ["รายการ"]
+  },
+  {
+    "english": "envelope",
+    "thai": ["ซองจดหมาย"]
+  },
+  {
+    "english": "episode",
+    "thai": ["ตอน"]
+  },
+  {
+    "english": "equal",
+    "thai": ["เท่าเทียม"]
+  },
+  {
+    "english": "equip",
+    "thai": ["ติดตั้ง"]
+  },
+  {
+    "english": "era",
+    "thai": ["ยุค"]
+  },
+  {
+    "english": "erase",
+    "thai": ["ลบ"]
+  },
+  {
+    "english": "erode",
+    "thai": ["กัดกร่อน"]
+  },
+  {
+    "english": "erosion",
+    "thai": ["การกัดเซาะ"]
+  },
+  {
+    "english": "error",
+    "thai": ["ข้อผิดพลาด"]
+  },
+  {
+    "english": "erupt",
+    "thai": ["ปะทุ"]
+  },
+  {
+    "english": "escape",
+    "thai": ["หลบหนี"]
+  },
+  {
+    "english": "essay",
+    "thai": ["เรียงความ"]
+  },
+  {
+    "english": "essence",
+    "thai": ["สาระสำคัญ"]
+  },
+  {
+    "english": "estate",
+    "thai": ["อสังหาริมทรัพย์"]
+  },
+  {
+    "english": "eternal",
+    "thai": ["นิรันดร์"]
+  },
+  {
+    "english": "ethics",
+    "thai": ["จริยธรรม"]
+  },
+  {
+    "english": "evidence",
+    "thai": ["หลักฐาน"]
+  },
+  {
+    "english": "evil",
+    "thai": ["ความชั่วร้าย"]
+  },
+  {
+    "english": "evoke",
+    "thai": ["กระตุ้น"]
+  },
+  {
+    "english": "evolve",
+    "thai": ["วิวัฒนาการ"]
+  },
+  {
+    "english": "exact",
+    "thai": ["ตัวอย่างที่แน่นอน"]
+  },
+  {
+    "english": "example",
+    "thai": ["ส่วนเกิน"]
+  },
+  {
+    "english": "excess",
+    "thai": ["แลกเปลี่ยน"]
+  },
+  {
+    "english": "exchange",
+    "thai": ["กระตุ้น"]
+  },
+  {
+    "english": "excite",
+    "thai": ["ยกเว้น"]
+  },
+  {
+    "english": "exclude",
+    "thai": ["ข้อแก้ตัว"]
+  },
+  {
+    "english": "excuse",
+    "thai": ["ดำเนินการ"]
+  },
+  {
+    "english": "execute",
+    "thai": ["แบบฝึกหัด"]
+  },
+  {
+    "english": "exercise",
+    "thai": ["หมดแรง"]
+  },
+  {
+    "english": "exhaust",
+    "thai": ["จัดแสดง"]
+  },
+  {
+    "english": "exhibit",
+    "thai": ["เนรเทศ"]
+  },
+  {
+    "english": "exile",
+    "thai": ["มีอยู่"]
+  },
+  {
+    "english": "exist",
+    "thai": ["ออก"]
+  },
+  {
+    "english": "exit",
+    "thai": ["แปลกใหม่"]
+  },
+  {
+    "english": "exotic",
+    "thai": ["ขยาย"]
+  },
+  {
+    "english": "expand",
+    "thai": ["คาดหวัง"]
+  },
+  {
+    "english": "expect",
+    "thai": ["หมดอายุ"]
+  },
+  {
+    "english": "expire",
+    "thai": ["อธิบาย"]
+  },
+  {
+    "english": "explain",
+    "thai": ["เปิดเผย"]
+  },
+  {
+    "english": "expose",
+    "thai": ["แสดงออก"]
+  },
+  {
+    "english": "express",
+    "thai": ["ขยาย"]
+  },
+  {
+    "english": "extend",
+    "thai": ["พิเศษ"]
+  },
+  {
+    "english": "extra",
+    "thai": ["ตา"]
+  },
+  {
+    "english": "eye",
+    "thai": ["ตา"]
+  },
+  {
+    "english": "eyebrow",
+    "thai": ["คิ้ว"]
+  },
+  {
+    "english": "fabric",
+    "thai": ["ผ้า"]
+  },
+  {
+    "english": "face",
+    "thai": ["ใบหน้า"]
+  },
+  {
+    "english": "faculty",
+    "thai": ["คณะ"]
+  },
+  {
+    "english": "fade",
+    "thai": ["จางหาย"]
+  },
+  {
+    "english": "faint",
+    "thai": ["จางหาย"]
+  },
+  {
+    "english": "faith",
+    "thai": ["ศรัทธา"]
+  },
+  {
+    "english": "fall",
+    "thai": ["ตกต่ำ"]
+  },
+  {
+    "english": "fame",
+    "thai": ["ชื่อเสียง"]
+  },
+  {
+    "english": "family",
+    "thai": ["ครอบครัว"]
+  },
+  {
+    "english": "famous",
+    "thai": ["มีชื่อเสียง"]
+  },
+  {
+    "english": "fan",
+    "thai": ["แฟน"]
+  },
+  {
+    "english": "fancy",
+    "thai": ["แฟนซี"]
+  },
+  {
+    "english": "fantasy",
+    "thai": ["แฟนตาซี"]
+  },
+  {
+    "english": "farm",
+    "thai": ["ฟาร์ม"]
+  },
+  {
+    "english": "fashion",
+    "thai": ["แฟชั่น"]
+  },
+  {
+    "english": "fat",
+    "thai": ["อ้วน"]
+  },
+  {
+    "english": "fatal",
+    "thai": ["ร้ายแรง"]
+  },
+  {
+    "english": "father",
+    "thai": ["พ่อ"]
+  },
+  {
+    "english": "fatigue",
+    "thai": ["เหนื่อยล้า"]
+  },
+  {
+    "english": "fault",
+    "thai": ["ความผิด"]
+  },
+  {
+    "english": "favorite",
+    "thai": ["รายการโปรด"]
+  },
+  {
+    "english": "feature",
+    "thai": ["คุณลักษณะ"]
+  },
+  {
+    "english": "february",
+    "thai": ["กุมภาพันธ์"]
+  },
+  {
+    "english": "federal",
+    "thai": ["รัฐบาลกลาง"]
+  },
+  {
+    "english": "fee",
+    "thai": ["ค่าธรรมเนียม"]
+  },
+  {
+    "english": "feed",
+    "thai": ["ฟีด"]
+  },
+  {
+    "english": "feel",
+    "thai": ["รู้สึก"]
+  },
+  {
+    "english": "female",
+    "thai": ["เพศหญิง"]
+  },
+  {
+    "english": "fence",
+    "thai": ["รั้ว"]
+  },
+  {
+    "english": "festival",
+    "thai": ["เทศกาล"]
+  },
+  {
+    "english": "fetch",
+    "thai": ["รับ"]
+  },
+  {
+    "english": "fever",
+    "thai": ["ไข้"]
+  },
+  {
+    "english": "few",
+    "thai": ["น้อย"]
+  },
+  {
+    "english": "fiber",
+    "thai": ["เส้นใย"]
+  },
+  {
+    "english": "fiction",
+    "thai": ["นิยาย"]
+  },
+  {
+    "english": "field",
+    "thai": ["สนาม"]
+  },
+  {
+    "english": "figure",
+    "thai": ["รูป"]
+  },
+  {
+    "english": "file",
+    "thai": ["ไฟล์"]
+  },
+  {
+    "english": "film",
+    "thai": ["ฟิล์ม"]
+  },
+  {
+    "english": "filter",
+    "thai": ["ฟิลเตอร์"]
+  },
+  {
+    "english": "final",
+    "thai": ["สุดท้าย"]
+  },
+  {
+    "english": "find",
+    "thai": ["ค้นหา"]
+  },
+  {
+    "english": "fine",
+    "thai": ["ละเอียด"]
+  },
+  {
+    "english": "finger",
+    "thai": ["นิ้ว"]
+  },
+  {
+    "english": "finish",
+    "thai": ["เสร็จสิ้น"]
+  },
+  {
+    "english": "fire",
+    "thai": ["ไฟ"]
+  },
+  {
+    "english": "firm",
+    "thai": ["มั่นคง"]
+  },
+  {
+    "english": "first",
+    "thai": ["แรก"]
+  },
+  {
+    "english": "fiscal",
+    "thai": ["การเงิน"]
+  },
+  {
+    "english": "fish",
+    "thai": ["ปลา"]
+  },
+  {
+    "english": "fit",
+    "thai": ["พอดี"]
+  },
+  {
+    "english": "fitness",
+    "thai": ["ฟิตเนส"]
+  },
+  {
+    "english": "fix",
+    "thai": ["แก้ไข"]
+  },
+  {
+    "english": "flag",
+    "thai": ["ธง"]
+  },
+  {
+    "english": "flame",
+    "thai": ["เปลวไฟ"]
+  },
+  {
+    "english": "flash",
+    "thai": ["แฟลช"]
+  },
+  {
+    "english": "flat",
+    "thai": ["แบน"]
+  },
+  {
+    "english": "flavor",
+    "thai": ["รสชาติ"]
+  },
+  {
+    "english": "flee",
+    "thai": ["หนี"]
+  },
+  {
+    "english": "flight",
+    "thai": ["เที่ยวบิน"]
+  },
+  {
+    "english": "flip",
+    "thai": ["พลิก"]
+  },
+  {
+    "english": "float",
+    "thai": ["ลอย"]
+  },
+  {
+    "english": "flock",
+    "thai": ["ฝูง"]
+  },
+  {
+    "english": "floor",
+    "thai": ["พื้น"]
+  },
+  {
+    "english": "flower",
+    "thai": ["ดอกไม้"]
+  },
+  {
+    "english": "fluid",
+    "thai": ["ของเหลว"]
+  },
+  {
+    "english": "flush",
+    "thai": ["ล้าง"]
+  },
+  {
+    "english": "fly",
+    "thai": ["บิน"]
+  },
+  {
+    "english": "foam",
+    "thai": ["โฟม"]
+  },
+  {
+    "english": "focus",
+    "thai": ["โฟกัส"]
+  },
+  {
+    "english": "fog",
+    "thai": ["หมอก"]
+  },
+  {
+    "english": "foil",
+    "thai": ["ฟอยล์"]
+  },
+  {
+    "english": "fold",
+    "thai": ["พับ"]
+  },
+  {
+    "english": "follow",
+    "thai": ["ติดตาม"]
+  },
+  {
+    "english": "food",
+    "thai": ["อาหาร"]
+  },
+  {
+    "english": "foot",
+    "thai": ["เท้า"]
+  },
+  {
+    "english": "force",
+    "thai": ["แรง"]
+  },
+  {
+    "english": "forest",
+    "thai": ["ป่า"]
+  },
+  {
+    "english": "forget",
+    "thai": ["ลืม"]
+  },
+  {
+    "english": "fork",
+    "thai": ["ส้อม"]
+  },
+  {
+    "english": "fortune",
+    "thai": ["โชคลาภ"]
+  },
+  {
+    "english": "forum",
+    "thai": ["ฟอรัม"]
+  },
+  {
+    "english": "forward",
+    "thai": ["ไปข้างหน้า"]
+  },
+  {
+    "english": "fossil",
+    "thai": ["ฟอสซิล"]
+  },
+  {
+    "english": "foster",
+    "thai": ["ฟอสเตอร์"]
+  },
+  {
+    "english": "found",
+    "thai": ["พบ"]
+  },
+  {
+    "english": "fox",
+    "thai": ["สุนัขจิ้งจอก"]
+  },
+  {
+    "english": "fragile",
+    "thai": ["เปราะบาง"]
+  },
+  {
+    "english": "frame",
+    "thai": ["กรอบ"]
+  },
+  {
+    "english": "frequent",
+    "thai": ["บ่อย"]
+  },
+  {
+    "english": "fresh",
+    "thai": ["สด"]
+  },
+  {
+    "english": "friend",
+    "thai": ["เพื่อน"]
+  },
+  {
+    "english": "fringe",
+    "thai": ["ชายขอบ"]
+  },
+  {
+    "english": "frog",
+    "thai": ["กบ"]
+  },
+  {
+    "english": "front",
+    "thai": ["ด้านหน้า"]
+  },
+  {
+    "english": "frost",
+    "thai": ["น้ำค้างแข็ง"]
+  },
+  {
+    "english": "frown",
+    "thai": ["ขมวดคิ้ว"]
+  },
+  {
+    "english": "frozen",
+    "thai": ["แช่แข็ง"]
+  },
+  {
+    "english": "fruit",
+    "thai": ["ผลไม้"]
+  },
+  {
+    "english": "fuel",
+    "thai": ["เชื้อเพลิง"]
+  },
+  {
+    "english": "fun",
+    "thai": ["สนุก"]
+  },
+  {
+    "english": "funny",
+    "thai": ["ตลก"]
+  },
+  {
+    "english": "furnace",
+    "thai": ["เตาเผา"]
+  },
+  {
+    "english": "fury",
+    "thai": ["ความโกรธเกรี้ยว"]
+  },
+  {
+    "english": "future",
+    "thai": ["อนาคต"]
+  },
+  {
+    "english": "gadget",
+    "thai": ["แกดเจ็ต"]
+  },
+  {
+    "english": "gain",
+    "thai": ["กำไร"]
+  },
+  {
+    "english": "galaxy",
+    "thai": ["กาแล็กซี่"]
+  },
+  {
+    "english": "gallery",
+    "thai": ["แกลเลอรี"]
+  },
+  {
+    "english": "game",
+    "thai": ["เกม"]
+  },
+  {
+    "english": "gap",
+    "thai": ["ช่องว่าง"]
+  },
+  {
+    "english": "garage",
+    "thai": ["โรงรถ"]
+  },
+  {
+    "english": "garbage",
+    "thai": ["ขยะ"]
+  },
+  {
+    "english": "garden",
+    "thai": ["สวน"]
+  },
+  {
+    "english": "garlic",
+    "thai": ["กระเทียม"]
+  },
+  {
+    "english": "garment",
+    "thai": ["เสื้อผ้า"]
+  },
+  {
+    "english": "gas",
+    "thai": ["แก๊ส"]
+  },
+  {
+    "english": "gasp",
+    "thai": ["หอบหายใจ"]
+  },
+  {
+    "english": "gate",
+    "thai": ["ประตู"]
+  },
+  {
+    "english": "gather",
+    "thai": ["รวบรวม"]
+  },
+  {
+    "english": "gauge",
+    "thai": ["มาตรวัด"]
+  },
+  {
+    "english": "gaze",
+    "thai": ["จ้องมอง"]
+  },
+  {
+    "english": "general",
+    "thai": ["ทั่วไป"]
+  },
+  {
+    "english": "genius",
+    "thai": ["อัจฉริยะ"]
+  },
+  {
+    "english": "genre",
+    "thai": ["ประเภท"]
+  },
+  {
+    "english": "gentle",
+    "thai": ["อ่อนโยน"]
+  },
+  {
+    "english": "genuine",
+    "thai": ["แท้จริง"]
+  },
+  {
+    "english": "gesture",
+    "thai": ["ท่าทาง"]
+  },
+  {
+    "english": "ghost",
+    "thai": ["ผี"]
+  },
+  {
+    "english": "giant",
+    "thai": ["ยักษ์"]
+  },
+  {
+    "english": "gift",
+    "thai": ["ของขวัญ"]
+  },
+  {
+    "english": "giggle",
+    "thai": ["หัวเราะคิกคัก"]
+  },
+  {
+    "english": "ginger",
+    "thai": ["ขิง"]
+  },
+  {
+    "english": "giraffe",
+    "thai": ["ยีราฟ"]
+  },
+  {
+    "english": "girl",
+    "thai": ["เด็กผู้หญิง"]
+  },
+  {
+    "english": "give",
+    "thai": ["ให้"]
+  },
+  {
+    "english": "glad",
+    "thai": ["ดีใจ"]
+  },
+  {
+    "english": "glance",
+    "thai": ["เหลือบมอง"]
+  },
+  {
+    "english": "glare",
+    "thai": ["แสงจ้า"]
+  },
+  {
+    "english": "glass",
+    "thai": ["แก้ว"]
+  },
+  {
+    "english": "glide",
+    "thai": ["ร่อน"]
+  },
+  {
+    "english": "glimpse",
+    "thai": ["เหลือบมอง"]
+  },
+  {
+    "english": "globe",
+    "thai": ["โลก"]
+  },
+  {
+    "english": "gloom",
+    "thai": ["ความเศร้าโศก"]
+  },
+  {
+    "english": "glory",
+    "thai": ["ความรุ่งโรจน์"]
+  },
+  {
+    "english": "glove",
+    "thai": ["ถุงมือ"]
+  },
+  {
+    "english": "glow",
+    "thai": ["เรืองแสง"]
+  },
+  {
+    "english": "glue",
+    "thai": ["กาว"]
+  },
+  {
+    "english": "goat",
+    "thai": ["แพะ"]
+  },
+  {
+    "english": "goddess",
+    "thai": ["เทพธิดา"]
+  },
+  {
+    "english": "gold",
+    "thai": ["ทองคำ"]
+  },
+  {
+    "english": "good",
+    "thai": ["ดี"]
+  },
+  {
+    "english": "goose",
+    "thai": ["ห่าน"]
+  },
+  {
+    "english": "gorilla",
+    "thai": ["กอริลลา"]
+  },
+  {
+    "english": "gospel",
+    "thai": ["พระกิตติคุณ"]
+  },
+  {
+    "english": "gossip",
+    "thai": ["นินทา"]
+  },
+  {
+    "english": "govern",
+    "thai": ["ปกครอง"]
+  },
+  {
+    "english": "gown",
+    "thai": ["ชุดคลุม"]
+  },
+  {
+    "english": "grab",
+    "thai": ["คว้า"]
+  },
+  {
+    "english": "grace",
+    "thai": ["เกรซ"]
+  },
+  {
+    "english": "grain",
+    "thai": ["ธัญพืช"]
+  },
+  {
+    "english": "grant",
+    "thai": ["แกรนท์"]
+  },
+  {
+    "english": "grape",
+    "thai": ["องุ่น"]
+  },
+  {
+    "english": "grass",
+    "thai": ["หญ้า"]
+  },
+  {
+    "english": "gravity",
+    "thai": ["แรงโน้มถ่วง"]
+  },
+  {
+    "english": "great",
+    "thai": ["เยี่ยม"]
+  },
+  {
+    "english": "green",
+    "thai": ["สีเขียว"]
+  },
+  {
+    "english": "grid",
+    "thai": ["ตาราง"]
+  },
+  {
+    "english": "grief",
+    "thai": ["ความเศร้าโศก"]
+  },
+  {
+    "english": "grit",
+    "thai": ["กรวด"]
+  },
+  {
+    "english": "grocery",
+    "thai": ["ของชำ"]
+  },
+  {
+    "english": "group",
+    "thai": ["กลุ่ม"]
+  },
+  {
+    "english": "grow",
+    "thai": ["เติบโต"]
+  },
+  {
+    "english": "grunt",
+    "thai": ["คำราม"]
+  },
+  {
+    "english": "guard",
+    "thai": ["ยาม"]
+  },
+  {
+    "english": "guess",
+    "thai": ["เดา"]
+  },
+  {
+    "english": "guide",
+    "thai": ["คู่มือ"]
+  },
+  {
+    "english": "guilt",
+    "thai": ["ความรู้สึกผิด"]
+  },
+  {
+    "english": "guitar",
+    "thai": ["กีตาร์"]
+  },
+  {
+    "english": "gun",
+    "thai": ["ปืน"]
+  },
+  {
+    "english": "gym",
+    "thai": ["ยิม"]
+  },
+  {
+    "english": "habit",
+    "thai": ["นิสัย"]
+  },
+  {
+    "english": "hair",
+    "thai": ["ผม"]
+  },
+  {
+    "english": "half",
+    "thai": ["ครึ่ง"]
+  },
+  {
+    "english": "hammer",
+    "thai": ["ค้อน"]
+  },
+  {
+    "english": "hamster",
+    "thai": ["หนูแฮมสเตอร์"]
+  },
+  {
+    "english": "hand",
+    "thai": ["มือ"]
+  },
+  {
+    "english": "happy",
+    "thai": ["มีความสุข"]
+  },
+  {
+    "english": "harbor",
+    "thai": ["ท่าเรือ"]
+  },
+  {
+    "english": "hard",
+    "thai": ["แข็ง"]
+  },
+  {
+    "english": "harsh",
+    "thai": ["รุนแรง"]
+  },
+  {
+    "english": "harvest",
+    "thai": ["เก็บเกี่ยว"]
+  },
+  {
+    "english": "hat",
+    "thai": ["หมวก"]
+  },
+  {
+    "english": "have",
+    "thai": ["มี"]
+  },
+  {
+    "english": "hawk",
+    "thai": ["เหยี่ยว"]
+  },
+  {
+    "english": "hazard",
+    "thai": ["อันตราย"]
+  },
+  {
+    "english": "head",
+    "thai": ["หัว"]
+  },
+  {
+    "english": "health",
+    "thai": ["สุขภาพ"]
+  },
+  {
+    "english": "heart",
+    "thai": ["หัวใจ"]
+  },
+  {
+    "english": "heavy",
+    "thai": ["หนัก"]
+  },
+  {
+    "english": "hedgehog",
+    "thai": ["เม่น"]
+  },
+  {
+    "english": "height",
+    "thai": ["ความสูง"]
+  },
+  {
+    "english": "hello",
+    "thai": ["สวัสดี"]
+  },
+  {
+    "english": "helmet",
+    "thai": ["หมวกกันน็อค"]
+  },
+  {
+    "english": "help",
+    "thai": ["ช่วยเหลือ"]
+  },
+  {
+    "english": "hen",
+    "thai": ["ไก่"]
+  },
+  {
+    "english": "hero",
+    "thai": ["ฮีโร่"]
+  },
+  {
+    "english": "hidden",
+    "thai": ["ซ่อน"]
+  },
+  {
+    "english": "high",
+    "thai": ["สูง"]
+  },
+  {
+    "english": "hill",
+    "thai": ["เนินเขา"]
+  },
+  {
+    "english": "hint",
+    "thai": ["คำใบ้"]
+  },
+  {
+    "english": "hip",
+    "thai": ["สะโพก"]
+  },
+  {
+    "english": "hire",
+    "thai": ["จ้าง"]
+  },
+  {
+    "english": "history",
+    "thai": ["ประวัติศาสตร์"]
+  },
+  {
+    "english": "hobby",
+    "thai": ["งานอดิเรก"]
+  },
+  {
+    "english": "hockey",
+    "thai": ["ฮอกกี้"]
+  },
+  {
+    "english": "hold",
+    "thai": ["ถือ"]
+  },
+  {
+    "english": "hole",
+    "thai": ["หลุม"]
+  },
+  {
+    "english": "holiday",
+    "thai": ["วันหยุด"]
+  },
+  {
+    "english": "hollow",
+    "thai": ["กลวง"]
+  },
+  {
+    "english": "home",
+    "thai": ["บ้าน"]
+  },
+  {
+    "english": "honey",
+    "thai": ["ที่รัก"]
+  },
+  {
+    "english": "hood",
+    "thai": ["ฮู้ด"]
+  },
+  {
+    "english": "hope",
+    "thai": ["ความหวัง"]
+  },
+  {
+    "english": "horn",
+    "thai": ["เขา"]
+  },
+  {
+    "english": "horror",
+    "thai": ["สยองขวัญ"]
+  },
+  {
+    "english": "horse",
+    "thai": ["ม้า"]
+  },
+  {
+    "english": "hospital",
+    "thai": ["โรงพยาบาล"]
+  },
+  {
+    "english": "host",
+    "thai": ["เจ้าภาพ"]
+  },
+  {
+    "english": "hotel",
+    "thai": ["โรงแรม"]
+  },
+  {
+    "english": "hour",
+    "thai": ["ชั่วโมง"]
+  },
+  {
+    "english": "hover",
+    "thai": ["โฮเวอร์"]
+  },
+  {
+    "english": "hub",
+    "thai": ["ฮับ"]
+  },
+  {
+    "english": "huge",
+    "thai": ["ใหญ่โต"]
+  },
+  {
+    "english": "human",
+    "thai": ["มนุษย์"]
+  },
+  {
+    "english": "humble",
+    "thai": ["ถ่อมตน"]
+  },
+  {
+    "english": "humor",
+    "thai": ["อารมณ์ขัน"]
+  },
+  {
+    "english": "hundred",
+    "thai": ["ร้อย"]
+  },
+  {
+    "english": "hungry",
+    "thai": ["หิวโหย"]
+  },
+  {
+    "english": "hunt",
+    "thai": ["ล่า"]
+  },
+  {
+    "english": "hurdle",
+    "thai": ["อุปสรรค"]
+  },
+  {
+    "english": "hurry",
+    "thai": ["รีบร้อน"]
+  },
+  {
+    "english": "hurt",
+    "thai": ["เจ็บปวด"]
+  },
+  {
+    "english": "husband",
+    "thai": ["สามี"]
+  },
+  {
+    "english": "hybrid",
+    "thai": ["ลูกผสม"]
+  },
+  {
+    "english": "ice",
+    "thai": ["น้ำแข็ง"]
+  },
+  {
+    "english": "icon",
+    "thai": ["ไอคอน"]
+  },
+  {
+    "english": "idea",
+    "thai": ["ไอเดีย"]
+  },
+  {
+    "english": "identify",
+    "thai": ["ระบุ"]
+  },
+  {
+    "english": "idle",
+    "thai": ["ว่างงาน"]
+  },
+  {
+    "english": "ignore",
+    "thai": ["เพิกเฉย"]
+  },
+  {
+    "english": "ill",
+    "thai": ["ป่วย"]
+  },
+  {
+    "english": "illegal",
+    "thai": ["ผิดกฎหมาย"]
+  },
+  {
+    "english": "illness",
+    "thai": ["เจ็บป่วย"]
+  },
+  {
+    "english": "image",
+    "thai": ["ภาพ"]
+  },
+  {
+    "english": "imitate",
+    "thai": ["เลียนแบบ"]
+  },
+  {
+    "english": "immense",
+    "thai": ["มหาศาล"]
+  },
+  {
+    "english": "immune",
+    "thai": ["ภูมิคุ้มกัน"]
+  },
+  {
+    "english": "impact",
+    "thai": ["ผลกระทบ"]
+  },
+  {
+    "english": "impose",
+    "thai": ["กำหนด"]
+  },
+  {
+    "english": "improve",
+    "thai": ["ปรับปรุง"]
+  },
+  {
+    "english": "impulse",
+    "thai": ["แรงกระตุ้น"]
+  },
+  {
+    "english": "inch",
+    "thai": ["นิ้ว"]
+  },
+  {
+    "english": "include",
+    "thai": ["รวม"]
+  },
+  {
+    "english": "income",
+    "thai": ["รายได้"]
+  },
+  {
+    "english": "increase",
+    "thai": ["เพิ่ม"]
+  },
+  {
+    "english": "index",
+    "thai": ["ดัชนี"]
+  },
+  {
+    "english": "indicate",
+    "thai": ["บ่งชี้"]
+  },
+  {
+    "english": "indoor",
+    "thai": ["ในร่ม"]
+  },
+  {
+    "english": "industry",
+    "thai": ["อุตสาหกรรม"]
+  },
+  {
+    "english": "infant",
+    "thai": ["ทารก"]
+  },
+  {
+    "english": "inflict",
+    "thai": ["สร้างความเสียหาย"]
+  },
+  {
+    "english": "inform",
+    "thai": ["แจ้ง"]
+  },
+  {
+    "english": "inhale",
+    "thai": ["สูดดม"]
+  },
+  {
+    "english": "inherit",
+    "thai": ["สืบทอด"]
+  },
+  {
+    "english": "initial",
+    "thai": ["เริ่มต้น"]
+  },
+  {
+    "english": "inject",
+    "thai": ["ฉีด"]
+  },
+  {
+    "english": "injury",
+    "thai": ["บาดเจ็บ"]
+  },
+  {
+    "english": "inmate",
+    "thai": ["ผู้ต้องขัง"]
+  },
+  {
+    "english": "inner",
+    "thai": ["ภายใน"]
+  },
+  {
+    "english": "innocent",
+    "thai": ["ผู้บริสุทธิ์"]
+  },
+  {
+    "english": "input",
+    "thai": ["ข้อมูล"]
+  },
+  {
+    "english": "inquiry",
+    "thai": ["สอบถาม"]
+  },
+  {
+    "english": "insane",
+    "thai": ["วิกลจริต"]
+  },
+  {
+    "english": "insect",
+    "thai": ["แมลง"]
+  },
+  {
+    "english": "inside",
+    "thai": ["ภายใน"]
+  },
+  {
+    "english": "inspire",
+    "thai": ["สร้างแรงบันดาลใจ"]
+  },
+  {
+    "english": "install",
+    "thai": ["ติดตั้ง"]
+  },
+  {
+    "english": "intact",
+    "thai": ["สมบูรณ์"]
+  },
+  {
+    "english": "interest",
+    "thai": ["สนใจ"]
+  },
+  {
+    "english": "into",
+    "thai": ["เข้า"]
+  },
+  {
+    "english": "invest",
+    "thai": ["ลงทุน"]
+  },
+  {
+    "english": "invite",
+    "thai": ["เชิญ อี"]
+  },
+  {
+    "english": "involve",
+    "thai": ["เกี่ยวข้อง"]
+  },
+  {
+    "english": "iron",
+    "thai": ["ไอรอน"]
+  },
+  {
+    "english": "island",
+    "thai": ["ไอส์แลนด์"]
+  },
+  {
+    "english": "isolate",
+    "thai": ["ไอโซเลท"]
+  },
+  {
+    "english": "issue",
+    "thai": ["ปัญหา"]
+  },
+  {
+    "english": "item",
+    "thai": ["ไอเทม"]
+  },
+  {
+    "english": "ivory",
+    "thai": ["ไอวอรี่"]
+  },
+  {
+    "english": "jacket",
+    "thai": ["แจ็คเก็ต"]
+  },
+  {
+    "english": "jaguar",
+    "thai": ["จากัวร์"]
+  },
+  {
+    "english": "jar",
+    "thai": ["ขวด"]
+  },
+  {
+    "english": "jazz",
+    "thai": ["แจ๊ส"]
+  },
+  {
+    "english": "jealous",
+    "thai": ["อิจฉา"]
+  },
+  {
+    "english": "jeans",
+    "thai": ["กางเกงยีนส์"]
+  },
+  {
+    "english": "jelly",
+    "thai": ["เยลลี่"]
+  },
+  {
+    "english": "jewel",
+    "thai": ["อัญมณี"]
+  },
+  {
+    "english": "job",
+    "thai": ["งาน"]
+  },
+  {
+    "english": "join",
+    "thai": ["เข้าร่วม"]
+  },
+  {
+    "english": "joke",
+    "thai": ["เรื่องตลก"]
+  },
+  {
+    "english": "journey",
+    "thai": ["การเดินทาง"]
+  },
+  {
+    "english": "joy",
+    "thai": ["จอย"]
+  },
+  {
+    "english": "judge",
+    "thai": ["ตัดสิน"]
+  },
+  {
+    "english": "juice",
+    "thai": ["น้ำผลไม้"]
+  },
+  {
+    "english": "jump",
+    "thai": ["กระโดด"]
+  },
+  {
+    "english": "jungle",
+    "thai": ["จังเกิล"]
+  },
+  {
+    "english": "junior",
+    "thai": ["จูเนียร์"]
+  },
+  {
+    "english": "junk",
+    "thai": ["ขยะ"]
+  },
+  {
+    "english": "just",
+    "thai": ["แค่"]
+  },
+  {
+    "english": "kangaroo",
+    "thai": ["จิงโจ้"]
+  },
+  {
+    "english": "keen",
+    "thai": ["กระตือรือร้น"]
+  },
+  {
+    "english": "keep",
+    "thai": ["เก็บ"]
+  },
+  {
+    "english": "ketchup",
+    "thai": ["ซอสมะเขือเทศ"]
+  },
+  {
+    "english": "key",
+    "thai": ["กุญแจ"]
+  },
+  {
+    "english": "kick",
+    "thai": ["เตะ"]
+  },
+  {
+    "english": "kid",
+    "thai": ["เด็ก"]
+  },
+  {
+    "english": "kidney",
+    "thai": ["ไต"]
+  },
+  {
+    "english": "kind",
+    "thai": ["ชนิด"]
+  },
+  {
+    "english": "kingdom",
+    "thai": ["อาณาจักร"]
+  },
+  {
+    "english": "kiss",
+    "thai": ["จูบ"]
+  },
+  {
+    "english": "kit",
+    "thai": ["ชุดอุปกรณ์"]
+  },
+  {
+    "english": "kitchen",
+    "thai": ["ครัว"]
+  },
+  {
+    "english": "kite",
+    "thai": ["ว่าว"]
+  },
+  {
+    "english": "kitten",
+    "thai": ["ลูกแมว"]
+  },
+  {
+    "english": "kiwi",
+    "thai": ["กีวี"]
+  },
+  {
+    "english": "knee",
+    "thai": ["เข่า"]
+  },
+  {
+    "english": "knife",
+    "thai": ["มีด"]
+  },
+  {
+    "english": "knock",
+    "thai": ["เคาะ"]
+  },
+  {
+    "english": "know",
+    "thai": ["รู้"]
+  },
+  {
+    "english": "lab",
+    "thai": ["แล็บ"]
+  },
+  {
+    "english": "label",
+    "thai": ["ฉลาก"]
+  },
+  {
+    "english": "labor",
+    "thai": ["แรงงาน"]
+  },
+  {
+    "english": "ladder",
+    "thai": ["บันได"]
+  },
+  {
+    "english": "lady",
+    "thai": ["เลดี้"]
+  },
+  {
+    "english": "lake",
+    "thai": ["ทะเลสาบ"]
+  },
+  {
+    "english": "lamp",
+    "thai": ["โคมไฟ"]
+  },
+  {
+    "english": "language",
+    "thai": ["ภาษา"]
+  },
+  {
+    "english": "laptop",
+    "thai": ["แล็ปท็อป"]
+  },
+  {
+    "english": "large",
+    "thai": ["ใหญ่"]
+  },
+  {
+    "english": "later",
+    "thai": ["ต่อมา"]
+  },
+  {
+    "english": "latin",
+    "thai": ["ละติน"]
+  },
+  {
+    "english": "laugh",
+    "thai": ["หัวเราะ"]
+  },
+  {
+    "english": "laundry",
+    "thai": ["ซักรีด"]
+  },
+  {
+    "english": "lava",
+    "thai": ["ลาวา"]
+  },
+  {
+    "english": "law",
+    "thai": ["กฎหมาย"]
+  },
+  {
+    "english": "lawn",
+    "thai": ["สนามหญ้า"]
+  },
+  {
+    "english": "lawsuit",
+    "thai": ["คดีความ"]
+  },
+  {
+    "english": "layer",
+    "thai": ["เลเยอร์"]
+  },
+  {
+    "english": "lazy",
+    "thai": ["ขี้เกียจ"]
+  },
+  {
+    "english": "leader",
+    "thai": ["ผู้นำ"]
+  },
+  {
+    "english": "leaf",
+    "thai": ["ใบไม้"]
+  },
+  {
+    "english": "learn",
+    "thai": ["เรียนรู้"]
+  },
+  {
+    "english": "leave",
+    "thai": ["ออกจาก"]
+  },
+  {
+    "english": "lecture",
+    "thai": ["บรรยาย"]
+  },
+  {
+    "english": "left",
+    "thai": ["ซ้าย"]
+  },
+  {
+    "english": "leg",
+    "thai": ["ขา"]
+  },
+  {
+    "english": "legal",
+    "thai": ["กฎหมาย"]
+  },
+  {
+    "english": "legend",
+    "thai": ["ตำนาน"]
+  },
+  {
+    "english": "leisure",
+    "thai": ["เวลาว่าง"]
+  },
+  {
+    "english": "lemon",
+    "thai": ["มะนาว"]
+  },
+  {
+    "english": "lend",
+    "thai": ["ยืม"]
+  },
+  {
+    "english": "length",
+    "thai": ["ความยาว"]
+  },
+  {
+    "english": "lens",
+    "thai": ["เลนส์"]
+  },
+  {
+    "english": "leopard",
+    "thai": ["เสือดาว"]
+  },
+  {
+    "english": "lesson",
+    "thai": ["บทเรียน"]
+  },
+  {
+    "english": "letter",
+    "thai": ["จดหมาย"]
+  },
+  {
+    "english": "level",
+    "thai": ["ระดับ"]
+  },
+  {
+    "english": "liar",
+    "thai": ["คนโกหก"]
+  },
+  {
+    "english": "liberty",
+    "thai": ["เสรีภาพ"]
+  },
+  {
+    "english": "library",
+    "thai": ["ห้องสมุด"]
+  },
+  {
+    "english": "license",
+    "thai": ["ใบอนุญาต"]
+  },
+  {
+    "english": "life",
+    "thai": ["ชีวิต"]
+  },
+  {
+    "english": "lift",
+    "thai": ["ยก"]
+  },
+  {
+    "english": "light",
+    "thai": ["แสง"]
+  },
+  {
+    "english": "like",
+    "thai": ["เหมือน"]
+  },
+  {
+    "english": "limb",
+    "thai": ["แขนขา"]
+  },
+  {
+    "english": "limit",
+    "thai": ["ขีดจำกัด"]
+  },
+  {
+    "english": "link",
+    "thai": ["ลิงก์"]
+  },
+  {
+    "english": "lion",
+    "thai": ["สิงโต"]
+  },
+  {
+    "english": "liquid",
+    "thai": ["ของเหลว"]
+  },
+  {
+    "english": "list",
+    "thai": ["รายการ"]
+  },
+  {
+    "english": "little",
+    "thai": ["น้อย"]
+  },
+  {
+    "english": "live",
+    "thai": ["มีชีวิต"]
+  },
+  {
+    "english": "lizard",
+    "thai": ["จิ้งจก"]
+  },
+  {
+    "english": "load",
+    "thai": ["โหลด"]
+  },
+  {
+    "english": "loan",
+    "thai": ["เงินกู้"]
+  },
+  {
+    "english": "lobster",
+    "thai": ["กุ้งล็อบสเตอร์"]
+  },
+  {
+    "english": "local",
+    "thai": ["ท้องถิ่น"]
+  },
+  {
+    "english": "lock",
+    "thai": ["ล็อค"]
+  },
+  {
+    "english": "logic",
+    "thai": ["ตรรกะ"]
+  },
+  {
+    "english": "lonely",
+    "thai": ["เหงา"]
+  },
+  {
+    "english": "long",
+    "thai": ["ยาว"]
+  },
+  {
+    "english": "loop",
+    "thai": ["วนซ้ำ"]
+  },
+  {
+    "english": "lottery",
+    "thai": ["ลอตเตอรี่"]
+  },
+  {
+    "english": "loud",
+    "thai": ["ดัง"]
+  },
+  {
+    "english": "lounge",
+    "thai": ["เลานจ์"]
+  },
+  {
+    "english": "love",
+    "thai": ["รัก"]
+  },
+  {
+    "english": "loyal",
+    "thai": ["ภักดี"]
+  },
+  {
+    "english": "lucky",
+    "thai": ["โชคดี"]
+  },
+  {
+    "english": "luggage",
+    "thai": ["กระเป๋าเดินทาง"]
+  },
+  {
+    "english": "lumber",
+    "thai": ["ไม้แปรรูป"]
+  },
+  {
+    "english": "lunar",
+    "thai": ["ดวงจันทร์"]
+  },
+  {
+    "english": "lunch",
+    "thai": ["อาหารกลางวัน"]
+  },
+  {
+    "english": "luxury",
+    "thai": ["หรูหรา"]
+  },
+  {
+    "english": "lyrics",
+    "thai": ["เนื้อเพลง"]
+  },
+  {
+    "english": "machine",
+    "thai": ["เครื่องจักร"]
+  },
+  {
+    "english": "mad",
+    "thai": ["บ้า"]
+  },
+  {
+    "english": "magic",
+    "thai": ["เวทมนตร์"]
+  },
+  {
+    "english": "magnet",
+    "thai": ["แม่เหล็ก"]
+  },
+  {
+    "english": "maid",
+    "thai": ["แม่บ้าน"]
+  },
+  {
+    "english": "mail",
+    "thai": ["จดหมาย"]
+  },
+  {
+    "english": "main",
+    "thai": ["หลัก"]
+  },
+  {
+    "english": "major",
+    "thai": ["สำคัญ"]
+  },
+  {
+    "english": "make",
+    "thai": ["ทำ"]
+  },
+  {
+    "english": "mammal",
+    "thai": ["สัตว์เลี้ยงลูกด้วยนม"]
+  },
+  {
+    "english": "man",
+    "thai": ["ผู้ชาย"]
   },
   {
     "english": "manage",
-    "thai": ["จัดการ", "บริหาร", "ดูแล"]
+    "thai": ["จัดการ"]
+  },
+  {
+    "english": "mandate",
+    "thai": ["คำสั่ง"]
+  },
+  {
+    "english": "mango",
+    "thai": ["มะม่วง"]
+  },
+  {
+    "english": "mansion",
+    "thai": ["คฤหาสน์"]
+  },
+  {
+    "english": "manual",
+    "thai": ["คู่มือ"]
+  },
+  {
+    "english": "maple",
+    "thai": ["เมเปิล"]
+  },
+  {
+    "english": "marble",
+    "thai": ["หินอ่อน"]
+  },
+  {
+    "english": "march",
+    "thai": ["มีนาคม"]
+  },
+  {
+    "english": "margin",
+    "thai": ["มาร์จิ้น"]
+  },
+  {
+    "english": "marine",
+    "thai": ["ตลาดทางทะเล"]
+  },
+  {
+    "english": "market",
+    "thai": ["การแต่งงาน"]
+  },
+  {
+    "english": "marriage",
+    "thai": ["หน้ากาก"]
+  },
+  {
+    "english": "mask",
+    "thai": ["มวล"]
+  },
+  {
+    "english": "mass",
+    "thai": ["มาสเตอร์"]
+  },
+  {
+    "english": "master",
+    "thai": ["จับคู่"]
+  },
+  {
+    "english": "match",
+    "thai": ["วัสดุ"]
+  },
+  {
+    "english": "material",
+    "thai": ["คณิตศาสตร์"]
+  },
+  {
+    "english": "math",
+    "thai": ["เมทริกซ์"]
+  },
+  {
+    "english": "matrix",
+    "thai": ["สสาร"]
+  },
+  {
+    "english": "matter",
+    "thai": ["สูงสุด"]
+  },
+  {
+    "english": "maximum",
+    "thai": ["สูงสุด"]
+  },
+  {
+    "english": "maze",
+    "thai": ["เขาวงกต"]
+  },
+  {
+    "english": "meadow",
+    "thai": ["ทุ่งหญ้า"]
+  },
+  {
+    "english": "mean",
+    "thai": ["ค่าเฉลี่ย"]
+  },
+  {
+    "english": "measure",
+    "thai": ["การวัด"]
+  },
+  {
+    "english": "meat",
+    "thai": ["เนื้อ"]
+  },
+  {
+    "english": "mechanic",
+    "thai": ["กลไก"]
+  },
+  {
+    "english": "medal",
+    "thai": ["เหรียญ"]
+  },
+  {
+    "english": "media",
+    "thai": ["สื่อ"]
+  },
+  {
+    "english": "melody",
+    "thai": ["ทำนอง"]
+  },
+  {
+    "english": "melt",
+    "thai": ["ละลาย"]
+  },
+  {
+    "english": "member",
+    "thai": ["สมาชิก"]
+  },
+  {
+    "english": "memory",
+    "thai": ["ความทรงจำ"]
+  },
+  {
+    "english": "mention",
+    "thai": ["การกล่าวถึง"]
+  },
+  {
+    "english": "menu",
+    "thai": ["เมนู"]
+  },
+  {
+    "english": "mercy",
+    "thai": ["ความเมตตา"]
+  },
+  {
+    "english": "merge",
+    "thai": ["ผสาน"]
+  },
+  {
+    "english": "merit",
+    "thai": ["คุณธรรม"]
+  },
+  {
+    "english": "merry",
+    "thai": ["ร่าเริง"]
+  },
+  {
+    "english": "mesh",
+    "thai": ["ตาข่าย"]
+  },
+  {
+    "english": "message",
+    "thai": ["ข้อความ"]
+  },
+  {
+    "english": "metal",
+    "thai": ["โลหะ"]
+  },
+  {
+    "english": "method",
+    "thai": ["วิธีการ"]
+  },
+  {
+    "english": "middle",
+    "thai": ["กลาง"]
+  },
+  {
+    "english": "midnight",
+    "thai": ["เที่ยงคืน"]
+  },
+  {
+    "english": "milk",
+    "thai": ["นม"]
+  },
+  {
+    "english": "million",
+    "thai": ["ล้าน"]
+  },
+  {
+    "english": "mimic",
+    "thai": ["เลียนแบบ"]
+  },
+  {
+    "english": "mind",
+    "thai": ["จิตใจ"]
+  },
+  {
+    "english": "minimum",
+    "thai": ["ขั้นต่ำ"]
+  },
+  {
+    "english": "minor",
+    "thai": ["เล็กน้อย"]
+  },
+  {
+    "english": "minute",
+    "thai": ["นาที"]
+  },
+  {
+    "english": "miracle",
+    "thai": ["ปาฏิหาริย์"]
+  },
+  {
+    "english": "mirror",
+    "thai": ["กระจก"]
+  },
+  {
+    "english": "misery",
+    "thai": ["ความทุกข์ยาก"]
+  },
+  {
+    "english": "miss",
+    "thai": ["พลาด"]
+  },
+  {
+    "english": "mistake",
+    "thai": ["ความผิดพลาด"]
+  },
+  {
+    "english": "mix",
+    "thai": ["ผสม"]
+  },
+  {
+    "english": "mixed",
+    "thai": ["ผสม"]
+  },
+  {
+    "english": "mixture",
+    "thai": ["ผสม"]
+  },
+  {
+    "english": "mobile",
+    "thai": ["มือถือ"]
+  },
+  {
+    "english": "model",
+    "thai": ["รุ่น"]
+  },
+  {
+    "english": "modify",
+    "thai": ["แก้ไข"]
+  },
+  {
+    "english": "mom",
+    "thai": ["แม่"]
+  },
+  {
+    "english": "moment",
+    "thai": ["ช่วงเวลา"]
+  },
+  {
+    "english": "monitor",
+    "thai": ["จอภาพ"]
+  },
+  {
+    "english": "monkey",
+    "thai": ["ลิง"]
+  },
+  {
+    "english": "monster",
+    "thai": ["สัตว์ประหลาด"]
+  },
+  {
+    "english": "month",
+    "thai": ["เดือน"]
+  },
+  {
+    "english": "moon",
+    "thai": ["ดวงจันทร์"]
+  },
+  {
+    "english": "moral",
+    "thai": ["ศีลธรรม"]
+  },
+  {
+    "english": "more",
+    "thai": ["เพิ่มเติม"]
+  },
+  {
+    "english": "morning",
+    "thai": ["เช้า"]
+  },
+  {
+    "english": "mosquito",
+    "thai": ["ยุง"]
+  },
+  {
+    "english": "mother",
+    "thai": ["แม่"]
+  },
+  {
+    "english": "motion",
+    "thai": ["การเคลื่อนไหว"]
+  },
+  {
+    "english": "motor",
+    "thai": ["มอเตอร์"]
+  },
+  {
+    "english": "mountain",
+    "thai": ["ภูเขา"]
+  },
+  {
+    "english": "mouse",
+    "thai": ["หนู"]
+  },
+  {
+    "english": "move",
+    "thai": ["เคลื่อนไหว"]
+  },
+  {
+    "english": "movie",
+    "thai": ["ภาพยนตร์"]
+  },
+  {
+    "english": "much",
+    "thai": ["มาก"]
+  },
+  {
+    "english": "muffin",
+    "thai": ["มัฟฟิน"]
+  },
+  {
+    "english": "mule",
+    "thai": ["ล่อ"]
+  },
+  {
+    "english": "multiply",
+    "thai": ["ทวีคูณ"]
+  },
+  {
+    "english": "muscle",
+    "thai": ["กล้ามเนื้อ"]
+  },
+  {
+    "english": "museum",
+    "thai": ["พิพิธภัณฑ์"]
+  },
+  {
+    "english": "mushroom",
+    "thai": ["เห็ด"]
+  },
+  {
+    "english": "music",
+    "thai": ["ดนตรี"]
+  },
+  {
+    "english": "must",
+    "thai": ["ต้อง"]
+  },
+  {
+    "english": "mutual",
+    "thai": ["ร่วมกัน"]
+  },
+  {
+    "english": "myself",
+    "thai": ["ตัวเอง"]
+  },
+  {
+    "english": "mystery",
+    "thai": ["ปริศนา"]
+  },
+  {
+    "english": "myth",
+    "thai": ["ตำนาน"]
+  },
+  {
+    "english": "naive",
+    "thai": ["ไร้เดียงสา"]
+  },
+  {
+    "english": "name",
+    "thai": ["ชื่อ"]
+  },
+  {
+    "english": "napkin",
+    "thai": ["ผ้าเช็ดปาก"]
+  },
+  {
+    "english": "narrow",
+    "thai": ["แคบ"]
+  },
+  {
+    "english": "nasty",
+    "thai": ["น่ารังเกียจ"]
+  },
+  {
+    "english": "nation",
+    "thai": ["ประเทศ"]
+  },
+  {
+    "english": "nature",
+    "thai": ["ธรรมชาติ"]
+  },
+  {
+    "english": "near",
+    "thai": ["ใกล้"]
+  },
+  {
+    "english": "neck",
+    "thai": ["คอ"]
+  },
+  {
+    "english": "need",
+    "thai": ["ต้องการ"]
+  },
+  {
+    "english": "negative",
+    "thai": ["เชิงลบ"]
+  },
+  {
+    "english": "neglect",
+    "thai": ["ละเลย"]
+  },
+  {
+    "english": "neither",
+    "thai": ["ไม่ทั้งสองอย่าง"]
+  },
+  {
+    "english": "nephew",
+    "thai": ["หลานชาย"]
+  },
+  {
+    "english": "nerve",
+    "thai": ["เส้นประสาท"]
+  },
+  {
+    "english": "nest",
+    "thai": ["รัง"]
+  },
+  {
+    "english": "net",
+    "thai": ["เน็ต"]
+  },
+  {
+    "english": "network",
+    "thai": ["เครือข่าย"]
+  },
+  {
+    "english": "neutral",
+    "thai": ["เป็นกลาง"]
+  },
+  {
+    "english": "never",
+    "thai": ["ไม่เคย"]
+  },
+  {
+    "english": "news",
+    "thai": ["ข่าว"]
+  },
+  {
+    "english": "next",
+    "thai": ["ต่อไป"]
+  },
+  {
+    "english": "nice",
+    "thai": ["ราตรีสวัสดิ์"]
+  },
+  {
+    "english": "night",
+    "thai": ["โนเบิล"]
+  },
+  {
+    "english": "noble",
+    "thai": ["เสียงรบกวน"]
+  },
+  {
+    "english": "noise",
+    "thai": ["ผู้ได้รับการเสนอชื่อ"]
+  },
+  {
+    "english": "nominee",
+    "thai": ["บะหมี่"]
+  },
+  {
+    "english": "noodle",
+    "thai": ["ปกติ"]
+  },
+  {
+    "english": "normal",
+    "thai": ["ปกติ"]
+  },
+  {
+    "english": "north",
+    "thai": ["เหนือ"]
+  },
+  {
+    "english": "nose",
+    "thai": ["จมูก"]
+  },
+  {
+    "english": "notable",
+    "thai": ["น่าสังเกต"]
+  },
+  {
+    "english": "note",
+    "thai": ["หมายเหตุ"]
+  },
+  {
+    "english": "nothing",
+    "thai": ["ไม่มีอะไร"]
+  },
+  {
+    "english": "notice",
+    "thai": ["แจ้งให้ทราบ"]
+  },
+  {
+    "english": "novel",
+    "thai": ["นวนิยาย"]
+  },
+  {
+    "english": "now",
+    "thai": ["ตอนนี้"]
+  },
+  {
+    "english": "nuclear",
+    "thai": ["นิวเคลียร์"]
+  },
+  {
+    "english": "number",
+    "thai": ["หมายเลข"]
+  },
+  {
+    "english": "nurse",
+    "thai": ["พยาบาล"]
+  },
+  {
+    "english": "nut",
+    "thai": ["ถั่ว"]
+  },
+  {
+    "english": "oak",
+    "thai": ["ต้นโอ๊ก"]
+  },
+  {
+    "english": "obey",
+    "thai": ["เชื่อฟัง"]
+  },
+  {
+    "english": "object",
+    "thai": ["วัตถุ"]
+  },
+  {
+    "english": "oblige",
+    "thai": ["บังคับ"]
+  },
+  {
+    "english": "obscure",
+    "thai": ["คลุมเครือ"]
+  },
+  {
+    "english": "observe",
+    "thai": ["สังเกต"]
+  },
+  {
+    "english": "obtain",
+    "thai": ["ได้รับ"]
+  },
+  {
+    "english": "obvious",
+    "thai": ["ชัดเจน"]
+  },
+  {
+    "english": "occur",
+    "thai": ["เกิดขึ้น"]
+  },
+  {
+    "english": "ocean",
+    "thai": ["มหาสมุทร"]
+  },
+  {
+    "english": "october",
+    "thai": ["ตุลาคม"]
+  },
+  {
+    "english": "odor",
+    "thai": ["กลิ่น"]
+  },
+  {
+    "english": "off",
+    "thai": ["ปิด"]
+  },
+  {
+    "english": "offer",
+    "thai": ["ข้อเสนอ"]
+  },
+  {
+    "english": "office",
+    "thai": ["สำนักงาน"]
+  },
+  {
+    "english": "often",
+    "thai": ["บ่อยครั้ง"]
+  },
+  {
+    "english": "oil",
+    "thai": ["น้ำมัน"]
+  },
+  {
+    "english": "okay",
+    "thai": ["โอเค"]
+  },
+  {
+    "english": "old",
+    "thai": ["เก่า"]
+  },
+  {
+    "english": "olive",
+    "thai": ["มะกอก"]
+  },
+  {
+    "english": "olympic",
+    "thai": ["โอลิมปิก"]
+  },
+  {
+    "english": "omit",
+    "thai": ["ละเว้น"]
+  },
+  {
+    "english": "once",
+    "thai": ["ครั้งหนึ่ง"]
+  },
+  {
+    "english": "one",
+    "thai": ["หนึ่ง"]
+  },
+  {
+    "english": "onion",
+    "thai": ["หัวหอม"]
+  },
+  {
+    "english": "online",
+    "thai": ["ออนไลน์"]
+  },
+  {
+    "english": "only",
+    "thai": ["เฉพาะ"]
+  },
+  {
+    "english": "open",
+    "thai": ["เปิด"]
+  },
+  {
+    "english": "opera",
+    "thai": ["โอเปร่า"]
+  },
+  {
+    "english": "opinion",
+    "thai": ["ความคิดเห็น"]
+  },
+  {
+    "english": "oppose",
+    "thai": ["คัดค้าน"]
+  },
+  {
+    "english": "option",
+    "thai": ["ตัวเลือก"]
+  },
+  {
+    "english": "orange",
+    "thai": ["ส้ม"]
+  },
+  {
+    "english": "orbit",
+    "thai": ["วงโคจร"]
+  },
+  {
+    "english": "orchard",
+    "thai": ["สวนผลไม้"]
+  },
+  {
+    "english": "order",
+    "thai": ["คำสั่ง"]
+  },
+  {
+    "english": "ordinary",
+    "thai": ["ธรรมดา"]
+  },
+  {
+    "english": "organ",
+    "thai": ["อวัยวะ"]
+  },
+  {
+    "english": "orient",
+    "thai": ["วางแนว"]
+  },
+  {
+    "english": "original",
+    "thai": ["ดั้งเดิม"]
+  },
+  {
+    "english": "orphan",
+    "thai": ["กำพร้า"]
+  },
+  {
+    "english": "ostrich",
+    "thai": ["นกกระจอกเทศ"]
+  },
+  {
+    "english": "other",
+    "thai": ["อื่นๆ"]
+  },
+  {
+    "english": "outdoor",
+    "thai": ["กลางแจ้ง"]
+  },
+  {
+    "english": "outer",
+    "thai": ["ด้านนอก"]
+  },
+  {
+    "english": "output",
+    "thai": ["เอาต์พุต"]
+  },
+  {
+    "english": "outside",
+    "thai": ["ด้านนอก"]
+  },
+  {
+    "english": "oval",
+    "thai": ["รูปไข่"]
+  },
+  {
+    "english": "oven",
+    "thai": ["เตาอบ"]
+  },
+  {
+    "english": "over",
+    "thai": ["เหนือ"]
+  },
+  {
+    "english": "own",
+    "thai": ["ของตัวเอง"]
+  },
+  {
+    "english": "owner",
+    "thai": ["เจ้าของ"]
+  },
+  {
+    "english": "oxygen",
+    "thai": ["ออกซิเจน"]
+  },
+  {
+    "english": "oyster",
+    "thai": ["หอยนางรม"]
+  },
+  {
+    "english": "ozone",
+    "thai": ["โอโซน"]
+  },
+  {
+    "english": "pact",
+    "thai": ["ข้อตกลง"]
+  },
+  {
+    "english": "paddle",
+    "thai": ["พาย"]
+  },
+  {
+    "english": "page",
+    "thai": ["หน้า"]
+  },
+  {
+    "english": "pair",
+    "thai": ["คู่"]
+  },
+  {
+    "english": "palace",
+    "thai": ["พระราชวัง"]
+  },
+  {
+    "english": "palm",
+    "thai": ["ปาล์ม"]
+  },
+  {
+    "english": "panda",
+    "thai": ["แพนด้า"]
+  },
+  {
+    "english": "panel",
+    "thai": ["แผง"]
+  },
+  {
+    "english": "panic",
+    "thai": ["ตื่นตระหนก"]
+  },
+  {
+    "english": "panther",
+    "thai": ["เสือดำ"]
+  },
+  {
+    "english": "paper",
+    "thai": ["กระดาษ"]
+  },
+  {
+    "english": "parade",
+    "thai": ["ขบวนพาเหรด"]
+  },
+  {
+    "english": "parent",
+    "thai": ["ผู้ปกครอง"]
+  },
+  {
+    "english": "park",
+    "thai": ["สวนสาธารณะ"]
+  },
+  {
+    "english": "parrot",
+    "thai": ["นกแก้ว"]
+  },
+  {
+    "english": "party",
+    "thai": ["ปาร์ตี้"]
+  },
+  {
+    "english": "pass",
+    "thai": ["ผ่าน"]
+  },
+  {
+    "english": "patch",
+    "thai": ["แพทช์"]
+  },
+  {
+    "english": "path",
+    "thai": ["เส้นทาง"]
+  },
+  {
+    "english": "patient",
+    "thai": ["ผู้ป่วย"]
+  },
+  {
+    "english": "patrol",
+    "thai": ["ลาดตระเวน"]
+  },
+  {
+    "english": "pattern",
+    "thai": ["รูปแบบ"]
+  },
+  {
+    "english": "pause",
+    "thai": ["หยุดชั่วคราว"]
+  },
+  {
+    "english": "pave",
+    "thai": ["ปูทาง"]
+  },
+  {
+    "english": "payment",
+    "thai": ["การชำระเงิน"]
+  },
+  {
+    "english": "peace",
+    "thai": ["สันติภาพ"]
+  },
+  {
+    "english": "peanut",
+    "thai": ["ถั่วลิสง"]
+  },
+  {
+    "english": "pear",
+    "thai": ["ลูกแพร์"]
+  },
+  {
+    "english": "peasant",
+    "thai": ["ชาวนา"]
+  },
+  {
+    "english": "pelican",
+    "thai": ["นกกระทุง"]
+  },
+  {
+    "english": "pen",
+    "thai": ["ปากกา"]
+  },
+  {
+    "english": "penalty",
+    "thai": ["โทษ"]
+  },
+  {
+    "english": "pencil",
+    "thai": ["ดินสอ"]
+  },
+  {
+    "english": "people",
+    "thai": ["คน"]
+  },
+  {
+    "english": "pepper",
+    "thai": ["พริกไทย"]
+  },
+  {
+    "english": "perfect",
+    "thai": ["สมบูรณ์แบบ"]
+  },
+  {
+    "english": "permit",
+    "thai": ["ใบอนุญาต"]
+  },
+  {
+    "english": "person",
+    "thai": ["บุคคล"]
+  },
+  {
+    "english": "pet",
+    "thai": ["สัตว์เลี้ยง"]
+  },
+  {
+    "english": "phone",
+    "thai": ["โทรศัพท์"]
+  },
+  {
+    "english": "photo",
+    "thai": ["ภาพถ่าย"]
+  },
+  {
+    "english": "phrase",
+    "thai": ["วลี"]
+  },
+  {
+    "english": "physical",
+    "thai": ["ทางกายภาพ"]
+  },
+  {
+    "english": "piano",
+    "thai": ["เปียโน"]
+  },
+  {
+    "english": "picnic",
+    "thai": ["ปิกนิก"]
+  },
+  {
+    "english": "picture",
+    "thai": ["รูปภาพ"]
+  },
+  {
+    "english": "piece",
+    "thai": ["ชิ้นส่วน"]
+  },
+  {
+    "english": "pig",
+    "thai": ["หมู"]
+  },
+  {
+    "english": "pigeon",
+    "thai": ["นกพิราบ"]
+  },
+  {
+    "english": "pill",
+    "thai": ["ยาเม็ด"]
+  },
+  {
+    "english": "pilot",
+    "thai": ["นักบิน"]
+  },
+  {
+    "english": "pink",
+    "thai": ["สีชมพู"]
+  },
+  {
+    "english": "pioneer",
+    "thai": ["ผู้บุกเบิก"]
+  },
+  {
+    "english": "pipe",
+    "thai": ["ท่อ"]
+  },
+  {
+    "english": "pistol",
+    "thai": ["ปืนพก"]
+  },
+  {
+    "english": "pitch",
+    "thai": ["สนาม"]
+  },
+  {
+    "english": "pizza",
+    "thai": ["พิซซ่า"]
+  },
+  {
+    "english": "place",
+    "thai": ["สถานที่"]
+  },
+  {
+    "english": "planet",
+    "thai": ["ดาวเคราะห์"]
+  },
+  {
+    "english": "plastic",
+    "thai": ["พลาสติก"]
+  },
+  {
+    "english": "plate",
+    "thai": ["จาน"]
+  },
+  {
+    "english": "play",
+    "thai": ["เล่น"]
+  },
+  {
+    "english": "please",
+    "thai": ["กรุณา"]
+  },
+  {
+    "english": "pledge",
+    "thai": ["คำมั่นสัญญา"]
+  },
+  {
+    "english": "pluck",
+    "thai": ["ถอน"]
+  },
+  {
+    "english": "plug",
+    "thai": ["ปลั๊ก"]
+  },
+  {
+    "english": "plunge",
+    "thai": ["กระโดด"]
+  },
+  {
+    "english": "poem",
+    "thai": ["บทกวี"]
+  },
+  {
+    "english": "poet",
+    "thai": ["กวี"]
+  },
+  {
+    "english": "point",
+    "thai": ["จุด"]
+  },
+  {
+    "english": "polar",
+    "thai": ["ขั้วโลก"]
+  },
+  {
+    "english": "pole",
+    "thai": ["เสา"]
+  },
+  {
+    "english": "police",
+    "thai": ["ตำรวจ"]
+  },
+  {
+    "english": "pond",
+    "thai": ["บ่อ"]
+  },
+  {
+    "english": "pony",
+    "thai": ["ม้า"]
+  },
+  {
+    "english": "pool",
+    "thai": ["สระ"]
+  },
+  {
+    "english": "popular",
+    "thai": ["ยอดนิยม"]
+  },
+  {
+    "english": "portion",
+    "thai": ["ส่วน"]
+  },
+  {
+    "english": "position",
+    "thai": ["ตำแหน่ง"]
+  },
+  {
+    "english": "possible",
+    "thai": ["เป็นไปได้"]
+  },
+  {
+    "english": "post",
+    "thai": ["โพสต์"]
+  },
+  {
+    "english": "potato",
+    "thai": ["มันฝรั่ง"]
+  },
+  {
+    "english": "pottery",
+    "thai": ["เครื่องปั้นดินเผา"]
+  },
+  {
+    "english": "poverty",
+    "thai": ["ความยากจน"]
+  },
+  {
+    "english": "powder",
+    "thai": ["ผง"]
+  },
+  {
+    "english": "power",
+    "thai": ["พลัง"]
+  },
+  {
+    "english": "practice",
+    "thai": ["ฝึกฝน"]
+  },
+  {
+    "english": "praise",
+    "thai": ["ชมเชย"]
+  },
+  {
+    "english": "predict",
+    "thai": ["ทำนาย"]
+  },
+  {
+    "english": "prefer",
+    "thai": ["ชอบ"]
+  },
+  {
+    "english": "prepare",
+    "thai": ["เตรียม"]
+  },
+  {
+    "english": "present",
+    "thai": ["นำเสนอ"]
+  },
+  {
+    "english": "pretty",
+    "thai": ["สวยงาม"]
+  },
+  {
+    "english": "prevent",
+    "thai": ["ป้องกัน"]
+  },
+  {
+    "english": "price",
+    "thai": ["ราคา"]
+  },
+  {
+    "english": "pride",
+    "thai": ["ความภาคภูมิใจ"]
+  },
+  {
+    "english": "primary",
+    "thai": ["หลัก"]
+  },
+  {
+    "english": "print",
+    "thai": ["พิมพ์"]
+  },
+  {
+    "english": "priority",
+    "thai": ["ลำดับความสำคัญ"]
+  },
+  {
+    "english": "prison",
+    "thai": ["เรือนจำ"]
+  },
+  {
+    "english": "private",
+    "thai": ["เอกชน"]
+  },
+  {
+    "english": "prize",
+    "thai": ["รางวัล"]
+  },
+  {
+    "english": "problem",
+    "thai": ["ปัญหา"]
+  },
+  {
+    "english": "process",
+    "thai": ["กระบวนการ"]
+  },
+  {
+    "english": "produce",
+    "thai": ["ผลิต"]
+  },
+  {
+    "english": "profit",
+    "thai": ["กำไร"]
+  },
+  {
+    "english": "program",
+    "thai": ["โครงการ"]
+  },
+  {
+    "english": "project",
+    "thai": ["โครงการ"]
+  },
+  {
+    "english": "promote",
+    "thai": ["ส่งเสริม"]
+  },
+  {
+    "english": "proof",
+    "thai": ["หลักฐาน"]
+  },
+  {
+    "english": "property",
+    "thai": ["ทรัพย์สิน"]
+  },
+  {
+    "english": "prosper",
+    "thai": ["เจริญรุ่งเรือง"]
+  },
+  {
+    "english": "protect",
+    "thai": ["ปกป้อง"]
+  },
+  {
+    "english": "proud",
+    "thai": ["ภูมิใจ"]
+  },
+  {
+    "english": "provide",
+    "thai": ["จัดหา"]
+  },
+  {
+    "english": "public",
+    "thai": ["สาธารณะ"]
+  },
+  {
+    "english": "pudding",
+    "thai": ["พุดดิ้ง"]
+  },
+  {
+    "english": "pull",
+    "thai": ["ดึง"]
+  },
+  {
+    "english": "pulp",
+    "thai": ["เยื่อกระดาษ"]
+  },
+  {
+    "english": "pulse",
+    "thai": ["ชีพจร"]
+  },
+  {
+    "english": "pumpkin",
+    "thai": ["ฟักทอง"]
+  },
+  {
+    "english": "punch",
+    "thai": ["หมัด"]
+  },
+  {
+    "english": "pupil",
+    "thai": ["ลูกศิษย์"]
+  },
+  {
+    "english": "puppy",
+    "thai": ["ลูกสุนัข"]
+  },
+  {
+    "english": "purchase",
+    "thai": ["ซื้อ"]
+  },
+  {
+    "english": "purity",
+    "thai": ["ความบริสุทธิ์"]
+  },
+  {
+    "english": "purpose",
+    "thai": ["วัตถุประสงค์"]
+  },
+  {
+    "english": "purse",
+    "thai": ["กระเป๋าเงิน"]
+  },
+  {
+    "english": "push",
+    "thai": ["ผลัก"]
+  },
+  {
+    "english": "put",
+    "thai": ["วาง"]
+  },
+  {
+    "english": "puzzle",
+    "thai": ["ปริศนา"]
+  },
+  {
+    "english": "pyramid",
+    "thai": ["พีระมิด"]
+  },
+  {
+    "english": "quality",
+    "thai": ["คุณภาพ"]
+  },
+  {
+    "english": "quantum",
+    "thai": ["ควอนตัม"]
+  },
+  {
+    "english": "quarter",
+    "thai": ["ไตรมาส"]
+  },
+  {
+    "english": "question",
+    "thai": ["คำถาม"]
+  },
+  {
+    "english": "quick",
+    "thai": ["ด่วน"]
+  },
+  {
+    "english": "quit",
+    "thai": ["เลิก"]
+  },
+  {
+    "english": "quiz",
+    "thai": ["แบบทดสอบ"]
+  },
+  {
+    "english": "quote",
+    "thai": ["คำคม"]
+  },
+  {
+    "english": "rabbit",
+    "thai": ["กระต่าย"]
+  },
+  {
+    "english": "raccoon",
+    "thai": ["แรคคูน"]
+  },
+  {
+    "english": "race",
+    "thai": ["แข่ง"]
+  },
+  {
+    "english": "rack",
+    "thai": ["แร็ค"]
+  },
+  {
+    "english": "radar",
+    "thai": ["เรดาร์"]
+  },
+  {
+    "english": "radio",
+    "thai": ["วิทยุ"]
+  },
+  {
+    "english": "rail",
+    "thai": ["รถไฟ"]
+  },
+  {
+    "english": "rain",
+    "thai": ["ฝน"]
+  },
+  {
+    "english": "raise",
+    "thai": ["ยก"]
+  },
+  {
+    "english": "rally",
+    "thai": ["การชุมนุม"]
+  },
+  {
+    "english": "ramp",
+    "thai": ["ทางลาด"]
+  },
+  {
+    "english": "ranch",
+    "thai": ["ฟาร์ม"]
+  },
+  {
+    "english": "random",
+    "thai": ["สุ่ม"]
+  },
+  {
+    "english": "range",
+    "thai": ["ช่วง"]
+  },
+  {
+    "english": "rapid",
+    "thai": ["รวดเร็ว"]
+  },
+  {
+    "english": "rare",
+    "thai": ["หายาก"]
+  },
+  {
+    "english": "rate",
+    "thai": ["อัตรา"]
+  },
+  {
+    "english": "rather",
+    "thai": ["ค่อนข้าง"]
+  },
+  {
+    "english": "raven",
+    "thai": ["กา"]
+  },
+  {
+    "english": "raw",
+    "thai": ["ดิบ"]
+  },
+  {
+    "english": "razor",
+    "thai": ["มีดโกน"]
+  },
+  {
+    "english": "ready",
+    "thai": ["พร้อม"]
+  },
+  {
+    "english": "real",
+    "thai": ["จริง"]
+  },
+  {
+    "english": "reason",
+    "thai": ["เหตุผล"]
+  },
+  {
+    "english": "rebel",
+    "thai": ["กบฏ"]
+  },
+  {
+    "english": "rebuild",
+    "thai": ["สร้างใหม่"]
+  },
+  {
+    "english": "recall",
+    "thai": ["เรียกคืน"]
+  },
+  {
+    "english": "receive",
+    "thai": ["รับ"]
+  },
+  {
+    "english": "recipe",
+    "thai": ["สูตร"]
+  },
+  {
+    "english": "record",
+    "thai": ["บันทึก"]
+  },
+  {
+    "english": "recycle",
+    "thai": ["รีไซเคิล"]
+  },
+  {
+    "english": "reduce",
+    "thai": ["ลด"]
+  },
+  {
+    "english": "reflect",
+    "thai": ["สะท้อน"]
+  },
+  {
+    "english": "reform",
+    "thai": ["ปฏิรูป"]
+  },
+  {
+    "english": "refuse",
+    "thai": ["ปฏิเสธ"]
+  },
+  {
+    "english": "region",
+    "thai": ["ภูมิภาค"]
+  },
+  {
+    "english": "regret",
+    "thai": ["เสียใจ"]
+  },
+  {
+    "english": "regular",
+    "thai": ["ปกติ"]
+  },
+  {
+    "english": "reject",
+    "thai": ["ปฏิเสธ"]
+  },
+  {
+    "english": "relax",
+    "thai": ["ผ่อนคลาย"]
+  },
+  {
+    "english": "release",
+    "thai": ["ปล่อย"]
+  },
+  {
+    "english": "relief",
+    "thai": ["บรรเทา"]
+  },
+  {
+    "english": "rely",
+    "thai": ["พึ่งพา"]
+  },
+  {
+    "english": "remain",
+    "thai": ["คงอยู่"]
+  },
+  {
+    "english": "remember",
+    "thai": ["จำ"]
+  },
+  {
+    "english": "remind",
+    "thai": ["เตือน"]
+  },
+  {
+    "english": "remove",
+    "thai": ["ลบ"]
+  },
+  {
+    "english": "render",
+    "thai": ["แสดงผล"]
+  },
+  {
+    "english": "renew",
+    "thai": ["ต่ออายุ"]
+  },
+  {
+    "english": "rent",
+    "thai": ["เช่า"]
+  },
+  {
+    "english": "reopen",
+    "thai": ["เปิดใหม่"]
+  },
+  {
+    "english": "repair",
+    "thai": ["ซ่อมแซม"]
+  },
+  {
+    "english": "repeat",
+    "thai": ["ทำซ้ำ"]
+  },
+  {
+    "english": "replace",
+    "thai": ["แทนที่"]
+  },
+  {
+    "english": "report",
+    "thai": ["รายงาน"]
+  },
+  {
+    "english": "require",
+    "thai": ["ต้องการ"]
+  },
+  {
+    "english": "rescue",
+    "thai": ["ช่วยเหลือ"]
+  },
+  {
+    "english": "resemble",
+    "thai": ["คล้าย"]
+  },
+  {
+    "english": "resist",
+    "thai": ["ต่อต้าน"]
+  },
+  {
+    "english": "resource",
+    "thai": ["ทรัพยากร"]
+  },
+  {
+    "english": "response",
+    "thai": ["การตอบสนอง"]
+  },
+  {
+    "english": "result",
+    "thai": ["ผลลัพธ์"]
+  },
+  {
+    "english": "retire",
+    "thai": ["เกษียณ"]
+  },
+  {
+    "english": "retreat",
+    "thai": ["ถอยกลับ"]
+  },
+  {
+    "english": "return",
+    "thai": ["กลับ"]
+  },
+  {
+    "english": "reunion",
+    "thai": ["รวมตัวใหม่"]
+  },
+  {
+    "english": "reveal",
+    "thai": ["เปิดเผย"]
+  },
+  {
+    "english": "review",
+    "thai": ["ทบทวน"]
+  },
+  {
+    "english": "reward",
+    "thai": ["รางวัล"]
+  },
+  {
+    "english": "rhythm",
+    "thai": ["จังหวะ"]
+  },
+  {
+    "english": "rib",
+    "thai": ["ซี่โครง"]
+  },
+  {
+    "english": "ribbon",
+    "thai": ["ริบบิ้น"]
+  },
+  {
+    "english": "rice",
+    "thai": ["ข้าว"]
+  },
+  {
+    "english": "rich",
+    "thai": ["รวย"]
+  },
+  {
+    "english": "ride",
+    "thai": ["ขี่"]
+  },
+  {
+    "english": "ridge",
+    "thai": ["สันเขา"]
+  },
+  {
+    "english": "rifle",
+    "thai": ["ปืนไรเฟิล"]
+  },
+  {
+    "english": "right",
+    "thai": ["ขวา"]
+  },
+  {
+    "english": "rigid",
+    "thai": ["แข็งกร้าว"]
+  },
+  {
+    "english": "ring",
+    "thai": ["วงแหวน"]
+  },
+  {
+    "english": "riot",
+    "thai": ["จลาจล"]
+  },
+  {
+    "english": "ripple",
+    "thai": ["ระลอกคลื่น"]
+  },
+  {
+    "english": "risk",
+    "thai": ["ความเสี่ยง"]
+  },
+  {
+    "english": "ritual",
+    "thai": ["พิธีกรรม"]
+  },
+  {
+    "english": "rival",
+    "thai": ["คู่แข่ง"]
+  },
+  {
+    "english": "river",
+    "thai": ["แม่น้ำ"]
+  },
+  {
+    "english": "road",
+    "thai": ["ถนน"]
+  },
+  {
+    "english": "roast",
+    "thai": ["ย่าง"]
+  },
+  {
+    "english": "robot",
+    "thai": ["หุ่นยนต์"]
+  },
+  {
+    "english": "robust",
+    "thai": ["แข็งแกร่ง"]
+  },
+  {
+    "english": "rocket",
+    "thai": ["จรวด"]
+  },
+  {
+    "english": "romance",
+    "thai": ["โรแมนติก"]
+  },
+  {
+    "english": "roof",
+    "thai": ["หลังคา"]
+  },
+  {
+    "english": "rookie",
+    "thai": ["มือใหม่"]
+  },
+  {
+    "english": "room",
+    "thai": ["ห้อง"]
+  },
+  {
+    "english": "rose",
+    "thai": ["กุหลาบ"]
+  },
+  {
+    "english": "rotate",
+    "thai": ["หมุน"]
+  },
+  {
+    "english": "rough",
+    "thai": ["ขรุขระ"]
+  },
+  {
+    "english": "round",
+    "thai": ["รอบ"]
+  },
+  {
+    "english": "route",
+    "thai": ["เส้นทาง"]
+  },
+  {
+    "english": "royal",
+    "thai": ["ราชวงศ์"]
+  },
+  {
+    "english": "rubber",
+    "thai": ["ยาง"]
+  },
+  {
+    "english": "rude",
+    "thai": ["หยาบคาย"]
+  },
+  {
+    "english": "rug",
+    "thai": ["พรม"]
+  },
+  {
+    "english": "rule",
+    "thai": ["กฎ"]
+  },
+  {
+    "english": "run",
+    "thai": ["วิ่ง"]
+  },
+  {
+    "english": "runway",
+    "thai": ["รันเวย์"]
+  },
+  {
+    "english": "rural",
+    "thai": ["ชนบท"]
+  },
+  {
+    "english": "sad",
+    "thai": ["เศร้า"]
+  },
+  {
+    "english": "saddle",
+    "thai": ["อานม้า"]
+  },
+  {
+    "english": "sadness",
+    "thai": ["ความเศร้า"]
+  },
+  {
+    "english": "safe",
+    "thai": ["ปลอดภัย"]
+  },
+  {
+    "english": "sail",
+    "thai": ["แล่นเรือ"]
+  },
+  {
+    "english": "salad",
+    "thai": ["สลัด"]
+  },
+  {
+    "english": "salmon",
+    "thai": ["ปลาแซลมอน"]
+  },
+  {
+    "english": "salon",
+    "thai": ["ร้านเสริมสวย"]
+  },
+  {
+    "english": "salt",
+    "thai": ["เกลือ"]
+  },
+  {
+    "english": "salute",
+    "thai": ["สดุดี"]
+  },
+  {
+    "english": "same",
+    "thai": ["เหมือนกัน"]
+  },
+  {
+    "english": "sample",
+    "thai": ["ตัวอย่าง"]
+  },
+  {
+    "english": "sand",
+    "thai": ["ทราย"]
+  },
+  {
+    "english": "satisfy",
+    "thai": ["สนองตอบ"]
+  },
+  {
+    "english": "satoshi",
+    "thai": ["ซาโตชิ"]
+  },
+  {
+    "english": "sauce",
+    "thai": ["ซอส"]
+  },
+  {
+    "english": "sausage",
+    "thai": ["ไส้กรอก"]
+  },
+  {
+    "english": "save",
+    "thai": ["บันทึก"]
+  },
+  {
+    "english": "say",
+    "thai": ["พูด"]
+  },
+  {
+    "english": "scale",
+    "thai": ["มาตราส่วน"]
+  },
+  {
+    "english": "scan",
+    "thai": ["สแกน"]
+  },
+  {
+    "english": "scare",
+    "thai": ["ทำให้ตกใจ"]
+  },
+  {
+    "english": "scatter",
+    "thai": ["กระจาย"]
+  },
+  {
+    "english": "scene",
+    "thai": ["ฉาก"]
+  },
+  {
+    "english": "scheme",
+    "thai": ["โครงการ"]
+  },
+  {
+    "english": "school",
+    "thai": ["โรงเรียน"]
+  },
+  {
+    "english": "science",
+    "thai": ["วิทยาศาสตร์"]
+  },
+  {
+    "english": "scissors",
+    "thai": ["กรรไกร"]
+  },
+  {
+    "english": "scorpion",
+    "thai": ["แมงป่อง"]
+  },
+  {
+    "english": "scout",
+    "thai": ["ลูกเสือ"]
+  },
+  {
+    "english": "scrap",
+    "thai": ["เศษ"]
+  },
+  {
+    "english": "screen",
+    "thai": ["หน้าจอ"]
+  },
+  {
+    "english": "script",
+    "thai": ["สคริปต์"]
+  },
+  {
+    "english": "scrub",
+    "thai": ["ขัดถู"]
+  },
+  {
+    "english": "sea",
+    "thai": ["ทะเล"]
+  },
+  {
+    "english": "search",
+    "thai": ["ค้นหา"]
+  },
+  {
+    "english": "season",
+    "thai": ["ฤดูกาล"]
+  },
+  {
+    "english": "seat",
+    "thai": ["ที่นั่ง"]
+  },
+  {
+    "english": "second",
+    "thai": ["ที่สอง"]
+  },
+  {
+    "english": "secret",
+    "thai": ["ความลับ"]
+  },
+  {
+    "english": "section",
+    "thai": ["ส่วน"]
+  },
+  {
+    "english": "security",
+    "thai": ["ความปลอดภัย"]
+  },
+  {
+    "english": "seed",
+    "thai": ["เมล็ดพันธุ์"]
+  },
+  {
+    "english": "seek",
+    "thai": ["แสวงหา"]
+  },
+  {
+    "english": "segment",
+    "thai": ["ส่วน"]
+  },
+  {
+    "english": "select",
+    "thai": ["เลือก"]
+  },
+  {
+    "english": "sell",
+    "thai": ["ขาย"]
+  },
+  {
+    "english": "seminar",
+    "thai": ["สัมมนา"]
+  },
+  {
+    "english": "senior",
+    "thai": ["อาวุโส"]
+  },
+  {
+    "english": "sense",
+    "thai": ["ความรู้สึก"]
+  },
+  {
+    "english": "sentence",
+    "thai": ["ประโยค"]
+  },
+  {
+    "english": "series",
+    "thai": ["ชุด"]
+  },
+  {
+    "english": "service",
+    "thai": ["บริการ"]
+  },
+  {
+    "english": "session",
+    "thai": ["เซสชัน"]
+  },
+  {
+    "english": "settle",
+    "thai": ["ชำระ"]
+  },
+  {
+    "english": "setup",
+    "thai": ["ตั้งค่า"]
+  },
+  {
+    "english": "seven",
+    "thai": ["เจ็ด"]
+  },
+  {
+    "english": "shadow",
+    "thai": ["เงา"]
+  },
+  {
+    "english": "shaft",
+    "thai": ["เพลา"]
+  },
+  {
+    "english": "shallow",
+    "thai": ["ตื้น"]
+  },
+  {
+    "english": "share",
+    "thai": ["แบ่งปัน"]
+  },
+  {
+    "english": "shed",
+    "thai": ["โรงเก็บของ"]
+  },
+  {
+    "english": "shell",
+    "thai": ["เปลือก"]
+  },
+  {
+    "english": "sheriff",
+    "thai": ["นายอำเภอ"]
+  },
+  {
+    "english": "shield",
+    "thai": ["โล่"]
+  },
+  {
+    "english": "shift",
+    "thai": ["กะ"]
+  },
+  {
+    "english": "shine",
+    "thai": ["ส่องแสง"]
+  },
+  {
+    "english": "ship",
+    "thai": ["เรือ"]
+  },
+  {
+    "english": "shiver",
+    "thai": ["ตัวสั่น"]
+  },
+  {
+    "english": "shock",
+    "thai": ["ช็อก"]
+  },
+  {
+    "english": "shoe",
+    "thai": ["รองเท้า"]
+  },
+  {
+    "english": "shoot",
+    "thai": ["ยิง"]
+  },
+  {
+    "english": "shop",
+    "thai": ["ร้านค้า"]
+  },
+  {
+    "english": "short",
+    "thai": ["สั้น"]
+  },
+  {
+    "english": "shoulder",
+    "thai": ["ไหล่"]
+  },
+  {
+    "english": "shove",
+    "thai": ["ผลัก"]
+  },
+  {
+    "english": "shrimp",
+    "thai": ["กุ้ง"]
+  },
+  {
+    "english": "shrug",
+    "thai": ["ยักไหล่"]
+  },
+  {
+    "english": "shuffle",
+    "thai": ["สับเปลี่ยน"]
+  },
+  {
+    "english": "shy",
+    "thai": ["ขี้อาย"]
+  },
+  {
+    "english": "sibling",
+    "thai": ["พี่น้อง"]
+  },
+  {
+    "english": "sick",
+    "thai": ["ป่วย"]
+  },
+  {
+    "english": "side",
+    "thai": ["ด้านข้าง"]
+  },
+  {
+    "english": "siege",
+    "thai": ["ล้อม"]
+  },
+  {
+    "english": "sight",
+    "thai": ["สายตา"]
+  },
+  {
+    "english": "sign",
+    "thai": ["สัญญาณ"]
+  },
+  {
+    "english": "silent",
+    "thai": ["เงียบ"]
+  },
+  {
+    "english": "silk",
+    "thai": ["ผ้าไหม"]
+  },
+  {
+    "english": "silly",
+    "thai": ["โง่เง่า"]
+  },
+  {
+    "english": "silver",
+    "thai": ["สีเงิน"]
+  },
+  {
+    "english": "similar",
+    "thai": ["คล้ายกัน"]
+  },
+  {
+    "english": "simple",
+    "thai": ["เรียบง่าย"]
+  },
+  {
+    "english": "since",
+    "thai": ["ตั้งแต่"]
+  },
+  {
+    "english": "sing",
+    "thai": ["ร้องเพลง"]
+  },
+  {
+    "english": "siren",
+    "thai": ["ไซเรน"]
+  },
+  {
+    "english": "sister",
+    "thai": ["น้องสาว"]
+  },
+  {
+    "english": "situate",
+    "thai": ["ตั้ง"]
+  },
+  {
+    "english": "six",
+    "thai": ["หก"]
+  },
+  {
+    "english": "size",
+    "thai": ["ขนาด"]
+  },
+  {
+    "english": "skate",
+    "thai": ["สเก็ต"]
+  },
+  {
+    "english": "sketch",
+    "thai": ["ภาพร่าง"]
+  },
+  {
+    "english": "ski",
+    "thai": ["สกี"]
+  },
+  {
+    "english": "skill",
+    "thai": ["ทักษะ"]
+  },
+  {
+    "english": "skin",
+    "thai": ["ผิวหนัง"]
+  },
+  {
+    "english": "skirt",
+    "thai": ["กระโปรง"]
+  },
+  {
+    "english": "skull",
+    "thai": ["กะโหลก"]
+  },
+  {
+    "english": "slab",
+    "thai": ["แผ่น"]
+  },
+  {
+    "english": "slam",
+    "thai": ["กระแทก"]
+  },
+  {
+    "english": "sleep",
+    "thai": ["นอนหลับ"]
+  },
+  {
+    "english": "slender",
+    "thai": ["เรียว"]
+  },
+  {
+    "english": "slice",
+    "thai": ["ชิ้น"]
+  },
+  {
+    "english": "slide",
+    "thai": ["สไลด์"]
+  },
+  {
+    "english": "slight",
+    "thai": ["เล็กน้อย"]
+  },
+  {
+    "english": "slim",
+    "thai": ["เพรียวบาง"]
+  },
+  {
+    "english": "slogan",
+    "thai": ["สโลแกน"]
+  },
+  {
+    "english": "slot",
+    "thai": ["สล็อต"]
+  },
+  {
+    "english": "slow",
+    "thai": ["ช้า"]
+  },
+  {
+    "english": "slush",
+    "thai": ["โคลน"]
+  },
+  {
+    "english": "small",
+    "thai": ["เล็ก"]
+  },
+  {
+    "english": "smart",
+    "thai": ["ฉลาด"]
+  },
+  {
+    "english": "smile",
+    "thai": ["ยิ้ม"]
+  },
+  {
+    "english": "smoke",
+    "thai": ["ควัน"]
+  },
+  {
+    "english": "smooth",
+    "thai": ["เรียบ"]
+  },
+  {
+    "english": "snack",
+    "thai": ["ขนมขบเคี้ยว"]
+  },
+  {
+    "english": "snake",
+    "thai": ["งู"]
+  },
+  {
+    "english": "snap",
+    "thai": ["ดีด"]
+  },
+  {
+    "english": "sniff",
+    "thai": ["ดม"]
+  },
+  {
+    "english": "snow",
+    "thai": ["ดม"]
+  },
+  {
+    "english": "soap",
+    "thai": ["หิมะ"]
+  },
+  {
+    "english": "soccer",
+    "thai": ["สบู่"]
+  },
+  {
+    "english": "social",
+    "thai": ["ฟุตบอล"]
+  },
+  {
+    "english": "sock",
+    "thai": ["สังคม"]
+  },
+  {
+    "english": "soda",
+    "thai": ["ถุงเท้า"]
+  },
+  {
+    "english": "soft",
+    "thai": ["โซดา"]
+  },
+  {
+    "english": "solar",
+    "thai": ["นุ่ม"]
+  },
+  {
+    "english": "soldier",
+    "thai": ["แสงอาทิตย์"]
+  },
+  {
+    "english": "solid",
+    "thai": ["ทหาร"]
+  },
+  {
+    "english": "solution",
+    "thai": ["แข็งแกร่ง"]
+  },
+  {
+    "english": "solve",
+    "thai": ["วิธีแก้ปัญหา"]
+  },
+  {
+    "english": "someone",
+    "thai": ["แก้ปัญหา"]
+  },
+  {
+    "english": "song",
+    "thai": ["ใครบางคน"]
+  },
+  {
+    "english": "soon",
+    "thai": ["เพลง"]
+  },
+  {
+    "english": "sorry",
+    "thai": ["เร็วๆ นี้"]
+  },
+  {
+    "english": "sort",
+    "thai": ["ขอโทษ"]
+  },
+  {
+    "english": "soul",
+    "thai": ["จัดเรียง"]
+  },
+  {
+    "english": "sound",
+    "thai": ["วิญญาณ"]
+  },
+  {
+    "english": "soup",
+    "thai": ["เสียง"]
+  },
+  {
+    "english": "source",
+    "thai": ["ซุป"]
+  },
+  {
+    "english": "south",
+    "thai": ["แหล่งที่มา"]
+  },
+  {
+    "english": "space",
+    "thai": ["ใต้"]
+  },
+  {
+    "english": "spare",
+    "thai": ["อวกาศ"]
+  },
+  {
+    "english": "spatial",
+    "thai": ["สำรอง"]
+  },
+  {
+    "english": "spawn",
+    "thai": ["เชิงพื้นที่"]
+  },
+  {
+    "english": "speak",
+    "thai": ["วางไข่"]
+  },
+  {
+    "english": "special",
+    "thai": ["พูด"]
+  },
+  {
+    "english": "speed",
+    "thai": ["พิเศษ"]
+  },
+  {
+    "english": "spell",
+    "thai": ["ความเร็ว"]
+  },
+  {
+    "english": "spend",
+    "thai": ["คาถา"]
+  },
+  {
+    "english": "sphere",
+    "thai": ["ใช้จ่าย"]
+  },
+  {
+    "english": "spice",
+    "thai": ["ทรงกลม"]
+  },
+  {
+    "english": "spider",
+    "thai": ["เครื่องเทศ"]
+  },
+  {
+    "english": "spike",
+    "thai": ["แมงมุม"]
+  },
+  {
+    "english": "spin",
+    "thai": ["หนาม"]
+  },
+  {
+    "english": "spirit",
+    "thai": ["หมุน"]
+  },
+  {
+    "english": "split",
+    "thai": ["วิญญาณ"]
+  },
+  {
+    "english": "spoil",
+    "thai": ["เสีย"]
+  },
+  {
+    "english": "sponsor",
+    "thai": ["สปอนเซอร์"]
+  },
+  {
+    "english": "spoon",
+    "thai": ["ช้อน"]
+  },
+  {
+    "english": "sport",
+    "thai": ["กีฬา"]
+  },
+  {
+    "english": "spot",
+    "thai": ["จุด"]
+  },
+  {
+    "english": "spray",
+    "thai": ["สเปรย์"]
+  },
+  {
+    "english": "spread",
+    "thai": ["กระจาย"]
+  },
+  {
+    "english": "spring",
+    "thai": ["สปริง"]
+  },
+  {
+    "english": "spy",
+    "thai": ["สายลับ"]
+  },
+  {
+    "english": "square",
+    "thai": ["สี่เหลี่ยม"]
+  },
+  {
+    "english": "squeeze",
+    "thai": ["บีบ"]
+  },
+  {
+    "english": "squirrel",
+    "thai": ["กระรอก"]
+  },
+  {
+    "english": "stable",
+    "thai": ["คอกม้า"]
+  },
+  {
+    "english": "stadium",
+    "thai": ["สนามกีฬา"]
+  },
+  {
+    "english": "staff",
+    "thai": ["พนักงาน"]
+  },
+  {
+    "english": "stage",
+    "thai": ["เวที"]
+  },
+  {
+    "english": "stairs",
+    "thai": ["บันได"]
+  },
+  {
+    "english": "stamp",
+    "thai": ["แสตมป์"]
+  },
+  {
+    "english": "stand",
+    "thai": ["ยืน"]
+  },
+  {
+    "english": "start",
+    "thai": ["เริ่มต้น"]
+  },
+  {
+    "english": "state",
+    "thai": ["รัฐ"]
+  },
+  {
+    "english": "stay",
+    "thai": ["อยู่"]
+  },
+  {
+    "english": "steak",
+    "thai": ["สเต็ก"]
+  },
+  {
+    "english": "steel",
+    "thai": ["เหล็ก"]
+  },
+  {
+    "english": "stem",
+    "thai": ["ก้าน"]
+  },
+  {
+    "english": "step",
+    "thai": ["ขั้นบันได"]
+  },
+  {
+    "english": "stereo",
+    "thai": ["สเตอริโอ"]
+  },
+  {
+    "english": "stick",
+    "thai": ["ไม้เท้า"]
+  },
+  {
+    "english": "still",
+    "thai": ["ยังคง"]
+  },
+  {
+    "english": "sting",
+    "thai": ["ต่อย"]
+  },
+  {
+    "english": "stock",
+    "thai": ["หุ้น"]
+  },
+  {
+    "english": "stomach",
+    "thai": ["กระเพาะอาหาร"]
+  },
+  {
+    "english": "stone",
+    "thai": ["นิ่ว"]
+  },
+  {
+    "english": "stool",
+    "thai": ["เก้าอี้"]
+  },
+  {
+    "english": "story",
+    "thai": ["เรื่องราว"]
+  },
+  {
+    "english": "stove",
+    "thai": ["เตา"]
+  },
+  {
+    "english": "strategy",
+    "thai": ["กลยุทธ์"]
+  },
+  {
+    "english": "street",
+    "thai": ["ถนน"]
+  },
+  {
+    "english": "strike",
+    "thai": ["การประท้วง"]
+  },
+  {
+    "english": "strong",
+    "thai": ["แข็งแกร่ง"]
+  },
+  {
+    "english": "struggle",
+    "thai": ["การต่อสู้"]
+  },
+  {
+    "english": "student",
+    "thai": ["นักเรียน"]
+  },
+  {
+    "english": "stuff",
+    "thai": ["สิ่งของ"]
+  },
+  {
+    "english": "stumble",
+    "thai": ["สะดุด"]
+  },
+  {
+    "english": "style",
+    "thai": ["สไตล์"]
+  },
+  {
+    "english": "subject",
+    "thai": ["วิชา"]
+  },
+  {
+    "english": "submit",
+    "thai": ["ส่ง"]
+  },
+  {
+    "english": "subway",
+    "thai": ["รถไฟใต้ดิน"]
+  },
+  {
+    "english": "success",
+    "thai": ["ความสำเร็จ"]
+  },
+  {
+    "english": "such",
+    "thai": ["เช่น"]
+  },
+  {
+    "english": "sudden",
+    "thai": ["ฉับพลัน"]
+  },
+  {
+    "english": "suffer",
+    "thai": ["ทุกข์ทรมาน"]
+  },
+  {
+    "english": "sugar",
+    "thai": ["น้ำตาล"]
+  },
+  {
+    "english": "suggest",
+    "thai": ["แนะนำ"]
+  },
+  {
+    "english": "suit",
+    "thai": ["ชุดสูท"]
+  },
+  {
+    "english": "summer",
+    "thai": ["ฤดูร้อน"]
+  },
+  {
+    "english": "sun",
+    "thai": ["ดวงอาทิตย์"]
+  },
+  {
+    "english": "sunny",
+    "thai": ["แดดจัด"]
+  },
+  {
+    "english": "sunset",
+    "thai": ["พระอาทิตย์ตก"]
+  },
+  {
+    "english": "super",
+    "thai": ["ซูเปอร์"]
+  },
+  {
+    "english": "supply",
+    "thai": ["อุปทาน"]
+  },
+  {
+    "english": "supreme",
+    "thai": ["สูงสุด"]
+  },
+  {
+    "english": "sure",
+    "thai": ["แน่ใจ"]
+  },
+  {
+    "english": "surface",
+    "thai": ["พื้นผิว"]
+  },
+  {
+    "english": "surge",
+    "thai": ["คลื่นกระชาก"]
+  },
+  {
+    "english": "surprise",
+    "thai": ["เซอร์ไพรส์"]
+  },
+  {
+    "english": "surround",
+    "thai": ["ล้อมรอบ"]
+  },
+  {
+    "english": "survey",
+    "thai": ["แบบสำรวจ"]
+  },
+  {
+    "english": "suspect",
+    "thai": ["ผู้ต้องสงสัย"]
+  },
+  {
+    "english": "sustain",
+    "thai": ["ยั่งยืน"]
+  },
+  {
+    "english": "swallow",
+    "thai": ["กลืน"]
+  },
+  {
+    "english": "swamp",
+    "thai": ["หนองน้ำ"]
+  },
+  {
+    "english": "swap",
+    "thai": ["แลกเปลี่ยน"]
+  },
+  {
+    "english": "swarm",
+    "thai": ["ฝูง"]
+  },
+  {
+    "english": "swear",
+    "thai": ["สาบาน"]
+  },
+  {
+    "english": "sweet",
+    "thai": ["หวาน"]
+  },
+  {
+    "english": "swift",
+    "thai": ["รวดเร็ว"]
+  },
+  {
+    "english": "swim",
+    "thai": ["ว่ายน้ำ"]
+  },
+  {
+    "english": "swing",
+    "thai": ["แกว่ง"]
+  },
+  {
+    "english": "switch",
+    "thai": ["สวิตช์"]
+  },
+  {
+    "english": "sword",
+    "thai": ["ดาบ"]
+  },
+  {
+    "english": "symbol",
+    "thai": ["สัญลักษณ์"]
+  },
+  {
+    "english": "symptom",
+    "thai": ["อาการ"]
+  },
+  {
+    "english": "syrup",
+    "thai": ["น้ำเชื่อม"]
+  },
+  {
+    "english": "system",
+    "thai": ["ระบบ"]
+  },
+  {
+    "english": "table",
+    "thai": ["ตาราง"]
+  },
+  {
+    "english": "tackle",
+    "thai": ["แท็กเกิล"]
+  },
+  {
+    "english": "tag",
+    "thai": ["แท็ก"]
+  },
+  {
+    "english": "tail",
+    "thai": ["หาง"]
+  },
+  {
+    "english": "talent",
+    "thai": ["พรสวรรค์"]
+  },
+  {
+    "english": "talk",
+    "thai": ["พูดคุย"]
+  },
+  {
+    "english": "tank",
+    "thai": ["รถถัง"]
+  },
+  {
+    "english": "tape",
+    "thai": ["เทป"]
+  },
+  {
+    "english": "target",
+    "thai": ["เป้าหมาย"]
+  },
+  {
+    "english": "task",
+    "thai": ["งาน"]
+  },
+  {
+    "english": "taste",
+    "thai": ["รสชาติ"]
+  },
+  {
+    "english": "tattoo",
+    "thai": ["รอยสัก"]
+  },
+  {
+    "english": "taxi",
+    "thai": ["แท็กซี่"]
+  },
+  {
+    "english": "teach",
+    "thai": ["สอน"]
+  },
+  {
+    "english": "team",
+    "thai": ["ทีม"]
+  },
+  {
+    "english": "tell",
+    "thai": ["บอก"]
+  },
+  {
+    "english": "ten",
+    "thai": ["สิบ"]
+  },
+  {
+    "english": "tenant",
+    "thai": ["ผู้เช่า"]
+  },
+  {
+    "english": "tennis",
+    "thai": ["เทนนิส"]
+  },
+  {
+    "english": "tent",
+    "thai": ["เต็นท์"]
+  },
+  {
+    "english": "term",
+    "thai": ["ภาคเรียน"]
+  },
+  {
+    "english": "test",
+    "thai": ["แบบทดสอบ"]
+  },
+  {
+    "english": "text",
+    "thai": ["ข้อความ"]
+  },
+  {
+    "english": "thank",
+    "thai": ["ขอบคุณ"]
+  },
+  {
+    "english": "that",
+    "thai": ["ที่"]
+  },
+  {
+    "english": "theme",
+    "thai": ["ธีม"]
+  },
+  {
+    "english": "then",
+    "thai": ["แล้ว"]
+  },
+  {
+    "english": "theory",
+    "thai": ["ทฤษฎี"]
+  },
+  {
+    "english": "there",
+    "thai": ["ที่นั่น"]
+  },
+  {
+    "english": "they",
+    "thai": ["พวกเขา"]
+  },
+  {
+    "english": "thing",
+    "thai": ["สิ่ง"]
+  },
+  {
+    "english": "this",
+    "thai": ["นี้"]
+  },
+  {
+    "english": "thought",
+    "thai": ["ความคิด"]
+  },
+  {
+    "english": "three",
+    "thai": ["สาม"]
+  },
+  {
+    "english": "thrive",
+    "thai": ["เจริญเติบโต"]
+  },
+  {
+    "english": "throw",
+    "thai": ["โยน"]
+  },
+  {
+    "english": "thumb",
+    "thai": ["นิ้วหัวแม่มือ"]
+  },
+  {
+    "english": "thunder",
+    "thai": ["ฟ้าร้อง"]
+  },
+  {
+    "english": "ticket",
+    "thai": ["ตั๋ว"]
+  },
+  {
+    "english": "tide",
+    "thai": ["กระแสน้ำ"]
+  },
+  {
+    "english": "tiger",
+    "thai": ["เสือ"]
+  },
+  {
+    "english": "tilt",
+    "thai": ["เอียง"]
+  },
+  {
+    "english": "timber",
+    "thai": ["ไม้"]
+  },
+  {
+    "english": "time",
+    "thai": ["เวลา"]
+  },
+  {
+    "english": "tiny",
+    "thai": ["เล็ก"]
+  },
+  {
+    "english": "tip",
+    "thai": ["ปลาย"]
+  },
+  {
+    "english": "tired",
+    "thai": ["เหนื่อย"]
+  },
+  {
+    "english": "tissue",
+    "thai": ["กระดาษทิชชู่"]
+  },
+  {
+    "english": "title",
+    "thai": ["ชื่อเรื่อง"]
+  },
+  {
+    "english": "toast",
+    "thai": ["ขนมปังปิ้ง"]
+  },
+  {
+    "english": "tobacco",
+    "thai": ["ยาสูบ"]
+  },
+  {
+    "english": "today",
+    "thai": ["วันนี้"]
+  },
+  {
+    "english": "toddler",
+    "thai": ["เด็กเล็ก"]
+  },
+  {
+    "english": "toe",
+    "thai": ["นิ้วเท้า"]
+  },
+  {
+    "english": "together",
+    "thai": ["ด้วยกัน"]
+  },
+  {
+    "english": "toilet",
+    "thai": ["ห้องน้ำ"]
+  },
+  {
+    "english": "token",
+    "thai": ["โทเค็น"]
+  },
+  {
+    "english": "tomato",
+    "thai": ["มะเขือเทศ"]
+  },
+  {
+    "english": "tomorrow",
+    "thai": ["พรุ่งนี้"]
+  },
+  {
+    "english": "tone",
+    "thai": ["โทน"]
+  },
+  {
+    "english": "tongue",
+    "thai": ["ลิ้น"]
+  },
+  {
+    "english": "tonight",
+    "thai": ["คืนนี้"]
+  },
+  {
+    "english": "tool",
+    "thai": ["เครื่องมือ"]
+  },
+  {
+    "english": "tooth",
+    "thai": ["ฟัน"]
+  },
+  {
+    "english": "top",
+    "thai": ["ด้านบน"]
+  },
+  {
+    "english": "topic",
+    "thai": ["หัวข้อ"]
+  },
+  {
+    "english": "topple",
+    "thai": ["โค่นล้ม"]
+  },
+  {
+    "english": "torch",
+    "thai": ["ไฟฉาย"]
+  },
+  {
+    "english": "tornado",
+    "thai": ["พายุทอร์นาโด"]
+  },
+  {
+    "english": "tortoise",
+    "thai": ["เต่า"]
+  },
+  {
+    "english": "toss",
+    "thai": ["โยน"]
+  },
+  {
+    "english": "total",
+    "thai": ["ทั้งหมด"]
+  },
+  {
+    "english": "tourist",
+    "thai": ["นักท่องเที่ยว"]
+  },
+  {
+    "english": "toward",
+    "thai": ["ไปยัง"]
+  },
+  {
+    "english": "tower",
+    "thai": ["หอคอย"]
+  },
+  {
+    "english": "town",
+    "thai": ["เมือง"]
+  },
+  {
+    "english": "toy",
+    "thai": ["ของเล่น"]
+  },
+  {
+    "english": "track",
+    "thai": ["ราง"]
+  },
+  {
+    "english": "trade",
+    "thai": ["การค้า"]
+  },
+  {
+    "english": "traffic",
+    "thai": ["การจราจร"]
+  },
+  {
+    "english": "tragic",
+    "thai": ["โศกนาฏกรรม"]
+  },
+  {
+    "english": "train",
+    "thai": ["รถไฟ"]
+  },
+  {
+    "english": "transfer",
+    "thai": ["เปลี่ยนเส้นทาง"]
+  },
+  {
+    "english": "trap",
+    "thai": ["กับดัก"]
+  },
+  {
+    "english": "trash",
+    "thai": ["ขยะ"]
+  },
+  {
+    "english": "travel",
+    "thai": ["การเดินทาง"]
+  },
+  {
+    "english": "tray",
+    "thai": ["ถาด"]
+  },
+  {
+    "english": "treat",
+    "thai": ["รักษา"]
+  },
+  {
+    "english": "tree",
+    "thai": ["ต้นไม้"]
+  },
+  {
+    "english": "trend",
+    "thai": ["แนวโน้ม"]
+  },
+  {
+    "english": "trial",
+    "thai": ["การทดลอง"]
+  },
+  {
+    "english": "tribe",
+    "thai": ["ชนเผ่า"]
+  },
+  {
+    "english": "trick",
+    "thai": ["กลอุบาย"]
+  },
+  {
+    "english": "trigger",
+    "thai": ["ทริกเกอร์"]
+  },
+  {
+    "english": "trim",
+    "thai": ["ตัดแต่ง"]
+  },
+  {
+    "english": "trip",
+    "thai": ["การเดินทาง"]
+  },
+  {
+    "english": "trophy",
+    "thai": ["ถ้วยรางวัล"]
+  },
+  {
+    "english": "trouble",
+    "thai": ["ปัญหา"]
+  },
+  {
+    "english": "truck",
+    "thai": ["รถบรรทุก"]
+  },
+  {
+    "english": true,
+    "thai": ["จริง"]
+  },
+  {
+    "english": "truly",
+    "thai": ["จริง"]
+  },
+  {
+    "english": "trumpet",
+    "thai": ["ทรัมเป็ต"]
+  },
+  {
+    "english": "trust",
+    "thai": ["ความไว้วางใจ"]
+  },
+  {
+    "english": "truth",
+    "thai": ["ความจริง"]
+  },
+  {
+    "english": "try",
+    "thai": ["ลอง"]
+  },
+  {
+    "english": "tube",
+    "thai": ["หลอด"]
+  },
+  {
+    "english": "tuition",
+    "thai": ["ค่าเล่าเรียน"]
+  },
+  {
+    "english": "tumble",
+    "thai": ["พลิกคว่ำ"]
+  },
+  {
+    "english": "tuna",
+    "thai": ["ปลาทูน่า"]
+  },
+  {
+    "english": "tunnel",
+    "thai": ["อุโมงค์"]
+  },
+  {
+    "english": "turkey",
+    "thai": ["ไก่งวง"]
+  },
+  {
+    "english": "turn",
+    "thai": ["เลี้ยว"]
+  },
+  {
+    "english": "turtle",
+    "thai": ["เต่า"]
+  },
+  {
+    "english": "twelve",
+    "thai": ["สิบสอง"]
+  },
+  {
+    "english": "twenty",
+    "thai": ["ยี่สิบ"]
+  },
+  {
+    "english": "twice",
+    "thai": ["สองครั้ง"]
+  },
+  {
+    "english": "twin",
+    "thai": ["แฝด"]
+  },
+  {
+    "english": "twist",
+    "thai": ["บิด"]
+  },
+  {
+    "english": "two",
+    "thai": ["สอง"]
+  },
+  {
+    "english": "type",
+    "thai": ["ประเภท"]
+  },
+  {
+    "english": "typical",
+    "thai": ["ทั่วไป"]
+  },
+  {
+    "english": "ugly",
+    "thai": ["น่าเกลียด"]
+  },
+  {
+    "english": "umbrella",
+    "thai": ["ร่ม"]
+  },
+  {
+    "english": "unable",
+    "thai": ["ไม่สามารถ"]
+  },
+  {
+    "english": "unaware",
+    "thai": ["ไม่รู้ตัว"]
+  },
+  {
+    "english": "uncle",
+    "thai": ["ลุง"]
+  },
+  {
+    "english": "uncover",
+    "thai": ["เปิดเผย"]
+  },
+  {
+    "english": "under",
+    "thai": ["ใต้"]
+  },
+  {
+    "english": "undo",
+    "thai": ["เลิกทำ"]
+  },
+  {
+    "english": "unfair",
+    "thai": ["ไม่ยุติธรรม"]
+  },
+  {
+    "english": "unfold",
+    "thai": ["คลี่คลาย"]
+  },
+  {
+    "english": "unhappy",
+    "thai": ["ไม่มีความสุข"]
+  },
+  {
+    "english": "uniform",
+    "thai": ["เครื่องแบบ"]
+  },
+  {
+    "english": "unique",
+    "thai": ["เฉพาะ"]
+  },
+  {
+    "english": "unit",
+    "thai": ["หน่วย"]
+  },
+  {
+    "english": "universe",
+    "thai": ["จักรวาล"]
+  },
+  {
+    "english": "unknown",
+    "thai": ["ไม่ทราบ"]
+  },
+  {
+    "english": "unlock",
+    "thai": ["ปลดล็อก"]
+  },
+  {
+    "english": "until",
+    "thai": ["จนกระทั่ง"]
+  },
+  {
+    "english": "unusual",
+    "thai": ["ผิดปกติ"]
+  },
+  {
+    "english": "unveil",
+    "thai": ["เปิดเผย"]
+  },
+  {
+    "english": "update",
+    "thai": ["อัปเดต"]
+  },
+  {
+    "english": "upgrade",
+    "thai": ["อัปเกรด"]
+  },
+  {
+    "english": "uphold",
+    "thai": ["สนับสนุน"]
+  },
+  {
+    "english": "upon",
+    "thai": ["เมื่อ"]
+  },
+  {
+    "english": "upper",
+    "thai": ["ส่วนบน"]
+  },
+  {
+    "english": "upset",
+    "thai": ["ไม่พอใจ"]
+  },
+  {
+    "english": "urban",
+    "thai": ["ในเมือง"]
+  },
+  {
+    "english": "urge",
+    "thai": ["กระตุ้น"]
+  },
+  {
+    "english": "usage",
+    "thai": ["การใช้งาน"]
+  },
+  {
+    "english": "use",
+    "thai": ["ใช้"]
+  },
+  {
+    "english": "used",
+    "thai": ["ใช้แล้ว"]
+  },
+  {
+    "english": "useful",
+    "thai": ["มีประโยชน์"]
+  },
+  {
+    "english": "useless",
+    "thai": ["ไร้ประโยชน์"]
+  },
+  {
+    "english": "usual",
+    "thai": ["ปกติ"]
+  },
+  {
+    "english": "utility",
+    "thai": ["ยูทิลิตี้"]
+  },
+  {
+    "english": "vacant",
+    "thai": ["ว่างเปล่า"]
+  },
+  {
+    "english": "vacuum",
+    "thai": ["สูญญากาศ"]
+  },
+  {
+    "english": "vague",
+    "thai": ["คลุมเครือ"]
+  },
+  {
+    "english": "valid",
+    "thai": ["ถูกต้อง"]
+  },
+  {
+    "english": "valley",
+    "thai": ["หุบเขา"]
+  },
+  {
+    "english": "valve",
+    "thai": ["วาล์ว"]
+  },
+  {
+    "english": "van",
+    "thai": ["รถตู้"]
+  },
+  {
+    "english": "vanish",
+    "thai": ["หายไป"]
+  },
+  {
+    "english": "vapor",
+    "thai": ["ไอระเหย"]
+  },
+  {
+    "english": "various",
+    "thai": ["ต่างๆ"]
+  },
+  {
+    "english": "vast",
+    "thai": ["กว้างใหญ่"]
+  },
+  {
+    "english": "vault",
+    "thai": ["ห้องนิรภัย"]
+  },
+  {
+    "english": "vehicle",
+    "thai": ["ยานพาหนะ"]
+  },
+  {
+    "english": "velvet",
+    "thai": ["กำมะหยี่"]
+  },
+  {
+    "english": "vendor",
+    "thai": ["ผู้ขาย"]
+  },
+  {
+    "english": "venture",
+    "thai": ["ร่วมทุน"]
+  },
+  {
+    "english": "venue",
+    "thai": ["สถานที่"]
+  },
+  {
+    "english": "verb",
+    "thai": ["คำกริยา"]
+  },
+  {
+    "english": "verify",
+    "thai": ["ตรวจสอบ"]
+  },
+  {
+    "english": "version",
+    "thai": ["เวอร์ชัน"]
+  },
+  {
+    "english": "very",
+    "thai": ["มาก"]
+  },
+  {
+    "english": "vessel",
+    "thai": ["เรือ"]
+  },
+  {
+    "english": "veteran",
+    "thai": ["ทหารผ่านศึก"]
+  },
+  {
+    "english": "viable",
+    "thai": ["ใช้งานได้"]
+  },
+  {
+    "english": "vibrant",
+    "thai": ["สดใส"]
+  },
+  {
+    "english": "vicious",
+    "thai": ["ชั่วร้าย"]
+  },
+  {
+    "english": "victory",
+    "thai": ["ชัยชนะ"]
+  },
+  {
+    "english": "video",
+    "thai": ["วิดีโอ"]
+  },
+  {
+    "english": "view",
+    "thai": ["มุมมอง"]
+  },
+  {
+    "english": "village",
+    "thai": ["หมู่บ้าน"]
+  },
+  {
+    "english": "vintage",
+    "thai": ["วินเทจ"]
+  },
+  {
+    "english": "violin",
+    "thai": ["ไวโอลิน"]
+  },
+  {
+    "english": "virtual",
+    "thai": ["เสมือนจริง"]
+  },
+  {
+    "english": "virus",
+    "thai": ["ไวรัส"]
+  },
+  {
+    "english": "visa",
+    "thai": ["วีซ่า"]
+  },
+  {
+    "english": "visit",
+    "thai": ["เยี่ยมชม"]
+  },
+  {
+    "english": "visual",
+    "thai": ["ภาพ"]
+  },
+  {
+    "english": "vital",
+    "thai": ["สำคัญ"]
+  },
+  {
+    "english": "vivid",
+    "thai": ["สดใส"]
+  },
+  {
+    "english": "vocal",
+    "thai": ["เสียง"]
+  },
+  {
+    "english": "voice",
+    "thai": ["เสียง"]
+  },
+  {
+    "english": "void",
+    "thai": ["ความว่างเปล่า"]
+  },
+  {
+    "english": "volcano",
+    "thai": ["ภูเขาไฟ"]
+  },
+  {
+    "english": "volume",
+    "thai": ["ระดับเสียง"]
+  },
+  {
+    "english": "vote",
+    "thai": ["โหวต"]
+  },
+  {
+    "english": "voyage",
+    "thai": ["การเดินทาง"]
+  },
+  {
+    "english": "wage",
+    "thai": ["ค่าจ้าง"]
+  },
+  {
+    "english": "wagon",
+    "thai": ["เกวียน"]
+  },
+  {
+    "english": "wait",
+    "thai": ["รอ"]
+  },
+  {
+    "english": "walk",
+    "thai": ["เดิน"]
+  },
+  {
+    "english": "wall",
+    "thai": ["กำแพง"]
+  },
+  {
+    "english": "walnut",
+    "thai": ["วอลนัท"]
+  },
+  {
+    "english": "want",
+    "thai": ["ต้องการ"]
+  },
+  {
+    "english": "warfare",
+    "thai": ["สงคราม"]
+  },
+  {
+    "english": "warm",
+    "thai": ["อบอุ่น"]
+  },
+  {
+    "english": "warrior",
+    "thai": ["นักรบ"]
+  },
+  {
+    "english": "wash",
+    "thai": ["ล้าง"]
+  },
+  {
+    "english": "wasp",
+    "thai": ["ตัวต่อ"]
+  },
+  {
+    "english": "waste",
+    "thai": ["ของเสีย"]
+  },
+  {
+    "english": "water",
+    "thai": ["น้ำ"]
+  },
+  {
+    "english": "wave",
+    "thai": ["คลื่น"]
+  },
+  {
+    "english": "way",
+    "thai": ["ทาง"]
+  },
+  {
+    "english": "wealth",
+    "thai": ["ความมั่งคั่ง"]
+  },
+  {
+    "english": "weapon",
+    "thai": ["อาวุธ"]
+  },
+  {
+    "english": "wear",
+    "thai": ["สวมใส่"]
+  },
+  {
+    "english": "weasel",
+    "thai": ["พังพอน"]
+  },
+  {
+    "english": "weather",
+    "thai": ["สภาพอากาศ"]
+  },
+  {
+    "english": "web",
+    "thai": ["เว็บ"]
+  },
+  {
+    "english": "wedding",
+    "thai": ["งานแต่งงาน"]
+  },
+  {
+    "english": "weekend",
+    "thai": ["สุดสัปดาห์"]
+  },
+  {
+    "english": "weird",
+    "thai": ["แปลก"]
+  },
+  {
+    "english": "welcome",
+    "thai": ["ยินดีต้อนรับ"]
+  },
+  {
+    "english": "west",
+    "thai": ["ตะวันตก"]
+  },
+  {
+    "english": "wet",
+    "thai": ["เปียก"]
+  },
+  {
+    "english": "whale",
+    "thai": ["วาฬ"]
+  },
+  {
+    "english": "what",
+    "thai": ["อะไร"]
+  },
+  {
+    "english": "wheat",
+    "thai": ["ข้าวสาลี"]
+  },
+  {
+    "english": "wheel",
+    "thai": ["กงล้อ"]
+  },
+  {
+    "english": "when",
+    "thai": ["เมื่อไหร่"]
+  },
+  {
+    "english": "where",
+    "thai": ["ที่ไหน"]
+  },
+  {
+    "english": "whip",
+    "thai": ["แส้"]
+  },
+  {
+    "english": "whisper",
+    "thai": ["กระซิบ"]
+  },
+  {
+    "english": "wide",
+    "thai": ["กว้าง"]
+  },
+  {
+    "english": "width",
+    "thai": ["กว้าง"]
+  },
+  {
+    "english": "wife",
+    "thai": ["ภรรยา"]
+  },
+  {
+    "english": "wild",
+    "thai": ["ป่า"]
+  },
+  {
+    "english": "will",
+    "thai": ["จะ"]
+  },
+  {
+    "english": "win",
+    "thai": ["ชนะ"]
+  },
+  {
+    "english": "window",
+    "thai": ["หน้าต่าง"]
+  },
+  {
+    "english": "wine",
+    "thai": ["ไวน์"]
+  },
+  {
+    "english": "wing",
+    "thai": ["ปีก"]
+  },
+  {
+    "english": "wink",
+    "thai": ["ขยิบตา"]
+  },
+  {
+    "english": "winner",
+    "thai": ["ผู้ชนะ"]
+  },
+  {
+    "english": "winter",
+    "thai": ["ฤดูหนาว"]
+  },
+  {
+    "english": "wire",
+    "thai": ["ลวด"]
+  },
+  {
+    "english": "wisdom",
+    "thai": ["ปัญญา"]
+  },
+  {
+    "english": "wise",
+    "thai": ["ปัญญา"]
+  },
+  {
+    "english": "wish",
+    "thai": ["ความปรารถนา"]
+  },
+  {
+    "english": "witness",
+    "thai": ["พยาน"]
+  },
+  {
+    "english": "wolf",
+    "thai": ["หมาป่า"]
+  },
+  {
+    "english": "woman",
+    "thai": ["ผู้หญิง"]
+  },
+  {
+    "english": "wonder",
+    "thai": ["สิ่งมหัศจรรย์"]
+  },
+  {
+    "english": "wood",
+    "thai": ["ไม้"]
+  },
+  {
+    "english": "wool",
+    "thai": ["ขนแกะ"]
+  },
+  {
+    "english": "word",
+    "thai": ["คำ"]
+  },
+  {
+    "english": "work",
+    "thai": ["งาน"]
+  },
+  {
+    "english": "world",
+    "thai": ["โลก"]
+  },
+  {
+    "english": "worry",
+    "thai": ["ความกังวล"]
+  },
+  {
+    "english": "worth",
+    "thai": ["คุณค่า"]
+  },
+  {
+    "english": "wrap",
+    "thai": ["ห่อ"]
+  },
+  {
+    "english": "wreck",
+    "thai": ["พังพินาศ"]
+  },
+  {
+    "english": "wrestle",
+    "thai": ["ต่อสู้"]
+  },
+  {
+    "english": "wrist",
+    "thai": ["ข้อมือ"]
+  },
+  {
+    "english": "write",
+    "thai": ["เขียน"]
+  },
+  {
+    "english": "wrong",
+    "thai": ["ผิด"]
+  },
+  {
+    "english": "yard",
+    "thai": ["หลา"]
+  },
+  {
+    "english": "year",
+    "thai": ["ปี"]
+  },
+  {
+    "english": "yellow",
+    "thai": ["สีเหลือง"]
+  },
+  {
+    "english": "you",
+    "thai": ["คุณ"]
+  },
+  {
+    "english": "young",
+    "thai": ["หนุ่ม"]
+  },
+  {
+    "english": "youth",
+    "thai": ["เยาวชน"]
+  },
+  {
+    "english": "zebra",
+    "thai": ["ม้าลาย"]
+  },
+  {
+    "english": "zero",
+    "thai": ["ศูนย์"]
+  },
+  {
+    "english": "zone",
+    "thai": ["โซน"]
+  },
+  {
+    "english": "zoo",
+    "thai": ["สวนสัตว์"]
   }
 ]
-

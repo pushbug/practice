@@ -1,50 +1,462 @@
 [
   {
-    "english": "I'm looking forward to the weekend.",
-    "thai": "ฉันตั้งตารอวันหยุดสุดสัปดาห์"
+    "english": "What is this?",
+    "thai": ["นี่คืออะไร"]
   },
   {
-    "english": "Could you please pass the salt?",
-    "thai": "ช่วยส่งเกลือให้หน่อยได้ไหม"
+    "english": "What's for dinner?",
+    "thai": ["มื้อเย็นคืออะไร"]
   },
   {
-    "english": "I'll call you when I arrive.",
-    "thai": "ฉันจะโทรหาคุณเมื่อฉันมาถึง"
+    "english": "What's your name?",
+    "thai": ["คุณชื่ออะไร"]
   },
   {
-    "english": "What time is it now?",
-    "thai": "ตอนนี้กี่โมงแล้ว"
+    "english": "What's your phone number?",
+    "thai": ["เบอร์โทรศัพท์ของคุณคืออะไร"]
   },
   {
-    "english": "Can I help you with something?",
-    "thai": "ให้ฉันช่วยอะไรไหม"
+    "english": "What's the plan?",
+    "thai": ["แผนคืออะไร"]
   },
   {
-    "english": "The weather is very hot today.",
-    "thai": "วันนี้อากาศร้อนมาก"
+    "english": "What are you talking about?",
+    "thai": ["คุณกำลังพูดถึงอะไร"]
   },
   {
-    "english": "She is my best friend.",
-    "thai": "เธอคือเพื่อนสนิทที่สุดของฉัน"
+    "english": "What kind of music do you like?",
+    "thai": ["คุณชอบเพลงแนวไหน"]
   },
   {
-    "english": "I need to go to the supermarket.",
-    "thai": "ฉันต้องไปซูเปอร์มาร์เก็ต"
+    "english": "I know what you mean.",
+    "thai": ["ฉันเข้าใจในสิ่งที่คุณหมายถึง"]
   },
   {
-    "english": "Have a good day!",
-    "thai": "ขอให้เป็นวันที่ดี"
+    "english": "What an idea!",
+    "thai": ["เป็นความคิดที่ยอดเยี่ยม!"]
   },
   {
-    "english": "Where is the nearest bus stop?",
-    "thai": "ป้ายรถเมล์ที่ใกล้ที่สุดอยู่ที่ไหน"
+    "english": "What a shame.",
+    "thai": ["น่าเสียดายจัง"]
   },
   {
-    "english": "Let's meet for lunch tomorrow.",
-    "thai": "พรุ่งนี้ไปทานอาหารกลางวันกันเถอะ"
+    "english": "What happened next?",
+    "thai": ["แล้วเกิดอะไรขึ้นต่อไป"]
   },
   {
-    "english": "How much does this cost?",
-    "thai": "นี่ราคาเท่าไหร่"
+    "english": "What's your motivation?",
+    "thai": ["แรงจูงใจของคุณคืออะไร"]
+  },
+  {
+    "english": "What time does the store close?",
+    "thai": ["ร้านค้าปิดกี่โมง"]
+  },
+  {
+    "english": "What's the total?",
+    "thai": ["ทั้งหมดเท่าไหร่"]
+  },
+  {
+    "english": "What are the side effects?",
+    "thai": ["ผลข้างเคียงคืออะไร"]
+  },
+  {
+    "english": "What's the next step?",
+    "thai": ["ขั้นตอนต่อไปคืออะไร"]
+  },
+  {
+    "english": "What a relief!",
+    "thai": ["โล่งอกไปที!"]
+  },
+  {
+    "english": "What do you need?",
+    "thai": ["คุณต้องการอะไร"]
+  },
+  {
+    "english": "What's on your mind?",
+    "thai": ["คุณกำลังคิดอะไรอยู่"]
+  },
+  {
+    "english": "What a nice gesture.",
+    "thai": ["เป็นการแสดงออกที่ดีจริงๆ"]
+  },
+  {
+    "english": "What did you do on the weekend?",
+    "thai": ["วันหยุดสุดสัปดาห์คุณทำอะไร"]
+  },
+  {
+    "english": "What's the weather forecast?",
+    "thai": ["พยากรณ์อากาศเป็นอย่างไร"]
+  },
+  {
+    "english": "What should I bring?",
+    "thai": ["ฉันควรเอาอะไรมา"]
+  },
+  {
+    "english": "What a brave person!",
+    "thai": ["เป็นคนที่กล้าหาญอะไรอย่างนี้!"]
+  },
+  {
+    "english": "What do you think of this idea?",
+    "thai": ["คุณคิดเห็นอย่างไรกับไอเดียนี้"]
+  },
+  {
+    "english": "What's the point of doing this?",
+    "thai": ["จุดประสงค์ของการทำสิ่งนี้คืออะไร"]
+  },
+  {
+    "english": "What did he say exactly?",
+    "thai": ["เขาพูดว่าอะไรกันแน่"]
+  },
+  {
+    "english": "What's the problem?",
+    "thai": ["มีปัญหาอะไร"]
+  },
+  {
+    "english": "What did you say?",
+    "thai": ["คุณว่าอะไรนะ"]
+  },
+  {
+    "english": "What do you want?",
+    "thai": ["คุณต้องการอะไร"]
+  },
+  {
+    "english": "What's your email?",
+    "thai": ["อีเมลของคุณคืออะไร"]
+  },
+  {
+    "english": "What do you think?",
+    "thai": ["คุณคิดว่าอย่างไร"]
+  },
+  {
+    "english": "What are you thinking about?",
+    "thai": ["คุณกำลังคิดอะไรอยู่"]
+  },
+  {
+    "english": "What's the best way to do this?",
+    "thai": ["วิธีที่ดีที่สุดในการทำสิ่งนี้คืออะไร"]
+  },
+  {
+    "english": "What a surprise!",
+    "thai": ["น่าประหลาดใจอะไรอย่างนี้!"]
+  },
+  {
+    "english": "I don't know what to do.",
+    "thai": ["ฉันไม่รู้ว่าจะทำอย่างไร"]
+  },
+  {
+    "english": "What's done is done.",
+    "thai": ["สิ่งที่ทำไปแล้วก็คือสิ่งที่ทำไปแล้ว"]
+  },
+  {
+    "english": "What can I do for you?",
+    "thai": ["มีอะไรให้ฉันช่วยไหม"]
+  },
+  {
+    "english": "What are you going to do?",
+    "thai": ["คุณจะทำอะไร"]
+  },
+  {
+    "english": "What's the difference?",
+    "thai": ["มันต่างกันอย่างไร"]
+  },
+  {
+    "english": "What's the password?",
+    "thai": ["รหัสผ่านคืออะไร"]
+  },
+  {
+    "english": "What's the capital of France?",
+    "thai": ["เมืองหลวงของฝรั่งเศสคืออะไร"]
+  },
+  {
+    "english": "What's the purpose of this?",
+    "thai": ["จุดประสงค์ของสิ่งนี้คืออะไร"]
+  },
+  {
+    "english": "What a joke!",
+    "thai": ["ตลกอะไรอย่างนี้!"]
+  },
+  {
+    "english": "What's the first thing you do in the morning?",
+    "thai": ["สิ่งแรกที่คุณทำในตอนเช้าคืออะไร"]
+  },
+  {
+    "english": "What are the odds?",
+    "thai": ["มีโอกาสแค่ไหน"]
+  },
+  {
+    "english": "What a good boy!",
+    "thai": ["เป็นเด็กดีอะไรอย่างนี้!"]
+  },
+  {
+    "english": "What are you going to wear?",
+    "thai": ["คุณจะใส่อะไรไป"]
+  },
+  {
+    "english": "What's the Wi-Fi password?",
+    "thai": ["รหัสผ่าน Wi-Fi คืออะไร"]
+  },
+  {
+    "english": "What are you laughing about?",
+    "thai": ["คุณกำลังหัวเราะอะไร"]
+  },
+  {
+    "english": "What are you waiting for?",
+    "thai": ["คุณกำลังรออะไรอยู่"]
+  },
+  {
+    "english": "What do you like about your new job?",
+    "thai": ["คุณชอบอะไรเกี่ยวกับงานใหม่ของคุณ"]
+  },
+  {
+    "english": "What's the use of that machine?",
+    "thai": ["เครื่องจักรนั้นมีประโยชน์อะไร"]
+  },
+  {
+    "english": "What else is new?",
+    "thai": ["มีอะไรใหม่อีกไหม/ก็งี้แหละ"]
+  },
+  {
+    "english": "What's the time?",
+    "thai": ["กี่โมงแล้ว"]
+  },
+  {
+    "english": "What's on TV?",
+    "thai": ["ในทีวีมีอะไร"]
+  },
+  {
+    "english": "What's your job?",
+    "thai": ["คุณทำงานอะไร"]
+  },
+  {
+    "english": "What's the address?",
+    "thai": ["ที่อยู่คืออะไร"]
+  },
+  {
+    "english": "What's wrong?",
+    "thai": ["เป็นอะไรไป"]
+  },
+  {
+    "english": "What do you recommend?",
+    "thai": ["คุณแนะนำอะไร"]
+  },
+  {
+    "english": "What's your opinion?",
+    "thai": ["ความเห็นของคุณคืออะไร"]
+  },
+  {
+    "english": "What a beautiful day!",
+    "thai": ["เป็นวันที่สวยงามอะไรอย่างนี้!"]
+  },
+  {
+    "english": "He knows what he's doing.",
+    "thai": ["เขารู้ว่าเขากำลังทำอะไร"]
+  },
+  {
+    "english": "What's up?",
+    "thai": ["เป็นไงบ้าง"]
+  },
+  {
+    "english": "What do you do for a living?",
+    "thai": ["คุณทำงานอะไร"]
+  },
+  {
+    "english": "What did you eat for lunch?",
+    "thai": ["คุณกินอะไรเป็นมื้อเที่ยง"]
+  },
+  {
+    "english": "What does this mean?",
+    "thai": ["นี่หมายความว่าอะไร"]
+  },
+  {
+    "english": "What's your favorite food?",
+    "thai": ["คุณชอบอาหารอะไร"]
+  },
+  {
+    "english": "What should I wear?",
+    "thai": ["ฉันควรใส่อะไร"]
+  },
+  {
+    "english": "What are the pros and cons?",
+    "thai": ["ข้อดีและข้อเสียคืออะไร"]
+  },
+  {
+    "english": "What a waste!",
+    "thai": ["เสียของจริงๆ!"]
+  },
+  {
+    "english": "What's the last thing you do at night?",
+    "thai": ["สิ่งสุดท้ายที่คุณทำในตอนกลางคืนคืออะไร"]
+  },
+  {
+    "english": "What a pity.",
+    "thai": ["น่าสงสารจัง"]
+  },
+  {
+    "english": "What time did you wake up?",
+    "thai": ["คุณตื่นกี่โมง"]
+  },
+  {
+    "english": "What's your favorite movie?",
+    "thai": ["หนังเรื่องโปรดของคุณคืออะไร"]
+  },
+  {
+    "english": "What a perfect day!",
+    "thai": ["เป็นวันที่สมบูรณ์แบบอะไรอย่างนี้!"]
+  },
+  {
+    "english": "What's the point?",
+    "thai": ["ประเด็นคืออะไร"]
+  },
+  {
+    "english": "What's the big deal?",
+    "thai": ["เรื่องใหญ่อะไรนักหนา"]
+  },
+  {
+    "english": "What was your impression of the movie?",
+    "thai": ["คุณมีความประทับใจอย่างไรกับหนังเรื่องนี้"]
+  },
+  {
+    "english": "What happened before that?",
+    "thai": ["ก่อนหน้านั้นเกิดอะไรขึ้น"]
+  },
+  {
+    "english": "So what?",
+    "thai": ["แล้วไงล่ะ/แล้วไง"]
+  },
+  {
+    "english": "What are you doing?",
+    "thai": ["คุณกำลังทำอะไร"]
+  },
+  {
+    "english": "What's the weather like?",
+    "thai": ["อากาศเป็นอย่างไร"]
+  },
+  {
+    "english": "What are you looking for?",
+    "thai": ["คุณกำลังมองหาอะไร"]
+  },
+  {
+    "english": "What's the price?",
+    "thai": ["ราคาเท่าไหร่"]
+  },
+  {
+    "english": "What's the matter?",
+    "thai": ["เกิดอะไรขึ้น"]
+  },
+  {
+    "english": "What's your favorite color?",
+    "thai": ["คุณชอบสีอะไร"]
+  },
+  {
+    "english": "What's your goal?",
+    "thai": ["เป้าหมายของคุณคืออะไร"]
+  },
+  {
+    "english": "What a mess!",
+    "thai": ["อะไรกันเนี่ย! รกไปหมด!"]
+  },
+  {
+    "english": "This is what I was looking for.",
+    "thai": ["นี่คือสิ่งที่ฉันกำลังมองหา"]
+  },
+  {
+    "english": "What's new?",
+    "thai": ["มีอะไรใหม่บ้าง"]
+  },
+  {
+    "english": "What's the name of that movie?",
+    "thai": ["หนังเรื่องนั้นชื่ออะไร"]
+  },
+  {
+    "english": "What did you learn today?",
+    "thai": ["วันนี้คุณได้เรียนรู้อะไรบ้าง"]
+  },
+  {
+    "english": "What are the rules?",
+    "thai": ["มีกฎอะไรบ้าง"]
+  },
+  {
+    "english": "What makes you happy?",
+    "thai": ["อะไรที่ทำให้คุณมีความสุข"]
+  },
+  {
+    "english": "What's the most important thing?",
+    "thai": ["สิ่งที่สำคัญที่สุดคืออะไร"]
+  },
+  {
+    "english": "What a coincidence!",
+    "thai": ["บังเอิญอะไรอย่างนี้!"]
+  },
+  {
+    "english": "What's the catch?",
+    "thai": ["มีอะไรแอบแฝงไหม"]
+  },
+  {
+    "english": "What kind of person are you?",
+    "thai": ["คุณเป็นคนแบบไหน"]
+  },
+  {
+    "english": "What a surprise to see you here!",
+    "thai": ["น่าประหลาดใจที่ได้เจอคุณที่นี่!"]
+  },
+  {
+    "english": "What did you get for your birthday?",
+    "thai": ["คุณได้อะไรเป็นของขวัญวันเกิด"]
+  },
+  {
+    "english": "What's your favorite book?",
+    "thai": ["หนังสือเล่มโปรดของคุณคืออะไร"]
+  },
+  {
+    "english": "What's the main idea?",
+    "thai": ["แนวคิดหลักคืออะไร"]
+  },
+  {
+    "english": "What a great performance!",
+    "thai": ["เป็นการแสดงที่ยอดเยี่ยม!"]
+  },
+  {
+    "english": "What on earth are you doing?",
+    "thai": ["คุณกำลังทำอะไรกันเนี่ย!"]
+  },
+  {
+    "english": "What's the reason for this decision?",
+    "thai": ["อะไรคือเหตุผลของการตัดสินใจนี้"]
+  },
+  {
+    "english": "What's the story behind it?",
+    "thai": ["เรื่องราวเบื้องหลังมันคืออะไร"]
+  },
+  {
+    "english": "What a waste of time!",
+    "thai": ["ช่างเสียเวลาอะไรอย่างนี้!"]
+  },
+  {
+    "english": "What a beautiful view!",
+    "thai": ["เป็นวิวที่สวยงามอะไรอย่างนี้!"]
+  },
+  {
+    "english": "What with all the traffic, I was late.",
+    "thai": ["เพราะรถติด ฉันเลยมาสาย"]
+  },
+  {
+    "english": "What with all the stress at work, he's exhausted. ",
+    "thai": ["เพราะความเครียดจากงาน ทำให้เขาเหนื่อยมาก"]
+  },
+  {
+    "english": "What if we fail?",
+    "thai": ["ถ้าพวกเราล้มเหลวจะเป็นยังไง"]
+  },
+  {
+    "english": "What if she says no? ",
+    "thai": ["ถ้าเธอปฏิเสธจะเป็นยังไง"]
+  },
+  {
+    "english": "I know what you're up to.",
+    "thai": ["ฉันรู้ว่าคุณกำลังทำอะไรอยู่"]
+  },
+  {
+    "english": "I know what I want to do with my life.",
+    "thai": ["ฉันรู้ว่าฉันอยากทำอะไรกับชีวิตของฉัน"]
   }
 ]

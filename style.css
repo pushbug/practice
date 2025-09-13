@@ -279,10 +279,23 @@ body{
     align-items: center;
     white-space: nowrap;
 }
-
+.history-list li.sentence-entry {
+    display: block;
+    white-space: normal;
+    padding: 8px;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.history-line-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4px;
+    color: #fff;
+}
 .history-score.score-correct { color: var(--accent); }
 .history-score.score-incorrect { color: var(--danger); }
-.history-correct, .history-user { max-width: 300px; overflow: hidden; text-overflow: ellipsis; }
+.history-list li:not(.sentence-entry) .history-correct,
+.history-list li:not(.sentence-entry) .history-user { max-width: 300px; overflow: hidden; text-overflow: ellipsis; }
 .history-user del { color: var(--danger); text-decoration: line-through; }
 .history-user span { margin-right: 0.25em; } /* Add space between words */
 

@@ -1,3 +1,4 @@
+// vocab_pair.js
 let timerId = null;
 
 /**
@@ -58,11 +59,15 @@ export default {
     next: (vocabulary, helpers, askedIndices) => {
         const { item, index } = helpers.getRandomItem(vocabulary, askedIndices);
         if (!item) return { current: null, index: -1 };
+        
+        let completed = false; // Flag to prevent double execution
 
         const choices = createChoices(item, vocabulary, helpers.rand);
         const extendedHelpers = {
             ...helpers,
             onComplete: (selectedAnswer) => {
+                if (completed) return; // If already completed, do nothing
+                completed = true;
                 clearTimeout(timerId); // Stop the timer
                 document.dispatchEvent(new CustomEvent('pairComplete', { detail: { answer: selectedAnswer, question: item.english } }));
             }

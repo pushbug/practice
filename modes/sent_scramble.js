@@ -1,3 +1,5 @@
+// sent_scramble.js
+
 function getBuiltSentence(displayEl) {
     const words = Array.from(displayEl.querySelectorAll('.card')).map(card => card.textContent);
     return words.join(' ');

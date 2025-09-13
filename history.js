@@ -1,3 +1,5 @@
+// hsitory.js
+
 const historyContainer = document.getElementById('historyContainer');
 const historyList = document.getElementById('historyList');
 
@@ -33,19 +35,28 @@ export function addHistoryEntry(questionIndex, correctAnswer, userAnswer, isCorr
     const scoreClass = score === 1 ? 'score-correct' : 'score-incorrect';
     const scoreText = score === 1 ? '+1' : '0';
     let formattedUserAnswer = userAnswer || '""';
+    const currentMode = document.getElementById('modeSelect').value;
+    const isSentenceMode = currentMode.startsWith('sent');
 
-    if (document.getElementById('modeSelect').value === 'sent_scramble' && userAnswer) {
+    if (currentMode === 'sent_scramble' && userAnswer) {
         formattedUserAnswer = formatScrambledAnswer(userAnswer, correctAnswer);
     }
 
-    entry.innerHTML = `
-        <span class="history-index">${questionIndex}.</span>
-        <span class="history-correct">${correctAnswer}</span>
-        <span class="history-separator">&gt;</span>
-        <span class="history-user">${formattedUserAnswer}</span>
-        <span class="history-equals">=</span>
-        <span class="history-score ${scoreClass}">${scoreText}</span>
-    `;
+    if (isSentenceMode) {
+        entry.classList.add('sentence-entry');
+        entry.innerHTML = `
+            <div class="history-line-1"><span class="history-index">${questionIndex}.</span> <span class="history-correct">${correctAnswer}</span></div>
+            <div class="history-line-2"><span class="history-user">${formattedUserAnswer}</span><span class="history-score ${scoreClass}">${scoreText}</span></div>
+        `;
+    } else {
+        entry.innerHTML = `
+            <span class="history-index">${questionIndex}.</span>
+            <span class="history-correct">${correctAnswer}</span>
+            <span class="history-separator">&gt;</span>
+            <span class="history-user">${formattedUserAnswer}</span>
+            <span class="history-score ${scoreClass}">${scoreText}</span>
+        `;
+    }
     historyList.prepend(entry); // Add the new entry to the top
 }
 
