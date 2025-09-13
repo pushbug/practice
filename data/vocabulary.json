@@ -1,0 +1,51 @@
+[
+  {
+    "english": "charge",
+    "thai": ["ชาร์จ", "เรียกเก็บเงิน", "ข้อกล่าวหา", "หน้าที่"]
+  },
+  {
+    "english": "run",
+    "thai": ["วิ่ง", "เดินเครื่อง", "จัดการ", "ไหล"]
+  },
+  {
+    "english": "study",
+    "thai": ["ศึกษา", "เรียน"]
+  },
+  {
+    "english": "improve",
+    "thai": ["ปรับปรุง", "พัฒนา"]
+  },
+  {
+    "english": "create",
+    "thai": ["สร้าง", "ประดิษฐ์", "ก่อตั้ง"]
+  },
+  {
+    "english": "receive",
+    "thai": ["ได้รับ", "รับ"]
+  },
+  {
+    "english": "understand",
+    "thai": ["เข้าใจ"]
+  },
+  {
+    "english": "believe",
+    "thai": ["เชื่อ", "เชื่อถือ"]
+  },
+  {
+    "english": "decide",
+    "thai": ["ตัดสินใจ"]
+  },
+  {
+    "english": "explain",
+    "thai": ["อธิบาย", "ชี้แจง"]
+  },
+  {
+    "english": "imagine",
+    "thai": ["จินตนาการ", "นึกคิด"]
+  },
+  {
+    "english": "manage",
+    "thai": ["จัดการ", "บริหาร", "ดูแล"]
+  }
+]
+

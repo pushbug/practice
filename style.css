@@ -1,0 +1,242 @@
+:root{
+  --bg:#0b0f12;
+  --panel:#0f1416;
+  --muted:#9aa3a6;
+  --accent:#99ffcc;
+  --danger:#ff7b7b;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace;
+  background:linear-gradient(180deg,var(--bg),#000000);
+  color:#e6eef0; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+}
+.app{max-width:900px;margin:40px auto;padding:24px;background:rgba(255,255,255,0.02);border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,0.6)}
+.header{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.header h1{margin:0;font-size:20px}
+.controls{display:flex;gap:8px;align-items:center}
+.controls select, .controls button{background:var(--panel);border:1px solid rgba(255,255,255,0.04);color:var(--muted);padding:8px 10px;border-radius:8px}
+.controls button{cursor:pointer}
+.main-area{margin-top:20px}
+.display{min-height:84px;padding:18px;border-radius:10px;background:rgba(255,255,255,0.02);font-size:20px;line-height:1.6; display: flex; flex-wrap: wrap; gap: 10px;}
+.typing-feedback{margin-top:8px;height:26px; color: var(--muted); text-align: left;}
+.feedback-container{display: flex; justify-content: space-between; align-items: center;}
+.question-counter{margin-top:8px;height:26px; color: var(--muted); font-size: 14px;}
+.answer-input{width:100%;margin-top:12px;padding:12px;border-radius:8px;border:1px solid rgba(255,255,255,0.04);background:#061014;color:#dff;outline:none;font-family:inherit;font-size:18px}
+.answer-input:focus{box-shadow:0 0 0 3px rgba(38, 38, 38, 0.06)}
+.meta{display:flex;justify-content:space-between;align-items:center;margin-top:12px}
+.score{color:var(--accent);font-weight:700}
+.message{color:var(--muted)}
+.scramble-area{margin-top:14px;display:flex;flex-wrap:wrap;gap:10px; min-height: 50px; padding: 10px;}
+.card{font-size:18px; padding:8px 12px;border-radius:8px;background:rgb(91, 179, 104);cursor:pointer;border:0px ; transition: transform 0.2s ease, opacity 0.2s ease;}
+.display .card { background:rgb(85, 222, 106); border-style: solid;}
+.card.moving { transform: scale(0.9); opacity: 0; }
+.char.correct{color:#7fffd4}
+.char.incorrect{color:#ff8383;text-decoration:underline}
+.footer{margin-top:18px;color:var(--muted);font-size:13px}
+
+.rule-display {
+  margin-top: 24px;
+  padding: 15px;
+  background: rgba(153, 255, 204, 0.03);
+  border-top: 1px solid rgba(153, 255, 204, 0.1);
+  border-bottom: 1px solid rgba(153, 255, 204, 0.1);
+  color: var(--muted);
+  font-size: 14px;
+  text-align: center;
+}
+
+@media (max-width:560px){.app{margin:12px;padding:16px}}
+
+#fireworks-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 10000;
+}
+
+.firework-particle {
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--accent);
+    animation: fly-and-fade 1s ease-out forwards;
+    will-change: transform, opacity;
+}
+
+@keyframes fly-and-fade {
+    0% {
+        transform: translate(0, 0) scale(1);
+        opacity: 1;
+    }
+    100% {
+        transform: translate(var(--vx), var(--vy)) scale(0);
+        opacity: 0;
+    }
+}
+
+#successMessage {
+    position: fixed;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+    color: var(--accent);
+    z-index: 10001;
+    animation: success-fade 3s forwards;
+    text-shadow: 0 0 10px var(--accent);
+}
+
+@keyframes success-fade {
+    0%, 80% { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+    100% { opacity: 0; transform: translate(-50%, -50%) scale(1.2); }
+}
+#soundToggleBtn.sound-on {
+  color: var(--accent);
+}
+
+.hint-button {
+    background: var(--panel);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--muted);
+    padding: 4px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 14px;
+}
+
+.hint-button:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+/* Bad Animation */
+#bad-animation-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 10000;
+}
+
+#badMessage {
+    position: fixed;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+    color: var(--danger);
+    z-index: 10001;
+    animation: bad-fade 3s forwards;
+    text-shadow: 0 0 10px var(--danger);
+}
+
+@keyframes bad-fade {
+    0%, 80% { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+    100% { opacity: 0; transform: translate(-50%, -50%) scale(1.2); }
+}
+
+.shake {
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+/* Correct Answer Animation */
+#correct-answer-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    z-index: 10000;
+}
+
+#plusOne {
+    font-size: 36px;
+    color: var(--accent);
+    animation: plus-one-fade 1.5s forwards;
+    text-shadow: 0 0 10px var(--accent);
+}
+
+@keyframes plus-one-fade {
+    0% { opacity: 1; transform: translateY(0) scale(1); }
+    100% { opacity: 0; transform: translateY(-50px) scale(1.5); }
+}
+
+/* Explosion Animation */
+#explosion-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 10000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#explosion-text {
+    font-size: 80px;
+    font-weight: bold;
+    color: var(--danger);
+    text-shadow: 0 0 15px var(--danger);
+    animation: explosion-effect 0.8s ease-out forwards;
+}
+
+@keyframes explosion-effect {
+    0% {
+        transform: scale(0.5);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.5);
+    }
+    100% {
+        transform: scale(2.5);
+        opacity: 0;
+    }
+}
+
+/* Reset Button */
+#resetButton {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    padding: 12px;
+    font-size: 20px;
+    background: var(--accent);
+    color: var(--bg);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}

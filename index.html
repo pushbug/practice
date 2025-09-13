@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Language Master</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="header">
+      <h1 id="modeTitle">Language Master</h1>
+      <div class="controls">
+        <select id="modeSelect" aria-label="Select mode">
+          <optgroup label="Vocabulary">
+            <option value="vocab_fill">V — Fill in the Blank</option>
+            <option value="vocab_translate">V — Translate from Thai</option>
+          </optgroup>
+          <optgroup label="Sentences">
+            <option value="sent_e2t">S — English → Thai</option>
+            <option value="sent_t2e">S — Thai → English</option>
+            <option value="sent_scramble">S — Scramble</option>
+          </optgroup>
+        </select>
+        <select id="questionCountSelect" aria-label="Select number of questions">
+          <option value="10">10 questions</option>
+          <option value="20">20 questions</option>
+          <option value="30">30 questions</option>
+          <option value="50">50 questions</option>
+          <option value="100">100 questions</option>
+        </select>
+        <button id="soundToggleBtn">Sound Off</button>
+      </div>
+    </header>
+
+    <section class="main-area">
+      <div id="display" class="display" aria-live="polite"></div>
+      <div class="feedback-container">
+        <div id="typingFeedback" class="typing-feedback"></div>
+        <div id="questionCounter" class="question-counter"></div>
+      </div>
+
+      <input id="answerInput" class="answer-input" placeholder="Type your answer..." autocomplete="off" />
+
+      <div class="meta">
+        <div class="score">Score: <span id="score">0</span></div>
+        <div id="message" class="message"></div>
+      </div>
+
+      <div id="scrambleArea" class="scramble-area"></div>
+      <div id="ruleDisplay" class="rule-display"></div>
+    </section>
+
+    <footer class="footer"></footer>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
