@@ -1,6 +1,10 @@
 // vocab_pair.js
 let timerId = null;
 
+export function clearPairingTimer() {
+    if (timerId) clearTimeout(timerId);
+}
+
 /**
  * Creates a set of 5 choices for the pairing game.
  * One is the correct answer, and the others are random incorrect answers.

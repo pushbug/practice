@@ -1,4 +1,5 @@
 // ui.js
+import { clearPairingTimer } from './modes/vocab_pair.js';
 
 export const displayEl = document.getElementById('display');
 export const inputEl = document.getElementById('answerInput');
@@ -42,6 +43,7 @@ export function showHint(target, onHintUsed) {
 
 export function clearScramble() {
     scrambleArea.innerHTML = '';
+    clearPairingTimer(); // Stop any active pairing game timer
     const built = document.getElementById('builtSentence');
     if (built) built.remove();
 }
