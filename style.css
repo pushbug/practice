@@ -240,3 +240,48 @@ body{
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
+
+/* History Area */
+.history-container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 24px;
+    height: 240px; /* Set a fixed height */
+    position: relative;
+}
+
+.history-container::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 24px;
+    right: 24px;
+    height: 50px;
+    background: linear-gradient(to top, var(--bg), transparent);
+    pointer-events: none;
+    z-index: 2;
+}
+
+.history-list {
+    height: 100%;
+    overflow-y: auto; /* Enable vertical scrolling */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: var(--muted);
+    font-size: 14px;
+}
+
+.history-list li {
+    padding: 4px 8px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.history-score.score-correct { color: var(--accent); }
+.history-score.score-incorrect { color: var(--danger); }
+.history-correct, .history-user { max-width: 300px; overflow: hidden; text-overflow: ellipsis; }
+.history-user del { color: var(--danger); text-decoration: line-through; }
+.history-user span { margin-right: 0.25em; } /* Add space between words */

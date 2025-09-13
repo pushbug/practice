@@ -9,6 +9,7 @@ import {
     typingFeedback, scrambleArea, ruleDisplay, showSourceAsChars, 
     showHint, clearScramble, showSummary, showCorrectAnswerAnimation, showExplosionAnimation, showResetButton
 } from './ui.js';
+import { addHistoryEntry, clearHistory } from './history.js';
 
 let vocabulary = [];
 let sentences = [];
@@ -75,6 +76,7 @@ function setMode(modeId) {
     score = 0;
     scoreEl.textContent = score;
     questionCounterEl.textContent = '';
+    clearHistory();
     next();
 }
 
@@ -170,7 +172,9 @@ function next() {
 function checkAnswer() {
     if (!current) { return; }
     
-    const answer = (activeMode.id === 'sent_scramble') ? '' : inputEl.value.trim();
+    const answer = (activeMode.id === 'sent_scramble') 
+        ? Array.from(displayEl.querySelectorAll('.card')).map(card => card.textContent).join(' ')
+        : inputEl.value.trim();
 
     if (activeMode.id !== 'sent_scramble' && answer === '') {
         messageEl.textContent = 'Type an answer, or "." to skip.';
@@ -188,6 +192,8 @@ function checkAnswer() {
 
     const { isCorrect, correctAnswer } = result;
     const isLastQuestion = currentQuestionIndex >= questionCount;
+    
+    addHistoryEntry(currentQuestionIndex, correctAnswer, answer, isCorrect, hintUsed);
 
     if (isCorrect) {
         if (!hintUsed) {
