@@ -4,11 +4,11 @@ export default {
     next: (vocabulary, helpers, askedIndices) => {
         const { item, index } = helpers.getRandomItem(vocabulary, askedIndices);
         if (!item) return { current: null, index: -1 };
-        const thai = item.thai[helpers.rand(item.thai.length)];
-        helpers.displayEl.textContent = thai;
+        const allThaiTranslations = item.thai.join(', ');
+        helpers.displayEl.textContent = allThaiTranslations;
         helpers.speak(item.english);
         helpers.showHint(item.english);
-        return { current: { type: 'vocab_translate', source: item.english, displayed: thai }, index };
+        return { current: { type: 'vocab_translate', source: item.english, displayed: allThaiTranslations }, index };
     },
     checkAnswer: (answer, current, helpers) => {
         return {
