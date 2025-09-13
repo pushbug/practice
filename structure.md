@@ -10,8 +10,9 @@ English/
 ├── modes/
 │   ├── sent_e2t.js
 │   ├── sent_scramble.js
-│   └── sent_t2e.js
-│   ├── vocab_fill.js      
+│   ├── sent_t2e.js
+│   ├── vocab_fill.js     
+│   ├── vocab_pair.js
 │   └── vocab_translate.js  
 ├── app.js
 ├── helpers.js
@@ -81,6 +82,13 @@ English/
 
 #### *ทำอะไร:*
 *   (คาดการณ์) จะแสดงประโยคที่มีช่องว่าง แล้วให้ผู้ใช้พิมพ์คำศัพท์ที่ถูกต้องเพื่อเติมลงในช่องว่างนั้น
+
+### `modes/vocab_pair.js`
+#### *คืออะไร:*
+*   
+
+#### *ทำอะไร:*
+*   
 
 ### `modes/vocab_translate.js`
 #### *คืออะไร:*

@@ -3,6 +3,7 @@ import vocabTranslateMode from './modes/vocab_translate.js';
 import sentE2TMode from './modes/sent_e2t.js';
 import sentT2EMode from './modes/sent_t2e.js';
 import sentScrambleMode from './modes/sent_scramble.js';
+import vocabPairMode from './modes/vocab_pair.js';
 import { rand, normalize, getRandomItem, speak } from './helpers.js';
 import { 
     displayEl, inputEl, soundToggleBtn, modeSelect, questionCountSelect, scoreEl, messageEl, modeTitleEl, questionCounterEl, 
@@ -21,10 +22,12 @@ let hintUsed = false;
 let questionCount = 10;
 let currentQuestionIndex = 0;
 let askedIndices = [];
+let isGameEnded = false;
 
 const modes = {
     'vocab_fill': vocabFillMode,
     'vocab_translate': vocabTranslateMode,
+    'vocab_pair': vocabPairMode,
     'sent_e2t': sentE2TMode,
     'sent_t2e': sentT2EMode,
     'sent_scramble': sentScrambleMode
@@ -76,6 +79,7 @@ function setMode(modeId) {
     score = 0;
     scoreEl.textContent = score;
     questionCounterEl.textContent = '';
+    isGameEnded = false;
     clearHistory();
     next();
 }
@@ -83,22 +87,38 @@ function setMode(modeId) {
 function endGame() {
     // Delay showing the summary to let the last answer animation finish
     setTimeout(() => {
+        if (isGameEnded) return; // Prevent multiple executions
+        isGameEnded = true;
         showSummary(score, questionCount);
         showResetButton(resetQuiz);
     }, 1000); // 1 second delay
 }
 
 function resetQuiz() {
+    isGameEnded = false;
     currentQuestionIndex = 0;
     askedIndices = [];
     score = 0;
     scoreEl.textContent = score;
+    clearHistory();
     next();
 }
 
 document.addEventListener('scrambleComplete', () => {
     if (activeMode && activeMode.id === 'sent_scramble') {
         checkAnswer();
+    }
+});
+
+document.addEventListener('pairComplete', (e) => {
+    if (isGameEnded) return; // Don't process clicks after game has ended
+    const { answer, question } = e.detail;
+    if (activeMode && activeMode.id === 'vocab_pair' && displayEl) {
+        // Update display to show "Question = Answer"
+        const answerText = answer || '""'; // Show empty quotes if timeout
+        displayEl.innerHTML = `<div class="vocab-pair-question">${question}</div> <span class="vocab-pair-separator">=</span> <span class="vocab-pair-question">${answerText}</span>`;
+        // If the answer is from a click, wait a bit. If it's a timeout, check immediately.
+        setTimeout(() => checkAnswer(answer), answer ? 200 : 0);
     }
 });
 
@@ -130,6 +150,7 @@ document.addEventListener('keydown', (e) => {
 })();
 
 function next() {
+    if (isGameEnded) return;
     if (currentQuestionIndex >= questionCount) {
         endGame();
         return;
@@ -159,7 +180,7 @@ function next() {
         askedIndices.push(result.index);
         currentQuestionIndex++;
 
-        if (activeMode.id === 'sent_scramble') {
+        if (activeMode.id === 'sent_scramble' || activeMode.id === 'vocab_pair') {
             inputEl.style.display = 'none';
             scrambleArea.style.display = 'flex';
         } else {
@@ -169,14 +190,18 @@ function next() {
     }
 }
 
-function checkAnswer() {
+function checkAnswer(forcedAnswer = null) {
+    if (isGameEnded) return;
     if (!current) { return; }
     
-    const answer = (activeMode.id === 'sent_scramble') 
-        ? Array.from(displayEl.querySelectorAll('.card')).map(card => card.textContent).join(' ')
+    const answer = forcedAnswer !== null ? forcedAnswer :
+        (activeMode.id === 'sent_scramble') 
+        ? Array.from(displayEl.querySelectorAll('.card')).map(card => card.textContent).join(' ') 
+        : (activeMode.id === 'vocab_pair' && forcedAnswer === null)
+        ? '' // This case is handled by forcedAnswer
         : inputEl.value.trim();
 
-    if (activeMode.id !== 'sent_scramble' && answer === '') {
+    if (activeMode.id !== 'sent_scramble' && activeMode.id !== 'vocab_pair' && answer === '') {
         messageEl.textContent = 'Type an answer, or "." to skip.';
         return;
     }
@@ -213,6 +238,6 @@ function checkAnswer() {
         inputEl.disabled = true;
         endGame();
     } else {
-        setTimeout(next, isCorrect ? 500 : 500);
+        setTimeout(next, isCorrect ? 1000 : 1000); // Give a bit more time to see the result
     }
 }

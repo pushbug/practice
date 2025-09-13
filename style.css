@@ -29,7 +29,7 @@ body{
 .score{color:var(--accent);font-weight:700}
 .message{color:var(--muted)}
 .scramble-area{margin-top:14px;display:flex;flex-wrap:wrap;gap:10px; min-height: 50px; padding: 10px;}
-.card{font-size:18px; padding:8px 12px;border-radius:8px;background:rgb(91, 179, 104);cursor:pointer;border:0px ; transition: transform 0.2s ease, opacity 0.2s ease;}
+.card{font-size:18px; padding:8px 12px;border-radius:8px;background:rgb(91, 179, 104);color:var(--panel);cursor:pointer;border:0px ; transition: transform 0.2s ease, opacity 0.2s ease;}
 .display .card { background:rgb(85, 222, 106); border-style: solid;}
 .card.moving { transform: scale(0.9); opacity: 0; }
 .char.correct{color:#7fffd4}
@@ -285,3 +285,13 @@ body{
 .history-correct, .history-user { max-width: 300px; overflow: hidden; text-overflow: ellipsis; }
 .history-user del { color: var(--danger); text-decoration: line-through; }
 .history-user span { margin-right: 0.25em; } /* Add space between words */
+
+/* Vocab Pair Mode */
+.vocab-pair-question {
+    font-weight: bold;
+}
+.display .vocab-pair-separator {
+    align-self: center;
+    font-weight: bold;
+    color: var(--muted);
+}
